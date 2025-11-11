@@ -1,0 +1,24 @@
+{{ define "main" }}
+<main>
+  <h1>Search Slang</h1>
+  <input id="search" placeholder="Type to search..." style="width:100%;padding:10px;margin:1rem 0;border-radius:6px;">
+  <ul id="results"></ul>
+</main>
+
+<script>
+async function run() {
+  const data = await fetch("/index.json").then(r => r.json());
+  const input = document.getElementById("search");
+  const results = document.getElementById("results");
+  input.addEventListener("input", () => {
+    const q = input.value.toLowerCase();
+    results.innerHTML = data
+      .filter(i => i.title.toLowerCase().includes(q))
+      .slice(0, 30)
+      .map(i => `<li><a href="${i.permalink}">${i.title}</a></li>`)
+      .join("");
+  });
+}
+run();
+</script>
+{{ end }}
