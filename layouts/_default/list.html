@@ -1,0 +1,20 @@
+{{ define "main" }}
+<main>
+  <h1 style="margin-bottom: 1rem;">Slangpedia — Modern Slang Dictionary</h1>
+
+  <form action="/slang/" method="get" style="margin-bottom: 2rem;">
+    <input type="text" name="q" placeholder="Search slang..." 
+    style="width:100%;padding:10px;border:1px solid #ccc;border-radius:6px;">
+  </form>
+
+  <h2>🔥 Trending Slang</h2>
+  <ul>
+    {{ range first 20 (where .Site.RegularPages "Section" "slang") }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+
+  <h2>📚 Browse All Slang</h2>
+  <p><a href="/slang/">View full alphabetical list →</a></p>
+</main>
+{{ end }}
