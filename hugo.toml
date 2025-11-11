@@ -2,4 +2,9 @@ baseURL = "https://slangpedia.pages.dev/"
 languageCode = "en-us"
 title = "Slangpedia"
 theme = "PaperMod"
+[sitemap]
+  changefreq = "daily"
+  priority = 0.7
+  filename = "sitemap.xml"
+
 
