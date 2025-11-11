@@ -1,4 +1,5 @@
-baseURL = baseURL = "https://slangpedia.pages.dev/"
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "PaperMod" 
+baseURL = "https://slangpedia.pages.dev/"
+languageCode = "en-us"
+title = "Slangpedia"
+theme = "PaperMod"
+
