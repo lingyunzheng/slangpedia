@@ -5,47 +5,20 @@ from slugify import slugify
 
 API_KEY = os.getenv("SILICONFLOW_API_KEY")
 
-def get_trending_slang():
-    return [
-        "cap", "snatched", "ate", "rizz", "based",
-        "no cap", "mid", "simp", "sus", "touch grass",
-        "vibe check", "lowkey", "highkey", "bet", "gyatt",
-        "delulu", "bruh", "yeet", "ratio", "skibidi"
+def get_slang_list():
+    # 多渠道词库 (TikTok + Reddit + Twitter 热词)
+    words = [
+        "cap","rizz","gyatt","mid","sus","based","goat","sigma","fanum tax",
+        "caught in 4k","touch grass","npc","delulu","skibidi","no cap","bruh",
+        "brokie","dogwater","fire","slaps","pressed","lowkey","highkey","real","bet"
     ]
+    return list(set(words))  # 去重
 
-def generate_post(word):
+def generate_batch(words):
     url = "https://api.siliconflow.cn/v1/chat/completions"
-    payload = {
-        "model": "Qwen/Qwen2.5-7B-Instruct",
-        "messages": [
-            {"role": "user", "content": f"""
-Explain the slang: {word}.
-Output bilingual structured content in markdown:
-
-# What does "{word}" mean?（{word} 是什么意思？）
-
-**English Meaning:**  
-(short explanation)
-
-**中文解释：**  
-(中文简短解释)
-
-### Examples / 例句
-1) English sentence  
-   中文翻译
-2) English sentence  
-   中文翻译
-
-### Origin / 来源背景
-(short origin)
-
-### Synonyms / 相似表达
-(list 3-5)
-            """}
-        ]
-    }
-    headers = {"Authorization": f"Bearer {API_KEY}"}
-    r = requests.post(url, json=payload, headers=headers).json()
+    prompt = "Generate bilingual slang explanations in markdown for:\n" + "\n".join(words)
+    payload = {"model": "Qwen/Qwen2.5-7B-Instruct","messages":[{"role":"user","content":prompt}]}
+    r = requests.post(url, json=payload, headers={"Authorization": f"Bearer {API_KEY}"}).json()
     return r["choices"][0]["message"]["content"]
 
 def save_post(word, content):
@@ -55,18 +28,24 @@ def save_post(word, content):
 title: "What Does '{word}' Mean? ({word} 是什么意思？)"
 slug: "{slug}"
 date: {date}
-tags:
-  - slang
-  - internet
-  - tiktok
+tags: [slang, internet, tiktok]
 ---
 
 {content}
+
+**See also:**
+- /slang/
 """
     os.makedirs("content/slang", exist_ok=True)
     with open(f"content/slang/{slug}.md", "w", encoding="utf-8") as f:
         f.write(md)
 
 if __name__ == "__main__":
-    for w in get_trending_slang():
-        save_post(w, generate_post(w))
+    words = get_slang_list()
+    text = generate_batch(words)  # 🔥 一次生成全部内容
+    blocks = text.split("# What does")
+    for block in blocks:
+        block = block.strip()
+        if not block: continue
+        first_word = block.split('"')[1] if '"' in block else block.split()[0]
+        save_post(first_word, "# What does " + block)
