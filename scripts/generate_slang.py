@@ -6,10 +6,23 @@ from openai import OpenAI
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-def get_trending_slang():
-    url = "https://api.urbandictionary.com/v0/trending"
-    data = requests.get(url).json()
-    return [item["word"] for item in data["list"]][:30]
+    def get_trending_slang():
+    try:
+        data = requests.get("https://api.urbandictionary.com/v0/trending").json()
+        if "list" in data and len(data["list"]) > 0:
+            return [item["word"] for item in data["list"]][:30]
+    except:
+        pass
+
+    # 备用：使用一个可控的稳定词库
+    fallback = [
+        "cap", "snatched", "ate", "rizz", "based",
+        "no cap", "mid", "simp", "sus", "touch grass",
+        "vibe check", "lowkey", "highkey", "bet", "gyatt",
+        "delulu", "bruh", "yeet", "ratio", "skibidi"
+    ]
+    return fallback
+
 
 def generate_post(word):
     prompt = f"""
