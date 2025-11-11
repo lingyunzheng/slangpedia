@@ -62,5 +62,26 @@ def save_post(word, content):
     date = datetime.utcnow().strftime("%Y-%m-%d")
 
     path = f"content/slang/{slug}.md"
-    os.makedirs("content/slang", exist_ok=_
+    os.makedirs("content/slang", exist_ok=True)
 
+    md = f"""---
+title: "What Does '{word}' Mean? ({word} 是什么意思？)"
+slug: "{slug}"
+date: {date}
+tags:
+  - slang
+  - tiktok
+  - internet
+---
+
+{content}
+"""
+
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(md)
+
+if __name__ == "__main__":
+    words = get_trending_slang()
+    for w in words:
+        text = generate_post(w)
+        save_post(w, text)
