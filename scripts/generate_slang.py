@@ -6,22 +6,10 @@ from slugify import slugify
 API_KEY = os.getenv("SILICONFLOW_API_KEY")
 
 def get_slang_list():
-    words = [
-        "rizz","gyatt","mid","based","cap","no cap","skibidi","sigma","W rizz",
-        "L rizz","delulu","ong","frfr","bruh","bet","bussin","ratio","yeet",
-        "sheesh","simp","stan","sus","cringe","vibe check","cooked","touch grass",
-        "NPC","ick","ate","brokie","fanum tax","demon time","slaps","pop off",
-        "hold this L","real","goofy","valid","peak","troll","lowkey","highkey",
-        "cope","seethe","goated","salty","ghosted","main character energy","deadass",
-        "lit","finna","W take","L take","slay","bozo","loml","fumbled the bag",
-        "built different","out of pocket","gatekeep","gaslight","spill the tea",
-        "ate and left no crumbs","dragging","drip","fit check","girlboss","mother is mothering",
-        "slayed","grindset","sigma grindset","soft life","situationship","glowed up",
-        "glizzy","dogwater","swole","shook","gigachad","chad","rizz god","copium",
-        "delusion arc","lore","get real","goofy ahh","he's him","maxxing","looksmaxxing",
-        "gymcel","npc moment","side questing","locked in","no thoughts head empty"
-    ]
-    return list(set(words))  # 自动去重
+    with open("data/slang_words.txt", "r", encoding="utf-8") as f:
+        words = [w.strip() for w in f.readlines() if w.strip()]
+    return list(set(words))
+
 
 
 def generate_batch(words):
