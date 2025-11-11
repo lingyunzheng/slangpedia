@@ -8,6 +8,8 @@ theme = "PaperMod"
   filename = "sitemap.xml"
 [outputs]
 home = ["HTML"]
+enableInlineShortcodes = true
+
 
 
 
