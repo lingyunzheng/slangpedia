@@ -6,13 +6,23 @@ from slugify import slugify
 API_KEY = os.getenv("SILICONFLOW_API_KEY")
 
 def get_slang_list():
-    # 多渠道词库 (TikTok + Reddit + Twitter 热词)
     words = [
-        "cap","rizz","gyatt","mid","sus","based","goat","sigma","fanum tax",
-        "caught in 4k","touch grass","npc","delulu","skibidi","no cap","bruh",
-        "brokie","dogwater","fire","slaps","pressed","lowkey","highkey","real","bet"
+        "rizz","gyatt","mid","based","cap","no cap","skibidi","sigma","W rizz",
+        "L rizz","delulu","ong","frfr","bruh","bet","bussin","ratio","yeet",
+        "sheesh","simp","stan","sus","cringe","vibe check","cooked","touch grass",
+        "NPC","ick","ate","brokie","fanum tax","demon time","slaps","pop off",
+        "hold this L","real","goofy","valid","peak","troll","lowkey","highkey",
+        "cope","seethe","goated","salty","ghosted","main character energy","deadass",
+        "lit","finna","W take","L take","slay","bozo","loml","fumbled the bag",
+        "built different","out of pocket","gatekeep","gaslight","spill the tea",
+        "ate and left no crumbs","dragging","drip","fit check","girlboss","mother is mothering",
+        "slayed","grindset","sigma grindset","soft life","situationship","glowed up",
+        "glizzy","dogwater","swole","shook","gigachad","chad","rizz god","copium",
+        "delusion arc","lore","get real","goofy ahh","he's him","maxxing","looksmaxxing",
+        "gymcel","npc moment","side questing","locked in","no thoughts head empty"
     ]
-    return list(set(words))  # 去重
+    return list(set(words))  # 自动去重
+
 
 def generate_batch(words):
     url = "https://api.siliconflow.cn/v1/chat/completions"
