@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://slangpedia.pages.dev/sitemap.xml
