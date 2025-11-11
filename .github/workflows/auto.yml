@@ -1,0 +1,35 @@
+name: Auto Update Slang
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # 每天 UTC 3点执行（等于北京时间 11:00）
+  workflow_dispatch:       # 允许手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install requests python-slugify openai
+
+      - name: Run script
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/generate_slang.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "auto-bot"
+          git config --global user.email "bot@example.com"
+          git add .
+          git commit -m "auto update slang" || echo "No changes"
+          git push
