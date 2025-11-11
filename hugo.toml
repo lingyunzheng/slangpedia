@@ -6,5 +6,8 @@ theme = "PaperMod"
   changefreq = "daily"
   priority = 0.7
   filename = "sitemap.xml"
+[outputs]
+home = ["HTML"]
+
 
 
