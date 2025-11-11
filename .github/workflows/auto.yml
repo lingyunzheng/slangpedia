@@ -28,8 +28,8 @@ jobs:
 
       - name: Run script
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python scripts/generate_slang.py
+              SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
+              run: python scripts/generate_slang.py
 
       - name: Commit and push changes
         run: |
