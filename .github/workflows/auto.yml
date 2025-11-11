@@ -21,7 +21,10 @@ jobs:
 
       - name: Install dependencies
         run: |
+          pip install --upgrade pip
           pip install requests python-slugify openai
+          
+          
 
       - name: Run script
         env:
