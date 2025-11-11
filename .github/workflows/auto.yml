@@ -3,16 +3,17 @@ name: Auto Update Slang
 on:
   schedule:
     - cron: "0 3 * * *"   # 每天 UTC 3点执行（等于北京时间 11:00）
-  workflow_dispatch:       # 允许手动触发
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-           fetch-depth: 0
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -22,14 +23,12 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install requests python-slugify openai
-          
-          
+          pip install --upgrade requests python-slugify
 
       - name: Run script
         env:
-              SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
-              run: python scripts/generate_slang.py
+          SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
+        run: python scripts/generate_slang.py
 
       - name: Commit and push changes
         run: |
@@ -38,3 +37,4 @@ jobs:
           git add .
           git commit -m "auto update slang" || echo "No changes"
           git push
+
