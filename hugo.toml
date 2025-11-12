@@ -9,9 +9,7 @@ theme = "PaperMod"
 [outputs]
 home = ["HTML"]
 enableInlineShortcodes = true
-[markup]
-  [markup.goldmark.renderer]
-    unsafe = true
+
 
 
 
