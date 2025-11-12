@@ -8,10 +8,11 @@ tags:
 - tiktok
 ---
 ```markdown
-## Girlboss (English/ girlboss (女boss) 中文)
-**English: Girlboss**
-- **Explanation:** The term "girlboss" refers to a confident, ambitious, and successful woman who runs a business or excels in her career, often with a fearless and self-reliant attitude. It's a term used to praise and celebrate successful female entrepreneurs or high-achieving women in the workplace.
-**中文: 女boss (女boss)**
-- **解释:** “女boss”指的是自信、有抱负并且在事业上成功，尤其是在商业领域表现出色或者在职场上表现出独立和不畏挑战态度的女性。这个词常用来赞美和庆祝成功的女性企业家或者在职业上有突出成就的女性。
+# "Girlboss"
+## English
+- **Definition**: A term used to describe a confident, successful, and empowered woman who runs a business or excels in her career, often defying traditional gender roles.
+- **Slang Explanation**: It's like saying this gal is the boss and she's doing it on her own terms. She’s not just any ol' worker – she's the leader of her own ship, navigating through challenges with flair and finesse.
+## 中文
+- **定义**：指一位具有自信、成功且充满动力的女性企业家或职场女性，她往往不遵循传统的性别角色。
+- **俚语解释**：你可以这么说，这女孩简直就是女强人，她用自己的方式做自己做主的事。她不仅仅是普通的员工——她是自己人生的舵手，凭借自己的魅力和技巧驾驭着人生的风浪。
 ```
-This markdown format provides clear and concise bilingual explanations for the term "girlboss."

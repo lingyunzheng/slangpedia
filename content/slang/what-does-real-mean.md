@@ -8,14 +8,15 @@ tags:
 - tiktok
 ---
 ```markdown
-# Real
-**English:** Something that is true, genuine, or not fake.
-*Example:* "That's real problems, not just a too-general excuse."
-**Spanish:** Algo que es verdadero, genuino, o no es falso.
-*Example:* "Eso son problemas reales, y no solo una excusa general."
----
-**English:** An expression indicating something that is meaningful or significant.
-*Example:* "This is real love, not just infatuation."
-**Spanish:** Un término que indica algo que es significativo o importante.
-*Example:* "Esto es amor de verdad, no solo una atracción pasajera."
+# Real (正式/非正式)
+**中文解释:**
+1. 正式的 "真实" 或 "诚实"。
+2. 非正式的 "酷" 或 "棒"。
+**英文解释:**
+1. Formal: "Reality" or "Truth."
+2. Informal: "Cool" or "Awesome."
+**示例:**
+- 正式用法：这句话真的很real，表达了对某事真实性的肯定。
+- 非正式用法：你穿上这件衣服真的real有型，说明很酷很好看。
 ```
+This markdown format provides a clear and detailed explanation of the term "real" in both formal and informal contexts, along with corresponding examples for better understanding.

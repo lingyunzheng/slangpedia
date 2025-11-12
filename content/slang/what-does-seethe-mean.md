@@ -8,13 +8,24 @@ tags:
 - tiktok
 ---
 ```markdown
-## 英文释义 & 中文俗称
-### Seethe
-- **英文释义:** To be filled with suppressed anger or frustration.
-- **中文俗称:** 嚼舌 (jué shé) 或者 煮豆燃萁 (zhǔ dòu rán qí)
-**Explanation:**
-- **Seethe** typically describes a situation where someone is feeling intense and often suppressed anger or frustration, as if the anger is boiling or bubbling up inside them. This feeling is usually kept internal rather than expressed outwardly, similar to the image of barely suppressing boiling water.
-- **中文俗称 "嚼舌"** (pronounced: jué shé) literally means "chewing tongue." It's a metaphor used to describe someone who is practically gnawing on their own tongue due to intense, repressed emotions, often anger or frustration. 
-- **中文俗称 "煮豆燃萁" (zhǔ dòu rán qí)** is a more literal and vivid metaphor, derived from a historical Chinese anecdote. It suggests the destruction of one part of the family or group by another part, which metaphorically explains the intense, suppressed anger and frustration as if burning one’s own crops (bean stalks) to make fire (burning萁, qí, the stalks). This phrase vividly conveys the magnitude and destructive nature of the suppressed anger.
+## English: Seethe
+### Explanation
+To seethe means to be extremely angry or irritated, often to the point where you feel like you might erupt or explode. It suggests a simmering or boiling anger that hasn't quite erupted yet.
+**Bilingual Slang Explanation:**
+- **英语释义:** 
+- **中文释义:** 
+义愤填膺，怒不可遏。形容愤怒到了极点，就像是压不住的怒火满满地在心中燃烧，好像随时都可能爆发一样。
+- **用例示范:**
+- **Example in English:** She was starting to seethe when she realized she was locked out of her house.
+- **Example in Chinese:** 当她意识到自己被锁在外面时，她已经快气炸了。
+## English: Seethe
+### Explanation
+To seethe means to be extremely angry or irritated, often to the point where you feel like you might erupt or explode. It suggests a simmering or boiling anger that hasn't quite erupted yet.
+**Bilingual Slang Explanation:**
+- **英语释义:** 愤怒到极点，像是一锅沸水在内心翻腾，随时可能爆发。
+- **中文释义:** 
+义愤填膺，怒不可遏。形容愤怒到了极点，就像是压不住的怒火满满地在心中燃烧，好像随时都可能爆发一样。
+- **用例示范:**
+- **Example in English:** The teacher seethed when she found out that the students didn't do their homework.
+- **Example in Chinese:** 老师发现学生们没做作业时气得都要爆炸了。
 ```
-This has provided a clear bilingual explanation of the idiom "seethe!"

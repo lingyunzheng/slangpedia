@@ -8,10 +8,11 @@ tags:
 - tiktok
 ---
 ```markdown
-## Brokie (Slang)
-**English:**
-A term used to describe someone who is overly familiar and possibly inauthentic, often trying too hard to appear cool or trendy. It's a combination of "bro" and "fake," suggesting that this person is not genuine.
-**中文:**
-一个用来形容人显得过于亲近又可能不真诚的词汇，通常用于形容那些试图显得很酷或时尚但实际上可能并不如此的人。这个词汇结合了"bro"（兄弟）和"fake"（假的）两个词，表明这个人不够真实。
+# Brokie
+## English
+**Definition:** A term often used to describe someone who heavily invests time and resources into embodying and projecting a very specific and often exaggerated version of a cool, hip, or fashionable lifestyle. This person might excessively buy trendy clothes, accessories, and gadgets, and frequently uses slang or internet jargon to express themselves.
+**Example:** "John is such a brokie; he bought the latest sneaker drop just to fit in with the crew, even though he hardly wears them."
+## 中文
+**定义：** 用来形容那些投入大量时间和资源来展示一种非常特定且经常夸大其词的酷、时尚或前卫生活风格的人。这类人可能会过度购买时尚潮流的鞋帽、配饰和电子产品，并频繁使用俚语或网络术语来表达自己。
+**例句：** "约翰真是个俗气的家伙，只是想跟上潮流，才买最新的跑鞋，但其实他很少穿它们。"
 ```
-This markdown format provides a clear and concise bilingual explanation of the slang term "brokie."

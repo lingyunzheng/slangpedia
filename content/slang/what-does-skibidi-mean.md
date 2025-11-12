@@ -9,8 +9,8 @@ tags:
 ---
 ```markdown
 # Skibidi
-**English:** 
-"Skibidi" is an internet meme and dance that became popular in the mid-2010s, originally from a Children's song. The term often refers to a group dance move or the act of joining in on a dance, usually with multiple people. In slang usage, someone might say "Jump skibidi" to encourage others to participate in a dance.
-**中文:**
-"Skibidi" 是一个风靡于2010年代中期的网络 meme 和舞蹈，源自一首儿童歌曲。这个词通常指的是一个舞蹈动作，或者是参与一个舞蹈的行为，通常涉及多人。在俚语中，人们可能会说“Jump skibidi”来鼓励他人参与舞蹈。
+**English:**  
+"Skibidi" is a slur that originated in the UK and Ireland, particularly among younger generations. It is often used as a derogatory term to insult or mock people, usually men, who are judged to be overly feminine or effeminate. The term itself sounds funny and is often followed by a giggle or mocking laugh.
+**Chinese:**  
+"Skibidi" 是起源于英国和爱尔兰的俚语，尤其是在年轻人中更为常见。它通常用来侮辱或嘲讽被认为过于女性化或装扮成女人的男人，这个词听起来很滑稽，通常后面会跟上一阵冷笑或嘲讽的笑声。
 ```

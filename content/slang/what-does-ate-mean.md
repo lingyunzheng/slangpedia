@@ -8,13 +8,13 @@ tags:
 - tiktok
 ---
 ```markdown
-# "Ate" in Bilingual Slang
+# "Ate" Slang Explanation
 ## English
-**Ate** (adj.): From the verb "eat," it's often used as a slang term to describe someone who eats a lot, especially consuming large amounts of snacks or fast food.
-### Example:
-- "I overate at the buffet last night, ate like a horse!"
+**Ate:** An informal term, often used as a pronoun to refer to oneself, similar to "I." It's commonly used in casual or text-based communication.
+### Example
+- "Ate needs to finish this project by today."
 ## Chinese
-**吃货 (Chīhuò)**: 来源于“吃”（吃）和“货”（huò）。指很喜欢吃东西、尤其是零食或者快餐的人。常用来形容吃得很多或者特别喜欢美食的人。
-### 例子：
-- "昨晚在自助餐厅大吃大喝，以至于吃货本货。"
+**吃（y本身就是个代词，主要用于第一人称，相当于“我”。这种用法在非正式和短信/社交媒体交流中很常见。
+### 例子
+- “吃（y）今天必须完成这个项目。”
 ```

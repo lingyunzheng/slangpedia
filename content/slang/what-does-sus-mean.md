@@ -8,14 +8,13 @@ tags:
 - tiktok
 ---
 ```markdown
-## sus (英式英语)
-### English
-形容词，表示某人或某事可疑或不真诚。可以用于描述行为、人或情况。
-**Example:**
-- That guy is sus, I don't trust him. (那个家伙很可疑，我不相信他。)
-## 疑猜（中式英语）
-### Chinese
-形容词，表示某人或某事可疑或不真诚。可以用来描述行为、人或情况。
-**例句:**
-- 那个人看起来很疑猜，我不信任他。 (That person looks very sus, I don't trust him.)
+# Slang Term: "sus"
+## English
+**Meaning:** Suspect or suspicious.
+**Explanation:** This term is derived from the word "suspicious." It's commonly used to express doubt or suspicion about the integrity or truthfulness of someone or something. It's often used in online communities or gaming contexts to flag behavior that seems untrustworthy.
+**Example:** "I’m getting sus vibes from him. I think he’s hiding something."
+## 简体中文
+**含义:** 可疑的、不信任的。
+**解释:** 这个词来源于 "suspicious"，指的是一种怀疑或怀疑某人的诚信或真实性的情绪。它经常被在线社区或游戏中用来标记行为看起来不诚实的情况。
+**例句:** "我感觉他很 sus。我觉得他在隐瞒一些事情。"
 ```

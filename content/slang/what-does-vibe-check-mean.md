@@ -8,8 +8,10 @@ tags:
 - tiktok
 ---
 ```markdown
-## Vibe Check (中文： vibe check)
-**English:** A quick way to gauge the mood or feeling in a group or situation. It's often used to see if everyone is on the same page or if there's something that needs to be addressed.
-**中文:** 一种快速了解小组或情况中的氛围或感觉的方法。通常用于确认每个人是否都同意或是否有需要解决的问题。
+## Vibe Check (英语: Vibe Check)
+**中文解释:** 节奏感检查 / 氛围感检测
+**英文解释:** A verbal or non-verbal gesture or practice that is often used to gauge the current energy or mood of a group or environment. It's basically asking "How are we feeling right now?" or "Is everyone on the same page?"
+**使用场景示例:**
+- 在一次朋友聚会前，一人说 "Hey, vibe check!" 放慢语调，想知道当前气氛是否适合继续聊天或需要改变话题。
+- 在一个音乐会上，一首歌的末尾，某个朋友可能会发个信息说 "vibe check," 想知道这次表演的感觉如何。
 ```
-This markdown format provides a simple way to compare and define the slang term "vibe check" in both English and Chinese, with a brief explanation of its usage.

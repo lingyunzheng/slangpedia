@@ -8,9 +8,10 @@ tags:
 - tiktok
 ---
 ```markdown
-## Delulu (Chinese: 德勒露)
-### English Slang Explanation:
-**"Delulu"** is a playful and trendy term often used to refer to a person who is perceived as overly affectionate or flirtatious. The term can also be used in a teasing manner when someone is excessively sweet or bonding, possibly to the point of being considered annoying.
-### Chinese Slang Explanation:
-**"德勒露 (Dé lè lù)"** 是一种轻松且时髦的说法，用来形容一个人被认为过分亲昵或爱搭讪。这个词通常用于温和地戏谑那些表现得过于甜蜜或亲密的人，可能到被认为有点烦人的程度。
+## Delulu (English)
+**Meaning:** A term used to describe someone who is easily manipulated or controlled by others. It can also refer to a naive or gullible individual.
+**Example:** "He's such a delulu, always falling for the same old scams."
+## Delulu (Chinese)
+**中文释义：**用来形容那些容易被他人操纵或控制的人。也可以用来指那些天真或轻信的人。
+**例句：** "他就是个delulu，老是被同样的骗局骗到。"
 ```

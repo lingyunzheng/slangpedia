@@ -7,10 +7,11 @@ tags:
 - internet
 - tiktok
 ---
+Certainly! Here's the bilingual explanation in Markdown format:
 ```markdown
 # L rizz
-**English Explanation:**  
-L rizz is a popular internet slang term that originated on social media, particularly on platforms like TikTok. It refers to a confident or sarcastic attitude, often accompanied by a certain level of self-assuredness. The term "L" is used to denote a person who is being cheeky or sassy, and "rizz" comes from the Italian word "riga" which can mean "line" or "presence," hence conveying the idea of having a certain cool or stylish presence.
-**Spanish Explicación:**  
-El término "L rizz" es una expresión coloquial en internet queOriginó en plataformas sociales como TikTok. Se utiliza para describir una actitud confiada o sarcástica, a menudo acompañada de una cierta level de autosuficiencia. La letra "L" se usa para indicar a alguien que es rebuscado o soso, y "rizz" proviene de la palabra italiana "riga," que puede significar "línea" o "presencia," por lo que sugiere la idea de tener un cierto aire cool o sofisticado.
+## English
+"L rizz" is a colloquial term used to describe a type of confidence or attitude that is associated with the lifestyle or behavior of the LGBTQ+ community. It often encompasses an authentic, bold, and sometimes flamboyant personality style that is embraced by members of the LGBTQ+ community. This term can also be used to describe the style or flair someone has in their personal or social life.
+## 中文
+"L rizz" 是一个俚语术语，用来形容与LGBTQ+群体的生活方式或行为相关的自信或态度。它通常涉及一种真实、大胆且有时夸张的个性风格，被LGBTQ+群体成员所接纳。此外，这个词也可以用来形容某人在个人或社交生活中的风格或魅力。
 ```

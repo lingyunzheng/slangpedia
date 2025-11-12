@@ -8,13 +8,23 @@ tags:
 - tiktok
 ---
 ```markdown
-# Slang Explanation for "lore"
-## In English
-**Lore:** 
-Lore is a casual term used to describe traditional knowledge or stories passed down through generations. It's often associated with myths, legends, and cultural history. In gaming and fantasy contexts, it can refer to backstory or information that affects gameplay or the setting.
-*Example:* "The group's lore about the ancient ruins was crucial for unlocking the secret passage."
-## 在中文
-**lore:**
-lore 是一个非正式的词汇，用来指代通过几代人口口相传的传统知识或故事。这个词通常与神话、传说和文化历史相关。在游戏和幻想的语境中，它可以指背景故事或影响游戏玩法或背景的信息。
-*例句:*“关于古代遗迹的lore对于探险队伍来说至关重要，因为他们利用这些信息找到了隐藏的通道。”
+# Slang Explanation: Lore
+## English
+### Definition
+"Lore" typically refers to traditional knowledge that is passed down through generations or stories that are widely known within a specific community.
+### Slang Meaning and Usage
+In casual usage, "lore" can be used to describe trendy or well-known urban legends, myths, or ideas that circulate among a group of people. It's often used in a context where people share common knowledge or understanding.
+### Example
+- " **********************************************************************************"
+- "Have you heard the lore about the haunted house on Elm Street? Everyone says they saw a ghost there last Halloween."
+- "**********************************************************************************"
+## Chinese
+### 定义
+“lore”通常指代由代代相传的传统知识，或者一个特定社区中广为流传的故事。
+### 常用俚语含义与用法
+在日常用语中，“lore”有时被用来描述在某个群体中流传的流行传说、神话或理念。通常用于分享群体中的共同知识或理解。
+### 示例
+- "**********************************************************************************"
+- “你听说老街区的闹鬼房子吗？据说去年万圣节有人在那里看到了鬼魂。”
+- "**********************************************************************************"
 ```

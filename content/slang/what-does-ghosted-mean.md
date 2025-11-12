@@ -8,8 +8,16 @@ tags:
 - tiktok
 ---
 ```markdown
-### Ghosted (Chinese: 被拉黑了 / 被忽略了; Pīnìng: bèi lā hēi le / bèi l忽glióged le)
-- **English Explanation:** When someone suddenly stops communicating or interacting with you, often without any explanation. It's like they've disappeared, leaving you hanging.
-- **Chinese Explanation:** 当某个人突然停止与你沟通或互动，甚至不给你任何解释，就像是他们突然消失了，留你一个人在原地。这通常发生在感情或友谊中，就像是被**拉黑**或**忽略**了。
+# Ghosted
+## English
+**Definition:** To suddenly and without warning cease all forms of communication with someone, leaving them unsure, confused, or feeling rejected.
+**Example Sentences:**
+- "I thought we were going to be best friends, but he completely ghosted me the day I sent him that breakup text."
+- "Ghosting is becoming a common practice in dating culture, especially with the convenience of social media and messaging apps."
+## 中文
+**含义：** 指突然且没有事先打招呼就完全停止与某人的所有交流，让对方感到困惑、迷茫或被拒绝。
+**例句：**
+- “我还以为我们能成为最好的朋友，但他就在我在信息中表明分手的当天完全不理我了。”
+- “失联已经成为社交文化中的常见做法，尤其是在社交媒体和即时通讯软件普及的情况下。”
 ```
-In the Chinese section, "被拉黑了" (bèi lā hēi le) literally means "was blacklisted" and can refer to being blocked, while "被忽略了" (bèi l忽glióged le) means "was ignored." Both phrases are used to describe the same concept of being ghosted.
+This markdown format provides clear definitions and example sentences for both English and Chinese explanations of the term "ghosted."

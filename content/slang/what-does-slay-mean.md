@@ -8,14 +8,16 @@ tags:
 - tiktok
 ---
 ```markdown
-## Slay
-**English:**  
-Slay is a term commonly used to express that someone is exceptionally good at something or that they are performing an action in an impressive manner. It's often used to mean excelling or even surpassing expectations.
-**Chiness (潮汕话):**  
-“Slay”在潮汕话中可以理解为某人做某事特别厉害，或者是表现得特别出色。经常用来表示超越预期的表现或能力突出。
-**Example Usage:**
-- **English:** She totally slayed her presentation today!
-- **Chinese (潮汕话):** 她今天完全slay到她的演講！
-**Pronunciation Note:**  
-Slay is pronounced as "sley" (in RP) or "slay" (in American English). In潮汕话中，发音接近“slAH”。
+# Slay (英: Slay / 美: Slay)
+## English Slang
+**Slay** is a versatile slang term used to express that someone or something is doing an exceptional or impressive job. It can also be used to describe someone who is very attractive, stylish, or just generally impressive in their demeanor or actions.
+**Example:**
+- She absolutely slayed her presentation today!
+- He totally slays in that outfit—so stylish!
+## Chinese Slang
+“slay” 在中文中的意思通常是指某人或某事表现得非常好，十分出色。也可以用来形容某人非常有魅力、时尚或者在态度和行为上让人印象深刻。
+**例句:**
+- 她今天的表现真是 slay 了！
+- 他穿那样的衣服超级 slay 的，真时尚！
 ```
+This markdown structure provides clear definitions and example usages for both English and Chinese speakers.

@@ -8,11 +8,21 @@ tags:
 - tiktok
 ---
 ```markdown
-## Out of Pocket
-**English:** Out of pocket
-- **Definition:** This phrase is used to describe a situation where you have to pay for something yourself, often because insurance doesn’t cover it or because it’s a personal expense.
-- **Example:** "When my car broke down, the mechanic said it would cost $500, but all of it was out of pocket since my insurance doesn’t cover maintenance."
-**汉语解释:** 出口袋
-- **定义:** 这个短语用来描述你不得不自己付费的情况，通常是因为保险不覆盖这项费用，或者是因为它是一个个人开销。
-- **例句:** "当我汽车抛锚时，修车师傅说修理费用是500美元，不过我得自己出这笔钱，因为我的保险不包含维修费用。"
+### Out of Pocket 🏦💸
+**English:**  
+- Definition: When expenses need to be paid directly by an individual, rather than being covered by an insurance plan, company, or other third party.  
+- Example: "I had to pay out of pocket for the new glasses because my insurance didn't cover the extra features I wanted."
+**Chinese (Simplified):**  
+- 解释：指个人需要直接支付费用，而不是由保险计划、公司或其他第三方承担。  
+- 例句：因为保险没有涵盖我想要的额外功能，所以新眼镜的费用是我自己出的。
 ```
+```markdown
+### Out of Pocket 🏦💸
+**English:**  
+- Definition: When expenses need to be paid directly by an individual, rather than being covered by an insurance plan, company, or other third party.  
+- Example: "I had to pay out of pocket for the new glasses because my insurance didn't cover the extra features I wanted."
+**Chinese (Traditional):**  
+- 解釋：指個人需要直接支付費用，而不是由保險計畫、公司或其他第三方承擔。  
+- 例句：因為保險沒有涵蓋我想要的額外功能，所以新眼鏡的費用是我自己出的。
+```
+This double-entry system provides explanations in both English and Chinese, with corresponding examples to illustrate the slang term.

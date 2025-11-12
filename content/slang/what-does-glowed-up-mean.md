@@ -8,11 +8,13 @@ tags:
 - tiktok
 ---
 ```markdown
-# Glowed Up (English / 中文)
-## English
-**Glowed Up**: This phrase is commonly used to describe someone who has changed for the better, usually through a physical transformation but can also refer to a personality or lifestyle improvement. It suggests that someone has become more attractive, happy, or appealing.
-Example: "Since she started exercising and eating healthier, she totally glowed up!"
-## 中文
-** glowed up**：这个短语常用来描述某人通过改变变得更出色了，这种改变通常体现在外表上，但也可能指个性或生活方式的提升。它表明某人变得更吸引人、更快乐或更有魅力。
-例句：自从开始锻炼身体并改善饮食习惯，她彻底glowed up！
+## Glowed Up 🌟
+### English
+**Glowed Up**: This slang phrase is typically used to describe someone who has made a significant, positive change in their appearance or attitude. It implies that the person looks brighter, happier, or more attractive since they made some changes or improvements. 
+For example:
+- "Alice has really glowed up since she started exercising and taking care of her skin!"
+### Chinese
+**满脸光彩 / 面貌焕然一新 (Mian满脸 guāng彩 / miàn面目 huàn焕然一新 xīn新)**: 这个俚语用来形容某人在外貌或态度上有了显著的、积极的变化，意味着这个人看起来更加明亮、快乐或更有吸引力。自从做出了一些改变或改善后。
+例如：
+- "自从开始锻炼和护肤后，Alice 的面貌焕然一新！"
 ```

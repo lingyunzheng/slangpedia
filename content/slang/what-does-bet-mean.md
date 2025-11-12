@@ -10,7 +10,7 @@ tags:
 ```markdown
 ## bet
 ### English
-**Bet:** A wager or a risk, usually involving money, on the outcome of an event or situation. If you "take a bet" on something, you're agreeing to predict or gamble on the result. Example: "I bet it's going to rain tomorrow!"
-### 中文
-**bet:** 一种通常涉及金钱的赌注或押注，是对事件或情况结果的预测或赌博。如果你对某事“下了注”（take a bet），就是在预测或冒险赌这个结果。例句：“我打赌明天下雨！”
+*Bet* can mean placing a wager on the outcome of something, often used in casual or informal settings, especially in games or sporting events. It can also be used figuratively to describe taking a risk or making a confident prediction about something with uncertain results.
+### 汉语
+“*Bet*” 通常指的是对某些事情的结果下赌注，常用于非正式场合，特别是在比赛或体育赛事中的情况。它还可以用来比喻性地描述冒险或对不确定结果做出有把握的预测。
 ```

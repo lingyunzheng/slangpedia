@@ -8,9 +8,9 @@ tags:
 - tiktok
 ---
 ```markdown
-## Sigma Grindset
+### Sigma Grindset
 **English:**  
-A sigma grindset refers to a highly dedicated and focused approach to grinding or working hard, often to achieve specific goals or outcomes. This term is derived from the Greek letter σ which is often used in statistics to denote the smallest or optimized level of performance. In slang, sigma grindset emphasizes the commitment to efficient, precise, and usually solitary hard work.
-**中文:**  
-“Sigma Grindset” 是一种高度专注和勤奋的工作或努力方式，通常用于追求特定的目标或成果。这个术语源于希腊字母 σ，统计学中常用来表示最优或最小的性能级别。在俚语中，“sigma grindset” 强调高效、精确且通常为个人进行的艰苦努力。
+A "sigma grindset" can be roughly understood as a highly specific and dedicated approach to a task or activity, often driven by a strong focus on achieving efficiency and consistent improvement, similar to a sigma (σ) in statistics where it represents standard deviation or a measure of consistency. It often implies a commitment to doing things the right way, even if it means putting in extra effort and time.
+**Chinese:**  
+“sigma grindset”可以被大致解释为一种高度特定且专注的方法论，通常驱动着人们努力实现效率的提升和持续改进，这种场景类似于统计学上的‘sigma’（σ），这里它代表标准偏差或一致性度量。它通常意味着即使需要付出额外的努力和时间，也要坚持做正确的事情。
 ```

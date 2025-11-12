@@ -8,11 +8,10 @@ tags:
 - tiktok
 ---
 ```markdown
-## English: Locked In
-**Definition:** A phrase used to express a strong commitment or decision that leaves no room for backing out or changing one's mind. It can also mean someone or something is firmly bound or stuck in a particular situation.
-**Example Usage:** "I'm locked in on this job offer; I already accepted it. No going back now!"
----
-## 中文: 锁定
-**定义：** 表示一种强烈的承诺或决定，没有任何回旋的余地或改变想法的空间。也可以形容某人或某物被牢牢困在一个特定的状况中。
-**使用示例：** "我这工作机会已经定了，我已经接受了。现在没有回头路了！"
+# English: Locked In
+**Definition:** Being committed to a decision, plan, or relationship with no easy way to back out or change it.
+**Example Usage:** "After signing the contract, they felt locked in with no easy way to get out of their current business partnership."
+# 中文: 锁定（锁定在...里）
+**定义:** 已经做出了决定、计划或进入了某种关系，没有简单的方法可以退出或改变。
+**例句:** "签完合同后，他们感觉自己已经陷入了当前的商业合作关系中，无法轻易抽身而出。"
 ```

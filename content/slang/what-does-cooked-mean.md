@@ -8,11 +8,23 @@ tags:
 - tiktok
 ---
 ```markdown
-# Slang Explanation: "cooked"
-## English
-**Definition:** When something is "cooked," it can mean the food is perfectly prepared, or more colloquially, the plan or situation is working out well.
-**Example Usage:** "The way the team played was cooked last night!" 
-## Chinese
-**释义：** “煮熟了”通常有两个意思。一是指食物准备得恰到好处；二是指某个计划或情况进展得非常顺利。
-**例句：** “昨晚球队的表现真是煮熟了啊！”
+# Slang Term: "Cooked"
+## Chinese (简体中文): 烂透了 / 跑飞了
+**Definition:** 
+- 烂透了 (làniǎo le): Describes something or someone that is completely messed up or ruined.
+- 跑飞了 (pǎofēi le): Indicates a situation that has deviated from the original plan or goal, or when things have gone completely off track.
+**Usage Examples:**
+- "这个计划根本就是烂透了！" (Zhège jìhuà gēnběn jiào nǐng làniǎo le!) - This plan is completely messed up!
+- "这场比赛完全跑飞了！" (Zhè bǎiémàn wánquán pǎofēi le!) - The match went off track completely! 
+**Context:** Commonly used in informal settings among friends or in online discussions to express strong dissatisfaction or frustration.
 ```
+## English: Cracked / Hosed / Ruined
+**Definition:**
+- Cracked: Used to describe a situation or plan that has gone wrong or is in a state of disrepair.
+- Hosed: Figuratively means that things have gone badly or that someone has been treated unfairly.
+- Ruined: Stresses the extent to which something or someone is damaged or spoiled.
+**Usage Examples:**
+- "This plan is completely cracked!" - This plan is in a terrible state!
+- "That deal got totally hosed." - That deal went badly and got messed up.
+- "My chance is ruined by this mistake." - This mistake has completely destroyed my chance.
+**Context:** These terms are commonly used in casual conversations, often when expressing frustration or disappointment.

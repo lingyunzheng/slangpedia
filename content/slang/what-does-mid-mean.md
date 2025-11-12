@@ -8,20 +8,12 @@ tags:
 - tiktok
 ---
 ```markdown
-## mid (简体中文：middling; 英语：middle, mediocre)
-- **简体中文：** middling  
-**解释：** 形容事物、状况一般，不突出也不差，介于好和坏之间。  
-**例句：** 这份工作表现 middling，不算差但也没有特别出色。
-- **英语：** middle, mediocre  
-**解释：** Describes something that is average, not exceptional or poor, somewhere in the middle between good and bad.  
-**例句：** Her performance was mediocre; it wasn't terrible, but it wasn't great either.
-```
-```markdown
-## mid (简体中文：中期的; 英语：middle)
-- **简体中文：** 中期的  
-**解释：** 指时间或阶段处于中间位置的，通常是相对于早期和晚期而言。  
-**例句：** 他们在中期阶段会推出新产品。
-- **英语：** middle  
-**解释：** Describes something that is in the middle of a time or period, usually relative to early and late stages.  
-**例句：** During the middle of the project, they decided to make some major changes.
+## 中文释义
+名词：mid
+- **含义**：在网络用语中，"mid" 通常指的是某个事物的中间部分或位置。
+- **例子**：这里的 "mid" 站立，意思是在队伍中间的位置。
+## English Explanation
+### Noun: mid
+- **Definition**：In internet slang, "mid" often refers to a middle part or position of something.
+- **Example**："Mid" standing in the line refers to the person standing in the middle of the line.
 ```

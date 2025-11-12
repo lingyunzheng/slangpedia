@@ -8,11 +8,15 @@ tags:
 - tiktok
 ---
 ```markdown
-## Rizz (Slang)
-### English
-"Rizz" is a bold and confident attitude or demeanor that someone displays. It can be associated with someone who exudes style, charisma, and a certain sense of swagger. 
-Example: "She comes into the room with a fierce rizz, making everyone else feel a bit less fancy."
-### 中文
-“Rizz” 是形容某人表现出来的大胆和自信的态度。这个词常常用来形容那些散发出魅力、自信和某种不羁气质的人。
-例句：“她一进房间就散发着一股强烈的 rizz，让其他人略显逊色。”
+## Rizz (American English)
+### Explanation:
+**Rizz** is a playful and informal slang term that describes a confident, cool, or stylish demeanor. It's often used to describe someone who exudes a certain level of coolness or charisma.
+### Example Usage:
+- "He really put on his best outfit and had some rizz for the party."
+## リズ (Rizz in Japanese)
+### Explanation:
+**リズ (Rizz)** は、自信There's a playful and informal slang用語，在描述一个人时，意味着他们具有某种自信、酷或有魅力的形象。它经常用来形容某人在某个场合中显得十分cool。
+### 例句：
+- 彼はパーティーのために最良の服装を着て、リズを放った。
+(He wore his best outfit and radiated rizz for the party.)
 ```

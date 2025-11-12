@@ -9,11 +9,8 @@ tags:
 ---
 ```markdown
 ## Goated
-### English Slang
-- **Meaning:** *To be the best.* 
-- **Usage:** "He just won the game and my friends are goated about how amazing his performance was."
-### Chinese 谐音梗
-- **Meaning:** *封神*，表示某人或某事物达到了顶峰或无敌的状态。
-- **Usage:** “他刚刚赢得比赛，朋友们都觉得他真的封神了，状态无敌。”
-- **注释:** 这个用法通常是形容某人在某个领域表现极其出色，达到了无法超越的地步。谐音源自英文“g.O.A.T.”，代表“Greatest Of All Time”，意指历史上最伟大的某物或某人。
+### English
+"Goated" is a slang term used to describe someone or something that is exceptionally good, impressive, or the best in their category. For example, if a person makes an outstanding play in a basketball game, you might say, "That player was goated!"
+### Spanish
+"Goated" es un término de slang que se utiliza para describir a alguien o algo que es excepcionalmente bueno, impresionante, o el mejor en su categoría. Por ejemplo, si un jugador hace un jugada sobresaliente en un partido de baloncesto, podrías decir, "Ese jugador fue goated!"
 ```

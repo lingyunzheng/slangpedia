@@ -8,17 +8,9 @@ tags:
 - tiktok
 ---
 ```markdown
-## Situationship
-### English Explanation
-"Situation-relationship" is a compound word that refers to a type of romantic or sexual relationship that is not officially a committed partnership but is not purely casual either. It's a relationship that exists in a gray area, characterized by fluctuating levels of commitment, often leading to a certain amount of uncertainty and complication.
-### Pinyin & Chinese Explanation
-“情境-伴侣关系”（Qiónɡjìnɡ-lónghù 关系）是一种既不是正式的恋爱关系也不是纯粹的一次性关系的暧昧状态。这种关系处于一个灰色地带，涵盖了不同程度的承诺，常常伴随着一定程度的不确定性与复杂性。
-### Example Usage
-- "I'm not really sure if it's a real relationship, but we're definitely in a situationship."
-- "It's a situationship for now, but I don't know if it will turn into something more serious."
-### Related Terms
-- **Hookup**: 一次性关系 (yī cì xínɡshì 关系)
-- **Serious Relationship**: 正式恋爱 (zhènɡshì àilài 正式恋爱)
-- **Casual Relationship**: 偶尔交往 (ǒu'érewǎnɡ 偶尔交往)
-- **Open Relationship**: 开放关系 (kāifànɡ guānxi 开放关系)
+## Situationship (英语: Situationship)
+### 中文解释
+“坐ationship”是指一种非正式的、不确定状态下的恋爱关系，通常是由于双方在时间和情感上都无法投入太多，或者是在一种临时性的情侣关系中。这类关系往往没有明确的情感承诺或未来规划，但却包含了恋爱关系中的部分元素，如约会、共度时光等。
+### 英文解释
+A "situationship" refers to an informal and uncertain state of a dating relationship, often due to a lack of time or emotional investment for one or both parties, or in a temporary couple arrangement. This type of relationship lacks clear emotional commitments or future plans but still includes elements of a romantic relationship, such as dating and spending time together.
 ```

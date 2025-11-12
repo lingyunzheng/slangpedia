@@ -8,15 +8,13 @@ tags:
 - tiktok
 ---
 ```markdown
-## peak (peak)
-### English
-- **Definition**: The best or highest point; can be used to describe something at its optimum or most intense level.
-- **Usage**: "Her singing was at the peak during the live performance."
-### Slang
-- **Chinese (简体中文)**: 小巅峰 (xiǎo dǐngféng)
-- **Explanation**: This is a playful way to describe something that is at its best or most exciting moment. The term "小" (xiǎo) adds a casual, almost dismissive tone, implying that it's a smaller or more minor peak, but still significant.
-- **Usage**: "她的演唱在演唱会高潮的小巅峰(qixiǎo dǐngféng)时刻达到了顶点。" (Her singing reached a small peak at a key moment in the concert.)
-### Extended Usage
-- **English**: Something that is in its prime or at its most exciting time.
-- **Chinese**: 处在黄金时期或最精彩的时间点。
+# Peak (顶流，顶屌)
+## English
+- **Definition**: Something or someone that is at the highest level or the best in a particular category.
+- **Usage**: Used to describe things or people that are doing exceptionally well, often with a sense of admiration or envy.
+- **Example**: "David dominates the car racing scene, he's definitely a peak performer."
+## Chinese
+- **Definition**: 用来形容在某一领域最出色的人物或事物，常带有钦佩或嫉妒的感觉。
+- **Usage**: 用于描述在某个领域做得非常棒的人或事，比如"大卫在赛车场上表现 outstanding，他是一个 peak 的人物。"
+- **Example**: "大卫在赛车场上表现 outstanding，他是一个 peak 的人物。这里“顶流”是“受欢迎、出名”的意思，而“顶屌”则是网络用语，比较俚俗地表示顶级、最棒的意思。"
 ```

@@ -8,11 +8,11 @@ tags:
 - tiktok
 ---
 ```markdown
-# Ratio (Slang)
-## English
-**Ratio**: A casual term referring to the comparison between two things, often used to measure competitiveness, quality, or desirability. It's commonly thrown around in social media and discussions, where people might debate about who is more attractive, knows more jokes, or has cooler gadgets based on their relative merits.
-*Example:* "It's all about the ratio these days – who has the most likes and followers?"
-## 中文
-**比基**: 一个 casual 俚语，常用来表示两个事物之间的比较，用来衡量竞争、质量和吸引力。这个术语在社交媒体和讨论中很常见，人们可能会争论谁更迷人、笑话更多，或者设备更酷，基于他们的相对美德。
-*例子:*“现如今比基全都关乎数值 – 谁的关注量和粉丝更多？”
+## Ratio (English-Chinese)
+### English
+**Ratio:** A slang term often used in social media and online communities, especially among gamers and competitive sports participants. A ratio is a way to insult someone by comparing their perceived incompetence or failure to something that is considered worse, more worthless, or less desirable. It's a form of social media trash talk or online shaming.
+Example: "You've lost three times in a row? That's worse than a ratio!"
+### 中文
+**比基 (Ratio):** 一个在网络社区、尤其是玩家和竞赛运动员之间的社交媒体流行语。比基是一种通过将某人被认为无能或失败的情况与其认为更糟糕、更不值钱或更不理想的事物进行比较来进行羞辱的方式。这在网络上的骂战或在线羞辱中是一种形式。
+例子：输了三场？这还比不上一个比基呢！
 ```

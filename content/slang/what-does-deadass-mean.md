@@ -8,15 +8,12 @@ tags:
 - tiktok
 ---
 ```markdown
-## Deadass
-**English:**  
-Deadass is a slang term often used to emphasize that something is true, real, or intense. It can be used to describe someone's attitude, seriousness, or the effectiveness of something.
-**Example Usage:**  
-- "He gave a deadass performance in the play, really impressed everyone!"  
-- "That's a deadass recipe for success!"
-**Chinese:**  
-"死认真" 或 "极其" 是一种俚语，用来强调某事是真实的、认真的或是非常有效的。它可以用来描述某人的态度、认真的程度或某物的效果。
-**例句：**  
-- “他在剧中的表现极其认真，真的让人印象深刻！”  
-- “这是一套极其有效的成功秘诀！”
+## 死板正 (Deadass)
+**English Explanation:**
+"Deadass" is a colloquial term that can be used to describe someone who is very serious, straightforward, and sometimes unbending or overly formal. It often conveys a sense of someone who is not flexible or willing to humor or play around. 
+**中文解释:**
+"死板正" 是一种口语化的说法, 用来形容一个人非常严肃、直接, 有时可能会显得固执或过于正式。这个词常用来表达某人不够灵活, 不愿意开玩笑或者放松。
+Example Usage:
+- **English:** He's such a deadass that he doesn't know how to laugh at a joke.
+- **中文:** 他真是死板正, 从来不知道怎么对笑话笑一笑。
 ```

@@ -9,10 +9,12 @@ tags:
 ---
 ```markdown
 ## Gymcel
-### English
-**Definition:** A portmanteau of "gym" and "cell." It refers to someone who spends an excessive amount of time in the gym, often to the point of sacrificing other important aspects of their life.
-**Example:** "John's girlfriend is a gymcel, she hits the gym six days a week and it's really taking a toll on their relationship."
-### 中文
-**定义：**“gym”和“cell”一词的混成词，指过度花费时间在健身房的人，有时会因此牺牲生活中其他重要的方面。
-**例句：**“约翰的女朋友是个Gymcel，她每周去健身房六次，这对他们的关系造成了很大的影响。”
+#### English
+A gymcel is someone who excessively focuses on the gym and fitness, often to the point of obsession. They may be overly bothered by their physical appearance and spend countless hours working out, sometimes to the detriment of other aspects of their life. Typical gymcels regularly post their workout progress on social media and often prioritize fitness above all else.
+Example:
+- "I really need to get some gymcel friends for my fitness journey."
+#### 中文
+“Gymcel”指的是那些过度专注于健身房和健身的人，他们对身体外观高度关注，常常疯狂地健身，有时甚至会影响生活的其他方面。他们可能会频繁地在社交媒体上分享自己的健身进度，并且往往把健身放在首位。
+示例：
+- “我需要找个健身狂朋友，搭伴一起健身啊。”
 ```

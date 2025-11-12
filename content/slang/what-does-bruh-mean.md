@@ -8,16 +8,12 @@ tags:
 - tiktok
 ---
 ```markdown
-# "Bruh" in English & Chinese
-## English
-**Definition:** 
-- An interjection used to express frustration, surprise, or resignation. It is often used as a substitute for "bro" or "man" when expressing agreements, skepticism, or other emotions.
-**Example Usage:**
-- "Bruh, you serious? That's ridiculous!"
-## Chinese
-**Definition:** 
-- 一个用于表达失望、惊讶或无奈的感叹词。它常用来替代“兄弟”或“伙计”来表达同意、怀疑或其他情感。
-**Example Usage:**
-- “ Bruh, 你当真？这太荒谬了！”
-- 相当于 “兄弟，你当真？这太荒谬了！” 或 “伙计，你当真？这太荒谬了！”
+## Bruh
+### English
+**Meaning**: An expression used to convey disbelief, surprise, or agreement. Often used to express mild irritation or frustration.
+**Usage**: "Bruh, that's really something else!" or "BWsuh, it's hot today."
+### 中文
+**意思**: 一个表达惊讶、赞许或否定的语气词，通常用来表达轻微的烦躁或不满。
+**用法**: “Bruh，这真是太不可思议了！”或“BWsuh，今天真是热。”
 ```
+Note: "BWsuh" is a humorous attempt to transliterate "bruh" into Chinese, as there isn't an exact equivalent in Chinese slang.

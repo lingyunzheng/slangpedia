@@ -8,13 +8,15 @@ tags:
 - tiktok
 ---
 ```markdown
-# Lit (Liten)
-**English**: Spicy, impressive, or exciting.
-**Chinese**: 爆炸的 (Blast-dee) - 表示某人或事物非常精彩、吸引人或令人印象深刻。
-Example Usage:
-- English: That party was lit!
-- Chinese: 那个派对超级 blast-dee！
-- English: Their new album is lit!
-- Chinese: 他们的新专辑超级 blast-dee！
-This term can be used to describe almost anything that is really good or exciting. It's a fun and casual way to express that something is noteworthy or impressive.
+## Lit (形容词)  
+### 中文解释：  
+很酷，很精彩。常用来形容某人的表现或某种情境非常吸引人，充满活力。  
+### 英文解释：  
+Extremely cool or exciting; used to describe someone's performance or a situation that is very engaging and full of energy.  
+```
+## Lit (动词)  
+### 中文解释：  
+燃起来，变得非常热烈或激动。  
+### 英文解释：  
+Get very hot or excited; used to describe something or someone becoming highly enthusiastic or intense.  
 ```

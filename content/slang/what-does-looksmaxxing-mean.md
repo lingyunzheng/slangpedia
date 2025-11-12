@@ -9,12 +9,12 @@ tags:
 ---
 ```markdown
 # looksmaxxing
-**English:** 
-A term used to describe someone or something that is extremely attractive or stylish to an excessive degree. It's often used in a sarcastic or mocking way to point out that the person or thing is trying too hard to be appealing.
-**中文:**
-用来形容某人或某样东西极其吸引人或时尚到极点。通常是在一种带有讽刺或嘲讽意味的方式下使用，指某人或某物过于努力地试图吸引人。
-Example Usage:
-- English: She’s really looksmaxxing tonight with her new outfit.
-- 中文: 她今天的新穿搭真是过度秀恩爱了。
+## English
+A term used to describe something that is extremely attractive or appealing, often to the point of being unrealistic or excessive. It originates from "look" plus "maxxing," where "maxxing" is slang for being at the maximum or highest level. So, "looksmaxxing" refers to something that is extraordinarily beautiful or handsome, within the realm of extremes.
+**Example:**
+- "That new smartphone is looksmaxxing with its sleek design and vibrant display."
+## 中文
+“looksmaxxing”用来形容某样东西非常吸引人或迷人，以至于几乎达到不切实际或极端的程度。这个词语由“look”加上“maxxing”构成，其中“maxxing”是俚语，表示最高水平或最大值的意思。“looksmaxxing”指的是极其漂亮或英俊的事物，带有极端的意味。
+**例句:**
+- “这款新智能手机的外观设计和鲜艳显示屏简直是looksmaxxing。”
 ```
-This markdown format allows for easy reading and reference, with clear sections for both English and Chinese explanations.

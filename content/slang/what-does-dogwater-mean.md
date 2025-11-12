@@ -8,12 +8,9 @@ tags:
 - tiktok
 ---
 ```markdown
-# Dogwater (狗水)
+## Dogwater
 **English:**  
-"Dogwater" is an informal term often used to describe something of low quality, tasteless, or completely uninteresting. It can be used to refer to any situation or object that is perceived as boring or useless.
+Dogwater is a term used informally to describe something of very low quality or something that is not desirable. It can also be used to describe a situation that seems particularly bleak or hopeless. The term often carries a tone of resignation or humor when using it.
 **Chinese:**  
-"狗水" （gǒu shuǐ）是一个非正式的词语，通常用来形容质量很差、味道平淡或完全无趣的东西。它可以用来指代任何被认为无趣或无用的情况或物体。
-Example usage:  
-- English: "The movie was just dogwater, I fell asleep halfway through."
-- Chinese: "这部电影就像狗水，我半个小时就睡着了。"
+"狗屁用水" (Gǒu bǐ yòng shuǐ) 是一个非正式的术语，用来形容非常低质量的东西或不值得的东西，也可以用来形容看起来特别绝望或无望的情况。使用这个词时，常常带着一种无奈或幽默的语气。
 ```

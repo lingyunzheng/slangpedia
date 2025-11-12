@@ -8,11 +8,9 @@ tags:
 - tiktok
 ---
 ```markdown
-## Cap (English)
-**Meaning:** An exaggerated statement used to express surprise, admiration, or disapproval with emphasis. Similar to saying "That's impressive" or "Wow, that's ridiculous."
-**Example:** "She aced the exam with a 99% score! That's *one cap*!"
-## Cap (中文)
-**意思:** 一种夸张的说法，用以表达惊讶、钦佩或强烈的否定态度。类似于说“那真厉害”或“哇哦，真夸张。”
-**例子:** “她考了99%的高分！那真是个*帽儿*！”
+## Cap (英 / 美)
+**英:** Cap
+- **Explanation:** In British slang, "cap" can mean "take a break" or "pause" from an activity, often used in the phrase "take a cap."
+**美:** Cap
+- **Explanation:** In American slang, "cap" is a versatile term. It can mean "to intensify" (as in "that movie was really cap"), "to finish or wrap up" (as in "let's cap this meeting"), or "to lie or agree with someone to avoid conflict" (as in "he just didn't want to argue so he capped her comment").
 ```
-Note: In the Chinese example, "帽儿" is used as a colloquial approximation since there isn't a direct one-to-one translation for "cap."

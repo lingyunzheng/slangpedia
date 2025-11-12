@@ -8,11 +8,10 @@ tags:
 - tiktok
 ---
 ```markdown
-# Valid
-## English
-- **Definition**: Something that is considered to be correct or acceptable.
-- **Slang Example**: "His claiming to know about jazz is valid if he's been to New Orleans."
-## Chinese
-- **定义**: 被认为是正确或可接受的。
-- **俚语示例**: "如果他去过新奥尔良，那么他声称知道爵士乐就是有道理的。"
+## English Slang Explanation: Valid
+**Meaning:** Something or someone that is considered acceptable, appropriate, or correct.
+**Example Usage:** "That's a valid point, you can't argue with it."
+## Chinese 花样解释: 有效/有道理
+**意思:** 某些事物或人被认为是可以接受、合适的，或者是正确的。
+**用法示例:** "这也是一个有效的观点，你无法反驳。"
 ```

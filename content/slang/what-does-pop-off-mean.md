@@ -8,11 +8,16 @@ tags:
 - tiktok
 ---
 ```markdown
-# Bilingual Slang Explanation: Pop Off
-## English
-**Pop Off:** This term is often used to describe when someone starts to talk or act in a very aggressive, boastful, or disrespectful manner. It can also mean to break away or leave quickly, especially in adefiant or tumultuous way.
-Example: "After Tony started talking about his new car, he really popped off with a lot of boasting."
-## 中文
-**Pop Off:** 这个词通常用来形容某人开始表现出非常攻击性、自夸或不尊重的方式讲话或行动。此外，它还可以指迅速离开，尤其是以挑衅或动荡的方式。
-例句：在托尼开始谈论他的新车后，他变得非常自夸，开始吹嘘起来。
+# "Pop Off" in English and Chinese
+## English Explanation
+"Pop off" is an informal slang term with multiple uses. It can be used to describe making a quick exit, indulging in destructive behavior, or engaging in a rapid, intense, and exciting action.
+Example:
+- *Quick Exit:* "I need to pop off before my boss notices me." (我需要快点离开，被老板发现了不好)
+- *Destructive Behavior:* "He got so mad that he just had to pop off and break the window." (他生气极了，忍不住把窗户玻璃砸了)
+- *Exciting Action:* "We're going to pop off to the club tonight!" (我们要去夜店嗨到不行)
+## 中文解释
+"Pop off" 是一种口语俚语，其用法多样。它可以用来形容快速离开、破坏性行为，或是进行快速且激烈、刺激的动作。
+- 快速离开：我要快点离开，被老板发现了不好。
+- 破坏性行为：他生气极了，忍不住把窗户玻璃砸了。
+- 刺激的动作：我们要去夜店嗨到不行。
 ```

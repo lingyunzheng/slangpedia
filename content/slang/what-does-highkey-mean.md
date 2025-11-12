@@ -8,13 +8,13 @@ tags:
 - tiktok
 ---
 ```markdown
-## Highkey (高度关键的 / 干脆说白了)
-### English Explanation
-- **Definition**: This slang is used to emphasize something to a high degree. When someone says "highkey," they are saying that something is extremely important, true, or noticeable.
-- **Usage Example**: "I highkey love this new album! It's just amazing."
-- **Origin**: This term likely originated from a combination of the words "high" and "key," further emphasizing its intensity.
-### Chinese Explanation
-- **定义**：这个俚语用来强调某事的程度非常高。当有人使用"highkey"时，他们认为某事是非常重要的、真实的或者显而易见的。
-- **使用示例**："我高key爱这张新专辑！它真是太棒了。"
-- **来源**：这个术语可能来源于"high"（高）和"key"（关键）这两个词的组合，进一步强调其强度。
+# highkey
+## English
+**Highkey**: An intensifier often used in informal speech to express that something is very, extremely, or basically true. It's similar to saying "super" or "totally."
+- Example: "I highkey need to go home now."
+- Translation: "I really, really need to go home now."
+## 中文
+**highkey**：在非正式口语中，用作加强语气的词语，表示某事非常、极其或基本上是真的。它类似于说“超级”或“真的”。
+- 例子： "I highkey need to go home now."
+- 翻译： "我现在真的真的想回家了。"
 ```

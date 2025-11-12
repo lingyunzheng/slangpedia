@@ -8,13 +8,12 @@ tags:
 - tiktok
 ---
 ```markdown
-## NPC
-**English:** Non-Player Character  
-**Chinese:** 非玩家角色 (Fēi Wánqiéngle Zéjiǎo)  
-**Bilingual Slang Explanation:**  
-- **English:** NPC is a term used in videogames, representing characters controlled by the game's programming, as opposed to Player Characters (PCs) that are controlled by human players. It's often used in conversation to refer to someone who is not a main or significant person in a situation or discussion.
-- **Chinese:** NPC是指角色扮演游戏（Translation: Role-playing games）中由游戏程序控制的虚拟人物，而不是由玩家控制的玩家角色（PC）。在现实生活中，人们常用这个词来形容在某个情况或讨论中没太重要作用或者比较不重要的人。
-Example:
-- **English:** Sarah was just an NPC in the project, and no one really listened to her ideas.
-- **Chinese:** 薇拉只是这个项目中的一个NPC，没有人真的听她的建议。
+## NPC (Non-Player Character)
+### English
+**Definition:** A character in a game, story, or setting that is controlled by the game itself or a game master, as opposed to a player character (PC) who is controlled by a player.
+**Example:** In a fantasy role-playing game, the shopkeeper who sells items to the player is an NPC.
+### Chinese
+**定义:** 游戏、故事或设定中的角色，由游戏本身或游戏主持人控制，而不是由玩家控制的人物（即玩家角色PC）。
+**示例:** 在一个奇幻角色扮演游戏里，玩家可以购买物品的商人NPC是一个例子。
 ```
+Feel free to ask if you need more examples or further details!

@@ -8,11 +8,9 @@ tags:
 - tiktok
 ---
 ```markdown
-# Gyatt
-## English
-**Definition:** A casual, often playful or sarcastic alteration of "guilty." Used when someone pretends to feel guilty or when the guilt is not genuine.
-**Example:** "I didn't study for the exam, but I'm gyatt about it. Just asked my friend to share notes."
-## 中文
-**定义:** 一种 casual、经常是戏谑或讽刺的“有罪”的替代词。用于表示某人假装感到内疚，或者这种内疚并不真实。
-**例句:** "我没好好复习考试，但我对这件事有些 gyatt。刚刚让朋友分享了笔记。"
+# Gyatt (英国/香港网络用语)
+## 中文解释
+源自英语 "gay bait"，中文网络用语“ Gyatt”指的是一种吸引特定性取向人群（尤其是LGBTQ+）注意的搭讪、秀恩爱的行为或内容。
+## 英文解释
+Derived from the English term "gay bait," "Gyatt" is a term used in certain online circles in the UK and Hong Kong. It refers to the act of flirting or showcasing romantic affection in a way that is likely to attract the attention of specific audiences, particularly those within the LGBTQ+ community.
 ```

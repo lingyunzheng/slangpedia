@@ -8,11 +8,11 @@ tags:
 - tiktok
 ---
 ```markdown
-# French Slang Explanations
-## frfr
-- **Meaning**: "frfr" is an internet slang in French, abbreviated from "franchement franchement," which is used to express agreement, emphasis, or approval in a very casual manner.
-- **Example Usage**: 
-- "C'est bon, j'y vais tout de suite !" - "frfr j'espère qu'il ne sera pas trop tard !"
-- Translation: "It's good, I'll go right away!" - "Agreed, I hope it won't be too late!"
-- **Context**: This slang is commonly used in text messages, social media posts, and casual conversations to show enthusiasm or to agree with a statement.
+# French Slang Explained
+## French (fr)
+### Oreille bleeding
+- **Meaning**: Feeling completely lost or overwhelmed, often in a learning or social context.
+## English (en)
+### Oreille bleeding
+- **Meaning**: Literally translates to "bleeding ear," but it means feeling completely confused or overwhelmed. Often used when struggling to understand a topic or in a social situation where you don't understand or agree with what others are saying. It's a humorous way to express feeling outclassed or out of the loop.
 ```
