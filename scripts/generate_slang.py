@@ -41,9 +41,10 @@ tags: [slang, internet, tiktok]
 if __name__ == "__main__":
     words = get_slang_list()
     for w in get_slang_list():
-    try:
-        content = generate_batch([w])  # 每个词单独生成
-        save_post(w, content)
-    except Exception as e:
-        print(f"❌ Error on {w}: {e}")
+        try:
+            content = generate_batch([w])  # 每个词单独生成
+            save_post(w, content)
+        except Exception as e:
+            print(f"❌ Error on {w}: {e}")
+
 
