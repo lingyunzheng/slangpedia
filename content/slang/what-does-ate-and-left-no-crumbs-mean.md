@@ -9,10 +9,14 @@ tags:
 ---
 ```markdown
 # Ate and Left No Crumbs
-## English
-- **Meaning**: Consumed all of something without leaving any leftovers. It can imply either a very thorough or excessive consumption.
-- **Example**: "She ate the cake and left no crumbs, even though she had already finished seconds."
-## Chinese
-- **含义**：把某样东西吃得一干二净，不留一丝余地。可以暗示非常彻底的或是过度的消费。
-- **例句**：她一口气把整个蛋糕都吃完了，连一片屑儿都不剩，甚至都没给第二份留机会。
+**English:**  
+To eat something, especially a lot of something, and finish it completely, leaving nothing behind.  
+Example: He ate all the cookies and left no crumbs on the plate.
+**Chinese (Simplified):**  
+吃完不留一点碎屑，形容吃得非常干净，没有浪费。  
+例句：他把所有的饼干吃完了，连一点碎屑都没留下。
+```
+**Chinese (Traditional):**  
+吃乾淨不留一點碎屑，形容吃得非常乾淨，沒有浪費。  
+例句：他把所有的餅乾吃完了，連一點碎屑都没留下。
 ```

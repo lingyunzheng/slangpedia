@@ -8,24 +8,16 @@ tags:
 - tiktok
 ---
 ```markdown
-### "Fumbled the Bag" 
-**English:**  
-- **Definition:** If you "fumbled the bag," you made a mistake or missed an opportunity.
-- **Explanation:** Imagine you're in a situation where you need to grab something important from a bag (maybe it's a crucial document or something you wanted to do), but instead of grabbing it deftly, your actions result in a mess. Your hands are shaky, you spill things, or you just can't seem to get a firm grip. You fumbled the bag, and the result was not what you were hoping for.
-- **Example Usage:** "I was so excited to ask for a raise, but I fumbled the bag and ended up saying all the wrong things."
-**Chinese (Simplified):**  
-- **释义：** 如果你"摸了袋子"（fumbled the bag），意味着你犯了错误或者错失了机会。
-- **解释：** 想象一下，你在一个需要从袋子里拿取某样重要的东西的情景中（可能是重要的文件或是你想做的事情），但你并没有稳稳地抓住它。你的手颤抖、事情被弄洒了，或者你就是抓不到。你摸了袋子，结果与你的期望大相径庭。
-- **例句使用：** "我本来满怀希望地想提议加薪，但结果却摸了袋子，说了许多不合适的话。"
+# "Fumbled the Bag" - English & Chinese Slanguage
+## English
+**Fumbled the Bag** is a slang term that means making a blunder or bungle, often in a situation where one is trying to appear competent or skilled. It is derived from the idea of accidentally dropping or fumbling a bag, suggesting a loss of composure or failure to manage a task as intended.
+### Example
+- *English:* He totally fumbled the bag during the presentation, dropping all his points.
+- *Chinese:* 他在作报告的时候把所有的重点都搞砸了，就像掉了个包一样。
+## 中文
+**摸了把袋** 是一个俚语，用来形容在试图显得能干或熟练时出现失误或失败。这个说法源自于不小心弄掉或摸了一把包，这意味着失去了冷静或没能如预期管理好任务。
+### 例子
+- *中文:* 他在作报告的时候把所有的重点都搞砸了，就像摸了把袋。
+- *English:* He totally mumbled the bag during the presentation, dropping all his points.
 ```
-```markdown
-### "Fumbled the Bag" 
-**English:**  
-- **Definition:** "Fumbled the bag" is a slang expression used to describe an awkward, clumsy, or uncoordinated action that results in an embarrassing or disappointing outcome.
-- **Explanation:** The term is often used in situations where someone makes a mess of something, literally or figuratively, leading to a blunder or failure.
-- **Example Usage:** "She fumbled the bag when trying to make a return, and lost her temper in front of the manager."
-**Chinese (Traditional):**  
-- **釋義：** "摸了袋子"（fumbled the bag）是一句俚語，用來描述一個令人尷尬、笨拙或協調性不佳的動作，導致了令人尷尬或失 vọng的結果。
-- **解釋：** 這個詞常用于描述某人在實踐中或比喻上「使事情 menjadi 一团糟」的情況，導致了疏忽或失敗。
-- **例句使用：** "當她在試圖退貨時，摸了袋子，結果當著經理的面發了脾氣。"
-```
+This format provides a concise and clear explanation, along with practical usage examples, for both English and Chinese speakers.

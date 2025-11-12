@@ -10,7 +10,9 @@ tags:
 ```markdown
 ## Gymcel
 ### English
-A "Gymcel" is a playful or humorous term used to describe a person who works out excessively or spends an inordinate amount of time in the gym. Similar to the term "workaholic," but specifically for people who are obsessed with fitness and exercise.
+**Definition:** A portmanteau of "gym" and "cell." It refers to someone who spends an excessive amount of time in the gym, often to the point of sacrificing other important aspects of their life.
+**Example:** "John's girlfriend is a gymcel, she hits the gym six days a week and it's really taking a toll on their relationship."
 ### 中文
-"Gymcel" 是一个富有幽默感或戏谑意味的词语，用来形容那些过度锻炼或在健身房度过大量时间的人。类似于“工作狂”的说法，但特指那些对健身和锻炼极度痴迷的人。
+**定义：**“gym”和“cell”一词的混成词，指过度花费时间在健身房的人，有时会因此牺牲生活中其他重要的方面。
+**例句：**“约翰的女朋友是个Gymcel，她每周去健身房六次，这对他们的关系造成了很大的影响。”
 ```

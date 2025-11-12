@@ -8,13 +8,12 @@ tags:
 - tiktok
 ---
 ```markdown
-# Bilingual Slang Explanation: "Lowkey"
-**English:** 
-- Definition: Used when referring to something in a subtle or understated way, usually to avoid drawing too much attention to the subject.
-- Example: I lowkey think they're lying.  
-- Colloquial Context: Often used in social media posts or casual conversations to give a hint without fully stating it.
-**Chinese (Pinyin/Romaji):** 
-- 解释: 用于以微妙或温和的方式提及某事，通常是为了避免过分关注该主题。
-- 例句: Wǒ néng néng kǒulǐ, tāmen néng zài yǎng yǎng. （我低低口里，他们可能在谎羊。）
-- 口头语环境: 经常用于社交媒体帖子或轻松的对话中，以给出提示而不完全陈述。
+#低key (Lowkey)
+## English Explanation
+- **Lowkey**: An informal way to say "kind of" or "sort of." It's used to subtly emphasize or downplay something.
+## Example Usage
+- "I lowkey need to get some sleep." (意为：我kind of need to get some sleep.)
+## Chinese Explanation
+- **低key (dī key)**: 表示“有点儿”或“稍微”。“低key”通常用来委婉地强调或者淡化某件事。
+- 例句：“我低key需要早点儿睡觉。”
 ```

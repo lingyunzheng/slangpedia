@@ -8,11 +8,11 @@ tags:
 - tiktok
 ---
 ```markdown
-# "W Rizz"
-## English
-"Rizz" is a slang term often used to describe someone or something that is cool, stylish, or simply great. It can also be used to express admiration or approval. The addition of the letter "W" in "W Rizz" emphasizes the legitimacy or authenticity of the person or thing being described, making it a superlative version of the term.
-Example: "W Rizz, you really aced that presentation today!"
-## Chinese
-“W Rizz” 是一种俚语，用来形容一个人或事物很酷、很时尚或者很棒。它还可以用来表达对某人的钦佩或认可。“W Rizz” 中的“W”字更加突出了被描述的人或事物的真实和可靠，是“Rizz” 的进一步加强版本。
-示例：“W Rizz，你今天的表现真是棒极了！”
+# W rizz
+## English Explanation
+"W rizz" is an informal slang term often used to describe someone who is cool, stylish, or knowledgeable in a particular area, especially among younger audiences. It's a way of saying that someone has "rizzle," which is a slang term for a cool, fearlessness, or style. 
+Example: "That rapper really w rizz with his flashy clothes and smooth rhymes!"
+## Chinese Explanation
+"W rizz" 是一种非正式的网络 slang 用语，用来形容某人很酷、时尚或在某个领域很有知识，尤其在年轻人群中常用。它相当于说某人非常“有 rizzle”，而“rizzle”这个词本身就是一个酷、无所畏惧或有风格的意思。
+例句：那个说唱歌手真是 w rizz，穿着光鲜，说词也很流畅！
 ```

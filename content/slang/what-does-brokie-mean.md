@@ -8,9 +8,10 @@ tags:
 - tiktok
 ---
 ```markdown
-## brokie
-**English Explanation:**
-"Brokie" is a slang term often used in online contexts, particularly among younger social media users. It's a playful, often affectionate way of referring to someone who is insecure or needy, often seeking constant validation or attention. The word is a blend of "bro" (short for "buddy" or "brother") and "Narcissistic," implying that the person acts in an exaggeratedly self-important or self-centered way, desperately wanting to be liked or recognized.
-**Chinese Explanation:**
-“Brokie” 是一种在线语言中的俚语，尤其是在年轻的社交媒体用户中间。这个词是一种有趣且通常带有亲昵色彩的方式来指代那些很不安分或需要大量关注和肯定的人。这个词结合了“bro”（“伙计”或“兄弟”的简称）和“自恋心理”的意思，意味着这个人表现得过分自大或自恋，非常渴望获得认可或注意。
+## Brokie (Slang)
+**English:**
+A term used to describe someone who is overly familiar and possibly inauthentic, often trying too hard to appear cool or trendy. It's a combination of "bro" and "fake," suggesting that this person is not genuine.
+**中文:**
+一个用来形容人显得过于亲近又可能不真诚的词汇，通常用于形容那些试图显得很酷或时尚但实际上可能并不如此的人。这个词汇结合了"bro"（兄弟）和"fake"（假的）两个词，表明这个人不够真实。
 ```
+This markdown format provides a clear and concise bilingual explanation of the slang term "brokie."

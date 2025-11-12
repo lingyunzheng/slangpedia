@@ -8,14 +8,14 @@ tags:
 - tiktok
 ---
 ```markdown
-# "Based" - Slang Explanation
-## English
-**Based**: A slang term that originated from the internet and has been popularized by social media. It is used to describe someone or something that is extreme, cool, or confident, often to an exaggerated degree.
-**Example**: 
-- "His street dance moves are so based, I could see him in a viral video any day!"
-## Chinese
-**Based**: 这个俚语起源于互联网，并且在社交媒体上非常流行。用来形容某人或某事非常酷炫、超模或自信，往往程度夸张。
-**例子**：
-- 他的街舞动作超Based，随时都可以拍成病毒视频！
-```
+# Based
+**English:**  
+A slang term used to describe something or someone who is solid, on-point, or reliable. It's commonly used in contexts where a person's actions or skills are praised, or a situation is deemed to be working well.
+**Bilingual Explanation:**
+- **基于（Jīchǔ）:** 一个用来形容某人或某事物很靠谱、很在行或者可靠的说法。通常用于赞扬某人的行为或技能，或是形容一个情况运作良好时。
+例如：
+- "He's really based when it comes to basketball skills."  
+他打篮球的技巧真的很棒。
+- "The plan is based and we can rely on it."  
+计划很靠谱，我们可以依赖它。
 ```

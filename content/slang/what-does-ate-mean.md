@@ -8,10 +8,13 @@ tags:
 - tiktok
 ---
 ```markdown
-### English: Ate
-- **Definition**: To eat a large or excessive amount of food, often to the point of feeling very full or even stuffed.
-- **Example**: "I ate so much at the buffet I feel like I'm going to explode!"
-### Chinese: 吃（ate）
-- **定义**：指吃下了大量的食物，往往吃到感觉非常饱甚至泛善。
-- **例句**：“自助餐我吃得太多了，感觉要爆炸了！”
+# "Ate" in Bilingual Slang
+## English
+**Ate** (adj.): From the verb "eat," it's often used as a slang term to describe someone who eats a lot, especially consuming large amounts of snacks or fast food.
+### Example:
+- "I overate at the buffet last night, ate like a horse!"
+## Chinese
+**吃货 (Chīhuò)**: 来源于“吃”（吃）和“货”（huò）。指很喜欢吃东西、尤其是零食或者快餐的人。常用来形容吃得很多或者特别喜欢美食的人。
+### 例子：
+- "昨晚在自助餐厅大吃大喝，以至于吃货本货。"
 ```

@@ -8,13 +8,15 @@ tags:
 - tiktok
 ---
 ```markdown
-## Sheesh (English/Standard)
-**Meaning:** An expression of disagreement or disgust, similar to "Oh, come on!" or "Oh, really?"
-### Bilingual Slang Explanations
-**English/Slang:** "Sheesh!" can be used when you want to express disagreement or disbelief about a situation or statement.
-**Standard:** It is an informal interjection used to express exasperation, dismay, or doubt.
----
-**Examples:**
-- English: "Sheesh, this traffic is terrible today."
-- Standard: "Oh, come on, this traffic is terrible today."
+## Sheesh (Shees)
+**English:** An exclamation expressing disapproval, frustration, or disbelief.
+**Translation and Explanation:**  
+- **Chinese (Cantonese):** 唔該 (M4 goi5) / 呛QAQ (Zam4 QAQ)  
+- **M4 goi5** is a common expression to show disappointment or mild frustration.
+- **Zam4 QAQ** is a popular internet slang often used to convey a similar sentiment as a slight huff or sigh of exasperation. The "QAQ" onomatopoeia represents a frowning face or a pout.
+**Usage Example:**
+- **English:** "Sheesh, why did you do that?"
+- **Chinese (Cantonese):** " Waist gai, Teddi pu2ymsaa1 jaa5 dzai6?" (M4 goi5, Teddi pu-by晟 aa jaai dzai?)
+- **Chinese (Cantonese) with internet slang:** " Waist gai, Teddi QAQ jaa5 dzai6?" (M4 goi5, Teddi QAQ jaai dzai?)
+These translations capture the essence of saying "sheesh" in a casual and colloquial manner, fitting for everyday conversations.
 ```

@@ -8,14 +8,9 @@ tags:
 - tiktok
 ---
 ```markdown
-## Delulu (Delulu)
-**Chinese Slang:** 德鲁伊 (Delúì)
-**English Slang:** Druid
-**Explanation:**
-- **Chinese:** 德鲁伊 (Delúì) is a reference to "Druid" from popular video game terminology, particularly from World of Warcraft. In these games, Druids are a powerful class known for their versatility, able to shift between multiple forms, each with unique abilities. The term is often used to describe someone who is versatile and can adapt to different situations.
-- **English:** Druid is a term borrowed from video games, often used to describe someone who is skilled and adaptable. Similar to the game character class, a "druid" in real-life slang is someone who can excel in multiple areas or roles. It's a compliment used to highlight someone's ability to handle a variety of tasks with ease.
-- **Usage Examples:**
-- 在公司里，小李是真正的德鲁伊，不仅能写代码，还能搞设计，真是全能啊！
-- (Translation: In the company, Xiao Li is truly a druid, not only able to write code but also do design; he's really proficient in everything!)
-- She’s a real druid, switching between project management and coding effortlessly.
+## Delulu (Chinese: 德勒露)
+### English Slang Explanation:
+**"Delulu"** is a playful and trendy term often used to refer to a person who is perceived as overly affectionate or flirtatious. The term can also be used in a teasing manner when someone is excessively sweet or bonding, possibly to the point of being considered annoying.
+### Chinese Slang Explanation:
+**"德勒露 (Dé lè lù)"** 是一种轻松且时髦的说法，用来形容一个人被认为过分亲昵或爱搭讪。这个词通常用于温和地戏谑那些表现得过于甜蜜或亲密的人，可能到被认为有点烦人的程度。
 ```

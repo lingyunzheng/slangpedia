@@ -8,17 +8,15 @@ tags:
 - tiktok
 ---
 ```markdown
-## Peak (English)
-### Definition
-Peak is a term primarily used in casual conversation to describe something as the best, most impressive, or highest point. It can refer to physical states, achievements, or qualities.
-### Examples
-- "This new album is the peak of his career!"
-- "Her performance was the peak of our expectations."
-## 峰值 (Chinese)
-### Definition
-峰值是俚语中用来形容某事物达到最佳、最令人印象深刻或最高点的一种说法。它可以指物理状态、成就或品质。
-### 示例
-- “这张新专辑是他职业生涯中的顶峰！”
-- “她的演出是我们预期的顶峰。”
+## peak (peak)
+### English
+- **Definition**: The best or highest point; can be used to describe something at its optimum or most intense level.
+- **Usage**: "Her singing was at the peak during the live performance."
+### Slang
+- **Chinese (简体中文)**: 小巅峰 (xiǎo dǐngféng)
+- **Explanation**: This is a playful way to describe something that is at its best or most exciting moment. The term "小" (xiǎo) adds a casual, almost dismissive tone, implying that it's a smaller or more minor peak, but still significant.
+- **Usage**: "她的演唱在演唱会高潮的小巅峰(qixiǎo dǐngféng)时刻达到了顶点。" (Her singing reached a small peak at a key moment in the concert.)
+### Extended Usage
+- **English**: Something that is in its prime or at its most exciting time.
+- **Chinese**: 处在黄金时期或最精彩的时间点。
 ```
-In both English and Chinese, "peak" refers to the highest or most excellent state or achievement in a given context.

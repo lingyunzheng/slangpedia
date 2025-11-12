@@ -9,14 +9,8 @@ tags:
 ---
 ```markdown
 ## Slaps
-**English:**
-"To slap" in slang often means to hit someone. However, it can also be used in a more casual context to express agreement, excitement, or admiration. In an online or texting context, it might also mean to "like" or "give a virtual high-five". 
-Example:
-* "I just got slayed by that argument but I respect him for being that real." 
-* "She totally slaps it whenever she walks into a room!"
-**Chinese (简体中文):**
-“slap”在网络上经常被用来表示打某人，但在比较随意的语境下，它可以用来表达赞同、兴奋或钦佩。在在线聊天或发信息的场景中，它还可以表示“点赞”或“虚拟击掌”。
-示例：
-* "我被他的话彻底打降伏了，但我很佩服他说出真相的勇气。"
-* "她每次走进房间都让大家觉得干得漂亮！"
+### English
+**Slaps**: This slang can have multiple meanings depending on the context. It can refer to the action of physically striking someone with the hand, or it can be used to express strong agreement or support towards something. For example, when someone says, "You slaps," they might be saying "You got it right!" in a rhetorical, approving manner.
+### 中文
+**Slaps**：这个俚语可能有多种含义，具体取决于上下文。它可以指用巴掌打某人的动作，也可以用来表示强烈的支持或同意某事。例如，当有人说“You slaps”时，他们可能是在说“You got it right!”这种带有赞同意味的口头表达。
 ```

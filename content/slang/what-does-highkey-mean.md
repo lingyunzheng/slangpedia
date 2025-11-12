@@ -8,10 +8,13 @@ tags:
 - tiktok
 ---
 ```markdown
-## Highkey
-**English:**
-highkey - (Adverb) A slang term used to emphasize that something is true to a very high degree or extent. It is often used to stress enthusiasm, importance, or certainty about something.
-**Chinese:**
-highkey - (副词) 一个俚语，用来强调某事的程度很高。通常用于强调某种热情、重要性或对某事的确定性。
+## Highkey (高度关键的 / 干脆说白了)
+### English Explanation
+- **Definition**: This slang is used to emphasize something to a high degree. When someone says "highkey," they are saying that something is extremely important, true, or noticeable.
+- **Usage Example**: "I highkey love this new album! It's just amazing."
+- **Origin**: This term likely originated from a combination of the words "high" and "key," further emphasizing its intensity.
+### Chinese Explanation
+- **定义**：这个俚语用来强调某事的程度非常高。当有人使用"highkey"时，他们认为某事是非常重要的、真实的或者显而易见的。
+- **使用示例**："我高key爱这张新专辑！它真是太棒了。"
+- **来源**：这个术语可能来源于"high"（高）和"key"（关键）这两个词的组合，进一步强调其强度。
 ```
-This markdown format provides a clear and structured bilingual explanation of the slang term "highkey", aiding in understanding its usage and meaning in both English and Chinese.

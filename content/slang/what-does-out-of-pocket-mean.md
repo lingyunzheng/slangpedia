@@ -8,12 +8,11 @@ tags:
 - tiktok
 ---
 ```markdown
-## Out of Pocket (原义/英文) - 付钱出头/Spending Money
-### 中文解释
-"出 of pocket" 在中文的用法中，可以理解为“自己掏腰包”或者“自己出钱”，指的是所有支出都由自己承担，而不是由其他人或者公司支付。这种表达通常用于朋友之间的费用分摊，或者在工作中需要个人承担额外费用的情形。
-### 英文解释
-"Out of pocket" originally means expenses that are not paid for by anyone else, and the individual must cover them personally. It can be used in situations where expenses are being shared among friends, or in a professional context where an individual might need to cover extra costs on their own. The phrase highlights situations where someone is not reimbursed for their expenses.
-### Example Usage
-- 原义使用：If John takes his friends out for dinner, and they agree to split the bill, but one of them runs out of cash, John might pay "out of pocket" for that friend. (If John takes his friends out for dinner, and they agree to split the bill, but one of them runs out of cash, John might pay "out of pocket" for that friend.)
-- 英文例句：The company will reimburse your expenses, but any additional costs, such as a surprise gift, will be out of pocket. (The company will reimburse your expenses, but any additional costs, such as a surprise gift, will be out of pocket.)
+## Out of Pocket
+**English:** Out of pocket
+- **Definition:** This phrase is used to describe a situation where you have to pay for something yourself, often because insurance doesn’t cover it or because it’s a personal expense.
+- **Example:** "When my car broke down, the mechanic said it would cost $500, but all of it was out of pocket since my insurance doesn’t cover maintenance."
+**汉语解释:** 出口袋
+- **定义:** 这个短语用来描述你不得不自己付费的情况，通常是因为保险不覆盖这项费用，或者是因为它是一个个人开销。
+- **例句:** "当我汽车抛锚时，修车师傅说修理费用是500美元，不过我得自己出这笔钱，因为我的保险不包含维修费用。"
 ```

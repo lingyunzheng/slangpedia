@@ -8,13 +8,12 @@ tags:
 - tiktok
 ---
 ```markdown
-# Bilingual Slang Explanation: "Goated"
-**English:**  
-"Goated" is a slang term that originated from the verb "to goat" but is now primarily used as an adjective to describe something or someone as the best or number one in a particular area or for a specific time period. It often conveys a sense of admiration or boasting.
-**Example Sentence:**  
-- She was the goated athlete in the high school track meet.
-**Spanish:**  
-"Goated" es un término coloquial que surgió del verbo "to goat" pero ahora se utiliza principalmente como adjetivo para describir algo o a alguien como el mejor o el número uno en un área específica o para un período de tiempo determinado. A menudo transmite un sentido de admiración o jactancio.
-**Ejemplo de oración:**  
-- Ella fue la atleta goated en el campeonato de carreras de la escuela secundaria.
+## Goated
+### English Slang
+- **Meaning:** *To be the best.* 
+- **Usage:** "He just won the game and my friends are goated about how amazing his performance was."
+### Chinese 谐音梗
+- **Meaning:** *封神*，表示某人或某事物达到了顶峰或无敌的状态。
+- **Usage:** “他刚刚赢得比赛，朋友们都觉得他真的封神了，状态无敌。”
+- **注释:** 这个用法通常是形容某人在某个领域表现极其出色，达到了无法超越的地步。谐音源自英文“g.O.A.T.”，代表“Greatest Of All Time”，意指历史上最伟大的某物或某人。
 ```

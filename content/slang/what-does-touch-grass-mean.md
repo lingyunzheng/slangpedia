@@ -8,13 +8,16 @@ tags:
 - tiktok
 ---
 ```markdown
-## "Touch Grass" —中文解释—
-### English
-**Touch Grass**
-- *Meaning:* To apologize or admit defeat, often in a humorous or sarcastic manner.
-- *Usage Example:* "When Bob couldn't solve the problem, he had to touch grass and asked his friend for help."
-### 中文
-**触草**
-- *含义:* 向某人道歉或承认失败，通常带有幽默或讽刺的意味。
-- *用法示例:* "当鲍勃解决不了那个问题时，他不得不认输并向朋友求助，说‘触草了’。"
+# "Touch grass" (English)
+**Meaning**: To confess to or admit to something illegal or embarrassing that one has done.
+**Bilingual Explanation**: "touch grass" (触草) - 指的是承认或供认自己做过一些非法或尴尬的事情。
+## Example
+- **English**: I had to touch grass when I admitted I had cheated on my taxes.
+- **Chinese**: 我承认自己逃税时不得不“触草”。
+---
+# "Touch grass" (Chinese)
+**意思**: 承认或供认自己做过一些非法或尴尬的事情。
+**Example**
+- **中文**: 我承认自己逃税时不得不“触草”。
 ```
+This explanation provides a direct translation of the slang phrase and a simple example to illustrate its usage in both English and Chinese contexts.

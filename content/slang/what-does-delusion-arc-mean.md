@@ -8,11 +8,11 @@ tags:
 - tiktok
 ---
 ```markdown
-# Delusion Arc
-## English
-**Delusion Arc**: A term referencing a period or state of extreme mental confusion or fantasy. It's often used to describe a situation where someone is so immersed in their personal fantasy or beliefs that they act as if it's reality. 
-**Example**: "Ever since he started watching too many anime, John has been acting in a Delusion Arc, talking about wanting to be the hero of the world."
-## 中文
-**Delusion Arc**: 这个词被用来描述一个人因为过于沉浸在自己的幻想或信念中，以至于行为上像认为那是现实的状态或时期。往往指某人变得极度不切实际或脱离现实。
-**例句**: "自从开始追太多动漫后，约翰一直处于Delusion Arc，说着自己想要成为世界英雄的话。"
+# Delusion Arc (幻觉弧线, Huan juo hua xian)
+## English Explanation
+**Delusion Arc**: This slang term is loosely used in casual contexts to refer to a situation or storyline that is so far-fetched or illogical that it seems to create a curved or distorted view of reality. Imagine a narrative where everything seems to bend and twist, making it hard to distinguish what’s real from what’s just made up. It captures the essence of a storyline that's so absurd it doesn't follow any logical path, kind of like an imaginary arc that's impossible to trace with a straight line.
+## Chinese Explanation
+**幻觉弧线 (Huan juo hua xian)**: 这个网络用语通常在非正式的聊天或讨论中被使用，用来形容一种情节或情境太过荒诞不合逻辑，以至于它扭曲了真实世界的观感，就像一条看似弯曲、难以追根溯源的弧线。它描绘了一个如此荒谬的叙事，以至于它完全没有按照任何逻辑发展，就像是一个无法用直线描绘的虚幻弧线。
+---
+Both explanations highlight the nature of the term where a distorted or unrealistic arc is depicted, making it easy to understand in both English and Chinese contexts.
 ```

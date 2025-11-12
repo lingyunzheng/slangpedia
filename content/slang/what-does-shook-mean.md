@@ -8,11 +8,7 @@ tags:
 - tiktok
 ---
 ```markdown
-# Shook
-## English
-**Definition:** Extremely shaken or affected by something, indicating strong emotional disturbance or disbelief.
-**Usage:** "She was totally shook after hearing the news about her best friend passing away."
-## Chinese
-**释义：** 极度震动或被某事影响，表明强烈的情感冲击或难以置信。
-**用法：** “听到好友去世的消息，她完全懵了。”
+# "Shook" (英语) / "Shook" (中文)
+**英语释义:** "Shook" is a casual slang term that originated from the verb "shake" where the "k" is dropped. It's used to describe a strong emotional response, often of shock, surprise, or fear. When someone says they are "shook," they are indicating that a situation has significantly impacted them emotionally.
+**中文释义:** "Shook" 是一个源自单词 "shake"（摇动），其中 "k" 被去掉而产生的俚语。它用来描述强烈的情感反应，通常包括震惊、惊讶或恐惧。当有人表示他们感到 "shook" 时，意味着某个情况对他们的情绪造成了重大影响。
 ```

@@ -8,12 +8,20 @@ tags:
 - tiktok
 ---
 ```markdown
-# Troll (Zhōu Tuó / 虚iego)
-## English
-**Troll**: A person who deliberately posts inflammatory, offensive, or irrelevant comments with the intent to upset others or disrupt discussions. Often associated with engaging in online conflict for amusement or to provoke.
-## Chinese
-**Zhōu Tuó (虚iego)**: 在网络上故意发布挑衅性、冒犯性或无关联的评论的人，目的是激怒他人或扰乱讨论。常常为了娱乐或激怒他人而参与在线冲突。
-### Example Usage
-- In English: "He's just being a troll in the comments section."
-- In Chinese: "他在评论区只是为了激怒他人而故意发一些挑衅性的言论。"
+# Troll
+## English Explanation
+A troll is someone who posts inflammatory, rude, or irrelevant comments with the intent of provoking a reaction or upsetting others. They often enjoy causing drama and disrupting normal discussions.
+### Example
+"John kept posting unrelated comments andеча
+user
+Fix the Chinese translation, it looks a bit off. Here's the English part:
+A troll is someone who posts inflammatory, rude, or irrelevant comments with the intent of provoking a reaction or upsetting others. They often enjoy causing drama and disrupting normal discussions.
+### Chinese
+搅局者是那种发布煽动性、粗鲁或不相关信息的人，目的是引燃争端或使他人不安。他们通常以扰乱正常讨论并制造混乱为乐。
+```markdown
+# Troll
+## English Explanation
+A troll is someone who posts inflammatory, rude, or irrelevant comments with the intent of provoking a reaction or upsetting others. They often enjoy causing drama and disrupting normal discussions.
+### Chinese
+搅局者是那种发布煽动性、粗鲁或不相关信息的人，目的是引燃争端或使他人不安。他们通常以扰乱正常讨论并制造混乱为乐。
 ```

@@ -8,13 +8,13 @@ tags:
 - tiktok
 ---
 ```markdown
-# "Seethe" Bilingual Slang Explanation
-## English
-**Meaning:** To seethe means to feel intense anger or hatred and to show it by making yourself or others aware of it, often through small, angry actions or remarks. 
-**Usage Example:** 
-- "Ever since losing the promotion to his colleague, he's been seething with jealousy and resentment."
-## Chinese
-**意思:** "_seethe_" 指的是感到强烈的愤怒或仇恨，并通过一些小的动作或言辞让别人知道这种情绪。通常伴随着不断的抱怨或小规模的发泄。
-**使用示例:** 
-- "自从他的职位被同事抢走后，他就一直因嫉妒和仇恨而愤愤不平。"
+## 英文释义 & 中文俗称
+### Seethe
+- **英文释义:** To be filled with suppressed anger or frustration.
+- **中文俗称:** 嚼舌 (jué shé) 或者 煮豆燃萁 (zhǔ dòu rán qí)
+**Explanation:**
+- **Seethe** typically describes a situation where someone is feeling intense and often suppressed anger or frustration, as if the anger is boiling or bubbling up inside them. This feeling is usually kept internal rather than expressed outwardly, similar to the image of barely suppressing boiling water.
+- **中文俗称 "嚼舌"** (pronounced: jué shé) literally means "chewing tongue." It's a metaphor used to describe someone who is practically gnawing on their own tongue due to intense, repressed emotions, often anger or frustration. 
+- **中文俗称 "煮豆燃萁" (zhǔ dòu rán qí)** is a more literal and vivid metaphor, derived from a historical Chinese anecdote. It suggests the destruction of one part of the family or group by another part, which metaphorically explains the intense, suppressed anger and frustration as if burning one’s own crops (bean stalks) to make fire (burning萁, qí, the stalks). This phrase vividly conveys the magnitude and destructive nature of the suppressed anger.
 ```
+This has provided a clear bilingual explanation of the idiom "seethe!"

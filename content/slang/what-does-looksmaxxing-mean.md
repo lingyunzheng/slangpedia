@@ -10,7 +10,11 @@ tags:
 ```markdown
 # looksmaxxing
 **English:** 
-"Looksmaxxing" is a slang term used primarily in social media and online communities to describe someone who is deliberately trying to appear extremely attractive or put together in their appearance, especially for an audience, often through excessive efforts or use of filters/posts that may not reflect their true appearance. 
-**Chinese:**
-"Looksmaxxing" 是一个主要在社交媒体和网络社区中使用的俚语，用来形容某人故意试图显得极其有魅力或整齐的形象，特别是为了吸引观众，通常伴随着过度的努力或使用滤镜/帖子，并不一定真实反映其真正面貌。
+A term used to describe someone or something that is extremely attractive or stylish to an excessive degree. It's often used in a sarcastic or mocking way to point out that the person or thing is trying too hard to be appealing.
+**中文:**
+用来形容某人或某样东西极其吸引人或时尚到极点。通常是在一种带有讽刺或嘲讽意味的方式下使用，指某人或某物过于努力地试图吸引人。
+Example Usage:
+- English: She’s really looksmaxxing tonight with her new outfit.
+- 中文: 她今天的新穿搭真是过度秀恩爱了。
 ```
+This markdown format allows for easy reading and reference, with clear sections for both English and Chinese explanations.

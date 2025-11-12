@@ -8,12 +8,11 @@ tags:
 - tiktok
 ---
 ```markdown
-# Ratio (English-Chinese Slang)
+# Ratio (Slang)
 ## English
-**Ratio**: A casual way of expressing the comparison of one thing to another. Often used in digital platforms like social media to refer to a situation where someone comments negatively on another person's post.
-## Chinese
-**比例（ratio）**: 一种非正式表达方式，用于比较两个事物之间的关系。在社交媒体等数字平台上，通常用来形容一个人在其发布的帖子被他人负面评论时的情况。
-- **Example**: "That video got a 10:1 comment ratio, people just can't resist criticizing it."
-- **译文**: “那个视频的评论比例是10:1，人们就是没法不对其进行批评。”
-- **Note**: This term is often used to describe situations where the relationship between positive and negative interactions is highly unbalanced.
+**Ratio**: A casual term referring to the comparison between two things, often used to measure competitiveness, quality, or desirability. It's commonly thrown around in social media and discussions, where people might debate about who is more attractive, knows more jokes, or has cooler gadgets based on their relative merits.
+*Example:* "It's all about the ratio these days – who has the most likes and followers?"
+## 中文
+**比基**: 一个 casual 俚语，常用来表示两个事物之间的比较，用来衡量竞争、质量和吸引力。这个术语在社交媒体和讨论中很常见，人们可能会争论谁更迷人、笑话更多，或者设备更酷，基于他们的相对美德。
+*例子:*“现如今比基全都关乎数值 – 谁的关注量和粉丝更多？”
 ```

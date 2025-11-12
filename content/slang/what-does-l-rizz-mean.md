@@ -8,7 +8,9 @@ tags:
 - tiktok
 ---
 ```markdown
-### L rizz
-**英语释义**: L rizz is a playful way of referring to someone who is witty, clever, or just generally good at making others laugh. It often describes a person with a sharp sense of humor or a charming personality that makes them very popular among friends or social circles.
-**中文释义**: "L 咚咚"（发音类似于“L rizz”）是用来形容一个人聪明又搞笑的 slang 词。这个词 often 用来描述那些有敏锐幽默感或迷人的个性，让人身边的人都非常开心的朋友们。
+# L rizz
+**English Explanation:**  
+L rizz is a popular internet slang term that originated on social media, particularly on platforms like TikTok. It refers to a confident or sarcastic attitude, often accompanied by a certain level of self-assuredness. The term "L" is used to denote a person who is being cheeky or sassy, and "rizz" comes from the Italian word "riga" which can mean "line" or "presence," hence conveying the idea of having a certain cool or stylish presence.
+**Spanish Explicación:**  
+El término "L rizz" es una expresión coloquial en internet queOriginó en plataformas sociales como TikTok. Se utiliza para describir una actitud confiada o sarcástica, a menudo acompañada de una cierta level de autosuficiencia. La letra "L" se usa para indicar a alguien que es rebuscado o soso, y "rizz" proviene de la palabra italiana "riga," que puede significar "línea" o "presencia," por lo que sugiere la idea de tener un cierto aire cool o sofisticado.
 ```

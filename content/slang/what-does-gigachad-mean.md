@@ -8,9 +8,9 @@ tags:
 - tiktok
 ---
 ```markdown
-## Gigachad (Gē Jiā Chǎd)
-### English:
-**Gigachad:** A term originally coined from a deepfake image of a muscular male, this term is now widely used to describe anyone with an exceptionally fit or chiseled physique. It's used in situations where someone has a very impressive or attractive body, essentially meaning they have "giga" (extremely large) Chad (a nickname for a man with a good-looking, muscular body).
-### 中文:
-**gigachad:** 这个词最初来源于一个合成的肌肉男深仿图，现在广泛用于描述那些有着极其健硕或轮廓分明身材的人。这个词语用来形容某人身体非常健壮或有吸引力，意即“giga”（极大的）Chad（“查德”一名，常用来指一位身体健美、帅气的男性）。
+## Gigachad
+**English Explanation:**  
+"Gigachad" is a portmanteau of "giga" (meaning extremely large or high-quality) and "Chad," which is a slang term often used to describe someone who is physically fit and attractive. Typically, a person labeled as "gigachad" is considered to be exceptionally muscular, tall, and in very good physical condition. The term is often used in online communities, especially among fitness enthusiasts and gamers, to describe an ideal physical build that is aspirational.
+**中文解释:**  
+“Gigachad” 是由“giga”（意为非常大或高质量）和“Chad”（通常用来形容 physique 良好、吸引人的男性）两个词组成的 portmanteau。通常，“gigachad” 用来形容一个极度肌肉发达、身材高大且身体状况极佳的人。这个词常被用在网络社区中，特别是在健身爱好者和游戏玩家之间，用来形容一种极受人仰慕的身体形态。
 ```

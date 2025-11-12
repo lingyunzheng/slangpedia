@@ -8,9 +8,12 @@ tags:
 - tiktok
 ---
 ```markdown
-## Cringe 🙈
-**English:** 
-"Cringe" is a term used to describe something or someone that is extremely awkward, embarrassing, or socially uncomfortable. It often implies that the situation, action, or statement is so bad that it elicits an involuntary winced or visible signs of discomfort from the observer.
-**中文：**
-“Cringe”是用来形容某事或某人的极度尴尬、令人尴尬或社交上不舒服的情况。它通常意味着这种情况、行为或言论如此糟糕，以至于会让旁观者产生一种不自觉皱眉或表现出尴尬的反应。
+# Cringe
+## English
+**Cringe**: A term used to describe something or someone that is socially awkward, embarrassing, or off-putting. It often implies that the subject in question is so bad or so inappropriate that it makes people involuntarily wince or feel uncomfortable.
+*Example*: "Their fashion choices at the party were cringe."
+## Chinese
+**cringe**: 用来形容某人或某事令人感到尴尬、尴尬到让人内心不适或觉得难为情的。一般意味着被描述的事物如此糟糕或如此不合适，以至于让人不由自主地皱眉或感觉不舒服。
+*例句*: "他们在派对上的穿着选择真是让人尴尬到想回避。"
 ```
+This markdown format provides clear translations and examples for both the English and Chinese slang terms, making it easy to understand the usage in both languages.

@@ -8,14 +8,9 @@ tags:
 - tiktok
 ---
 ```markdown
-# Slang Term: "Swole" 🌟
-## English Explanation:
-**Swole** is slang used to describe muscles that are significantly large and well-defined. It's often used in the context of bodybuilding or fitness, indicating that someone has experienced significant muscle growth.
-### Example Usage:
-- "I can't believe John got so swole from his weightlifting routine."
-## Chinese Explanation:
-**“Swole”** 是一种俚语，用来形容肌肉异常发达且明显可见。它通常用于健身或练肌肉的语境中，表示某人经历了明显的肌肉增长。
-### 例句：
-- “我简直不敢相信约翰的举重训练让他变得多‘swole’。”
+## Swole
+### English
+**Swole**: A slang term used to describe a heavily developed or muscular physique, especially a more exaggerated look that is often emphasized for aesthetic or visual appeal. It often refers to muscles that are visibly defined and may even appear pumped or swollen, hence the word 'swole'.
+### Chinese
+**Swole**: 这是一个俚语，用来描述一种肌肉发达且特别引人注目的体型，尤其是在视觉上更为突出的情况下。通常指的是那些明显可见且可能显得充满肌肉的肌肉，所以用 'swole' 这个词来描述这种状态。
 ```
-This format provides both the English and Chinese explanations side by side, with examples to illustrate usage in context.

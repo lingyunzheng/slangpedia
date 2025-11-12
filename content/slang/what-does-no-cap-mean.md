@@ -9,5 +9,16 @@ tags:
 ---
 ```markdown
 ## no cap
-- **English**: Don't take me literally. I'm not exaggerating or being serious about what I'm saying. It's more of a cool, laid-back way to say "It's not a big deal" or "I'm just being casual."
-- **中文**: 不带帽儿。不要当真，我没有夸张或者认真地说这些话。这是一种更酷的、闲聊的方式来说“这不重要”或“我只是随便说说”。
+**English:**  
+"Don't hold back in any way; be completely honest and straightforward."  
+Often used to emphasize authenticity or directness. It implies that someone is not exaggerating or being insincere.
+**Chinese (Mandarin):**  
+“一点不含糊；完全诚实和直接。”  
+通常用于强调真诚或直接性。表示某人没有夸张或不真诚。
+Example Usage:
+- English: "I'm telling you, it rained so hard, the streets were flooded, no cap!"
+- Chinese (Mandarin): "我跟你说，下得那么大，街头都淹了，一点不含糊！"
+**Pronunciation:**
+- English: /noʊ kæp/
+- Chinese (Pinyin): yīdiǎn bù hánhú /  jet-dyn bah-hoh/
+```

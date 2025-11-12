@@ -8,12 +8,13 @@ tags:
 - tiktok
 ---
 ```markdown
-## Bilingual Slang Explanation: "no thoughts head empty"
-**English:**  
-- **Meaning:** This phrase is used to describe a situation where someone is completely uninterested, has no opinion, or is in a state of being utterly bored or distracted. It's often used in casual conversation to indicate that a person is not paying attention or thinking about the topic at hand.
-**Example Sentence:**  
-- "The lecture was so boring that my head was completely empty—no thoughts at all."
-**Chinese:**  
-- **意思:** 这个短语用来描述某人完全不感兴趣、没有看法, 或者处于极度无聊或分心的状态。它通常在非正式的对话中用来表示一个人没有关注或没有思考当前的话题。
-- **例句:** "讲座太无聊了，我的脑袋全是空的，连个想法都没有。"
+# "No Thoughts Head Empty" Slang Explained
+## English: "No Thoughts Head Empty"
+- **Meaning**: Describes a state of being confused, unsure, or without any clear idea or plan.
+- **Context**: This phrase can be used in situations where someone is asked to make a decision and they have no idea what to do or think.
+- **Example**: "After all the information was given, Sarah still had no thoughts head empty and needed more time to understand it."
+## 中文: "头空无想法"
+- **意思**：形容头脑一片空白，缺乏清晰的想法或计划。
+- **用法**：当别人提供了信息或建议，但对方仍然毫无头绪时，可以用这个短语。
+- **例子**："在所有信息提供完之后，莎拉仍然头空无想法，需要更多时间来理解这一切。"
 ```

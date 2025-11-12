@@ -8,11 +8,11 @@ tags:
 - tiktok
 ---
 ```markdown
-## finna
-### English
-**Definition**: An informal contraction for "fixing to" or "gonna" (going to), often used in southern U.S. English.
-**Example**: "I finna head to the store after work." (I'm going to head to the store after work.)
-### 中文
-**释义**：这个俚语是“fixing to”或“gonna”（打算、准备）的非正式缩写，在美国南部地区的英语中经常使用。
-**例句**： "I finna head to the store after work." 意思是“我打算下班后去商店。”
+# Finna
+## English
+**Finna** is a slang term used primarily in the Southern United States, often by young people. It's a contraction of "fixin' to," which means "about to" or "getting ready to." For example:
+- "I'm finna hit the store after work." (I'm about to go to the store after work.)
+## Spanish
+**Finna** en español se usa principalmente en partes del sur de Estados Unidos y entre jóvenes. Es una contracción de "frecin' a" (aunque esta forma no es oficial), que significa "a punto de" o "a punto de hacer algo." Por ejemplo:
+- "Voy finna al supermercado después del trabajo." (Me voy a la tienda después del trabajo.)
 ```

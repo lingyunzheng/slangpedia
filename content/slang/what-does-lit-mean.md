@@ -8,9 +8,13 @@ tags:
 - tiktok
 ---
 ```markdown
-# Lit (英语) / 火 (中文)
-**English Explanation:**
-"Lit" is a slang term often used to describe something or someone that is exciting, energetic, or impressive. It can also mean that a place is crowded and lively. For example, you might say "The party was lit" if the party was really fun and lively.
-**中文解释:**
-“Lit”是一个常用的俚语，用来形容令人兴奋、充满活力或非常精彩的事物或人。它还可以用来表示一个地方非常热闹拥挤。比如，如果你觉得某个聚会非常热闹有趣，你会说 "聚会很火"。
+# Lit (Liten)
+**English**: Spicy, impressive, or exciting.
+**Chinese**: 爆炸的 (Blast-dee) - 表示某人或事物非常精彩、吸引人或令人印象深刻。
+Example Usage:
+- English: That party was lit!
+- Chinese: 那个派对超级 blast-dee！
+- English: Their new album is lit!
+- Chinese: 他们的新专辑超级 blast-dee！
+This term can be used to describe almost anything that is really good or exciting. It's a fun and casual way to express that something is noteworthy or impressive.
 ```

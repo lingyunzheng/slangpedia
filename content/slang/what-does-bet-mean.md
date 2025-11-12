@@ -8,16 +8,9 @@ tags:
 - tiktok
 ---
 ```markdown
-# Slang Explanation: Bet
-**English**: Bet  
-**中文**: 大赌注 / 判断 / 打赌
-**Definition**:
-- **大赌注**: Refers to a significant bet or wager, often in a game or a contest involving money.
-- **判断**: Can mean "gut feeling" or "judgment" in casual contexts, implying a confident prediction or decision without clear evidence.
-- **打赌**: More commonly used, it means placing a bet or making a wager on the outcome of something. It can also be used figuratively to express confidence in the correctness of a statement.
-**Usage Examples**:
-- If someone says, "I bet you won't believe this," they are expressing confidence that their statement or claim is so surprising or certain that the listener won't believe it.
-- In a game context, "He bet all his chips on the red," means he wagered all his available money on the color red in roulette.
-- "She's making a big bet on her new business idea," where "big bet" suggests a significant financial or risky investment in something new.
+## bet
+### English
+**Bet:** A wager or a risk, usually involving money, on the outcome of an event or situation. If you "take a bet" on something, you're agreeing to predict or gamble on the result. Example: "I bet it's going to rain tomorrow!"
+### 中文
+**bet:** 一种通常涉及金钱的赌注或押注，是对事件或情况结果的预测或赌博。如果你对某事“下了注”（take a bet），就是在预测或冒险赌这个结果。例句：“我打赌明天下雨！”
 ```
-Feel free to use these explanations in your document or adjust them as needed!

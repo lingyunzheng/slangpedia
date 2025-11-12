@@ -8,10 +8,14 @@ tags:
 - tiktok
 ---
 ```markdown
-# Simplified Chinese (Simp) Slang: 简直是“秀儿” (Qiánjí shì “Xiù’ér”)
-## English Explanation
-**Simp**: A person who is overly impressed by or easily convinced by a person's outward appearance, often seen as unoriginal or superficial. This term is often used to describe someone who is overly focused on dating or personal attractiveness, to the detriment of other qualities.
-## Chinese Explanation
-**简 之 是“秀儿” (Qiánjí shì “Xiù’ér”)**: 这个人对他人外表的印象过于强烈，容易被他人外表所吸引或被轻易说服，常常给人一种乏味或肤浅的感觉。这个词常用来形容一个人过于注重 dating 或个人魅力，而忽略了其他重要的品质。
+# Slang Term: "Simp"
+## Chinese: 瘊子
+**Literal Meaning**: Sufferer
+**Explanation**: 
+In Chinese internet slang, "痢子" (simplified as "(simp") is used to refer to a male who is excessively and unrealistically infatuated with women, often behaving in a very submissive or flattering manner towards them. They often have a tendency to make all kinds of unwarranted assumptions or guesses, and can be perceived as overly emotional, dependent, and naive. 
+This term typically carries a negative connotation, emphasizing a person's lack of self-respect and inappropriate behavior. It captures the essence of someone easily swayed by others, constantly seeking validation, and displaying behavior that can be seen as unmanly or immature.
+## English: "Simp"
+**Literal Meaning**: Enthusiast
+**Explanation**: 
+In English internet slang, "Simp" specifically refers to a man who is overly infatuated with a woman, to the point of excessive attention-seeking and submissiveness. This moniker is often used to describe someone who falls into a situation of unrequited love and desperately tries to win the object of his affection's heart. A simp is characterized by making unwarranted assumptions, acting jealousy-inspired, and often displaying behavior deemed unmanly or naive by others. The term is similarly used in a negative light, highlighting the person's perceived lack of self-respect or self-confidence.
 ```
-Note: The translation provided is a direct explanation of the term "simp" and the provided phrase "简 之 是“秀儿” (Qiánjí shì “Xiù’ér”)" is a creative translation and not a direct word-for-word translation of "simp".

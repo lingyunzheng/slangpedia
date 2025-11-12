@@ -8,10 +8,11 @@ tags:
 - tiktok
 ---
 ```markdown
-### Mother is Mcontenting (Chinese: 妈妈在妈生)
-**English:** "Mother is mothering"
-- **Explanation:** When someone says "mother is mothering," they mean that the mother is taking care of someone or something with a nurturing and caring attitude. It implies that the mother is being very protective, attentive, and possibly overbearing, similar to how a mother cares for her child.
-**Chinese:** 妈妈在妈生 (Māma zài māshēng)
-- **Explanation:** This phrase means the same thing as "mother is mothering" but is phrased in a way that includes the tone. “妈生” (māshēng) is a colloquial term that captures the nurturing and sometimes overprotective behavior typical of a mother. It can also imply an overly dominating or controlling presence. The word “妈” (mā) at the beginning emphasizes that it is a mother who is doing the action.
+## "Mother is Mothering"
+**English:**
+- **Meaning:** When someone is mothering, they are showing caring, nurturing, and protective behavior, typically towards a child, but can also extend to older individuals or even to situations or objects.
+- **Example:** "When my sister didn't know what to do, my mom started mothering her, checking in on her frequently and offering advice."
+**中文:**
+- **含义:** 当某人表现出母亲般的关怀、养育和保护行为时，我们说他们在“母亲”。这种行为通常针对的是孩子，但也可以扩展到更年长的人，甚至是对情况或物品。
+- **例句:** “当妹妹迷茫不知所措时，妈妈开始‘母亲’她，频繁地检查她的状况并提供建议。”
 ```
-This breakdown gives you a clear understanding of the meaning and usage in both English and Chinese.

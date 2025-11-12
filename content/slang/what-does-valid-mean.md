@@ -8,15 +8,11 @@ tags:
 - tiktok
 ---
 ```markdown
-# Valid (Valid)
+# Valid
 ## English
-**Meaning:** 
-- Something that is considered acceptable, correct, or proper.
-**Example Sentence:**
-- "Wearing sneakers to work is totally valid these days!"
-## 中文
-**含义：**
-- 表示被认为是可接受、正确或妥当的事物。
-**例句：**
-- “穿运动鞋去上班现在完全没问题！”
+- **Definition**: Something that is considered to be correct or acceptable.
+- **Slang Example**: "His claiming to know about jazz is valid if he's been to New Orleans."
+## Chinese
+- **定义**: 被认为是正确或可接受的。
+- **俚语示例**: "如果他去过新奥尔良，那么他声称知道爵士乐就是有道理的。"
 ```
