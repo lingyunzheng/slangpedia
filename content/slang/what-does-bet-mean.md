@@ -1,32 +1,28 @@
 ---
 title: "What Does 'bet' Mean? (bet 是什么意思？)"
 slug: "what-does-bet-mean"
-date: 2025-11-11
-tags:
-  - slang
-  - internet
-  - tiktok
+date: 2025-11-12
+tags: [slang, internet, tiktok]
 ---
 
-# What does "bet" mean?（bet 是什么意思？）
+```markdown
+## Bet (英 / 美)
 
-## English Meaning:
-(Used as a wager or to make a guess with a high degree of confidence.)
+### English
+**Bet:**
+- **Literal Definition:** A wager or a bet is a wager where you stake a sum of money on the outcome of an uncertain event.
+- **Slang Usage:** Often used to express certainty or to challenge someone, similar to saying "I'm sure" or "I bet you can't."
 
-**中文解释：**  
-(作为打赌或以极高的自信程度来猜测的意思。)
+Example: "I bet you can't finish this game in under 10 minutes!" (我打赌你一分钟都用微信小游戏打不完！)
 
-### Examples / 例句
-1) English sentence: I bet it's going to rain tomorrow.
-   中文翻译: 我敢打赌明天要下雨。
-2) English sentence: You bet! That's exactly what I was thinking.
-   中文翻译: 当然！正是我想的那样。
+### Chinese
+**打赌:**
+- **直白定义:** 打赌是指在某个不确定事件的结果上押下一定数额的钱。
+- **俚语用法:** 常用来表达你的信心或者挑战某人，类似于说“我肯定”或者“我敢打赌你做不到”。
 
-### Origin / 来源背景
-The term "bet" has its roots in gambling activities, where participants stake money or something of value on the outcome of an event. The phrase has evolved to be used more broadly, often to express strong agreement or to make a confident guess.
+例句: "我打赌你一分钟都用微信小游戏打不完！" (I bet you can't finish this game in under 10 minutes!)
 
-### Synonyms / 相似表达
-- Guarantee
-- Swear
-- Confirm
-- Agree
+```
+
+**See also:**
+- /slang/

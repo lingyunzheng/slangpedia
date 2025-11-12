@@ -1,34 +1,27 @@
 ---
 title: "What Does 'yeet' Mean? (yeet 是什么意思？)"
 slug: "what-does-yeet-mean"
-date: 2025-11-11
-tags:
-  - slang
-  - internet
-  - tiktok
+date: 2025-11-12
+tags: [slang, internet, tiktok]
 ---
 
-# What does "yeet" mean?（yeet 是什么意思？）
+```markdown
+## Yeet
 
-**English Meaning:**  
-"Yeet" is an internet slang often used to express excitement, enthusiasm, or approval. It's commonly employed in the context of throwing or ejecting something, but the term has become much more expansive, and can be used for any context where excitement is appropriate.
+### English
+**Definition:** To throw something or someone away with force, often used in a dismissive or enthusiastic manner.
 
-**中文解释：**  
-"Yeet" 是网络用语，常用来表达兴奋、热情或赞许。这个词通常用于表示投掷或推出某物的情景，但词义变得更为宽泛，可以在任何需要表达兴奋的情境中使用。
+**Usage Examples:**
+- "I just realized this job isn't for me, so I'll yeet it."
+- "She was not impressed by his attempt at humor, so she yeeted his joke out of the room."
 
-### Examples / 例句
-1) English sentence: "I just scored a goal, yeet!"  
-   中文翻译: "我刚刚进球了，耶特！"
+### 中文
+**释义：** 形容用力将某物或某人扔掉，常用于表达一种轻蔑或热情的态度。
 
-2) English sentence: "Yeet, let's go to the party!"  
-   中文翻译: "耶特，我们去参加派对吧！"
+**使用示例：**
+- "我意识到这份工作不适合我，所以我将它扔掉了。"
+- "她对他的幽默尝试不以为然，所以她把他的笑话扔出了房间。"
+```
 
-### Origin / 来源背景
-"Yeet" originally comes from the popular dance move in the video game Grand Theft Auto Online, where players throw their hands up while saying "yeet." The term has since spread to various platforms and is often used in social media posts and chat messages as an enthusiastic exclamation.
-
-### Synonyms / 相似表达
-1. Vhyked (一种变体形式)
-2. ASCII (一种表达兴奋的方式)
-3. Zap (表示激赏或投掷)
-4. Bam (一种类似"yeet"的过时表达)
-5. Wow (一种常见的感叹表达)
+**See also:**
+- /slang/

@@ -1,35 +1,37 @@
 ---
 title: "What Does 'no cap' Mean? (no cap 是什么意思？)"
 slug: "what-does-no-cap-mean"
-date: 2025-11-11
-tags:
-  - slang
-  - internet
-  - tiktok
+date: 2025-11-12
+tags: [slang, internet, tiktok]
 ---
 
-# What does "no cap" mean?（no cap 是什么意思？）
+```markdown
+## "No Cap"
 
-**English Meaning:**
-"No cap" is a phrase used to indicate that what is being said is completely honest and true, and not exaggerated or false. It is a way to assure the listener that the speaker is not "pulling their leg" or being deceptive.
+**English:**  
+Commonly used to clarify that what is being said is genuine and not exaggerated. It's a way of saying, "I'm not kidding" or "That's the truth."
 
-**中文解释：**
-“no cap”是一个表示说话内容完全真实、没有夸大的说法。这句话用来保证听者，说话者没有“开玩笑”或者在说谎。
+**Chinese (简体中文):**  
+通常用来表明所言非虚，不是夸张的说法。相当于说，“我没开玩笑” 或 “那是真的”。
 
-### Examples / 例句
+**Example Usage:**
+- English: "I ran 10 miles today, no cap."
+- Chinese: “今天我跑了10英里，真的，没骗你。”
+```
 
-1) English sentence: "I ran a marathon yesterday just to pick up a dry cleaning for my mom." (no cap)
-   中文翻译: 昨天我跑了一场马拉松只是为了帮我妈妈取干洗衣服。（no cap）
+```markdown
+## "No Cap"
 
-2) English sentence: "I got a confirmation email from my dream university offering a scholarship." (no cap)
-   中文翻译: 我收到了一封来自梦校的电子邮件，上面提到他们会给我提供奖学金。（no cap）
+**English:**  
+Sometimes used to express surprise, disbelief, or to check if someone is exaggerating. It can also be a casual way of agreeing or nodding along to what someone is saying.
 
-### Origin / 来源背景
-The phrase "no cap" has its roots in African-American Vernacular English (AAVE). The exact origin is unclear, but it is likely related to the slang term "cap," which can mean "liar" or "disrespectful." Using "no cap" essentially negates the negative connotation of the term, confirming诚信诚实的意思。
+**Chinese (简体中文):**  
+有时用来表达惊讶、怀疑或确认对方是否夸大其词。也可以作为一种 casual 方式表示认同或附和。
 
-### Synonyms / 相似表达
-1. No filter
-2. For real
-3. Straight up
-4. Truth be told
-5. Authentic
+**Example Usage:**
+- English: "She won the lottery and is quitting her job, no cap?"
+- Chinese: “她中了彩票还辞职了，你信不？没开玩笑？”
+```
+
+**See also:**
+- /slang/

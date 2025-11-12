@@ -1,34 +1,23 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2025-11-11
-tags:
-  - slang
-  - internet
-  - tiktok
+date: 2025-11-12
+tags: [slang, internet, tiktok]
 ---
 
-# What does "bruh" mean?（bruh 是什么意思？）
+```markdown
+## Bruh (Common in English and various internet languages)
 
-**English Meaning:**  
-"Bruh" is an interjection used to express surprise, disbelief, or frustration. It is often used to add emphasis or to create a laid-back, casual tone in conversation.
+**English Explanation:**
+- "Bruh" is a slang term derived from "brother." It's used to express surprise, disbelief, or anything that’s a bit unbelievable. It's typically said with a raised pitch at the end to emphasize the emotion.
 
-**中文解释：**  
-“bruh”是一个感叹词，用来表达惊讶、不可思议或不满的情绪。它通常用于强调或在对话中营造一种轻松随意的语气。
+- Example: "That movie was so long, bruh!"
 
-### Examples / 例句
-1) English sentence: "Bruh, that was intense!"
-   中文翻译: 哦我的天，那真是一场大战！
+**Chinese Explanation:**
+- 在英语和各种网络语言中，“bruh” 是一个“兄弟”的缩写。它用来表达惊讶、不信或者任何觉得难以置信的事情。通常在说这句话时会把声调抬高来强调情绪。
 
-2) English sentence: "Bruh, this traffic is a nightmare."
-   中文翻译: 哦我的天，这交通真是噩梦！
+- 例句：这部电影好长，bruh！
+```
 
-### Origin / 来源背景
-"Bruh" seems to have originated from the early 2000s, emerging as a variant of "bro" (a shortened form of "buddy" or "brother"). The exact origin of the word is debated, but it gained popularity through online forums and social media.
-
-### Synonyms / 相似表达
-1. Dude
-2. Guy
-3. Man
-4. Y'all
-5. Yo
+**See also:**
+- /slang/
