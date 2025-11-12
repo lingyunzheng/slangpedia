@@ -1,0 +1,33 @@
+{{ define "main" }}
+<main class="prose max-w-none dark:prose-invert">
+  <article>
+    <h1 class="text-3xl font-bold mb-4">{{ .Title }}</h1>
+
+    <div class="text-sm text-gray-500 mb-6">
+      {{ .Date.Format "2006-01-02" }}
+      {{ with .Params.tags }}
+        — {{ range $index, $tag := . }}
+          {{ if $index }}, {{ end }}<a href="/tags/{{ $tag | urlize }}/">#{{ $tag }}</a>
+        {{ end }}
+      {{ end }}
+    </div>
+
+    <div class="article-content">
+      {{ .Content | markdownify }}
+    </div>
+
+    <hr class="my-8">
+
+    <div class="related mt-8">
+      <h2 class="text-xl font-semibold mb-3">🔗 Related Slang</h2>
+      <ul class="list-disc pl-5">
+        {{ range first 5 (where .Site.RegularPages "Section" "slang") }}
+          {{ if ne .RelPermalink $.RelPermalink }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+  </article>
+</main>
+{{ end }}
