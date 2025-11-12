@@ -40,10 +40,10 @@ tags: [slang, internet, tiktok]
 
 if __name__ == "__main__":
     words = get_slang_list()
-    text = generate_batch(words)  # 🔥 一次生成全部内容
-    blocks = text.split("# What does")
-    for block in blocks:
-        block = block.strip()
-        if not block: continue
-        first_word = block.split('"')[1] if '"' in block else block.split()[0]
-        save_post(first_word, "# What does " + block)
+    for w in get_slang_list():
+    try:
+        content = generate_batch([w])  # 每个词单独生成
+        save_post(w, content)
+    except Exception as e:
+        print(f"❌ Error on {w}: {e}")
+
