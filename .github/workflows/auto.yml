@@ -34,6 +34,9 @@ jobs:
           SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
         run: python scripts/generate_slang.py
 
+      - name: Clean markdown format
+        run: python scripts/clean_md_format.py
+
       - name: Commit and push changes
         run: |
           git config --global user.name "auto-bot"
