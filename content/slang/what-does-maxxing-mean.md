@@ -8,9 +8,11 @@ tags:
 - tiktok
 ---
 ```markdown
-# Maxxing
-## English
-**Maxxing** is a colloquial term derived from the word "maxing" but has taken on a more specific connotation over time. It often refers to achieving the highest level of satisfaction, enjoyment, or intensity in an activity, especially in a sexual context. Beyond that, it can be used to describe any kind of extreme experience or reaching peak performance.
-## Chinese 
-**Maxxing** (最大限度地享受) 是一个源自“maxing”的俚语，但随着时间的发展，其含义更具体了。它通常指在某个活动中达到最高的满足感、愉悦感或强度，尤其是在性活动中的用法最为常见。此外，这个词也可以用来描述任何极致的体验或达到最佳表现。
+## Maxxing
+### English
+**Meaning**: To push something or someone to their absolute limits. Often used in contexts where performance or endurance is being tested to the utmost.
+**Example**: "He was maxxing himself out by training 12 hours a day to prepare for the marathon."
+### 中文
+**意思**：将某人或某物推到极致，通常用于描述在测试性能或耐力时将其发挥到极限。
+**例句**："为了准备马拉松，他每天训练十二个小时，几乎把自己榨干了。"
 ```

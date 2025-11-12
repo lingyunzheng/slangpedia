@@ -7,14 +7,10 @@ tags:
 - internet
 - tiktok
 ---
-Certainly! Here are the bilingual slang explanations for "based" in Markdown format:
 ```markdown
-## Based
-### English
-**Description**: The term "based" is an informal slang that essentially means something or someone is impressive, well-equipped, or is making moves that others consider cool or strong.
-**Example**: "That new artist is really based with those catchy songs."
-### 中文
-**释义**："Based" 是一个非正式的俚语，本质上是指某事或某人是令人印象深刻的、装备齐全的，或者在做一些别人认为酷或强大的事情。
-**例句**："那个新歌手真的出活儿了，甜甜的歌都那么有吸引力。"
+# Based
+**English:** 
+"Based" is a slang term that originated in hip-hop culture and has since spread to other forms of social media and everyday language. It typically means that something or someone is real, authentic, or impressive. It can also imply that someone is proud or unaware of the irony in their actions or statement, even if a situation is unreasonable.
+**中文:**
+"Based" 是一种源自嘻哈文化的网络俚语，现在已在社交媒体和日常语言中广泛使用。这个词通常用来形容某事或某人是真实的、真实的、令人印象深刻或有说服力。有时，它还用来表示某人很自以为是或者对他们的行为或言论中的逻辑荒谬性缺乏认识。
 ```
-This format provides a clear, concise explanation of the term "based" in both English and Chinese, accompanied by illustrative examples for better understanding.

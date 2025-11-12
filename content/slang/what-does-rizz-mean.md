@@ -8,15 +8,11 @@ tags:
 - tiktok
 ---
 ```markdown
-## Rizz (American English)
-### Explanation:
-**Rizz** is a playful and informal slang term that describes a confident, cool, or stylish demeanor. It's often used to describe someone who exudes a certain level of coolness or charisma.
-### Example Usage:
-- "He really put on his best outfit and had some rizz for the party."
-## リズ (Rizz in Japanese)
-### Explanation:
-**リズ (Rizz)** は、自信There's a playful and informal slang用語，在描述一个人时，意味着他们具有某种自信、酷或有魅力的形象。它经常用来形容某人在某个场合中显得十分cool。
-### 例句：
-- 彼はパーティーのために最良の服装を着て、リズを放った。
-(He wore his best outfit and radiated rizz for the party.)
+# Rizz
+## English
+**Rizz**: Originating from the word "ritzy," this slang term is used to describe someone or something that is fancy, swanky, or quite stylish. Often used to denote a high-society or affluent appearance or lifestyle. 
+*Example:* "That new car his uncle bought is really rizz!"
+## Chinese
+**Rizz**: 这个俚语源自“ritzy”，用来形容某人或某物很高级、奢华或很有品味。常用来形容高社会阶层或富有 lifestyle 的外观或风格。
+*例句:* “他叔叔刚买的那辆车真的很 rizz！”
 ```

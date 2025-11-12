@@ -8,11 +8,17 @@ tags:
 - tiktok
 ---
 ```markdown
-## Finna
-### English
-"Finna" is a colloquialism used to indicate that someone is about to do something. It's a combination of "fixin' to" and "going to." 
-**Example:** "I finna head to the store after work."
-### 中文
-"Finna" 是一种俚语表达，在美式英语中常用来表示某人即将要做某事。它是 "fixin' to"（将要、正要）和 "going to" 的缩略形式。
-**例句:** "下班后我 finna 去商店。"
+# Finna (American English)
+**English:**  
+"Finna" is a slang term commonly used in American English, especially in southern and urban areas. It is a colloquial way of saying "going to be" or "about to." For example, saying "I finna go to the store" means "I am about to go to the store."
+## Usage Example:
+- **Original:** I'm going to the store after work.  
+- **Slang:** I finna go to the store after work.  
+---
+# 在那里要干 (Chinese)
+**中文:**  
+"在那兒要干" 是一种在美国英语中，尤其在南部和城市地区使用的俚语。它是一种口语化的表达方式，表示“要去某地”或者“即将做某事”。例如，说“我去商店了，我那里要干”意思就是“我即将去商店”。
+## 用法示例：
+- **原句:** 我下班后要去商店。  
+- **俚语:** 我那里要干去商店。  
 ```

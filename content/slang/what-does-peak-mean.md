@@ -8,13 +8,13 @@ tags:
 - tiktok
 ---
 ```markdown
-# Peak (顶流，顶屌)
-## English
-- **Definition**: Something or someone that is at the highest level or the best in a particular category.
-- **Usage**: Used to describe things or people that are doing exceptionally well, often with a sense of admiration or envy.
-- **Example**: "David dominates the car racing scene, he's definitely a peak performer."
-## Chinese
-- **Definition**: 用来形容在某一领域最出色的人物或事物，常带有钦佩或嫉妒的感觉。
-- **Usage**: 用于描述在某个领域做得非常棒的人或事，比如"大卫在赛车场上表现 outstanding，他是一个 peak 的人物。"
-- **Example**: "大卫在赛车场上表现 outstanding，他是一个 peak 的人物。这里“顶流”是“受欢迎、出名”的意思，而“顶屌”则是网络用语，比较俚俗地表示顶级、最棒的意思。"
+## Peak
+**English:**  
+Peak can have multiple meanings in slang, but it generally refers to something at its best or most intense point. Commonly used in contexts related to something reaching its absolute height or climax.
+**Example:**  
+- "The movie was a peak experience last night!" (The movie was an extremely enjoyable or impressive experience.)
+**Chinese:**  
+"peak" 在俚语中可能有多个含义，但通常指的是某事物达到了最佳或最强烈的程度。常用于描述某事物达到了顶峰或高潮。
+**示例：**  
+- "昨天的电影是 peak 的体验！" (昨天的电影是极棒或非常精彩的体验！)
 ```

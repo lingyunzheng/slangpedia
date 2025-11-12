@@ -8,12 +8,14 @@ tags:
 - tiktok
 ---
 ```markdown
-## 死板正 (Deadass)
-**English Explanation:**
-"Deadass" is a colloquial term that can be used to describe someone who is very serious, straightforward, and sometimes unbending or overly formal. It often conveys a sense of someone who is not flexible or willing to humor or play around. 
-**中文解释:**
-"死板正" 是一种口语化的说法, 用来形容一个人非常严肃、直接, 有时可能会显得固执或过于正式。这个词常用来表达某人不够灵活, 不愿意开玩笑或者放松。
-Example Usage:
-- **English:** He's such a deadass that he doesn't know how to laugh at a joke.
-- **中文:** 他真是死板正, 从来不知道怎么对笑话笑一笑。
+## English: Deadass
+### Definition
+"Deadass" is an informal, slang term used to describe something or someone who is very serious, intense, or dead serious without any sense of humor or joking.
+### Usage Example
+- "When he said he'd clean the house, he meant it deadass."
+## 中文: 死板
+### 解释
+"死板" 是一个非正式的俚语，用来形容非常严肃、认真或者正儿八经，完全没有开玩笑的成分。
+### 使用示例
+- "他说他会打扫卫生时，是绝对认真的，死板的。"
 ```

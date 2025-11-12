@@ -8,12 +8,11 @@ tags:
 - tiktok
 ---
 ```markdown
-## Bruh
-### English
-**Meaning**: An expression used to convey disbelief, surprise, or agreement. Often used to express mild irritation or frustration.
-**Usage**: "Bruh, that's really something else!" or "BWsuh, it's hot today."
-### 中文
-**意思**: 一个表达惊讶、赞许或否定的语气词，通常用来表达轻微的烦躁或不满。
-**用法**: “Bruh，这真是太不可思议了！”或“BWsuh，今天真是热。”
+## Bro（Bruh）
+**English Slang:**
+- **Definition:** A versatile interjection used to express various emotions or reactions, such as surprise, disagreement, sympathy, or simply agreeing with something. It's often used in place of "bro" or "dude."
+- **Example Usage:** "Bruh, that's so wild!" (Translation: Wow, that's so surprising/unbelievable!)
+**Chinese Slang:**
+- **释义:** 这是一个多用途的感叹词，用来表达各种感情或反应，比如惊讶、不同意、表示同情或单纯表示同意某事。它经常用来替代“bro”或“dude”。
+- **例句:** " Bruh, that's so wild!" (译：哇塞，真让人惊讶/难以置信！)
 ```
-Note: "BWsuh" is a humorous attempt to transliterate "bruh" into Chinese, as there isn't an exact equivalent in Chinese slang.

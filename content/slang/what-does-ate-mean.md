@@ -8,13 +8,16 @@ tags:
 - tiktok
 ---
 ```markdown
-# "Ate" Slang Explanation
-## English
-**Ate:** An informal term, often used as a pronoun to refer to oneself, similar to "I." It's commonly used in casual or text-based communication.
-### Example
-- "Ate needs to finish this project by today."
-## Chinese
-**吃（y本身就是个代词，主要用于第一人称，相当于“我”。这种用法在非正式和短信/社交媒体交流中很常见。
-### 例子
-- “吃（y）今天必须完成这个项目。”
+## Ate (English)
+### Explanation
+- **"Ate"** is a casual way to refer to a female acquaintance or someone older than you. It's similar to calling someone "sister" or "big sis" but in a more casual, friendly context.
+### Example Usage
+- *Casual Dialogue:* "Hey Ate, have you seen the new movie?"
+- *Internet:* "Ate, your vlogs are so inspiring!"
+## Ate (Chinese)
+### 解释
+- **“Ate”** 是一种较为随意的称呼女性朋友或年长女性的方式，类似于称呼“小姐姐”或“大姐姐”，但在更加轻松、友好的情况下使用。
+### 使用示例
+- *随意对话:* “嘿 Ate，你看过新电影了吗？”
+- *网络:* “Ate，你的视频太有启发性了！”
 ```

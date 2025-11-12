@@ -9,14 +9,9 @@ tags:
 ---
 ```markdown
 ## Sheesh (English)
-### Meaning
-- **Exclamation of dismay, frustration, or disbelief**: Used when someone is annoyed or expresses mild exasperation.
-### Usage Example
-- **English**: "Sheesh, this traffic is awful!"
-- **Translation**: "哎呀，这交通真糟糕！" (Aiyā, zhè tiào gōng zhēn jiù cāo！)
-## Sheesh (Chinese)
-### Meaning
-- **表示失望、烦躁或惊讶的情感表达**：用于表达恼火或轻微的挫败感。
-### 使用示例
-- **中文**: "她唉，这交通真糟糕！"
+**Meaning:** An expression used to express exasperation, disappointment, or disbelief.
+**Example Usage:** "Sheesh, this traffic is terrible!"
+## 嘿哟 (Yoyou, Chinese)
+**Meaning:** Often used to express exasperation, disappointment, or to draw attention similar to "sheesh." It can also indicate mild surprise or amazement.
+**Example Usage:** "嘿哟, 这个交通也太堵了吧!" (Yoyou, zhège jiāo通过tòng yě tài bùqì le ma?) - "Sheesh, this traffic is so congested!"
 ```

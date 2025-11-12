@@ -8,11 +8,9 @@ tags:
 - tiktok
 ---
 ```markdown
-# Sigma (Σ)
-## English
-**Meaning:** In slang, "sigma" is often used to describe a person who carefully observes and meticulously evaluates others and situations, often in a critical or judgmental manner.
-**Example Sentence:** "She's such a sigma guy; always analyzing everyone's behavior."
-## 中文
-**含义:** 在俚语中，“sigma”通常用来形容那些仔细观察和细致评估他人和情况的人，往往带有批判性或挑剔的态度。
-**例句:** “他真是太sigma了，总是分析每个人的行为。”
+## Sigma (Σ in Greek)
+### English
+**"Sigma"** in slang terms can refer to **"sigma level"** in Six Sigma, a project management methodology that aims to improve the quality of process outputs by identifying and removing the causes of defects and minimizing variability in processes. In a more colloquial sense, it can also be used to refer to someone who is **"up to par"** or meets high standards.
+### 中文
+**"Sigma"（Σ）**在俚语中可以指“六西格玛水平”（Six Sigma Level），这是一个旨在通过识别并消除缺陷的原因来提高过程输出质量、并降低过程变异性的一套项目管理方法。更通俗地说，它也可以用来形容**“达到了标准”**或具备高水准的人或事物。
 ```

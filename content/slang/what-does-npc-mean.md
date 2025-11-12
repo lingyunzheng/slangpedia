@@ -8,12 +8,11 @@ tags:
 - tiktok
 ---
 ```markdown
-## NPC (Non-Player Character)
-### English
-**Definition:** A character in a game, story, or setting that is controlled by the game itself or a game master, as opposed to a player character (PC) who is controlled by a player.
-**Example:** In a fantasy role-playing game, the shopkeeper who sells items to the player is an NPC.
-### Chinese
-**定义:** 游戏、故事或设定中的角色，由游戏本身或游戏主持人控制，而不是由玩家控制的人物（即玩家角色PC）。
-**示例:** 在一个奇幻角色扮演游戏里，玩家可以购买物品的商人NPC是一个例子。
+# NPC
+## English
+**NPC**: **Non-Player Character**  
+In video games, this term refers to any character controlled by the game software rather than by another player. NPCs can populate the world, provide quests, or serve as obstacles.
+## 中文
+**NPC**：**非玩家角色**  
+在视频游戏中，这个术语指的是由游戏软件控制而不是由另一个玩家控制的角色。NPC可以填充游戏世界，提供任务，或者作为障碍物。
 ```
-Feel free to ask if you need more examples or further details!

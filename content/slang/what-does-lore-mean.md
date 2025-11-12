@@ -8,23 +8,17 @@ tags:
 - tiktok
 ---
 ```markdown
-# Slang Explanation: Lore
-## English
-### Definition
-"Lore" typically refers to traditional knowledge that is passed down through generations or stories that are widely known within a specific community.
-### Slang Meaning and Usage
-In casual usage, "lore" can be used to describe trendy or well-known urban legends, myths, or ideas that circulate among a group of people. It's often used in a context where people share common knowledge or understanding.
-### Example
-- " **********************************************************************************"
-- "Have you heard the lore about the haunted house on Elm Street? Everyone says they saw a ghost there last Halloween."
-- "**********************************************************************************"
-## Chinese
-### 定义
-“lore”通常指代由代代相传的传统知识，或者一个特定社区中广为流传的故事。
-### 常用俚语含义与用法
-在日常用语中，“lore”有时被用来描述在某个群体中流传的流行传说、神话或理念。通常用于分享群体中的共同知识或理解。
-### 示例
-- "**********************************************************************************"
-- “你听说老街区的闹鬼房子吗？据说去年万圣节有人在那里看到了鬼魂。”
-- "**********************************************************************************"
+# Slang Explanations: "lore"
+## 1. **Lore (英): Lore**
+- **Explanation (中):** 传说、故事或传统的知识体系。
+- **Usage Example (中):** 在游戏中，许多角色的背景故事都是该游戏的世界观的 Lore，玩家可以通过探索游戏来了解更多的内容。
+- **Example Sentence (英):** The lore of the game provides a rich backstory for the characters and their world.
+## 2. **Lore (美): Urban Legend**
+- **Explanation (中):** 城市传说，通常是关于奇怪事件、超自然现象或神秘故事的叙述。
+- **Usage Example (中):** 他们分享了一个城市传说，描述了一个地方的幽灵现象。
+- **Example Sentence (英):** They shared an urban legend about ghostly phenomena in a particular location.
+## 3. **Lore (美): Old School**
+- **Explanation (中):** 旧的、传统的、原始的。
+- **Usage Example (中):** 他的那一套属于老学校的理念，更重视精神和道德。
+- **Example Sentence (英):** His beliefs are rooted in old school principles, valuing the spiritual and moral over material success.
 ```

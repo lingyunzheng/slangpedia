@@ -8,14 +8,9 @@ tags:
 - tiktok
 ---
 ```markdown
-## Salty (English)
-**Definition:** Affected by feelings of bitterness or frustration, often in response to an unfair situation or perceived injustice.
-**Example:** "After losing the match, the player started ranting about the unfair call from the referee, sounding pretty salty."
-## 咸鱼 (Simplified Chinese)
-**定义:** 因为不公正的情况或感到沮丧而产生苦涩或怨恨的情绪。
-**例句:** "在那不公平的判罚后，选手们发声抗议，显得非常咸鱼。"
-**注释:** "咸鱼" 在网络用语中用来形容一个情绪低落或者对事情感觉无望的人，类似于“咸鱼大业”。
-## Listributed Translation
-**Salty:** A state of feeling bitter or frustrated.
-**咸鱼:** 因为感到不公或者沮丧而产生怨恨的情绪。
+## Salty (咸 =~ Xían)
+**English Explanation:**
+"Salty" is a slang term commonly used to describe someone who is feeling bitter, jealous, or angry, often in response to a perceived slight or unfair treatment. It can also imply someone who overreacts to situations or shows negativity when things don't go their way.
+**Bilingual Slang Explanation:**
+- **咸 (Xían)**: 用来形容一个人感到苦涩、嫉妒或生气，通常是因感到受到了不公对待或是误解而产生的反应。这个词还可能表示某人对不利情况过分反应或在事情不如意时表现出负面情绪。
 ```

@@ -8,9 +8,11 @@ tags:
 - tiktok
 ---
 ```markdown
-## 茶叶的故事 (Tea Leaves Story)
-#### English: Spill the Tea
-- **Definition:** To share confidential or secret information, typically gossip about someone or some situation.
-- **Usage Example:** "She finally spilled the tea about the company's surprise party for her boss."
-- **Bilingual Explanation:** 在日常生活和社交媒体上，当你有一些人或事情的秘密要分享时，你就可以说“她终于把茶叶子的故事（即：秘密）都交代清楚了。”这是一种分享私密信息或者八卦的方式。
+## English Explanation: Spill the Tea
+**Definition**: To share confidential or behind-the-scenes information, often involving gossip or secrets about someone or something.
+**Example Sentence**: "I think I'll spill the tea on my friend's new relationship—surprise, surprise, it's with the swim coach!"
+**Bilingual Slang Interpretation:**
+- **English**: To share confidential or behind-the-scenes information, often involving gossip or secrets about someone or something.
+- **Chinese**: 晒八卦 (shài gànguà) - 晒 (shài) means "to show off" and 八卦 (gànà) is an informal term that refers to gossip or sensational news. This idiom literally means "to show off sensational news," similar to the English slang.
 ```
+This markdown structured content provides a clear and concise definition and usage example for the English slang term "spill the tea," alongside the Chinese slang equivalent "晒八卦."

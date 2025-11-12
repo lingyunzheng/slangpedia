@@ -9,6 +9,10 @@ tags:
 ---
 ```markdown
 ## Side Questing
-**中文解释**: 副本任务、小目标或额外任务的进行。在各种游戏中，玩家除主线任务外，还可以参与其他任务或活动，获取额外的奖励和经验。
-**English Explanation**: Side quests refer to the smaller, secondary missions or goals outside of the main storyline. In video games, players can take on additional tasks or activities for extra rewards and experience beyond the primary objectives.
+### 中文解释
+**旁支任务**：在主要任务之外，为了完成大目标而做的一些辅助或额外的任务。这些任务可能提供额外的经验值、道具或者有趣的内容，但不是主线任务的核心部分。
+### 英文解释
+**Side Questing**: Engaging in additional tasks that are not part of the main storyline but contribute to the overall game or story. These quests often provide bonus experience points, items, or extra content that help players progress or explore. While not essential to completing the main plot, they add depth and variety to the gameplay.
+---
+These side quests can be found in many games ranging from role-playing games to open-world adventures. They are designed to keep players engaged and to offer different challenges or narratives beyond the main storyline.
 ```

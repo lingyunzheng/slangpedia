@@ -8,12 +8,7 @@ tags:
 - tiktok
 ---
 ```markdown
-# Stan (英式 / 美式)
-#### English
-**Definition:** A devoted, often obsessive fan of a particular person, group, or brand. 
-**Example Usage:** "She's such a stan for Taylor Swift that she goes to every concert she plays."
----
-#### Chinese
-**定义:** 对某个特定的人、团队或品牌极为忠诚且有时近乎痴迷的粉丝。 
-**使用示例:** "她对泰勒·斯威夫特简直痴迷，每场演唱会都要去参加。"
+## stan (粉丝的狂热者)
+**English:** A stan is a devoted or overly enthusiastic supporter of a celebrity, public figure, or fictional character, willing to overlook flaws and continuously defend and promote that person or entity. Essentially, a stan is a die-hard fan.
+**中文:** stan 是一个极度狂热或过于热情的支持者，他们对名人、公众人物或虚构角色表现出近乎偏执的忠诚，能够无视其缺点并不断为其辩护和宣传。简而言之，stan 就是对某人（或某物）极度忠诚的铁杆粉丝。
 ```

@@ -8,8 +8,8 @@ tags:
 - tiktok
 ---
 ```markdown
-## Demon Time (恶魔时间)
-- **English Explanation:** "Demon Time" is a slang term often used to describe a period when one feels an overwhelming surge of energy or a strong sense of urgency to tackle tasks or engage in activities. It's a moment when you feel particularly motivated and powerful, almost like a supernatural boost.
-- **Chinese Explanation:** "恶魔时间" 是一个网络用语，用来形容一个人突然间感到极大的动力或紧迫感，想要处理任务或参与各种活动的时刻。这就像突然获得了超乎寻常的能量，感觉非常有动力和强大。
-```
-This markdown format provides a clear and concise explanation of the term in both English and Chinese.
+## Demon Time (恶魔時間)
+### Chinese Explanation
+**恶魔時間 (demon jiqian)**: 在游戏中，当角色进入一个特别的状态，能够释放出强大的能量或技能，此时称为“恶魔时间”。这种情况通常发生在角色血量较低或处于某种特殊激发状态下，使得角色表现异常强大，仿佛是一个“恶魔”。
+### English Explanation
+**Demon Time (恶魔時間)**: In games, when a character enters a special state where they can unleash powerful abilities or skills, this period is referred to as "Demon Time." This situation usually occurs when the character's health is low or they are in some kind of special activation state, making them extremely powerful, almost like a "demon."

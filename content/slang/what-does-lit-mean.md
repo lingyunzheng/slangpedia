@@ -8,15 +8,16 @@ tags:
 - tiktok
 ---
 ```markdown
-## Lit (形容词)  
-### 中文解释：  
-很酷，很精彩。常用来形容某人的表现或某种情境非常吸引人，充满活力。  
-### 英文解释：  
-Extremely cool or exciting; used to describe someone's performance or a situation that is very engaging and full of energy.  
-```
-## Lit (动词)  
-### 中文解释：  
-燃起来，变得非常热烈或激动。  
-### 英文解释：  
-Get very hot or excited; used to describe something or someone becoming highly enthusiastic or intense.  
+## Lit (English slang)
+### Explanation
+When something is described as "lit," it means it's exceptionally exciting, glamorous, or energetic. It conveys that something is cool, trendy, or just plain awesome.
+### Example Usage
+- "The party last night was really lit!"
+- "This dance move is lit!"
+## Lit (中文 slang)
+### 解释
+“Lit”用来形容某样东西非常精彩、闪耀或者充满活力。它表示某样东西很酷、很时尚，或者是真正意义上的棒极了。
+### 示例用法
+- “昨晚的派对真的太燃了！”
+- “这个舞步太燃了！”
 ```

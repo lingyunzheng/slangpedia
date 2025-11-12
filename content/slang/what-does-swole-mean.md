@@ -8,9 +8,14 @@ tags:
 - tiktok
 ---
 ```markdown
-# Swole
-## English
-**Swole**: An informal slang term often used to describe someone or something with a lot of muscle mass or a heavily built appearance, particularly in the context of bodybuilding and fitness. It's also used more generally to describe anything that is impressive or over-the-top in size or power.
-## Chinese
-**swole**: 一种非正式的俚语，常用来形容有人或某物具有大量的肌肉量或体积感强的外观，尤其是在健美和健身的语境中。这个词也可以更广泛地用来形容任何令人印象深刻或规模巨大的事物。
+# Swole (English)
+**Swole**: This term is used to describe someone, often a person, who has a highly muscular and well-defined physique. It's commonly used in contexts related to fitness, bodybuilding, or when talking about someone who has put in significant effort to build up their muscles.
+**Bilingual Explanation**: 
+- **English**: Describing someone as *swole* means they have a very muscular and well-defined body, usually achieved through intense exercise and diet.
+- **Chinese**: *Swole* 描述某人有着非常发达的肌肉并且肌肉轮廓清晰，通常通过剧烈的锻炼和饮食达到这样的状态。
+# Swole (中文)
+**Swole**: 这个词用来描述某人，尤其是形容肌肉非常发达且肌肉线条分明的人。它常用于健身、健美或讨论某人通过大量锻炼把肌肉练出来的语境中。
+**双语解释**:
+- **English**: Describing someone as *swole* means they have a very muscular and well-defined body, usually achieved through intense exercise and diet.
+- **Chinese**: *Swole* 描述某人有着非常发达的肌肉并且肌肉轮廓清晰，通常通过剧烈的锻炼和饮食达到这样的状态。
 ```

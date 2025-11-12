@@ -8,9 +8,10 @@ tags:
 - tiktok
 ---
 ```markdown
-## 汉语 slang: "头空"
-### English slang: "Brain-dump" or "Empty脑袋"
-**汉语解释：** "头空" 几乎等同于说 "头空空的" 或者 "脑袋里想不出什么东西"。这句话用来描述一个人脑袋里没想法、很迷茫、或者没什么思考的状态。通常是因为疲倦、压力大、思考过度等原因导致大脑暂时无法进行有效的思考。
-**英文化解释：** "Brain-dump" 形容大脑忽然之间涌现出大量杂乱无章的想法或者信息，但这种状态往往紧接着就是大脑一片空白，就像"brain-dump"之后的"empty脑袋"。也可以用 "Empty脑袋" 直接表达这种状态，指的是某人此刻思维非常空白，没有明确的想法。
+## 中文解释
+**无脑 / 只有头发没有脑子 (Wú nǎo / zhǐ yǒu tóu fà méiyǒu nǎozi)**  
+意思是指一个人没有思考能力或想法，脑袋空空的。通常用来形容智商较低或不愿意深思熟虑的人。
+## 英文解释
+**No Brains / Empty Head**  
+This expression means someone lacks thinking ability or ideas, with an empty mind. It's often used to describe someone who is not very intelligent or unwilling to think deeply.
 ```
-This markdown format provides a clear comparison between the Chinese slang term "头空" and its English counterparts, along with examples of when and how each can be used.

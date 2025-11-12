@@ -8,9 +8,7 @@ tags:
 - tiktok
 ---
 ```markdown
-## Gigachad
-### English
-**Gigachad**: A term used on the internet, especially on forums and social media platforms like Reddit, to refer to an extremely attractive, often hyper-masculine, and muscular male figure. Think of it as a super-charged version of a "hunk" or a "Chad" (a common internet term for a cut and symmetrically handsome young man). Gigachad emphasizes an exaggerated level of fitness and attractiveness.
-### Simplified Chinese
-**Gigachad**: 在互联网上，尤其是在论坛和社交媒体平台如Reddit上，用来形容极其英俊、通常超 masculinized（男性化）且肌肉发达的男性形象。可以视为“型男”或“Chad”（一个常见的网络词汇，指英俊对称的年轻男子）的升级版，强调了过度的健身和吸引力。
+## Gigachad: 超级巨汉
+**英文诠释：** Gigachad, a popular term on the internet, refers to a muscular male who is depicted to have an extremely high level of attractiveness and confidence, often exaggerated to an unrealistic degree. The term combines "giga" (meaning very large or huge) and "chad," a commonly used slang for a guy or a person who is considered attractive.
+**中文诠释：** 在互联网上，"Gigachad" 指的是一个极度肌肉发达并且被描绘成具有极高水平吸引力和自信的男性，这种吸引力和自信往往是夸大的、不现实的。这个词结合了"giga"（意味着非常大或巨大）和 "chad"（通常用于形容一个帅哥或者被认为很帅的人）。
 ```

@@ -9,12 +9,12 @@ tags:
 ---
 ```markdown
 # Bilingual Slang Explanation: "Fumbled the Bag"
-**English:**  
-"Fumbled the bag" is a slang term often used humorously to describe a situation where someone attempts to do or accomplish something, but ends up bungling it or making a mess of it. It's similar to "fumbled the catch" or "messed up big time."
-*Example:*  
-- *He tried to make a deal, but he fumbled the bag and lost a lot of money.*
-**Chinese:**  
-“Fumbled the bag” 是一种俚语，通常用于幽默地形容某人试图做某事或完成某项任务，但结果却弄糟了情况。它类似于“接球失误”或“搞砸了”。
-*示例：*  
-- *他本想做成一笔交易，却把事情搞砸了，结果亏了不少钱。*
+## English
+- **Phrase:** Fumbled the bag
+- **Meaning:** Made a mistake or mishandled a situation, often referring to an error that could have serious, often financial, consequences.
+- **Example:** "He fumbled the bag when negotiating the deal, and now the company is on the verge of losing a major client."
+## Chinese
+- **短语:** 摸棱两可地拿包
+- **含义:** 在处理某事时出现错误或搞砸了，通常指那些可能带来严重后果（尤其是财务上的）的失误。
+- **例句:** "他在谈判合同时摸棱两可地拿包，现在公司面临着失去一个重要客户的风险。"
 ```

@@ -8,13 +8,9 @@ tags:
 - tiktok
 ---
 ```markdown
-# highkey
+# Highkey
 ## English
-**Highkey**: An intensifier often used in informal speech to express that something is very, extremely, or basically true. It's similar to saying "super" or "totally."
-- Example: "I highkey need to go home now."
-- Translation: "I really, really need to go home now."
-## 中文
-**highkey**：在非正式口语中，用作加强语气的词语，表示某事非常、极其或基本上是真的。它类似于说“超级”或“真的”。
-- 例子： "I highkey need to go home now."
-- 翻译： "我现在真的真的想回家了。"
+"Highkey" is a slang term used as an intensifier, indicating that something is very much true or significant. It is derived from "high" and "key" and is generally used in casual or informal settings. For example, "I'm highkey excited about the party tonight!" means the person is very excited about the party.
+## Chinese
+"Highkey" 是一种俚语，用作强调词，表示某事非常真实或重要。它来源于 "high" 和 "key"，通常用于非正式或休闲场合。例如，“我今晚去派对 highkey 很激动！”意思是说话的人对派对非常激动。
 ```

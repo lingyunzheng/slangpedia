@@ -8,17 +8,9 @@ tags:
 - tiktok
 ---
 ```markdown
-## Troll (Trickster)
-**English Explanation:**
-A troll is someone who posts inflammatory, extraneous, or off-topic messages in an online community or discussion forum with the intent of provoking other users into an emotional response or of drawing attention to them. They often post things that may be offensive, often just for the sake of causing trouble or amusement.
-**中文解释:**
-一个网 Troll 是在网络社区或讨论论坛中发布具有挑衅性、无关紧要或并非重点的消息的人，目的是激怒其他用户或吸引他们的注意。他们常常发布一些可能具有冒犯性的内容，只是为了制造麻烦或寻求娱乐。
-**Example Usage:**
-- **English:** "John kept posting trolls about politics, trying to stir up arguments among friends."
-- **中文:** "约翰一直在发布政治相关的网 Troll，试图在朋友们之间挑起争吵。"
----
-**English Explanation:**
-Trolls are often associated with maintaining a balance of chaos and order on the internet, though their methods are generally seen as negative and disruptive.
-**中文解释:**
-Trolls 通常被认为是在网络上维持混乱与秩序之间的平衡，尽管他们的方法通常被视为消极且破坏性的。
+# Troll (投机取巧)
+**English:**  
+A troll is someone who intentionally posts disruptive or irritating content online to provoke or upset other users. They are often associated with leaving inflammatory comments or posts to stir up controversy or to distract from more important issues.
+**Chinese (投机取巧):**  
+" troll " 指的是在互联网上故意发布破坏性或令人不悦的内容的人，目的是激怒或使其他用户感到不安。他们经常会被认为是通过发布引发争议或分散对重要问题注意力的挑衅性评论或帖子来制造麻烦。
 ```

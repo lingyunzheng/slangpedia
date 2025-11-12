@@ -8,9 +8,14 @@ tags:
 - tiktok
 ---
 ```markdown
-# Gyatt (英国/香港网络用语)
-## 中文解释
-源自英语 "gay bait"，中文网络用语“ Gyatt”指的是一种吸引特定性取向人群（尤其是LGBTQ+）注意的搭讪、秀恩爱的行为或内容。
-## 英文解释
-Derived from the English term "gay bait," "Gyatt" is a term used in certain online circles in the UK and Hong Kong. It refers to the act of flirting or showcasing romantic affection in a way that is likely to attract the attention of specific audiences, particularly those within the LGBTQ+ community.
+# Gyatt (粤语 slang)
+**English Slang Explanation:**  
+"Gyatt" is a Cantonese slang term that is often used to describe a situation where something is sorted out or settled. It can also mean that a problem has been nicely resolved or that someone has done a good job fixing an issue.
+**Cantonese Slang Explanation:**  
+Gyatt (粤语: 好易 / 好怜) 指事情已经解决或者问题已经妥善处理。有时也用来赞美某人成功地解决了问题或搞定了一件事。
+Example Usage:  
+- 苹果公司很快就解决了客户投诉的问题，真的好 gyatt！  
+(Apple Company quickly solved the customer's complaints; really good gyatt!)
+- 他一口气把这件事给 dyed (搞定), 可真 gyatt。  
+(He settled this matter in one go; really gyatt.)
 ```

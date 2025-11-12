@@ -8,10 +8,11 @@ tags:
 - tiktok
 ---
 ```markdown
-## English Slang Explanation: Valid
-**Meaning:** Something or someone that is considered acceptable, appropriate, or correct.
-**Example Usage:** "That's a valid point, you can't argue with it."
-## Chinese 花样解释: 有效/有道理
-**意思:** 某些事物或人被认为是可以接受、合适的，或者是正确的。
-**用法示例:** "这也是一个有效的观点，你无法反驳。"
+# Slang Explanation for "valid"
+## In English
+**Meaning**: Something that is true or correct, or is considered to be acceptable or legally enforceable.
+**Example Usage**: "This coupon is only valid until the end of the month."
+## In Chinese (Simplified)
+**意思**: 真实的或正确的，或者被认为是可接受或合法有效的。
+**使用示例**：这张优惠券只在本月末之前有效。
 ```

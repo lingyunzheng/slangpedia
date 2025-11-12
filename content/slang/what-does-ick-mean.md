@@ -8,12 +8,16 @@ tags:
 - tiktok
 ---
 ```markdown
-# Ick (英 / 伊克)
-**English:**
-- **Meaning:** Used to express disgust or dislike for something, typically something that is slimy, sticky, or unpleasant to the senses.
-- **Example Usage:** "The slimy texture of that seafood dish was just ick!"
-**Chinese:**
-- **含义：** 用来表达对某事物的厌恶或不喜欢，通常指的是令人不适的粘滑、粘稠的东西。
-- **示例用法：** “那个海鲜菜品的粘滑质地真让人感到‘伊克’！”
+#Ick#  
+## English Meaning:  
+"Ugh, that's gross!" or "Ick, that's yucky!"  
+This term is used to express disgust or distaste for something, often in a visceral or unpleasant way. It's commonly used when someone finds something unpleasant to look at, eat, smell, or touch.
+## Chinese Meaning:  
+"啊呸，真恶心！" (ā pēi, zhēn nàxì!)  
+This phrase is a direct translation and expresses strong disgust or distaste, used similarly to how "ick" is used in English. It can be applied to various situations where something is found to be extremely gross or disturbing.
+## Example Usage:  
+### English:  
+"Ick, that cheese is moldy!"  
+### Chinese:  
+"啊呸，那奶酪发霉了！" (Ā pēi, nà nǎilié fāméi le!)
 ```
-This markdown format provides clear and concise bilingual explanations, suitable for documentation or quick reference.

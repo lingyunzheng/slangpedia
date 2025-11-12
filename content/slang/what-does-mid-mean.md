@@ -8,12 +8,15 @@ tags:
 - tiktok
 ---
 ```markdown
-## 中文释义
-名词：mid
-- **含义**：在网络用语中，"mid" 通常指的是某个事物的中间部分或位置。
-- **例子**：这里的 "mid" 站立，意思是在队伍中间的位置。
-## English Explanation
-### Noun: mid
-- **Definition**：In internet slang, "mid" often refers to a middle part or position of something.
-- **Example**："Mid" standing in the line refers to the person standing in the middle of the line.
+## mid (English)
+**Meaning:** An abbreviation for "middle" or "mid-range."
+**Explanation:** Used to describe something that is neither at the top nor the bottom of a scale, typically referring to average quality, size, or performance.
+**Example:**  
+- "This mid-range phone has a decent camera and battery life, but it's not the best in the market."
+---
+## 中 (Chinese)
+**Meaning:** 中 can also be used as a term to refer to something in the middle or average.
+**Explanation:** 在（zài）中（zhōng）意思是“中间的”或“中等的”，通常用来描述既不是最高也不是最低等级的事物，例如平均的质量、大小或性能。
+**Example:**  
+- "这款中等价位的手机拍照和续航都还可以，但是比不上市场上的顶级旗舰。"
 ```

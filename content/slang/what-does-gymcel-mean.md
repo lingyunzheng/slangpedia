@@ -9,12 +9,12 @@ tags:
 ---
 ```markdown
 ## Gymcel
-#### English
-A gymcel is someone who excessively focuses on the gym and fitness, often to the point of obsession. They may be overly bothered by their physical appearance and spend countless hours working out, sometimes to the detriment of other aspects of their life. Typical gymcels regularly post their workout progress on social media and often prioritize fitness above all else.
-Example:
-- "I really need to get some gymcel friends for my fitness journey."
-#### 中文
-“Gymcel”指的是那些过度专注于健身房和健身的人，他们对身体外观高度关注，常常疯狂地健身，有时甚至会影响生活的其他方面。他们可能会频繁地在社交媒体上分享自己的健身进度，并且往往把健身放在首位。
-示例：
-- “我需要找个健身狂朋友，搭伴一起健身啊。”
+### English
+**Definition:** A term used humorously or affectionately to refer to someone who frequents the gym excessively, often combining elements of cult-like loyalty and irrational devotion to fitness routines.
+### Chinese
+**定义：** 一个用于幽默或亲昵地称呼那些过度频繁去健身房的人的词汇，常常表现为对健身计划的盲目忠诚和无理性的执着。
+**解释：** "Gymcel" 这个词汇源自 "gym"（健身房）和 "fan"（粉丝）的结合，形象地描述了一种痴迷于健身生活方式的人。这些人可能对健身计划有着超出实际必要的狂热，甚至有点像信徒对待宗教仪式一样对待日常的锻炼，但只是为了追求他们认为的完美体型或健康状态。
+**例句示例：**
+- In English: "Since summer started, Jane has become a real gymcel, hitting the gym every day without fail."
+- 在中文：自从夏天开始，Jane 成为了真正的“gymcel”，每天都坚持去健身房锻炼。
 ```

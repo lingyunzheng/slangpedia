@@ -7,20 +7,15 @@ tags:
 - internet
 - tiktok
 ---
-Certainly! Below is a bilingual markdown explanation for "fanum tax" in a casual, slang context:
+Here are the bilingual slang explanations for "fanum tax" in Markdown format:
 ```markdown
-## Fanum Tax
-**English:**  
-A slang term for a "fake tax" or a tax that looks real but is just a fraudulent scheme. It's often used to describe situations where someone is trying to extort money under the pretense of a tax, when in reality, there isn't an actual legal or legitimate tax obligation.
-**中文:**  
-“fanum税” 是一个俚语，指的是“虚假税收”或看似真实但实际上是一种欺诈计划的税。它通常用来形容有人试图在假借税收为名榨取钱财的情况，但实际上并没有合法或正当的税务义务。
----
-Business maneuver to scare people into paying fake taxes or to extort money. 
----
-**例子:**
-- 小王最近收到了一封奇怪的税务通知，说是“fanum税”，听起来很威胁的样子，其实不过是骗子的把戏。
----
-## 实际应用
-这类词汇常见于网络社区、社交媒体和街头文化中，用来形容诈骗和欺诈行为，特别是与税务相关的诈骗行为。
+# Fanum Tax
+## English
+**Fanum Tax:** A playful or informal term, often referring to a tax or fee that seems unusually high or disproportionate to the benefit gained. Derived from the Latin word "fanum," which can loosely be translated as "temple" or "sanctuary," this term is used to suggest that the tax has somehow taken something sacred or a small, personal space. 
+Example Sentence: 
+- "Wow, that's a fanum tax for changing the light bulb! It's definitely not worth it."
+## 中文
+**fanum税:** 一个充满玩味或非正式的术语，常用来形容看似不合理、不相称的税或费用，好像有所谓的“圣地”或个人空间被征税了一样。该词源自拉丁文"fanum"，可以大致翻译为“庙宇”或“圣所”。 
+示例句子：
+- "哇，换灯泡还要收fanum税！这简直是不值的。"
 ```
-This markdown format includes explanations in both English and Chinese, along with a brief example to illustrate usage.

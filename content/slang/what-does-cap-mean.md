@@ -8,9 +8,10 @@ tags:
 - tiktok
 ---
 ```markdown
-## Cap (英 / 美)
-**英:** Cap
-- **Explanation:** In British slang, "cap" can mean "take a break" or "pause" from an activity, often used in the phrase "take a cap."
-**美:** Cap
-- **Explanation:** In American slang, "cap" is a versatile term. It can mean "to intensify" (as in "that movie was really cap"), "to finish or wrap up" (as in "let's cap this meeting"), or "to lie or agree with someone to avoid conflict" (as in "he just didn't want to argue so he capped her comment").
+## Cap (English)
+**Definition:** A slang term often used to denote that something is the best or optimal choice.
+**Example Usage: "Man, that new tech is really the cap when it comes to efficiency!"**
+## Cap (Chinese)
+**定义：** 俚语，常用来表示某事物是最佳或最优的选择。
+**用法示例：** "那最新的技术，真是顶了！在效率上可是最佳选择了！"
 ```

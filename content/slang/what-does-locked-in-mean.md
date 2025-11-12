@@ -8,10 +8,12 @@ tags:
 - tiktok
 ---
 ```markdown
-# English: Locked In
-**Definition:** Being committed to a decision, plan, or relationship with no easy way to back out or change it.
-**Example Usage:** "After signing the contract, they felt locked in with no easy way to get out of their current business partnership."
-# 中文: 锁定（锁定在...里）
-**定义:** 已经做出了决定、计划或进入了某种关系，没有简单的方法可以退出或改变。
-**例句:** "签完合同后，他们感觉自己已经陷入了当前的商业合作关系中，无法轻易抽身而出。"
+## English: Locked In
+### Explanation:
+Usage: When someone is "locked in" to a situation, they are stuck and cannot easily get out of it. This phrase often implies that there are constraints or obstacles preventing one from changing their circumstances.
+Example: "I feel locked in this job because of my student loan debt."
+### Bilingual Slang Explanation:
+**English:** 当某人被“困在”某种情况下时，他们无法轻易改变现状。这通常意味着存在一些约束或障碍阻止他们改变自己的处境。
+**Chinese:** 当某人“被困”某种情况下时，他们无法轻易改变现状。这通常意味着存在一些约束或障碍阻止他们改变自己的处境。
 ```
+If you need more examples or different contexts, feel free to ask!

@@ -8,11 +8,11 @@ tags:
 - tiktok
 ---
 ```markdown
-## English Explanation
-"Built different" is a slang term often used in American English, particularly among young people or in informal settings. It refers to someone who is unique or different in some way, often in a good or impressive manner. This phrase can be used to describe someone's appearance, personality, or lifestyle that sets them apart from others in a positive way.
-## Chinese Explanation
-“ built different ”是一个在美国英语中常用的俚语，尤其是在年轻人或非正式场合中。它用来形容某人某些方面与众不同，通常是积极或出色的。这个词通常用来描述那些在外观、个性或生活方式等方面与他人不同的人。
-例句：
-- English: She has a personality so built different, it’s hard not to love.
-- Chinese: 她的个性如此独特，让人根本无法不喜欢。
+# Bilingual Slang Explanation: "built different"
+**English:**
+- **Meaning:** Refers to someone's body or physique that is significantly different from others, often implying someone is very muscular, tall, or has an exceptional figure.
+- **Usage Example:** "Ever since he started working out, he's been built different, no joke."
+**Chinese (Simplified):**
+- **意思:** 指某人的身材或体形与其他人大不相同，通常意味着一个人非常健壮、高大或拥有异常出色的体型。
+- **使用例句:** "自从开始锻炼后，他的身材就变得完全不同了，确实如此。"
 ```
