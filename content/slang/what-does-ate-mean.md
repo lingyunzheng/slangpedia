@@ -1,23 +1,24 @@
 ---
-title: "What Does 'ate' Mean? (ate 是什么意思？)"
-slug: "what-does-ate-mean"
+title: "What Does 'based' Mean? (based 是什么意思？)"
+slug: "what-does-based-mean"
 date: 2025-11-12
 tags:
-- slang
-- internet
-- tiktok
+  - slang
+  - internet
+  - tiktok
 ---
-```markdown
-## Ate (English)
-### Explanation
-- **"Ate"** is a casual way to refer to a female acquaintance or someone older than you. It's similar to calling someone "sister" or "big sis" but in a more casual, friendly context.
-### Example Usage
-- *Casual Dialogue:* "Hey Ate, have you seen the new movie?"
-- *Internet:* "Ate, your vlogs are so inspiring!"
-## Ate (Chinese)
-### 解释
-- **“Ate”** 是一种较为随意的称呼女性朋友或年长女性的方式，类似于称呼“小姐姐”或“大姐姐”，但在更加轻松、友好的情况下使用。
-### 使用示例
-- *随意对话:* “嘿 Ate，你看过新电影了吗？”
-- *网络:* “Ate，你的视频太有启发性了！”
-```
+
+# Based
+
+**English:**  
+A slang term used to describe something or someone who is solid, on-point, or reliable. It's commonly used in contexts where a person's actions or skills are praised, or a situation is deemed to be working well.
+
+**中文解释：**  
+“Based” 是一个用来形容某人或某事很靠谱、很在行的俚语。常用于赞扬某人的行为或计划很稳。
+
+### Examples / 例句
+- "He's really based when it comes to basketball skills."  
+  他打篮球真的很棒。
+- "The plan is based and we can rely on it."  
+  计划很靠谱，我们可以依赖它。
+
