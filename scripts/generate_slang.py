@@ -26,17 +26,18 @@ def save_post(word, content):
 title: "What Does '{word}' Mean? ({word} 是什么意思？)"
 slug: "{slug}"
 date: {date}
-tags: [slang, internet, tiktok]
+tags:
+  - slang
+  - internet
+  - tiktok
 ---
 
-{content}
-
-**See also:**
-- /slang/
+{content.lstrip()}
 """
     os.makedirs("content/slang", exist_ok=True)
     with open(f"content/slang/{slug}.md", "w", encoding="utf-8") as f:
         f.write(md)
+
 
 if __name__ == "__main__":
     words = get_slang_list()
