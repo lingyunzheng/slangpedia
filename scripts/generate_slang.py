@@ -18,6 +18,8 @@ def generate_batch(words):
     payload = {"model": "Qwen/Qwen2.5-7B-Instruct","messages":[{"role":"user","content":prompt}]}
     r = requests.post(url, json=payload, headers={"Authorization": f"Bearer {API_KEY}"}).json()
     return r["choices"][0]["message"]["content"]
+    text = text.replace("```markdown", "").replace("```", "").strip()
+    return text
 
 def save_post(word, content):
     slug = slugify(f"what-does-{word}-mean")
