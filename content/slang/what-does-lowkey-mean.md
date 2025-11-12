@@ -2,27 +2,19 @@
 title: "What Does 'lowkey' Mean? (lowkey 是什么意思？)"
 slug: "what-does-lowkey-mean"
 date: 2025-11-12
-tags: [slang, internet, tiktok]
+tags:
+- slang
+- internet
+- tiktok
 ---
-
 ```markdown
-## Lowkey
-
-**English:**  
-"Lowkey" is a slang term used to express that something is done or known to a limited extent, often secretly or discreetly. It emphasizes that the subject isn't widely known or discussed, but rather is known by an insider or a few people.
-
-**Chinese (Pinyin):**  
-"Lowkey" (lóokuì) 是一个俚语，用来表示某事是小范围知道或进行的，通常指私下里或不公开地。它强调的是这个话题并不是广为人知或讨论的，而是由内行或少数人知道的。
-
-**Example Sentences:**  
-- English: "I had a lowkey crush on her for a while."  
-  Chinese (Pinyin): "Wǒ yǒu yí bàn lóokuì chuīzhu shì hěn duō." (我有 一段 lowkey 爱慕 她 很 多。)
-
-- English: "She likes to have lowkey parties in her backyard."  
-  Chinese (Pinyin): "Tā xǐhuān yǒu lóokuì huìyì zài tā huǒyàn shēn lǐ." (她 喜欢 有 lowkey 派对 在 她 花园 里。)
+# Bilingual Slang Explanation: "Lowkey"
+**English:** 
+- Definition: Used when referring to something in a subtle or understated way, usually to avoid drawing too much attention to the subject.
+- Example: I lowkey think they're lying.  
+- Colloquial Context: Often used in social media posts or casual conversations to give a hint without fully stating it.
+**Chinese (Pinyin/Romaji):** 
+- 解释: 用于以微妙或温和的方式提及某事，通常是为了避免过分关注该主题。
+- 例句: Wǒ néng néng kǒulǐ, tāmen néng zài yǎng yǎng. （我低低口里，他们可能在谎羊。）
+- 口头语环境: 经常用于社交媒体帖子或轻松的对话中，以给出提示而不完全陈述。
 ```
-
-In this markdown, I've provided clear translations, along with example sentences for better understanding.
-
-**See also:**
-- /slang/

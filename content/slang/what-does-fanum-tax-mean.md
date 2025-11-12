@@ -2,20 +2,15 @@
 title: "What Does 'fanum tax' Mean? (fanum tax 是什么意思？)"
 slug: "what-does-fanum-tax-mean"
 date: 2025-11-12
-tags: [slang, internet, tiktok]
+tags:
+- slang
+- internet
+- tiktok
 ---
-
 ```markdown
 ## Fanum Tax
-
 ### English
-**Fanum Tax**: A playful stab at the generally high costs associated with improving or purchasing property, often referred to humorously as the "fan cost." This term is often used in casual conversations about real estate or home improvements, where the expenses can become quite substantial.
-
-### 中文
-**fanum税**: 一个轻松调侃房产升级或购买成本高昂的术语，通常被戏称为“购房税”。这个词常用于轻松讨论房地产或家居改善时，指出相关成本会非常高。
+**Definition**: A slang term often used to describe a type of tax or fee that seems unfair or excessive. It's derived from the Latin word "fanum", which loosely relates to temples or sanctuaries and has been twisted in the slang to refer to unjust charges.
+### Chinese
+**定义**: 一个用于形容看起来不公平或过高的税或费用的俚语。它来源于拉丁词"fanum"，意思与庙宇或圣所有关，但经过俚语的转变，用来指代不合理的费用。
 ```
-
-Note: This is a playful and fictional term "fanum tax" that doesn't exist in reality. Therefore, the explanation provides a mock context for it being a slang term related to property costs.
-
-**See also:**
-- /slang/

@@ -2,26 +2,19 @@
 title: "What Does 'goated' Mean? (goated 是什么意思？)"
 slug: "what-does-goated-mean"
 date: 2025-11-12
-tags: [slang, internet, tiktok]
+tags:
+- slang
+- internet
+- tiktok
 ---
-
 ```markdown
-## Goated
-
-### English Definition:
-"Goated" is a slang term that originated from the influence of goats in sports and culture. It is used to describe someone or something that is the best or superior in a particular area or context. The term gained popularity through social media platforms like TikTok, Instagram, and Twitter.
-
-### Example:
-- "Wow, his basketball skills are so impressive, he's totally goated!"
-
-### French Translation and Explanation:
-"Goated" en français pourrait être traduit comme "vautré" ou "dominant". Ces expressions reflètent une position dominante ou la suprématie dans un domaine particulier. Comme dans l'anglais, ce n'est pas une traduction littérale, mais plutôt une façon de transmettre l'idée de dominante supériorité.
-
-### Example in French:
-- "Wow, ses capacités en basket sont tellement impressionnantes, il est vraiment goated !"
-- (Wow, ses capacités en basket sont tellement impressionnantes, il est vraiment vautré !)
-- (Wow, ses capacités en basket sont tellement impressionnantes, il est vraiment dominant !)
+# Bilingual Slang Explanation: "Goated"
+**English:**  
+"Goated" is a slang term that originated from the verb "to goat" but is now primarily used as an adjective to describe something or someone as the best or number one in a particular area or for a specific time period. It often conveys a sense of admiration or boasting.
+**Example Sentence:**  
+- She was the goated athlete in the high school track meet.
+**Spanish:**  
+"Goated" es un término coloquial que surgió del verbo "to goat" pero ahora se utiliza principalmente como adjetivo para describir algo o a alguien como el mejor o el número uno en un área específica o para un período de tiempo determinado. A menudo transmite un sentido de admiración o jactancio.
+**Ejemplo de oración:**  
+- Ella fue la atleta goated en el campeonato de carreras de la escuela secundaria.
 ```
-
-**See also:**
-- /slang/

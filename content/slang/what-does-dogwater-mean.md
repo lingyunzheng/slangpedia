@@ -2,18 +2,15 @@
 title: "What Does 'dogwater' Mean? (dogwater 是什么意思？)"
 slug: "what-does-dogwater-mean"
 date: 2025-11-12
-tags: [slang, internet, tiktok]
+tags:
+- slang
+- internet
+- tiktok
 ---
-
 ```markdown
-## Dogwater
-
-### English解释
-**Dogwater**: 在美国南部广泛流传的俚语，通常用来形容廉价易得但质量极差的啤酒。这个词组形象地比喻这种啤酒像水一样普通，稀稀拉拉，只能满足最基础的口渴需求，没有多少特色或风味。在美国，人们常说他们“喝狗水”来指的是他们喝的是很普通的啤酒。
-
-### Chinese解释
-**狗水 (Dòu Shuǐ)**: 这个词最初起源于美国南部地区的俚语，用来形容价格便宜但质量极差的啤酒。这个词形象地描述了这种啤酒如同普通的水一样毫无特色和风味，只能勉强解渴。在美国文化中，人们常幽默地说他们“喝了狗水”，意味着他们喝的只是普通的、乏善可陈的啤酒。
+# Dogwater
+## English
+**Dogwater**: This slang term is often used to describe something of poor quality or no value. It could be used to refer to water that's extremely dirty and unsuitable for drinking. More broadly, it can be applied to any situation or item that is considered to be of low standard or useless.
+## Chinese
+**狗泪水 (Gǒu ní tǎishuǐ)**：这个俚语常用来形容质量很低或毫无价值的东西。这可能指的是不适宜饮用的极其脏的水。更广泛地说，这个词汇可以用来形容任何被认为是低标准或无用的情况或物品。
 ```
-
-**See also:**
-- /slang/

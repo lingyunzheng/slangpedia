@@ -2,22 +2,17 @@
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
 date: 2025-11-12
-tags: [slang, internet, tiktok]
+tags:
+- slang
+- internet
+- tiktok
 ---
-
 ```markdown
-# Copium (slang)
-
-## English
-**Copium**: A playful and informal term, often used as a playful twist on "copper," which is sometimes used as a slang for copper-based items or objects. In a more general sense, it can also be used to refer to various substances or items in a humorous or nonsensical way.
-
-*Example:* "I found a copium in the attic that looked like a shiny coin."
-
-## 中文
-**Copium**: 一个 playful（轻松愉快的）和非正式的术语，常用来作为“铜”或铜制物品的俏皮别称。在更广泛的意义上，它也可以用来指代各种物质或物品时，增添一些幽默或毫无意义的色彩。
-
-*例句:* “我在阁楼上发现了一枚看起来像是硬币的 copium。”
+## Copium (English)
+**Definition:** A playful or humorous term often used to refer to caffeine or other stimulants. It's a nonce word combining "coffee" and "drum," inspiring a rhythmic or beat-like effect associated with stimulant use.
+**Example Usage:** "I need a shot of copium to keep up with this deadline!"
+## Copium (Chinese)
+**定义：** 一个寓意幽默的术语，常用来指代咖啡因或其他刺激剂。这个词结合了“咖啡”和“鼓”的意思，给人以节奏感或节拍感的印象，类似于对刺激剂使用的形象描述。
+**使用示例：** “为了赶这个deadline，我需要来一口copium！”
 ```
-
-**See also:**
-- /slang/
+This markdown provides a bilingual explanation with examples for the term "copium," highlighting both its English and Chinese meanings and usage.

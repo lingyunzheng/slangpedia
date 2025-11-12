@@ -2,26 +2,19 @@
 title: "What Does 'touch grass' Mean? (touch grass 是什么意思？)"
 slug: "what-does-touch-grass-mean"
 date: 2025-11-12
-tags: [slang, internet, tiktok]
+tags:
+- slang
+- internet
+- tiktok
 ---
-
 ```markdown
-## "Touch Grass" 
-
-**English:**
-- **Meaning:** 
-  To admit that you lost or are wrong about something. It's a playful and informal way of acknowledging that you made a mistake or were incorrect about a situation.
-  
-- **Usage Example:** 
-  "I know I was wrong about the meeting. I need to touch grass."
-
-**Chinese:**
-- **含义:** 
-  承认自己错了或输掉了某件事。这是一种轻松而非正式的方式，用来承认自己犯了错误或在某个情况下是错误的。
-
-- **使用示例:** 
-  "我知道我开会的想法是错的。我需要touch grass。"
+## "Touch Grass" —中文解释—
+### English
+**Touch Grass**
+- *Meaning:* To apologize or admit defeat, often in a humorous or sarcastic manner.
+- *Usage Example:* "When Bob couldn't solve the problem, he had to touch grass and asked his friend for help."
+### 中文
+**触草**
+- *含义:* 向某人道歉或承认失败，通常带有幽默或讽刺的意味。
+- *用法示例:* "当鲍勃解决不了那个问题时，他不得不认输并向朋友求助，说‘触草了’。"
 ```
-
-**See also:**
-- /slang/

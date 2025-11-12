@@ -2,22 +2,17 @@
 title: "What Does 'locked in' Mean? (locked in 是什么意思？)"
 slug: "what-does-locked-in-mean"
 date: 2025-11-12
-tags: [slang, internet, tiktok]
+tags:
+- slang
+- internet
+- tiktok
 ---
-
 ```markdown
-# "Locked In" in English
-
-**Meaning:** When someone is definitively committed to a decision, deal, or relationship, often with no way out.
-
-**Example:** "She’s locked in with her new job, so don’t expect her to leave anytime soon."
-
-### 中文解释
-
-**含义:** 当某人对某个决定、交易或关系做出无可逆转的承诺时，我们说他们是"锁定"的。
-
-**例句:** "她已经锁定了新工作，所以别指望她会很快离职。"
+# "Locked In" Bilingual Slang Explanation
+## English
+**Meaning**: When someone or something is "locked in," it means they are fixed or committed to a particular position, idea, or situation, often with no way to change or escape from it.
+**Example**: "She felt the deal was locked in after signing the contract."
+## 中文
+**意思**: 当某人或某事被“锁定了”，意味着他们被固定或承诺于某种特定的位置、想法或状况，通常无法更改或逃离。
+**例句**: "在签署合同后，她觉得交易已经定局了。"
 ```
-
-**See also:**
-- /slang/

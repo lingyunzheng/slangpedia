@@ -2,22 +2,18 @@
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
 date: 2025-11-12
-tags: [slang, internet, tiktok]
+tags:
+- slang
+- internet
+- tiktok
 ---
-
 ```markdown
-## Ratio 📊💬
-
-**English:**  
-Ratio is a slang term often used to describe a situation where someone wants to publicly compare their qualities, possessions, or achievements with another person, usually to show superiority or to provoke a response. It's a way of challenging someone to prove that they are better or more valuable in some way. For example, "He's been throwing ratio at me all night."
-
-**中文:**  
-ratio 是一个俚语，用来形容一个人想公开比较自己的特质、财产或者成就与另一个人，通常是为了显示出自己的优越性或者激怒对方。这是一种挑战对方证明自己更好的方式。例如，“他一晚上都在 ratio 我。”
-
-**Example Usage:**
-- **English:** She knows he’s just ratioing and won’t actually engage in an actual conversation.
-- **中文:** 她知道他在 ratio，不会真正参与实际的对话。
+# Ratio (English-Chinese Slang)
+## English
+**Ratio**: A casual way of expressing the comparison of one thing to another. Often used in digital platforms like social media to refer to a situation where someone comments negatively on another person's post.
+## Chinese
+**比例（ratio）**: 一种非正式表达方式，用于比较两个事物之间的关系。在社交媒体等数字平台上，通常用来形容一个人在其发布的帖子被他人负面评论时的情况。
+- **Example**: "That video got a 10:1 comment ratio, people just can't resist criticizing it."
+- **译文**: “那个视频的评论比例是10:1，人们就是没法不对其进行批评。”
+- **Note**: This term is often used to describe situations where the relationship between positive and negative interactions is highly unbalanced.
 ```
-
-**See also:**
-- /slang/

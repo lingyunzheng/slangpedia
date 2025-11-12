@@ -2,18 +2,15 @@
 title: "What Does 'skibidi' Mean? (skibidi 是什么意思？)"
 slug: "what-does-skibidi-mean"
 date: 2025-11-12
-tags: [slang, internet, tiktok]
+tags:
+- slang
+- internet
+- tiktok
 ---
-
 ```markdown
-## Skibidi
-
+# Skibidi
 **English:**  
-"Skibidi" is a term that gained popularity as part of a viral dance trend and song in 2013, created by Rizzle, a British boy band. It's often used alongside the dance moves that accompanied the song. The phrase has since become a general term for anything cool or exciting, similar to "lit" or "litzy."
-
-**中文:**  
-"Skibidi" 是一个在2013年因Rizzle（一个英国男子组合）创造的病毒舞蹈趋势和歌曲而流行起来的术语。这个短语常与伴隨歌曲的舞蹈动作一起使用。从那以后，"skibidi" 成为了一个表示酷炫或有趣的通用术语，类似于“lit”或“litzy”。
+"Skibidi" is a term that gained popularity in the early 2000s, particularly in the UK and several countries in Europe. It originated from a song of the same name which became a meme in internet culture. The term is often used to express excitement, agreement, or even confusion, depending on the context. It can be used as an interjection before or in response to something that causes surprise or approval.
+**Chinese:**  
+"Skibidi" 这个词汇在2000年初在英国和欧洲多个国家流行起来，它的起源来自于一首同名歌曲，这首歌在互联网文化中成为了一个梗。这个词汇可以用来表达兴奋、赞同或甚至困惑，具体取决于语境。它可以在表达惊讶或赞同之前或之后使用。
 ```
-
-**See also:**
-- /slang/

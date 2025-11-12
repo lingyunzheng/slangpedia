@@ -2,19 +2,21 @@
 title: "What Does 'deadass' Mean? (deadass 是什么意思？)"
 slug: "what-does-deadass-mean"
 date: 2025-11-12
-tags: [slang, internet, tiktok]
+tags:
+- slang
+- internet
+- tiktok
 ---
-
 ```markdown
-# English: Deadass
-
+# Deadass (英汉对照俚语解释)
 ## English Explanation
-"Deadass" is an informal slang term that can be used to describe something or someone who is extremely serious, intense, or brutal. It can also convey a sense of straightforwardness or directness without any joking or playful tone. The term is often used to emphasize the seriousness or the harshness of a situation.
-
-## Bilingual Explanation
-- **English:** Extremely serious, intense, or brutal; can also mean straightforward or direct.
-- **Chinese (Simplified):** 极其认真、严厉或直接；也可以表示坦诚或直率。
+"Deadass" is a colloquial term often used to describe something or someone in a very intense, serious, or straightforward manner. It can also be used to emphasize the seriousness or genuineness of a statement. 
+### Usage Example
+- "The party was deadass quiet when the scary story began."
+- "He made a deadass promise to keep it a secret."
+## 中文解释
+"Deadass" 是一个俚语表达，用来形容某事或某人非常严肃或直接。它也可以用来强调陈述的严肃性或真诚性。
+### 用法示例
+- "当恐怖故事开始时，派对异常安静，可以用‘deadass quiet’来形容。”
+- “他立下了一个‘deadass’的誓言要保守秘密。”
 ```
-
-**See also:**
-- /slang/
