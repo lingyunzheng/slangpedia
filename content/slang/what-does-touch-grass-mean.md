@@ -1,19 +1,17 @@
 ---
 title: "What Does 'touch grass' Mean? (touch grass 是什么意思？)"
 slug: "what-does-touch-grass-mean"
-date: 2025-11-12
+date: 2025-11-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Term: "Touch Grass"
-## English
-**Meaning:** To regret or express deep remorse for a past action, often with a hint of exaggeration.
-**Example:** "He promised never to lie to his parents again, saying he would 'touch grass' if he did it again."
-## Chinese
-**意思:** 表达对过去行为的深深后悔，经常带有夸张的意味。
-**例句:** "他向父母保证再也不会撒谎，并说如果再次撒谎他会‘躺草’。"
+### English: Touch Grass
+**Definition:** An expression used to indicate that someone should reconsider their radical or extreme stance or actions, often to a more moderate approach.
+**Example:** "After all the controversy, John decided to touch grass and toned down his political views."
+### 中文: 触草
+**定义：** 表示某人应该重新考虑其激进或极端的观点或行为，转向更为温和的做法。
+**例句：** "经过所有的争议后，约翰决定触草，低调了他的政治立场。"
 ```
-Note: The term "躺草" in Chinese is a modern, informal way to express regret or to exaggerate as "touch grass" is used.

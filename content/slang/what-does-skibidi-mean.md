@@ -1,16 +1,23 @@
 ---
 title: "What Does 'skibidi' Mean? (skibidi 是什么意思？)"
 slug: "what-does-skibidi-mean"
-date: 2025-11-12
+date: 2025-11-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Skibidi
-## English
-**Skibidi** (slang): A playful, often exaggerated term used to express excitement, approval, or to emphasize something in a spirited manner. Think of it like saying "awesome" or "cool," but with more gusto. It can also be used as a joyful, enthusiastic interjection, similar to "whee!" or "hoo-ray!"
-## Chinese
-**Skibidi**（俚语）: 一个充满活力且经常夸张的词语，用于表达兴奋、赞同，或是强调某些事情时带着更多的激情。可以将其比作说“酷”或“棒”，但带有更多的激情，也可以作为一种惊喜、热情洋溢的感叹词，类似于“哇塞！”或“万岁！”
+## Skibidi (English)
+**Definition:**  
+Often used as a filler word or to express excitement, confusion, or the start of a catchy tune. It can also be used to mimic the sound of trumpets or horns, often in a hype or energetic context.
+**Example Usage:**  
+"I just got an amazing gig offer!"  
+"SKIBIDIPLOCA! Can't believe it!"
+## Skibidi (Chinese)
+**定义:**  
+常用来作为填充词、表达兴奋、困惑或歌曲高潮的开始。也可以用来模拟号角的声音，尤其是在充满活力或高能量的情况下。
+**例句:**  
+"我刚接到一个超级棒的工作邀请！"  
+"SKIBIDIPLOCA！我简直不敢相信！"
 ```

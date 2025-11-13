@@ -1,16 +1,16 @@
 ---
 title: "What Does 'no cap' Mean? (no cap 是什么意思？)"
 slug: "what-does-no-cap-mean"
-date: 2025-11-12
+date: 2025-11-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# No Cap
-## English
-**No Cap**: Used to say "I'm not lying" or "That's the truth." It emphasizes honesty and sincerity. For example, "I really ate the last cookie, no cap."
-## 中文
-**No Cap**: 表示“我没有撒谎”或“这是事实”。用来强调诚实和真诚。例如，“我真的吃了最后那块饼干，no cap。”
+## No Cap (无罩)
+**English:**  
+"No cap" is an internet slang phrase often used to express that something is true or genuine. It implies that the speaker is not exaggerating or pulling someone's leg. It can also indicate a level of confidence or reassurance that the speaker is serious about what they are saying.
+**中文:**  
+“No cap” 是一种网络用语，常用来表示某事是真的或诚恳的。它暗示发言者没有夸大或者在开玩笑。此外，它也可能表示发言者对自己所说的话是认真的，并怀有信心或给予对方保证。
 ```

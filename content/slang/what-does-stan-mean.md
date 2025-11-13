@@ -1,14 +1,19 @@
 ---
 title: "What Does 'stan' Mean? (stan 是什么意思？)"
 slug: "what-does-stan-mean"
-date: 2025-11-12
+date: 2025-11-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## stan (粉丝的狂热者)
-**English:** A stan is a devoted or overly enthusiastic supporter of a celebrity, public figure, or fictional character, willing to overlook flaws and continuously defend and promote that person or entity. Essentially, a stan is a die-hard fan.
-**中文:** stan 是一个极度狂热或过于热情的支持者，他们对名人、公众人物或虚构角色表现出近乎偏执的忠诚，能够无视其缺点并不断为其辩护和宣传。简而言之，stan 就是对某人（或某物）极度忠诚的铁杆粉丝。
+# Stan (noun)
+**English Explanation:**
+A stan is a devoted fan who shows unwavering support and loyalty towards a particular celebrity, athlete, band, or any public figure. Stans are known for their extreme enthusiasm and dedication, often engaging in activities like supporting merchandise, creating content, and showing up at concerts or events in large numbers.
+**Bilingual Explanation:**
+- **英语解释:** stan 是一个极度忠诚的粉丝，会对某位名人、运动员、乐队或公众人物表现出无条件的支持和热爱。stans 以其极端的热情和奉献著称，他们会通过支持周边商品、创作内容和在演唱会或活动中集体现身等方式表达支持。
+- **双语解释:** 
+-  stan (n) - 一个极度忠诚的粉丝，会对某位名人、运动员、乐队或公众人物表现出无条件的支持和热爱。stans 以其极端的热情和奉献著称，他们会通过支持周边商品、创作内容和在演唱会或活动中集体现身等方式表达支持。
+- stan (n) - 一个极度忠诚的粉丝，会对某位名人、运动员、乐队或公众人物表现出无条件的支持和热爱。stans 以其极端的热情和奉献著称，他们会通过支持周边商品、创作内容和在演唱会或活动中集体现身等方式表达支持。
 ```

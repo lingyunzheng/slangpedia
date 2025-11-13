@@ -1,7 +1,7 @@
 ---
 title: "What Does 'real' Mean? (real 是什么意思？)"
 slug: "what-does-real-mean"
-date: 2025-11-12
+date: 2025-11-13
 tags:
 - slang
 - internet
@@ -9,11 +9,11 @@ tags:
 ---
 ```markdown
 ## English
-### Real
-**Meaning:** Genuine, authentic, or true. It can also refer to something or someone who is not fake or artificial.
-**Example:** "Her joy was real when she received the news."
-## Chinese
-### 真的 (Zhēnde)
-**意义:** 真实的，真诚的，或者真实的。这个词也可以用来表示某人或某物不是假的或不真实的。
-**例句:** "她收到消息时的喜悦是真的。"
+**Real**: 
+- *Meaning*: Authentic, genuine, or genuinely good. It can also be used to express that something is not fake or is true.
+- *Example*: "This new song from the artist is real," meaning it's authentic and true.
+## 中文
+**Real**:
+- *意思*: 真实的、正版的，或者是真正好的。它也可以用来表示某样东西不是假的或是真的。
+- *例句*: "这首歌是艺术家的新作品，很real"，意思是它很真实，很正宗。
 ```

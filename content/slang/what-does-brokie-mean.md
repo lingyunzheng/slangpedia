@@ -1,16 +1,18 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2025-11-12
+date: 2025-11-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Brokie (Slang)
-### English Explanation
-"Brokie" is a term often used in modern slang, particularly in online and social media communities. It is typically used to describe someone who is considered an exaggeration of typical "manly" or stereotypically masculine traits. These traits may include brashness, arrogance, or behaviors that are seen as overly boastful or aggressive. The term can sometimes be used affectionately, but it often has a negative connotation and is used to criticize or mock someone who is seen as going too far in their display of masculinity.
-### Chinese Explanation
-"Brokie" 是现代俚语中常用的一个术语，尤其是在网络和社交媒体社区里。它通常用来形容那些被视为典型或者刻板印象中的男性特质的夸张体现者。这些特质可能包括豪放、傲慢或过于自夸或好斗的行为。这个词有时候可以用作亲密或喜爱的表现，但通常具有负面含义，并用于批评或嘲笑那些被认为在展示其男性特质方面走得太远的人。
+### Brokie (English)
+**Definition:** A brokie is a term used to describe a man who displays behaviors or characteristics associated with traditional "bro" culture, often in an exaggerated or overly macho manner. This can include showing off, being obnoxious, or engaging in bragging.
+**Example:** "Don't be surprised if he opens a million cans of soda with one hand. That's just his brokie way of showing off."
+### 哥们儿（小白脸） (Chinese)
+**Definition：** “哥们儿（小白脸）”是一个用来形容一个表现得像传统“哥们儿”文化中过于阳刚或炫耀的男人的术语。这可能包括炫耀、表现得粗犷或者吹嘘自己。这与“brokie”的意思非常相似。
+**例句：** "如果他可以一手打碎一罐汽水，千万别惊讶，这正是他哥们儿（小白脸）的炫耀方式。"
 ```
+This markdown format provides a clear and concise translation along with examples, making it easy to understand the meaning of "brokie" in both English and Chinese.

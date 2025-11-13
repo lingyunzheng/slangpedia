@@ -1,7 +1,7 @@
 ---
 title: "What Does 'yeet' Mean? (yeet 是什么意思？)"
 slug: "what-does-yeet-mean"
-date: 2025-11-12
+date: 2025-11-13
 tags:
 - slang
 - internet
@@ -10,7 +10,15 @@ tags:
 ```markdown
 # Yeet
 ## English
-**"Yeet"** is an internet slang term that originated from Twitch and Instagram, often used to express excitement, approval, or to express that something is being tossed or thrown. It can also be used in a more casual setting to indicate "go away" or to express anger or disappointment.
-## 中文
-“**Yeet**”是一个互联网俚语词汇，起源于Twitch和Instagram，常用来表达兴奋、赞同，或者表示某物正被扔出或投掷。在更随意的场合下，也可以用来表示让某人走开或者表达愤怒或失望。
+**Definition**: An enthusiastic or dismissive throw, followed by a satisfying "thunk" sound.
+- **Usage**: "I just got a promotion at work! Yeet, all that hard work really paid off!"
+**Example**: 
+- **Context**: While throwing a ball.
+- **Saying**: "Watch this, yeet!"
+## Chinese
+**释义**：一种充满热情或干脆利落地扔的动作，伴随着令人满意的“嘭”声。
+- **用法**：今天工作上获得了晋升！耶特，辛苦的努力真的值得了！
+**例句**：
+- **场景**：在扔球。
+- **对话**：看我的，耶特！
 ```
