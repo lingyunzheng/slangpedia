@@ -1,7 +1,7 @@
 ---
 title: "What Does 'chad' Mean? (chad 是什么意思？)"
 slug: "what-does-chad-mean"
-date: 2025-11-13
+date: 2025-11-14
 tags:
 - slang
 - internet
@@ -9,8 +9,8 @@ tags:
 ---
 ```markdown
 # Chad
-## 英文解释
-"Chad" is a slang term mostly used in the context of dating and casual conversation. It's often used to describe a man who is perceived as being overly muscular, confident, and seemingly always in good shape. The term can also carry a slight connotation of someone being a bit nerdy or academic, often referred to as a "geek chad." It is used more humorously and can imply that the person has an exceptionally high level of physical fitness or is the epitome of the ideal boyfriend/girlfriend.
-## 中文解释
-"Chad" 是一个俚语，主要在约会和日常对话中使用。这个词通常用来形容一个被感知为肌肉发达、自信且总是保持良好体型的男性。这个术语还可以带有些许书呆子或学究的意味，常被称为“学霸卡德”。它更多是作为一种幽默来使用，可以暗示这个人拥有极高的体能水平或堪称理想的情侣或伴侣。
+**English:**  
+A slang term often used to describe someone who is socially awkward or has behaviors that are perceived as overly macho. It can also imply that the person is dumb or inarticulate. The term can be both a compliment in certain contexts (e.g., "Chad the Grinder") or a put-down.
+**Chinese:**  
+这个词广泛用于形容脾气暴躁、社交能力较差的人，有时也带有贬义，暗示这个人愚蠢或口齿不清。这个词在某些情况下可以作为赞美（例如，“Chad the Grinder”），但在更多时候则带有贬斥之意。
 ```

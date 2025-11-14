@@ -1,14 +1,21 @@
 ---
 title: "What Does 'girlboss' Mean? (girlboss 是什么意思？)"
 slug: "what-does-girlboss-mean"
-date: 2025-11-13
+date: 2025-11-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Girlboss
-**English:** A girlboss is a woman who embodies traits such as confidence, independence, and success in her career or entrepreneurial ventures. The term originated from the memoir "Girlboss" by Sophia Amoruso, the founder of the fashion brand Nasty Gal. A girlboss is often seen as a leader who breaks traditional gender norms and succeeds on her own terms.
-**汉语解释:** Girlboss 是指具有自信、独立和在事业或创业中取得成功的女性。这个词汇源于 Sophia Amoruso 的自传《Girlboss》，她是时尚品牌 Nasty Gal 的创始人。Girlboss 往往被视为打破传统性别规范的领导者，按照自己的方式取得成功。
+# Girlboss
+**英文解释：**  
+"Girlboss" is a term used to describe female entrepreneurs or business leaders who are confident, self-assured, and assertive. It became popular after the release of the Netflix documentary "Girls Who Tech," and later the female-led company with the same name in 2015.
+**中文解释：**  
+"Girlboss" 是用来描述那些自信、自我肯定且果断的女性创业者或企业领导人的术语。这个词在 Netflix 的纪录片《Tech Girls》播出后变得流行，并在 2015 年由一群女性成立了同名公司后进一步传播开来。
+### Example Usage
+**英文：**  
+She runs her own successful cosmetics business and considers herself a true girlboss.
+**中文：**  
+她经营着自己的化妆品公司，并自认为是一个真正的 girlboss。
 ```

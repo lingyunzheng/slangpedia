@@ -1,18 +1,18 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2025-11-13
+date: 2025-11-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Brokie (English)
-**Definition:** A brokie is a term used to describe a man who displays behaviors or characteristics associated with traditional "bro" culture, often in an exaggerated or overly macho manner. This can include showing off, being obnoxious, or engaging in bragging.
-**Example:** "Don't be surprised if he opens a million cans of soda with one hand. That's just his brokie way of showing off."
-### 哥们儿（小白脸） (Chinese)
-**Definition：** “哥们儿（小白脸）”是一个用来形容一个表现得像传统“哥们儿”文化中过于阳刚或炫耀的男人的术语。这可能包括炫耀、表现得粗犷或者吹嘘自己。这与“brokie”的意思非常相似。
-**例句：** "如果他可以一手打碎一罐汽水，千万别惊讶，这正是他哥们儿（小白脸）的炫耀方式。"
+## Brokie (Bro + Broken)
+### English
+**Brokie** is a playful and informal term often used to refer to a person who is broken, damaged, or dysfunctional in some way, or someone who fails repeatedly at trying to do something. It combines "bro" (short for "buddy" or "brother") with "broken."
+- **Example:** "Man, that brookie couldn't catch a break. He's been losing at everything lately."
+### 中文
+**Brokie** 是一个轻松且非正式的词汇，用来形容一个人在某种程度上是损坏的、有缺陷的，或者在尝试做某事时屡屡失败。它结合了“bro”（即“buddy”或“brother”的缩写）与“broken”。
+- **例句:** "那个破妹每次都打不赢，真是太惨了。"
 ```
-This markdown format provides a clear and concise translation along with examples, making it easy to understand the meaning of "brokie" in both English and Chinese.

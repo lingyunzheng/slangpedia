@@ -1,17 +1,16 @@
 ---
 title: "What Does 'touch grass' Mean? (touch grass 是什么意思？)"
 slug: "what-does-touch-grass-mean"
-date: 2025-11-13
+date: 2025-11-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### English: Touch Grass
-**Definition:** An expression used to indicate that someone should reconsider their radical or extreme stance or actions, often to a more moderate approach.
-**Example:** "After all the controversy, John decided to touch grass and toned down his political views."
-### 中文: 触草
-**定义：** 表示某人应该重新考虑其激进或极端的观点或行为，转向更为温和的做法。
-**例句：** "经过所有的争议后，约翰决定触草，低调了他的政治立场。"
+## "Touch Grass"
+### English Explanation
+"Touch grass" is a slang expression, primarily used in the United States, often as a dare or challenge, and sometimes as a way to express surprise or exasperation. It can be a more colorful way to say "fall flat on your face" or "go to the hospital." It's used to express extreme disappointment, embarrassment, or to challenge someone to a risky act to prove their courage or resolve.
+### Chinese Explanation
+"Touch Grass"（摸草）是一种俚语表达，主要在美国使用。它可以作为一种挑战或赌咒的方式，有时也用于表达极大的惊讶或挫败感。这是一种较为口语化的方式来表示“摔倒在地上”或“去医院”。它可以用来表示极度的失望、尴尬，或者挑战某人做一些危险的事情来证明其勇敢或决心。
 ```

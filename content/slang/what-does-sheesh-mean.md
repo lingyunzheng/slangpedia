@@ -1,20 +1,19 @@
 ---
 title: "What Does 'sheesh' Mean? (sheesh 是什么意思？)"
 slug: "what-does-sheesh-mean"
-date: 2025-11-13
+date: 2025-11-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sheesh (英): Oh gosh (感叹词)
-### English Explanation
-Sheesh is an interjection often used to express mild frustration, disbelief, or disappointment. It's similar to saying "Oh gosh" or "Wow, really?" in a tone that can range from mild surprise to strong irritation.
-### Chinese Explanation
-Sheesh（哦天哪）用来表达轻微的挫折感、难以置信或失望。它类似于说“哦天哪”或“哇，真的？”的语气，可以从轻微的惊讶到强烈的烦躁不平都有。
----
+## Sheesh (英 美)
+### English
+**Sheesh**: An interjection often used to express disagreement, disbelief, or exasperation. It's similar to saying "Oh, come on!" or "Really?"
+### Chinese
+** Sheesh**: 一个感叹词，常用来表示不同意、难以置信或烦恼。类似于说"得了吧！"或"真的吗？"
 Example Usage:
-- English: "Sheesh, it's already 10 PM and the party is just getting started."
-- Chinese: 原文：“她esh，现在已经10点了，派对才刚开始。”
+- English: Sheesh, it's already 10 PM and I still have so much work to do!
+- Chinese: Sheesh，都快10点了我还有很多工作没完成呢！
 ```

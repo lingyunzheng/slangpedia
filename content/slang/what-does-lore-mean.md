@@ -1,22 +1,16 @@
 ---
 title: "What Does 'lore' Mean? (lore 是什么意思？)"
 slug: "what-does-lore-mean"
-date: 2025-11-13
+date: 2025-11-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Lore (English)
-**Definition:** Stories, legends, or information passed down through generations. Often includes myths or folksy tales.
-**Bilingual Slang Explanation:**
-- **中文解释:** 老故事或者家族传统中传下来的故事传说。经常包含神话或民间传说。
-- **Example Usage:** "The local lore about the haunted house was enough to scare the entire neighborhood."
-## 考拉 (Chinese)
-**Definition:** 考拉是一种原产于澳大利亚的树栖袋熊，以其缓慢的生活节奏和懒散的生活方式而闻名。
-**Bilingual Slang Explanation:**
-- **英文解释:** Koalas are a species of tree-dwelling marsupials native to Australia, known for their slow-paced and lazy lifestyle.
-- **Example Usage:** "He's as lazy as a koala, always slacking off whenever he gets a chance."
-Note: While "lore" and "考拉" are unrelated in meaning, they are included in this markdown for a bilingual comparison example. "Koala" is used as a contrast to show different types of slang explanations.
+## 贴吧俚语：lore
+### 汉语解释
+灵（lore）：在一些网络社区或游戏论坛中，“灵”常用来形容某个人或是某个角色、道具有着很强大的威力、稀有或难以获得的特点。它往往用来强调某种物品、角色或技能的独特价值或稀缺性。
+### 英语解释
+**Lore**: In online communities or game forums, "lore" is used to describe someone or something (a character, item, etc.) that is exceptionally powerful, rare, or hard to obtain. It emphasizes the unique value or rarity of certain items, characters, or abilities.
 ```

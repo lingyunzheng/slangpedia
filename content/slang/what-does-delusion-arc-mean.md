@@ -1,18 +1,16 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2025-11-13
+date: 2025-11-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Delusion Arc (Delusion弧)
-**English:** A term often used to describe a situation where someone is in a prolonged state of denial or has a strongly held, but incorrect belief about a particular situation or reality. An "arc" is used metaphorically to suggest a trajectory or path of this delusion over time.
-**中文:** 这个词常用来形容一个人长时间处于否认状态，或者对某种情况或事实持有一种牢固但错误的信念。"弧"在这里被比喻性地使用，来表示这种幻想持续的时间或路径。
----
-Example Usage:
-- **English:** After his friends all pointed out the obvious flaws in his business model, he entered the delusion arc, stubbornly clinging to his fantasy.
-- **中文:** 在朋友们都指出了他商业模式中的明显缺陷后，他进入了幻想的弧线，执拗地坚持着自己的幻想。
+## Delusion Arc (脑洞弧度 Nǎo dùn hú dù)
+### English Explanation
+**Delusion Arc**: This term is used primarily in internet and gaming culture, often referring to an extremely creative or unrealistic idea, plan, or behavior. It's derived from the Chinese term "脑洞弧度" (nǎo dùn hú dù), where "脑洞" (nǎo dùn) meansbrain洞"cave", symbolizing a creative idea, and "弧度" (hú dù) meaning arc or curve, often indicating the extent or magnitude of something. When combined, it describes the degree of deviation from reality that someone's ideas or actions have.
+### Chinese Explanation
+**脑洞弧度 (Nǎo dùn hú dù)**: 在网络和游戏文化中，这个术语主要用来形容极度创意或不切实际的想法、计划或行为。"脑洞" (nǎo dùn) 来自于“脑洞”的概念，指的是创意的程度和范围，而"弧度" (hú dù) 则指的是弧度或曲线，常用来形容这种创意的曲线有多夸张或不切实际。将两者结合起来，描述了一种偏离现实达到何种程度的创意或行动。
 ```

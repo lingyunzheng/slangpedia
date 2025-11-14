@@ -1,21 +1,20 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2025-11-13
+date: 2025-11-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sigma
-### Chinese (简体中文)
-**出处**: 来源于数学符号，代表整个集合，常用于表示综合素质或整体水平。
-**解释**: 在网络文化中，"sigma" 通常用来形容一个人或多个人的整体素质或能力非常高。类似于“全方位牛人”或“综合素质拉满”。
-**例句**: 他真的是一个 sigma，无论是技术还是人际交往能力都极高。
-### English
-**Origin**: Derived from a mathematical symbol, representing the entire collection, often used to denote overall quality or level of capability.
-**Explanation**: In internet culture, "sigma" is typically used to describe someone or a group of people whose overall quality or ability is extremely high. It's similar to saying "all-rounder" or "top-notch in every aspect."
-**Example Sentence**: He is truly a sigma; he excels in both technical skills and interpersonal skills.
+# Sigma (σ)
+## English
+**Meaning:** A symbol often used in math or statistics to denote a standard deviation or a summation. 
+**Slang Explanation:** In casual chat, "sigma" can refer to someone or something that's extremely proficient or knowledgeable in a particular field. If you're the "sigma" in your group, it means you're the go-to person for all things related to that field.
+**Example:** "John is the sigma of all things tech in our company. Whenever anyone needs to know about the latest gadgets, they come to him."
+## 中文
+**含义:** 在数学或统计学中，σ通常用来表示标准差或求和符号。
+**俚语解释:** 在非正式的对话中，“sigma”可以指代某个在某一方面极其熟练或知识渊博的人。如果你是小组中的“sigma”，那就意味着你是该领域的专家，人们遇到相关问题时都来找你。
+**例句:** "约翰是我们公司中的技术专家（sigma），每次有人需要了解最新的科技产品信息时，他们都找他。"
 ```
-This markdown format provides a clear and structured bilingual explanation for the slang term "sigma."

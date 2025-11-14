@@ -1,22 +1,21 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2025-11-13
+date: 2025-11-14
 tags:
 - slang
 - internet
 - tiktok
 ---
+Sure! Here's the bilingual slang explanation in Markdown format:
 ```markdown
 ## Bruh
-**English**: 
-* Short for "brother," often used to express mild surprise, confusion, or disdain. It can also be used as a casual acknowledgment or agreement.
-**Example**:
-- "Bruh, did you see that car crash?!" (Expressing surprise)
-**Bilingual Slang Explanation**:
-- English: Bruh
-- Chinese: 哥们儿 (gēmenr) or 布鲁赫 (bù lú hé) - 哥们儿 more closely captures the informal, close relationship feel, while 布鲁赫 is a phonetic translation that can be used in a similar exclamatory context.
-**Usage Tips**:
-- Use "布鲁赫" in casual settings with friends or in messages where a casual tone is appropriate.
-- In Chinese, "哥们儿" is more commonly used in everyday speech for a close, friendly relationship, which can help convey the same sense of familiarity as "bro" or "bruh" might in English.
+### English
+**Definition:** An informal interjection used to express a wide range of emotions such as surprise, confusion, agreement, or disbelief. It's often used to affirm, reassure, or respond to something in a nonchalant or casual manner.
+**Usage:** "Bruh, that's seriously messed up!"
+"Hey, you did great! Bruh, I knew you could do it!"
+### 中文
+**定义：** 一个非正式的感叹词，用来表达一系列情感，如惊讶、困惑、认同或难以置信。通常用于肯定、安慰或以非正式或随意的方式回应某事。
+**用法：** "Bruh，那真是太扯淡了!"
+"Hey，你真棒！Bruh，我知道你能做到！"
 ```

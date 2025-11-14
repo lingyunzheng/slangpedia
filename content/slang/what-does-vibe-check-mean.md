@@ -1,18 +1,18 @@
 ---
 title: "What Does 'vibe check' Mean? (vibe check 是什么意思？)"
 slug: "what-does-vibe-check-mean"
-date: 2025-11-13
+date: 2025-11-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Vibe Check (中文: 萊斯特)
-**English:** A slang phrase typically used to ask if everyone in a group is relaxed and comfortable with the atmosphere or situation.
-**Chinese:** 一种常用的俚语表达方式，通常用于询问小组中的每个人是否对当前的氛围或情况感到放松和舒适。
-Usage example:
-- English: "Is anyone's vibe off? We should do a vibe check."
-- 中文: "有人觉得气氛有点不对劲吗？我们来做个萊斯特吧。"
+## Vibe Check (Chinese: 调调)
+- **English Explanation:** A casual way to check if the mood or atmosphere is good among a group of people.
+- **Chinese Explanation:** 用来检查气氛是否合适的一种非正式说法。
+- **Usage Example:**
+- English: "We're thinking about starting a game, but I just want to do a vibe check first."
+- Chinese: "我们想开始玩游戏，但我想先做一个氛围检查。"
 ```
-In Chinese, "萊斯特" (lài sè) is a phonetic transcription of "vibe check," as there isn't a direct translation for this specific phrase that maintains the same cultural context.
+This Markdown format provides a clear and concise explanation of the slang term "vibe check" in both English and Chinese, along with a usage example.

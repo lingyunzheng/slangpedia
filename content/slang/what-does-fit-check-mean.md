@@ -1,16 +1,16 @@
 ---
 title: "What Does 'fit check' Mean? (fit check 是什么意思？)"
 slug: "what-does-fit-check-mean"
-date: 2025-11-13
+date: 2025-11-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Fit Check (中文: 模特试衣)
-## English Explanation
-**Fit Check:** A term commonly used in the fashion and modeling industry to describe the process of trying on and assessing clothing to see how it looks and fits. This can also refer to a quick, informal look at someone's appearance, often during a photoshoot or event to ensure that they look good in their outfit.
-## 中文解释
-**模特试衣 (Mùdiǎo shìyī):** 在时尚和模特行业中常用的一个术语，指的是试穿和评估服装是否合身以及看起来如何的过程。这个词也可以用于正式或非正式的场合，确保某人在穿着方面看起来很好。
+## fit check
+### 中文解释
+fit check 指的是一种社交场合中的行为，通常出现在一些穿搭比较讲究的群体中，比如潮流爱好者、时尚博主或是在某个特定社交圈子里。它指的是在正式场合或特殊活动之前，一个人让朋友或熟人帮忙检查一下自己的穿着是否合适、是否有不妥之处。这种行为也被称为“试水”或“模特走秀”。
+### 英文解释
+A "fit check" refers to a social behavior commonly seen among fashion enthusiasts, fashion bloggers, or in specific social circles. It involves someone seeking feedback from friends or acquaintances to ensure their outfit is appropriate and free of any unwanted flaws before attending a formal event or special occasion. In some contexts, it can also be referred to as a "trial run" or "showcasing" one's outfit.
 ```
