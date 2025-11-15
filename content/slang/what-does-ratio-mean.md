@@ -1,18 +1,15 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2025-11-14
+date: 2025-11-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Ratio (English-Chinese)
-## English
-- **Definition**: In its broadest sense, ratio can refer to a comparison of two quantities or numbers. In a more colloquial use, particularly in certain social media contexts, it refers to the act of publicly comparing someone unfavorably, often in the context of their appearance or possessions.
-- **Example**: "He was mad because his ex-girlfriend started posting about the ratio of his assets to hers."
-## Chinese
-- **定义**: 在最广泛的意义上，比例可以指两个数量或数字之间的对比。在一种更通俗的用法中，特别是在某些社交媒体的语境里，它指的是公开比较某人的缺点，通常是在外貌或拥有的东西方面。
-- **例句**: "他气坏了，因为他前女友开始在社交媒体上炫耀他们各自拥有的东西的比例。"
+## Ratio (中英文俚语解释)
+**Ratio (比例/比率)**
+- **中文俚语解释**: 在非正式场合下，"ratio" 通常被用来表示某个人或者群体与另一种事物之间的对比度，甚至有时候用来形容某人的颜值、身材或者某个事件的重要性。比如，“这个人和那个明星的 ratio 太低了”，这通常意味着 Compared with that celebrity, the person is not as attractive.
+- **英文俚语解释**: "Ratio" is used colloquially to describe the comparison between one person or group and another. It can be used to discuss appearance, body shape, or the importance of an event. For instance, "His ratio to that celebrity is too low" means he is less attractive compared to the celebrity.
 ```

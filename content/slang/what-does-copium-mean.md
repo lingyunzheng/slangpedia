@@ -1,16 +1,16 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2025-11-14
+date: 2025-11-15
 tags:
 - slang
 - internet
 - tiktok
 ---
-Here are the bilingual explanations for "copium" in markdown format:
 ```markdown
 ## Copium
-- **English:** A playful or humorous term often used as a phonetic combination of "cop" (short for police officer) and "amphetamines." It is used to describe a state of hyperactivity, alertness, or heightened energy, usually in a lighthearted or comical context. Example: "After drinking that coffee, I feel like a walking copium pill."
-- **简体中文:** "copium" 是一个玩弄发音的游戏术语，通常结合了“cop”（警察）和“amphetamine”（安非他命）两词的一部分。它用来描述一种高度活跃、警觉或能量高涨的状态，通常在轻松或调侃的语境中使用。例如：“喝了那杯咖啡后，我觉得自己像一颗行走的copium药片。”
+### English
+Copium is a slang term that typically refers to the use of a cop (police officer) as a means to obtain substances illegally, often involving a bribe or coercion. It's used to describe the act of a police officer facilitating access to contraband in exchange for something of value.
+### Chinese
+" Copium" 是一个网络用语，通常指的是利用警察来非法获得物质的行为，往往涉及到贿赂或胁迫。这个词用来形容警察为求取非法物质而进行的协助行为，通常是换取某种利益。
 ```
-Feel free to modify or use this as needed!

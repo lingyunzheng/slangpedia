@@ -1,23 +1,20 @@
 ---
 title: "What Does 'cringe' Mean? (cringe 是什么意思？)"
 slug: "what-does-cringe-mean"
-date: 2025-11-14
+date: 2025-11-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Cringe (English)
-### Explanation
-Cringe is a term used to describe something or someone that is so awkward, embarrassing, or off-putting that it elicits an instinctive sense of discomfort or disgust. It can refer to a moment, behavior, or appearance that is so bad it makes people want to "cringe" or shrink back in horror and dread.
-### Example Usage
-- "I can't believe Bob wore a uderwear top to the party, that's so cringe!"
-- "Watching that dance competition was cringe because the moves were terrible."
-## 赛林ge (中文)
-### 解释
-“赛林ge”是一个用来形容某种行为、举止或外观如此尴尬、令人尴尬或令人反感，以至于让人产生一种本能的不舒适或厌恶感的词汇。它可以指一个瞬间、行为或外貌，让人看了想“赛林ge”（即退缩）或感到恐惧和厌恶。
-### 例句
-- “我简直无法相信鲍勃在聚会上穿了个内裤上衣，这简直太赛林ge了！”
-- “观看那个舞蹈比赛真的太赛林ge了，因为舞步真的很烂。”
+## Cringe (英): 脆皮 (拼音: cuì pí)
+**英语解释:** "Cringing" or "cringeworthy" refers to something or someone that is extremely awkward, embarrassing, or off-putting in a humorous way. It's often used to describe situations or actions that make people feel like they want to recoil or recoil, sometimes empathetically.
+**汉语解释:** "脆皮"一词用来形容某事或某人极其尴尬、令人尴尬或令人不舒服，有时带有幽默感。这个词通常用来形容让人感觉想要躲避或同情的情况或行为。
+例句:
+- **English:** That awkward silence when no one knows the answer.
+- **汉语:** 那尴尬的沉默，没有人知道答案。
+- **English:** His dance moves are so cringe, you can't help but laugh.
+- **汉语:** 他的舞蹈动作这么脆皮，你都不禁想笑。
 ```
+This markdown format makes it easy to format the comparison between the English and Chinese terms, and gives the reader a clear understanding of the context and usage.

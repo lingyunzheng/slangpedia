@@ -1,19 +1,17 @@
 ---
 title: "What Does 'mid' Mean? (mid 是什么意思？)"
 slug: "what-does-mid-mean"
-date: 2025-11-14
+date: 2025-11-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 中文
-#### mid (边打边跑)
-- **定义**: 在游戏中，当一方试图攻击或靠近另一方时，另一方不断后退，试图避免直接冲突或寻找更好的攻击位置。
-- **例子**: 在在线游戏中，遇到更强的对手时，可能会采取“边打边跑”的策略，避免不必要的伤害。
-## English
-#### mid (chase and run)
-- **Definition**: In games, when one party attempts to attack or move closer to another, the latter keeps retreating, trying to avoid direct conflict or find a better attacking position.
-- **Example**: In online games, when facing a stronger opponent, players might employ the "chase and run" strategy to avoid unnecessary damage.
+## 中文释义
+**mid**  
+- 中"\*\*mid\*\*"（指中文拼音“míng”靠近中文语境中的“中间”或“中途”）：当某事进展到“中间”阶段时，可以用“mid”来形象地表达这种状态，比如“项目现在正处于\[mid\]阶段。”这是一个借用英语词汇来描述中文语境中的某个概念的新兴用法。
+## English Explanation
+**mid**  
+- "mid" (deriving from its phonetic similarity to "míng" in pinyin which is close to the Chinese concept of "middle" or "halfway")：When something is in a "middle" stage of progress, you can use "mid" to vividly describe this situation, such as saying "the project is currently in a \[mid\] stage." This is a new usage where an English word is borrowed to describe a concept in Chinese context.
 ```

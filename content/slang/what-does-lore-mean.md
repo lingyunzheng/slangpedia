@@ -1,16 +1,18 @@
 ---
 title: "What Does 'lore' Mean? (lore 是什么意思？)"
 slug: "what-does-lore-mean"
-date: 2025-11-14
+date: 2025-11-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 贴吧俚语：lore
-### 汉语解释
-灵（lore）：在一些网络社区或游戏论坛中，“灵”常用来形容某个人或是某个角色、道具有着很强大的威力、稀有或难以获得的特点。它往往用来强调某种物品、角色或技能的独特价值或稀缺性。
-### 英语解释
-**Lore**: In online communities or game forums, "lore" is used to describe someone or something (a character, item, etc.) that is exceptionally powerful, rare, or hard to obtain. It emphasizes the unique value or rarity of certain items, characters, or abilities.
+## Lore
+### English
+**Lore**: In gaming and internet slang, "lore" refers to the detailed backstory, mythology, and universe information associated with a particular game, movie, TV show, or world. It includes characters' histories, plot details, and various factual information that is not necessarily explicitly stated in the narrative but can be gleaned from subtle hints, discussions, and fan theories. 
+Example: "Knowing the lore of the Star Wars universe helps players make better choices in 'Star Wars: Jedi Challenges'."
+### 中文
+**lore**: 在游戏和互联网俚语中，"lore" 指的是与特定游戏、电影、电视节目或世界观相关的详细背景故事、神话和宇宙信息。它包括角色的历史、剧情详情以及各种虽然未在叙事中明确陈述但却可以从暗示、讨论和粉丝理论中推断出来的事实信息。
+例句：了解《星球大战》宇宙的 lore 能帮助玩家在游戏中做出更好的选择。
 ```

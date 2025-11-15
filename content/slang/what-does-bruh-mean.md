@@ -1,21 +1,19 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2025-11-14
+date: 2025-11-15
 tags:
 - slang
 - internet
 - tiktok
 ---
-Sure! Here's the bilingual slang explanation in Markdown format:
 ```markdown
-## Bruh
-### English
-**Definition:** An informal interjection used to express a wide range of emotions such as surprise, confusion, agreement, or disbelief. It's often used to affirm, reassure, or respond to something in a nonchalant or casual manner.
-**Usage:** "Bruh, that's seriously messed up!"
-"Hey, you did great! Bruh, I knew you could do it!"
-### 中文
-**定义：** 一个非正式的感叹词，用来表达一系列情感，如惊讶、困惑、认同或难以置信。通常用于肯定、安慰或以非正式或随意的方式回应某事。
-**用法：** "Bruh，那真是太扯淡了!"
-"Hey，你真棒！Bruh，我知道你能做到！"
+### Bruh: 哥们儿 / 伙计
+**English**: "Bruh" is a casual, informal term used to refer to a male friend or acquaintance, often conveying a sense of laid-back, relaxed, or humorous camaraderie. It can be used in various contexts, from expressing surprise, amusement, or even as a casual greeting.
+**Chinese**: "哥们儿"（gēmenr）或"伙计"（huàiji）是一种非正式的语言表达，通常用来指代男性朋友或相识的朋友。它传达了一种轻松、随意和幽默的亲密感。可以用于表达惊讶、娱乐，甚至作为一种随意的问候。
+Example Usage:
+- **English**: "Bruh, that was some mad skills on the skateboard!"
+- **Chinese**: "伙计，你滑板玩得太溜了！"
+- **English**: "Bruh, I can't believe you wore that outfit to the party."
+- **Chinese**: "哥们儿，真没想到你会穿那样的衣服去派对。"
 ```

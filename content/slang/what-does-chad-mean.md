@@ -1,16 +1,16 @@
 ---
 title: "What Does 'chad' Mean? (chad 是什么意思？)"
 slug: "what-does-chad-mean"
-date: 2025-11-14
+date: 2025-11-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Chad
-**English:**  
-A slang term often used to describe someone who is socially awkward or has behaviors that are perceived as overly macho. It can also imply that the person is dumb or inarticulate. The term can be both a compliment in certain contexts (e.g., "Chad the Grinder") or a put-down.
-**Chinese:**  
-这个词广泛用于形容脾气暴躁、社交能力较差的人，有时也带有贬义，暗示这个人愚蠢或口齿不清。这个词在某些情况下可以作为赞美（例如，“Chad the Grinder”），但在更多时候则带有贬斥之意。
+## Chad (noun/adjective)
+**English:**
+- A term often used to describe a fashion-averse, overly muscular, and socially awkward or uncool straight man. It can also be used to denote someone who is overly or unrefined in effort (e.g., a "chad thinker" is someone who attempts to solve a problem with excessive, complicated effort to an obvious, simple solution).
+**Chinese:**
+- 一个用来形容那些时尚品味差、肌肉过于发达且社交上有些不cool或不被看好的直男的词。也可以用来形容那些在解决问题时过度或者拙劣地投入到过多细节中的人，比如“装作很认真思考问题的家伙”就被戏谑地称为“折纸大师”。
 ```

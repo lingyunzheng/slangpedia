@@ -1,16 +1,16 @@
 ---
 title: "What Does 'L rizz' Mean? (L rizz 是什么意思？)"
 slug: "what-does-l-rizz-mean"
-date: 2025-11-14
+date: 2025-11-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# L rizz 
-## English
-"L rizz" is a casual, informal term often used on social media, especially on platforms like Twitter. It generally refers to someone who is cool, stylish, or has a good sense of style and humor. It's a way of showing appreciation for someone's charisma, attitude, or vibe. 
-## 中文
-"L rizz" 是社交媒体中，尤其是在像推特这样的平台上常见的非正式用语。这个词通常用来形容某人很酷、很有品味或者具有良好的风格和幽默感。它是一种表达对某人魅力、态度或气场的欣赏的方式。
+## L rizz
+**English:**  
+"Lowkey rizz" or "L rizz" is a slang term that refers to a subtle, understated coolness or charisma. It's often used to describe someone or something that has a quiet, but noticeable and appealing style or attitude. The term blends "lowkey" (which means "subtle" or "unobtrusive") with "rizzle" (a term often used to describe an attractive, cool vibe, deriving from the word "rizzle" as used in the early 2000s by artists like TLC).
+**中文:**  
+"L rizz" 或 "Lowkey rizz" 是一种俚语，用来形容一种微妙、不张扬的酷感或魅力。这个词常用来描述某人或某物具有安静但明显且吸引人的风格或态度。它结合了“低key”（意为“微妙的”或“不太显眼的”）与“rizzle”（从2000年初艺术家如 TLC 使用的单词“rizzle”演变而来，用来形容吸引人的、酷的气息）。
 ```

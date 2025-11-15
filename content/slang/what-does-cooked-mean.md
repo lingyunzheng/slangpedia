@@ -1,17 +1,18 @@
 ---
 title: "What Does 'cooked' Mean? (cooked 是什么意思？)"
 slug: "what-does-cooked-mean"
-date: 2025-11-14
+date: 2025-11-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## En: "Cooked"
-**Meaning:** When something is "cooked," it means it's messed up, bad, or not working as it should be.
-**Example:** "Man, I can't believe my computer crashed again. I've spent hours trying to fix it, but it's completely cooked now."
-## 中文: "煮糊了"
-**意思:** 当某样东西“煮糊了”，意味着它出了问题，很糟糕或不能正常工作。
-**例句:** "天哪，我真的无法相信我的电脑又崩溃了。我花了几个小时试图修理它，但现在它彻底出问题了。"
+## **cooked (Cooked)**
+### English
+- **Definition:** Generally used to describe something that has a bad outcome or is messed up. It can also indicate that someone has been beaten or bested in a contest.
+- **Example Sentence:** "The team's performance was cooked because of the last-minute substitutions."
+### 中文
+- **释义：** 通常用来形容某个事情的结果很糟糕或一团糟，也可以表示某人在竞争中被打败或失败了。
+- **例句：**“由于最后一分钟的换人，球队的表现惨遭滑铁卢。”
 ```

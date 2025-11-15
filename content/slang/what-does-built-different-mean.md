@@ -1,7 +1,7 @@
 ---
 title: "What Does 'built different' Mean? (built different 是什么意思？)"
 slug: "what-does-built-different-mean"
-date: 2025-11-14
+date: 2025-11-15
 tags:
 - slang
 - internet
@@ -9,8 +9,8 @@ tags:
 ---
 ```markdown
 ## Built Different
-**English:** 
-This slang phrase is often used to describe someone who is unique, distinctive, or has a differing look or mindset. It implies that the person is not like the majority or conventional counterparts.
-**中文:**
-这个俚语用来描述那些独特、有个性、或者外貌和思维方式与常人不同的个体。它暗示这个人与大多数常见的人有所不同。
+**English:**  
+"Built different" is a term often used in hip-hop and street culture to describe someone who is unique, striking, or has an unusual appearance or demeanor. It can also refer to someone who is unconventional in their approach to things or has unusual skills or talents. 
+**Chinese:**  
+"built different" 在嘻哈和街头文化中通常用来形容一个人非常独特、引人注目，或者在外貌或行为上有着不寻常的特征。这个词也可以指某人在处理事情的方法上不走寻常路，或者拥有不同寻常的技能和才能。
 ```

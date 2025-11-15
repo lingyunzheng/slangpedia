@@ -1,18 +1,17 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2025-11-14
+date: 2025-11-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Brokie (Bro + Broken)
-### English
-**Brokie** is a playful and informal term often used to refer to a person who is broken, damaged, or dysfunctional in some way, or someone who fails repeatedly at trying to do something. It combines "bro" (short for "buddy" or "brother") with "broken."
-- **Example:** "Man, that brookie couldn't catch a break. He's been losing at everything lately."
-### 中文
-**Brokie** 是一个轻松且非正式的词汇，用来形容一个人在某种程度上是损坏的、有缺陷的，或者在尝试做某事时屡屡失败。它结合了“bro”（即“buddy”或“brother”的缩写）与“broken”。
-- **例句:** "那个破妹每次都打不赢，真是太惨了。"
+### Brokie (English/Brooklynais)
+**Explanation:**
+*English:* A term that evolved from Brooklynese, a dialect associated with the residents of Brooklyn, New York. "Brokie" is often used to describe a style or attitude that is uniquely Brooklyn. This can pertain to fashion, speech, or behavior that is considered typical of Brooklyn culture, often characterized by a laid-back yet distinctive vibe.
+*Bilingual Slang Explanation:*
+- **Brokie (布鲁克林派):** 一个源自布鲁克林区人们使用的方言。"Brokie" 用来形容一种独特于布鲁克林的文化风格，可能涉及时尚、用语或行为，反映布鲁克林的轻松但独特的氛围。
+- **Example:** "Jane's style is so brokie, with her vintage clothing and bohemian chic vibe." - "简的衣服风格如此布鲁克林派，她总是穿着复古的衣服，散发出波西米亚的魅力。"
 ```
