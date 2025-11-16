@@ -1,18 +1,22 @@
 ---
 title: "What Does 'cap' Mean? (cap 是什么意思？)"
 slug: "what-does-cap-mean"
-date: 2025-11-15
+date: 2025-11-16
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Cap (英语/中文)
-### English
-- **Meaning:** To "cap" something means to surpass or exceed it, often used in the phrase "capping it." For example, if someone did something exceptionally well, you might say, "He really capped it."
-- **Example Usage:** "I aced the exam, and my friend capped it by scoring even higher!"
-### 中文
-- **意思:** "Cap" 意味着超越或超过某事物，常用于短语 "capping it"。例如，如果有人做了一件非常出色的事情，你可以这样评论：“我通过了考试，但我的朋友超过了它，得分更高了！”
-- **例句:** "我通过了考试，但我的朋友超过了它，得分更高了！"
+# Slang Word: Cap
+## English
+**To Cap:** To completely misunderstand or refute something in a way that's so obviously wrong that it's considered laughable or stupid.
+**Example:**
+- She thought 2023 was this year, and then she said it to a 10-year-old. I had to cap her by saying she needs to get her facts straight.
+## Pinyin (for Chinese pronunciation reference):**  
+Dǎn dǒu dǎo
+## Chinese
+**翻车 (Fān chē):** 翻车 在网络用语中可以形容某人的言论、行为或者某种尝试，“翻车”显然是错误的，达到了可笑或愚蠢的程度，可以在争论中用来反驳对方。
+**例句:**
+- 她以为今年是2023年，然后她直截了当地说出来了，我不得不表示她在胡说八道。
 ```

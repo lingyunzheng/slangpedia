@@ -1,19 +1,28 @@
 ---
 title: "What Does 'cope' Mean? (cope 是什么意思？)"
 slug: "what-does-cope-mean"
-date: 2025-11-15
+date: 2025-11-16
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Cope (Both English and Chinese)
+# Cope (English to Chinese)
 ## English Explanation
-**Cope**: This slang term is often used to describe the act of dealing with a difficult or challenging situation. It can also imply struggling or managing through a tough time. For example, "She's really coping well with her mother's illness."
-- **Example Usage**: "Despite the setbacks, he's learned to cope effectively."
+**Cope:** To handle or deal with a difficult or challenging situation. It often implies that the process is difficult, but you are doing your best to manage it.
 ## Chinese Explanation
-**应对 (Àidèng) / 挣扎 (.zhēnzā)**: 这个俚语通常用来描述处理艰难或挑战性情况的行为。它也可以表示挣扎或艰难地度过难关。例如，“她很好地应对了她妈妈的病情。”
-- **例句**： 尽管遭遇了挫折，但他已经学会了有效地应对。
+**cope:** 应对或处理艰难或挑战的情况。这通常意味着过程很困难，但你尽力去处理它。
+### Example sentences
+- **English:** I'm really coping with this busy season at work.
+- **Chinese:** 我真的在忙季应对工作中的这些忙碌。
 ```
-This markdown format provides clear and concise translations and examples for the English slang term "cope" and its equivalent Chinese slang terms.
+# Cope (Chinese to English)
+## Chinese Explanation
+**应付：** 处理或应对艰难或挑战的情况。这通常意味着过程很困难，但你尽力去处理它。
+## English Explanation
+**cope:** To handle or deal with a difficult or challenging situation. It often implies that the process is challenging, but you are doing your best to manage it.
+### Example sentences
+- **Chinese:** 我真的在忙季应付工作中的这些忙碌。
+- **English:** I'm really coping with this busy season at work.
+```

@@ -1,7 +1,7 @@
 ---
 title: "What Does 'yeet' Mean? (yeet 是什么意思？)"
 slug: "what-does-yeet-mean"
-date: 2025-11-15
+date: 2025-11-16
 tags:
 - slang
 - internet
@@ -9,8 +9,10 @@ tags:
 ---
 ```markdown
 ## Yeet
-### English Slang Explanation
-**Yeet** is a versatile and popular internet slang term that originated from the video game "*Overwatch*" and gained widespread popularity due to a viral TikTok dance challenge. Beyond the dance, it's often used to express excitement, enthusiasm, or the act of throwing or ejecting something. It can also indicate rejection or dismissal, especially in casual or digital interactions.
-### Chinese Slang Explanation
-**Yeet** 是一个起源于电子游戏《守望先锋》并在TikTok舞蹈挑战中走红的网络流行语。这个词不仅用于表达兴奋、热情，还能表示抛掷或弹出某物的动作，或者是拒绝或忽略某事。这个词在网络聊天和数字互动中使用非常广泛，使用时要注意语境，因为它有时也可能表示拒绝或否决。
+### English
+**Definition:** To throw, often in a forceful or dismissive manner; can also refer to an act of ejecting or pushing away.
+**Usage Example:** "I yeetted my phone across the room when it stopped working!"
+### 中文
+**定义：** 抛掷，通常是以一种强有力或贬抑的方式；有时也指的是推出或推开的动作。
+**使用例句：** "当我手机不再工作时，我把它用力扔出房间！"
 ```

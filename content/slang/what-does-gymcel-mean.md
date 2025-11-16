@@ -1,7 +1,7 @@
 ---
 title: "What Does 'gymcel' Mean? (gymcel 是什么意思？)"
 slug: "what-does-gymcel-mean"
-date: 2025-11-15
+date: 2025-11-16
 tags:
 - slang
 - internet
@@ -9,8 +9,8 @@ tags:
 ---
 ```markdown
 ## Gymcel
-**English Explanation:**
-A gymcel is someone who excessively frequents the gym, often to the point of obsession. They might focus overly much on their physical appearance, dietary habits, and workout routines. Gymcels can be seen as fitness nerds who spend more time planning their workout schedule than actually doing other social activities.
-**Chinese Explanation:**
-gymcel（ gym 杂：健身房的杂牌货；迷因：健身房狂热爱好者）是指那些过度痴迷于健身房的人，常常对健身到痴迷的程度，过分关注自己的外貌、饮食习惯和训练计划。gymcel 可以被视作是健身极客，他们将更多的时间用于规划自己的训练安排，而不是参与其他社交活动。
+#### English
+"Gymcel" is a combination of "gym" (short for gymnasium) and "cell," often used in the context of social media. It refers to someone who frequently posts about their gym activities, workout routines, or fitness goals. A gymcel is usually very focused on fitness and health and enjoys sharing their progress publicly.
+#### 中文
+"Gymcel" 是“健身房”（gym）和“单间”（cell）的结合词，常用于社交媒体上。这个词用来形容那些频繁更新自己的健身活动、训练计划或健康目标的人。Gymcel 对健身和健康非常注重，并且喜欢公开分享自己的进展。
 ```

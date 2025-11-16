@@ -1,20 +1,14 @@
 ---
 title: "What Does 'out of pocket' Mean? (out of pocket 是什么意思？)"
 slug: "what-does-out-of-pocket-mean"
-date: 2025-11-15
+date: 2025-11-16
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Out of Pocket
-**English Explanation:**  
-When you say you're "out of pocket," it means that you are short of cash or you don't have enough money to cover something. It's a way of saying you're broke or can't afford to pay for something right now.
-**Bilingual Slang Explanation:**  
-**English:** You're out of pocket when you don't have any money left to offer, essentially broke.
-**汉语:** "出不了Pocket"就是说你囊中羞涩，没没钱了，买不起东西。
-例句:  
-- English: I can't afford a new laptop right now, I'm out of pocket.
-- 汉语: 我现在买不起新的笔记本电脑，我已经没钱了。
+## Out of Pocket
+- **English:** Refers to the money you personally have to pay, often for expenses that aren't covered by insurance or another party. For example, if you go to the doctor and have a deductible, the amount you pay out of pocket is the portion left after the insurance has covered its portion.
+- **Chinese:** 需要自掏腰包 (xūyào zìtāo yābāo) 指自己支付实际费用，通常是指保险或其他方不覆盖的开销。例如，如果你去看医生并且有自付额，你需要自己支付的部分就是自掏腰包的部分。
 ```

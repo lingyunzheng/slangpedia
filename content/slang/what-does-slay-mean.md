@@ -1,16 +1,16 @@
 ---
 title: "What Does 'slay' Mean? (slay 是什么意思？)"
 slug: "what-does-slay-mean"
-date: 2025-11-15
+date: 2025-11-16
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Slay (Between English and Chinese)
-### English
-**Slay** is a slang term that originally stems from the phrase "to kill," as in fighting or competing. However, in modern usage, it has taken on a positive connotation, indicating excellence, mastery, or superiority in a given activity or situation. Essentially, when someone or something "slays," they perform exceptionally well or are simply outstanding.
-### Chinese
-**slay**（irteen）：这个词原本来源于“kill”（杀死），但在现代用法中，它已经带上了积极的意义，表示在某个活动或情境中表现出色、卓越或压倒性的优势。简单来说，当某个人或某件事情“slay”时，他们表现得非常出色或者令人赞叹。
+## Slay (英 -> 中)
+**Slay:**
+- **English:** "To slay" is a slang term used to describe the act of performing exceptionally well, impressing others, or making someone or something seem obsolete or trivial through one's success or behavior.
+- **Chinese (简体字):** "slay" 指的是表现得极其出色，让他人印象深刻，或者通过自己的成功或行为使某人或某事显得过时或无关紧要。
 ```
+This markdown format provides a clear and concise explanation for the term "slay" in both English and Chinese, fitting well for a bilingual context.

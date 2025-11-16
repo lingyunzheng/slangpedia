@@ -1,17 +1,16 @@
 ---
 title: "What Does 'peak' Mean? (peak 是什么意思？)"
 slug: "what-does-peak-mean"
-date: 2025-11-15
+date: 2025-11-16
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Peak (汉语解释)
-**English:** Peak  
-**中文解释:**  
-1. **顶峰 (dǐngfēng):** 最高的点，事物发展的最佳时期。例如，“音乐事业的巅峰时刻”（The peak moment of a music career）。
-2. **爆火 (bào huǒ):** 指某事物在短时间内极为火爆，引人关注。例如，“这首歌一播出就在社交媒体上爆火”（This song went viral on social media as soon as it was broadcast）。
-3. **鼎盛时期 (dǐngshèng qīshí):** 指事物或个人状态最好的阶段。例如，“公司发展进入鼎盛时期”（The company's development entered its peak period）。
+## Peak
+### 中文
+**巅峰** (Dīngfēng): 表示某个人或事物达到了顶峰或者最佳状态，通常带有赞赏或感叹的语气。例如：“他真是个 peak 的rapper！”（他真是个顶尖的说唱歌手！）
+### English
+**Peak**: Refers to someone or something reaching its highest point or optimal state, often carrying an appreciative or exclamatory tone. For example, "He's really a peak rapper!" (He's really a top-notch rapper!)
 ```
