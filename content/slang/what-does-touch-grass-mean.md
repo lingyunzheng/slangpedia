@@ -1,21 +1,20 @@
 ---
 title: "What Does 'touch grass' Mean? (touch grass 是什么意思？)"
 slug: "what-does-touch-grass-mean"
-date: 2025-11-16
+date: 2025-11-17
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### English: "touch grass"
-#### Definition:
-- To express regret or remorse for a past decision or action. Often used when someone acknowledges they made a mistake or wish they could change something they did.
-#### Example Usage:
-- "I really wish I hadn't bought that car. I touch grass for falling for the salesperson's pitch."
-### 中文: "touch grass"
-#### 解释:
-- 表达对自己过去某个决定或行为的后悔或懊悔感。通常表示承认自己犯了错误，或者希望自己能改变某个已经做过的事情。
-#### 示例用法:
-- "我真的不该买那辆车，我现在真的好后悔，感觉自己就是草了。"
+# "Touch Grass" (俚语解释)
+## 中文
+**触草**  
+含义：通常用于形容人放弃吸毒、沉迷网络或其他不良习惯，表示重新做人或彻底改过自新。有时候也用来形容某个年轻人或成年人在经历了一段挫折或教训后，决定脱离过去的生活，选择新的生活方式。
+## 英文
+**Touch Grass**  
+Meaning: Typically used to describe someone giving up drug use,沉迷 in the internet, or any other bad habits, indicating a new start or complete reform. Sometimes it also refers to a young or adult person deciding to leave their past life behind and choose a new path after experiencing some setbacks or lessons.
+---
+Note: The term "touch grass" is a metaphorical expression, and direct translations may vary based on context.
 ```

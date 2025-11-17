@@ -1,20 +1,14 @@
 ---
 title: "What Does 'bussin' Mean? (bussin 是什么意思？)"
 slug: "what-does-bussin-mean"
-date: 2025-11-16
+date: 2025-11-17
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## "Bussin'" - A Slang Term
-### English Explanation:
-**"Bussin'"** is a slang expression used to describe something that is extremely successful, exciting, or intense. It can be used to describe a variety of situations, whether it's a business that's booming, a party that's lively, or an activity that's thrilling.
-### Chinese Explanation:
-**"Bussin'"** 是一个俚语表达，用来形容非常成功、刺激或激烈的某事。它可以用来描述多种情境，无论是正在蓬勃发展的生意、活力四射的聚会，还是令人兴奋的活动。
----
-示例：
-- **English:** This concert is really bussin'!
-- **Chinese:** 这场演唱会简直太火了！
+## Bussin (US English / Urban Slang)
+**English:** A term originating from urban and street cultures, primarily used to describe a very successful, profitable, or exciting business, job, or activity.
+**中文解释 (Chinese Explanation):** 这个词起源于城市和街头文化，主要用于形容非常成功、有利可图或刺激的事业、工作或活动。简而言之，就是说事情进行得很顺利，生意兴隆或者活动很火。
 ```

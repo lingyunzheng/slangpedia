@@ -1,16 +1,18 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2025-11-16
+date: 2025-11-17
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Ratio
+# Ratio (Slang)
 ## English
-**Ratio**: In informal English, often used as a form of expression or argument on social media, "ratio" is a way of asserting one's superiority or to tease, often along the lines of "I'm better than you, prove me wrong." It's derived from the more traditional definition of ratio, which is "the quantitative relation between two amounts showing the number of times one value contains or is contained within the other." In the slang context, it's often simplified to a "who's better" discourse, comparing not just numerical values but personal attributes, skills, or achievements.
+**Ratio**: This term is popularly used in online communities, particularly on platforms like Twitter. It refers to the act of engaging in a dispute or argument on social media. Originating from the idea of measuring or comparing things, it has taken on the meaning of ganging up on someone or tearing them down through comments online. It's often used to describe a heated online argument or conflict, especially when multiple people are contributing to the negative discussion about an individual.
+Example: "He got into a ratio with a bunch of fans who disagreed with his stance on the latest event."
 ## 中文
-**ratio**: 在非正式的英语中，“ratio”常被用来在网络上表达优越感或开玩笑，类似“我比你好，贬低我一下”。这个词源自传统的“比例”定义，即“表明一个值包含或被另一个值包含多少次的数量关系”。在俚语中，它简化为一种“谁更好”的争论，不仅比较数值，还比较个人特质、技能或成就。
+**比例**（俚语）：这个词流行于在线社区，特别是在像Twitter这样的平台上，尤其指在网络上通过发帖议论、指责某人的一种行为。这个词源自比较或衡量事物的含义，但现在已经演变为代表在网络上针对某个人展开激烈争论或冲突，特别是当多个用户在负面讨论一个个体时。
+例子：“因为他在最新事件上的立场，他和很多不同意他的网友陷入了网络争吵。”
 ```

@@ -1,7 +1,7 @@
 ---
 title: "What Does 'hold this L' Mean? (hold this L 是什么意思？)"
 slug: "what-does-hold-this-l-mean"
-date: 2025-11-16
+date: 2025-11-17
 tags:
 - slang
 - internet
@@ -9,8 +9,8 @@ tags:
 ---
 ```markdown
 ### "Hold this L"
-**English:**  
-"Hold this L" is a slang phrase often used in texts or chats, meaning to hold your laughter or to appreciate someone's humor, especially when they're making a funny joke or talking in a humorous way.
-**Chinese:**  
-"Hold this L" 是一种网络流行语，常用于短信或聊天中，意思是憋笑或者欣赏别人的幽默感，尤其是当他们讲笑话或者用幽默的方式说话时。
+**English:** 
+A slang phrase often used to express disdain, disbelief, or disagreement. Literally refers to holding up the letter "L" with your hand, which resembles the shape of the letters in the word "L" when held up in a certain way, as if spelling out "L" with your fingers.
+**Chinese:** 
+一种俚语表达，通常用于表示不屑、不以为然或不同意。字面上是指用手指比出字母"L"的形状，像是在用手展示字母"L"，目的是用这种方式表达"不屑"或"不认同"。
 ```

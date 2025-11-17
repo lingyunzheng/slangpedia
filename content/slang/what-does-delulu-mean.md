@@ -1,18 +1,24 @@
 ---
 title: "What Does 'delulu' Mean? (delulu 是什么意思？)"
 slug: "what-does-delulu-mean"
-date: 2025-11-16
+date: 2025-11-17
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Delulu (English)
-**Meaning:** Delulu is a term used in Chinese internet slang, often referring to someone who takes the easy way out or avoids responsibility, similar to someone acting cute or naive to avoid a difficult situation. It can also refer to a person who is overly eager to please others or is perceived as naive and innocent in a way that seems insincere.
-**Usage Example:** "He's delulu, always finding ways to sidestep his tasks instead of doing them properly."
+# Delulu (中文：都邆噜 / 英文：Delulu)
+## 中文解释
+**都邆噜 (Dō Lē Lu)**  
+在现代汉语网络用语中，“都邆噜”多用于口语，往往带有夸张或调侃的意味，常用来形容某事非常不寻常、难以置信或是某种情况达到了极点。这个词是通过将拼音“dō lē lu”按照拼音的发音方式直接对应汉语拼音，然后自行构建的一个新词，突显网络语言中的创造性和随意性。
+## 英文 Explanation
+**Delulu**  
+In modern Chinese internet slang, "Delulu" is often used in casual speech to convey that something is extraordinarily unusual, unbelievable, or has reached an extreme point. This word is created by directly phonetically corresponding "dō lē lu" to Pinyin, highlighting the creativity and flexibility found in internet language.
 ---
-## Delulu (Chinese)
-**意义:** Delulu 是中文网络用语中一个常用的词汇，经常用来形容那种逃避责任、选择轻松路线的人。它还可以指那些过分讨好人或被别人认为天真无邪但实际上显得不真诚的人。
-**使用示例:** “他太 delulu 了，总是找各种借口逃避真正做那件事。”
+## Example Usage
+- 中文：这件事真是太都邆噜了！
+- English: This is really Delulu!
+- 中文：他的反应太都邆噜了，我都惊呆了。
+- English: His reaction was so Delulu, I was left speechless.
 ```

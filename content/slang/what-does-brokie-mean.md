@@ -1,23 +1,21 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2025-11-16
+date: 2025-11-17
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Brokie
-## English
-### Meaning
-A slang term derived from "broke" and "skeeter," commonly used to describe someone who is frequently broke or short on cash, often used in online communities or texts with a casual tone.
-### Usage Example
-- "Bro, why you always hangin' out and it's always 'I have no money'? You're such a brokie!"
-## 中文
-### 含义
-一个源自“穷”（broke）和“苍蝇”（skeeter，这里用作俚语，意为经常处于某种状态）的俚语，用来形容经常手头紧、缺钱的人，常常用于网络社区或短信中的随意交流。
-### 使用示例
-- “ bro，你为什么总是闲着没事干，而且总是说‘没钱’？你简直就是个穷鬼（brokie）！”
+## Brokie (English)
+### Explanation
+"Brokie" is an informal slang term often used to refer to someone who behaves in a way that is perceived as overly effeminate, especially in a masculine-dominated culture. This term is used to describe a man who displays traits that are traditionally associated with women, such as wearing feminine clothing, using certain mannerisms, or expressing emotions in a more feminine way. 
+### Example Usage
+- "Man, he's such a brokie with his sparkly shirt and perfume everywhere. Yuck!"
+## 伪娘 (Chinese)
+### 解释
+"伪娘"（wěi niáng）是一个非正式的网络用语，用来形容那些被感知为过于娇柔或者表现出女性化特点的男性。这个词语通常用来描述那些展示出传统上被认为是女性特征的男人，比如穿着女性化的衣服、使用某些女性化的举止，或者更情绪化地表达情感。 
+### 举例
+- "天啊，他穿那种闪亮的衬衫还到处洒香水，真是个伪娘。恶心至极！"
 ```
-This markdown format provides definitions in both English and Chinese, along with usage examples for clarity.
