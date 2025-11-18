@@ -1,17 +1,16 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2025-11-17
+date: 2025-11-18
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Copium (English/Chinese)
-### English
-**Copium** is a playful slang term often used as a playful substitute for the word "coffee." It introduces a fun and light-hearted twist to regular coffee talk, making it seem like it has magical or euphoric properties.
+## Copium (俚语解释)
 ### 中文
-**Copium** 是一个充满玩笑意味的俚语，通常用于代替“咖啡”这个词。它给日常的咖啡对话增添了一份趣味和轻松，仿佛它具有魔力或让人兴奋的特性。
+“copium”是一个搞笑或讽刺的词汇，通常用来形容那些人（通常是男性）被吸引或迷恋上某个他们认为“够酷”、“够型”或者“值得追求”的人，但这些人实际上可能只是因为某种外表特征或者行为表现而吸引他们，并没有实质性的特点。
+### 英文
+"Copium" is a humorous or sarcastic term, often used to describe someone, usually a male, who is infatuated or obsessed with a person they perceive as "cool," "awesome," or "worth pursuing." However, these individuals are often attractive or appealing simply because of their appearance or behavior without having any substantial traits. It's used to imply that the person's attractiveness is skin-deep or superficial.
 ```
-This provides a clear and concise explanation for the term "copium" in both English and Chinese.

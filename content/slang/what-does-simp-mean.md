@@ -1,18 +1,16 @@
 ---
 title: "What Does 'simp' Mean? (simp 是什么意思？)"
 slug: "what-does-simp-mean"
-date: 2025-11-17
+date: 2025-11-18
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Slang: Simp
-**English:**
-- **Definition:** A person who is overly enamored with displaying themselves to be likeable or attractive to others, often perceived as being superficial or smitten.
-- **Example Usage:** "Don't fall for his simpy ways; he just wants attention."
-**中文:**
-- **定义:** 指一个过分热衷于展示自己有魅力或讨人喜欢的人，常被视为表里不一或者过于迷恋。
-- **例句使用:** "别被他的情场老油条手段感染；他只是想博取注意。"
+## Slang Term: Simp
+### English
+**Simp**: Someone who excessively displays affection, admiration, or attention towards someone to the point of being annoying or seen as uncool. Often used humorously or critically in meme culture to describe a person who is obsessed or overly interested in someone in a romantic or twinkie (adorable, innocent) way.
+### 中文
+**Simp**: 一个过分表现出宠爱、钦佩或注意某人的行为，到了让人觉得厌烦或不酷的程度。通常用于搞怪或批评的语境中，来形容一个对某人（通常是可爱的、无辜的）过度迷恋或感兴趣的家伙。
 ```

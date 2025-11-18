@@ -1,39 +1,25 @@
 ---
 title: "What Does 'frfr' Mean? (frfr 是什么意思？)"
 slug: "what-does-frfr-mean"
-date: 2025-11-17
+date: 2025-11-18
 tags:
 - slang
 - internet
 - tiktok
 ---
-Certainly! Below are some French slang explanations in Markdown format:
 ```markdown
-# French Slang Explanations
-## Frangin (Frfr)
-- **Définition:**
-*Un terme familier utilisé pour désigner un frère ou, plus généralement, un ami proche.*
-- **Example:**
-*Mets-moi ta liste des courses, c'est franchement mon frangin qui a besoin de ton aide.*
-## Dame (Frfr)
-- **Définition:**
-*Un terme non-respectueux utilisé par des amis entre eux pour désigner une femme.*
-- **Example:**
-*Hé, tu veux que je te fasse la dame ce soir ou tu préfères aller seul?*
-## Pote (Frfr)
-- **Définition:**
-*Un terme couramment utilisé pour désigner un ami.*
-- **Example:**
-*J'ai rendez-vous avec mon pote pour un verre, je même dejà oublié ce qu'on va causer.*
-## Contre (Frfr)
-- **Définition:**
-*Termes utilisé pour dire "contre" quand on parle d'aller à l'opposé de quelque chose.*
-- **Example:**
-*Allons-y pour un café au contraire, on sait que ce soir, c'est pizza et coca.*
-## Généralités (Frfr)
-- **Définition:**
-*Un terme couramment utilisé pour désigner une personne sans être précis sur son rôle ou sa fonction.*
-- **Example:**
-*C'est toujours le même type de situation, le chef de service est un généralités qui sait tout et n'oublie rien.*
+# French French (frfr)
+## Définition
+**French French** est le terme utilisé pour désigner le parler populaire, souvent décontracté et rempli de Contractoré, c'est-à-dire lelangage parlé entre amis ou dans des situations informelles. Ce type de langage peut être rempli de expressions idiomatiques, de raccourcis, et de différents sous-groupes de francophones qui ont leurs propres termes et expressions.
+## Exemples
+### Je préfère les concottes aux gueules de acknowledgements.
+**German equivalent:** "Ich bevorzige Tröster隳谜en 障碍物 而不是冷笑话." 
+- **Concottes aux gueules**: Une expression感受到 一种亲切而搞笑的喝彩，常用来形容那些虽然技术上不是最强，但让人觉得舒服的队伍或个人。
+- **Acknowledgements**: Un raccourci pour "remerciements," souvent utilisé de manière légère et familière.
+### C'est une boulette
+**German equivalent:** "Das ist echt eine Sauerei."
+- **Boulette**: Une boulette est un fait généralement considéré comme une erreur ou une gaffe. Assertion 流言蜚语 常常能引发一些轻松的趣闻或贸易战。
+## Contexte
+French French est souvent utilisé dans le divertissement populaire, comme dans le cinéma, la musique, les blogs, et les médias sociaux. C'est la forme de français que l'on a le plus tendance à entendre dans la vie de tous les jours.
 ```
-Feel free to add more examples or slang terms to this markdown if needed!
+Note: Some French slang terms and expressions may not have direct equivalents in German, so the translations are intended to convey the general meaning and a sense of the playful, colloquial tone.

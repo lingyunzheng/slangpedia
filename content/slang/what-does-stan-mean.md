@@ -1,7 +1,7 @@
 ---
 title: "What Does 'stan' Mean? (stan 是什么意思？)"
 slug: "what-does-stan-mean"
-date: 2025-11-17
+date: 2025-11-18
 tags:
 - slang
 - internet
@@ -9,8 +9,8 @@ tags:
 ---
 ```markdown
 ## Stan
-### 英文解释
-"Stan" is a term commonly used in online communities, especially among social media users. It refers to someone who has a very strong and sometimes obsessive admiration or obsession with a particular person, celebrity, or brand. This term originated in Canadian English slang and was popularized by the meme involving the Toronto Raptors basketball player, Vince Carter, known as "Stany."
-### 中文解释
-"Stan" 是一个在网路社群中常用的术语，特别是在社交媒体用户间广为流传。它用来形容一个人对某个人、名人或品牌有非常强烈甚至有些执着的崇拜或迷恋。这个词起源于加拿大英语俚语，并因涉及多伦多猛龙篮球队球员文斯·卡特的梗而流行起来，被称为“Stany”。
+**English:** A dedicated and often obsessive fan who shows unwavering support for their favorite celebrity or sports team. 
+**Chinese:** (粉絲) 一名非常 Dedicated且常常是 obsessive的 fans，他們對自己喜愛的 明星 或 賽車隊 表現出極高的支持和忠诚。
+Example: "John is such a stan for Taylor Swift, he's been waiting outside her concerts for hours!"
+Example: "李雷 是 Taylor Swift 的 stan，他在她的演唱會外面等了好幾個小時！"
 ```

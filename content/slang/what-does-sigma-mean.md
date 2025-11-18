@@ -1,18 +1,16 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2025-11-17
+date: 2025-11-18
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Sigma
-**English:** 
-- **Definition:** A term from statistics that often refers to standard deviation. In slang, it can mean someone who is very knowledgeable or skilled in a specific area, similar to "player" or "pro."
-- **Example Usage:** "He's a sigma in cybersecurity, no one can beat him in those hackathons."
-**中文释义：**
-- **释义：** 来源于统计学中的一个术语，通常指标准差。在俚语中，它表示在某一特定领域非常有知识或技能的人，类似于"玩家"或"高手"。
-- **例句使用：** "他在网络安全方面是个sigma，他在黑客马拉松比赛中无人能及。"
+### Sigma (Σ)
+**English Slang Explanation:**
+In English slang, "sigma" is often used to refer to someone who is overly sensitive or easily upset. It can also denote a person who analyzes things with excessive detail, sometimes to the point of obsession. The term is often used in a derogatory manner to describe someone who nitpicks or overanalyzes situations excessively.
+**Chinese Slang Explanation:**
+在中文 slang 中，“sigma”通常用来形容人特别敏感或者容易生气。还表示一个人过于注重细节，有时候近乎着迷。这个词语经常用于贬义，来描述那些过分挑剔或过度分析情况的人。
 ```

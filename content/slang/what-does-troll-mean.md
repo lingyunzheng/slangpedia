@@ -1,22 +1,19 @@
 ---
 title: "What Does 'troll' Mean? (troll 是什么意思？)"
 slug: "what-does-troll-mean"
-date: 2025-11-17
+date: 2025-11-18
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Troll (中文解释)
-## English
-**Troll**: A person who posts inflammatory, off-topic, or argumentative messages to a forum, chat group, or blog with the intent of provoking other people into an emotional response.
-## 中文
-** troll**: 在论坛、聊天组或博客中发布具有煽动性、离题或争论内容的留言的人，目的是刺激其他人的情感反应。
----
-Example usage:
-1. (English) He keeps posting troll messages in the discussion to make people fight.
-(中文) 他不停地在讨论中发布 troll 信息来促使人们争吵。
-2. (English) The internet is full of trolls who just want to stir the pot.
-(中文) 互联网上有很多 just want to 搅局的 troll。
+## Troll (English-Chinese Slang)
+**English**: Troll  
+**Chinese**: 恶搞 (è gǎo) or 傻比 (shǎ bǐ) (informal and often derogatory)  
+**Explanation**:
+- **Troll**: This is a term often used on the internet to refer to someone who deliberately posts nonsense, offensive, or irrelevant information on the internet to provoke an emotional response or to upset other users. In a broader sense, it can also mean a person who behaves in such a way that is intended to annoy, upset, or harass others.
+- **恶搞 (è gǎo)**: This term literally translates to "villain joke" but is used to describe the act of trolling or creating humor usually in an excessive or mocking way, often in a way that is meant to provoke. It’s used to describe behavior that is intended to be humorous through exaggerated or inappropriate means.
+- **傻比 (shǎ bǐ)**: While this is more of a derogatory term, it can be used to describe someone who is acting in a very foolish or provocative manner. It's not polite and should be used sparingly and with caution, especially in formal or professional settings.
+In both cultures, the use of these terms and behaviors is often associated with online interactions and can be emotionally charged. It's important to remember that trolling is generally considered anticivil and can lead to negative consequences, including harm to one's reputation or creating a hostile online environment.
 ```
