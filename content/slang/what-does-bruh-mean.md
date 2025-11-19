@@ -1,21 +1,22 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2025-11-18
+date: 2025-11-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Bruh: A Navigational Necessity
-## English Explanation
-**Bruh** is a versatile interjection that often conveys surprise, disbelief, confusion, or exasperation. It's a casual, informal way to express an emotion or draw attention to something.
-## Chinese Explanation
-**Bruh**（哎哟喂）是一种多用途的感叹词，常用来表达惊讶、不以为然、困惑或不满。这是一句非正式的表达方式，用来传达某种情感或引起注意。
-### Examples in Context
-- **English**: "That meal was way too expensive for what I got!"  
-**Bilingual**: "That meal was way too expensive for what I got!" / "那餐饭的价钱对我来说真是高到离谱，哎哟喂！"
-- **English**: "Oh, bruh, did you see the game last night?"  
-**Bilingual**: "Oh, bruh, did you see the game last night?" / "哎哟喂，你看了昨晚的比赛没？"
+# Bruh (American English / slang)
+## Explanation:
+**Meaning:** An interjection often used to express surprise, frustration, or agreement. It can be considered a more casual equivalent to "bro" when you're trying to show that you're feeling the same emotions.
+**Usage Example:**
+- **In English:** "Bro, that movie was so intense! Bruh, I couldn't stop shaking!"
+- **In Simplified Chinese:** 哥们儿，那部电影真的超级紧凑！Bruh，我根本停不下来地颤抖！
+**In Traditional Chinese:** 哥們兒，那部電影真的超级緊湊！Bruh，我根本停不下來地顫抖！
+## Bilingual Slang Explanation:
+- English: "a casual expression of surprise, frustration, or agreement"
+- �拙劣翻譯: “表達驚訝、懊惱或同意的非正式發語”
+- 更好的翻译: “表示惊讶、沮丧或认同的非正式用语”
 ```

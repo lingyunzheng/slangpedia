@@ -1,16 +1,22 @@
 ---
 title: "What Does 'stan' Mean? (stan 是什么意思？)"
 slug: "what-does-stan-mean"
-date: 2025-11-18
+date: 2025-11-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Stan
-**English:** A dedicated and often obsessive fan who shows unwavering support for their favorite celebrity or sports team. 
-**Chinese:** (粉絲) 一名非常 Dedicated且常常是 obsessive的 fans，他們對自己喜愛的 明星 或 賽車隊 表現出極高的支持和忠诚。
-Example: "John is such a stan for Taylor Swift, he's been waiting outside her concerts for hours!"
-Example: "李雷 是 Taylor Swift 的 stan，他在她的演唱會外面等了好幾個小時！"
+# Stan
+## English
+**Definition**: 
+A stan (short for "stalker") is a passionate fan who excessively supports or defends a person, thing, or brand. The term is used in a negative context, implying that the support or defense is obsessive, intense, and potentially irrational.
+**Example Sentence**: 
+She's such a stan for Taylor Swift that she attends every concert and buys anything with her name on it.
+## 中文
+**定义**: 
+Stan（源自“stalker”，意为“跟踪狂”）是指狂热支持或捍卫某个人、事物或品牌的粉丝。这个词多用于负面语境中，表示这种支持或捍卫是痴迷的、强烈的，甚至可能是不理智的。
+**例句**:
+她是泰勒·斯威夫特的狂热粉丝，每场演唱会都会去参加，还买她所有代言的产品。
 ```

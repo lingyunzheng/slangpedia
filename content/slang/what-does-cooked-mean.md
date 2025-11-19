@@ -1,23 +1,19 @@
 ---
 title: "What Does 'cooked' Mean? (cooked 是什么意思？)"
 slug: "what-does-cooked-mean"
-date: 2025-11-18
+date: 2025-11-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English Slang: Cooked
-### Explanation
-- **Literal Meaning:** Prepared or made
-- **Slang Use:** If something is *cooked*, it means it is **faked** or **Manipulated** to make it look better or worse than it actually is.
-- Example: "Someone *cooked* the numbers to show a bigger profit."
-- **Origin:** The term likely comes from the idea of processing something to make it suitable for consumption, but in a metaphorical sense, it now indicates tampering or altering in a deceptive way.
-## 中文俚语：煮过的
-### 解释
-- **字面意义:** 准备或制作
-- **俚语用法:** 如果某事是 *煮过的*，意味着它是 **伪造** 或 **篡改** 的，使其看起来比实际情况更好或更糟。
-- 例句: "有人把利润数据 *煮过了*，以显示更大的盈利。"
-- **起源:** 这个词可能来自加工食物使其适合食用的概念。但在比喻意义上，现在它表示以欺骗的方式篡改或修改。
+# "Cooked" - 中英双语俚语解释
+## 中文解释：
+1. **被搞定了** - 表示某个问题或者麻烦事已经解决。比如，如果你的朋友在工作上遇到了难题，结果对方顺利解决了，你可以说“这事被搞定了”，用“被搞定了”意味着问题已经解决了。
+2. **被拿下了** - 通常用于体育比赛或者销售等情境，表示某一位选手或某一个方案最终赢得了胜利或获得了成功。
+## English Explanation:
+1. **Cooked Up** - Means a problem or issue has been resolved. For example, if a friend of yours faced troubles at work but managed to handle them effectively, you could say "The issue has been cooked up," implying the problem is now solved.
+2. **Cooked** - Often used in contexts like sports competitions or sales, it means that a player or strategy has won or succeeded ultimately.
 ```
+This markdown format provides a clear and organized way to compare the meanings and usage of the term "cooked" in both Chinese and English, highlighting the common context and the differences in usage.

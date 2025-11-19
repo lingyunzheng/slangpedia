@@ -1,20 +1,16 @@
 ---
 title: "What Does 'deadass' Mean? (deadass 是什么意思？)"
 slug: "what-does-deadass-mean"
-date: 2025-11-18
+date: 2025-11-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 英文 slang: deadass
-### 中文解释: 死板的，认真的
-**Description:**
-"Deadass" is an informal English slang term that can be used to describe someone who is very serious, rigid, or unyielding. It often carries a connotation of someone who is not flexible or adaptable.
-**Example Usage in a Sentence:**
-- **English**: "John is such a deadass; he won't take any jokes about his age."
-- **中文**: "约翰真是死板至极，你根本不能拿他的年龄开玩笑。"
-**Context:**
-This term is commonly used in casual conversations among friends or in informal settings to describe someone's attitude or behavior.
+## Deadass (死磕的)
+**English Explanation:**
+"Deadass" is a slang term often used to describe someone who is very serious, intense, or thorough in their approach to something. It can also imply that someone is being stubborn or tenacious, refusing to give up easily. Essentially, it means someone is putting in their all, regardless of the difficulty.
+**Bilingual Explanation:**
+- **英语解释**: "Deadass" 是一个俚语，用来形容一个人在对待某件事时非常认真、严肃或彻底。这个词也可能表示某人很固执，不愿轻易放弃。归根结底，这意味着一个人不惜一切代价地努力，不管有多难。
 ```

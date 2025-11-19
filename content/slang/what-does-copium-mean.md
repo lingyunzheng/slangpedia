@@ -1,16 +1,19 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2025-11-18
+date: 2025-11-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Copium (俚语解释)
-### 中文
-“copium”是一个搞笑或讽刺的词汇，通常用来形容那些人（通常是男性）被吸引或迷恋上某个他们认为“够酷”、“够型”或者“值得追求”的人，但这些人实际上可能只是因为某种外表特征或者行为表现而吸引他们，并没有实质性的特点。
-### 英文
-"Copium" is a humorous or sarcastic term, often used to describe someone, usually a male, who is infatuated or obsessed with a person they perceive as "cool," "awesome," or "worth pursuing." However, these individuals are often attractive or appealing simply because of their appearance or behavior without having any substantial traits. It's used to imply that the person's attractiveness is skin-deep or superficial.
+## Copium (俚语)
+**English:**  
+Copium is a playful and light-hearted slang term coined to mock or jest about law enforcement or police officers. It is often used in casual or informal settings among friends or in social media contexts. The term blends "copper" (a nickname for a police officer, derived from the old copper badges worn by police) and "marijuana" (a reference to the drug that law enforcement is often tasked with regulating).
+**中文:**  
+"copium" 是一种轻松幽默的俚语，用来戏弄或嘲讽警察或执法者。通常在朋友间或社交媒体上下随意使用这种措辞。这个词结合了“copper”（警察的一个昵称，源自早年佩戴铜色徽章的警察）和“marijuana”（一种警察经常监管的毒品）。
+**Example Usage:**
+- **English:** "The local copium are getting more aggressive with speed checks these days."
+- **中文:** "最近这些警察在超速检查上变得越发斤斤计较了。"
 ```

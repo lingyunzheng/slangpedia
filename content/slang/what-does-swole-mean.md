@@ -1,7 +1,7 @@
 ---
 title: "What Does 'swole' Mean? (swole 是什么意思？)"
 slug: "what-does-swole-mean"
-date: 2025-11-18
+date: 2025-11-19
 tags:
 - slang
 - internet
@@ -9,11 +9,10 @@ tags:
 ---
 ```markdown
 ## Slang Term: Swole
-### English Explanation
-"Swole" is a term typically used to describe the appearance of extremely well-developed muscles, often associated with bodybuilders or fitness enthusiasts who train to gain significant muscle mass. The term can also be used to express pride or satisfaction in achieving a fit physique. 
-### Chinese Explanation
-“Swole”是用来形容肌肉极度发达的样子，通常与那些进行高强度训练以增加肌肉量的健美爱好者相关联。这个词也可以用来表达对获得健美的满足感。
-### Example Usage
-- **English**: My friend just started working out and he's getting swole!
-- **Chinese**: 我的朋友最近开始健身，练得很猛，肌肉都快成“swole”了！
+### English
+**Definition:** "Swole" is a slang word used to describe muscle fullness and extreme muscular hypertrophy, often associated with bodybuilders or individuals who engage in heavy weightlifting. The term is also sometimes used metaphorically to describe something that has enhanced greatly in size or quality.
+**Example:** "After months of intense training, John really got swole!"
+### Chinese
+**解释：** "Swole" 是一个俚语，用来形容肌肉丰满和极度的肌肉肥大，通常与健美运动员或从事重量训练的人有关。这个词有时也用于比喻性地描述某样东西在大小或质量上有了极大的提高。
+**例句：** “经过几个月的高强度训练，约翰的肌肉确实变得很饱满。”
 ```

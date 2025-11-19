@@ -1,22 +1,18 @@
 ---
 title: "What Does 'yeet' Mean? (yeet 是什么意思？)"
 slug: "what-does-yeet-mean"
-date: 2025-11-18
+date: 2025-11-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Yeet (俚语解释)
-## 英文
-**Yeet**
-- **Definition**: Originally a sound used to express throwing something, it has evolved into a versatile expression of excitement, rejection, or dismissal. It's often used in video game contexts or social media posts to convey enthusiasm or a sense of throwing something away.
-- **Usage**: "I yeetted the old phone and got a new one."
-- **Example**: *"She yeeted that idea as soon as she heard it."*
-## 中文
-**Yeet**
-- **释义**：这个词最初用于表达扔东西的声音，现在已演变为一种兴奋、拒绝或抛弃的表达方式。它常被用于电子游戏或社交媒体帖子中，表示热情或一种扔掉某物的感觉。
-- **用法**： "我yeet了旧手机，换了个新的。"
-- **例句**： "她一听那个想法就yeeted掉。"
+## Yeet (slang)
+### English
+**Definition:** An enthusiastic or forceful action, often associated with throwing away or discarding something. It can also be used to express excitement, rejection, or to dismiss something.
+**Example:** "I yeetted the book on the shelf because I didn't find it interesting."
+### 中文
+**定义：** 一个充满热情或用力的动作，通常与扔掉或丢弃某物有关。它也常用来表示兴奋、拒绝或抛弃某物。
+**例句：** "我把那本书扔回书架上，因为我觉得不值得读。"
 ```

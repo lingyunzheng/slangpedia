@@ -1,16 +1,19 @@
 ---
 title: "What Does 'hold this L' Mean? (hold this L 是什么意思？)"
 slug: "what-does-hold-this-l-mean"
-date: 2025-11-18
+date: 2025-11-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## "Hold this L" (保持这个L)
-**English:**  
-"Hold this L" is a phrase used in the hip-hop and internet culture, often during a dance move. It usually comes after a "Lofi" or "Lil" refers to the phrase "Lowkey," indicating that something was done with a low profile or without much fanfare. In a broader sense, it can also mean taking a break or pausing in a conversation or activity, much like saying "pause" in a video chat or the game Among Us. 
-**中文:**  
-"保持这个L"这个词组通常用于嘻哈文化和网络文化中，尤其是在一些舞蹈动作后使用。它通常跟着“Lofi”或“Lil”，指代“lowkey”，意指某事是以低调方式进行的，没有受到太多关注。在更广泛的意义上，它还可以用于休息或暂停对话或活动，类似于在视频通话或《Among Us》游戏中说“暂停”。
+## "Hold this L" (English - Chinese)
+#### English
+- **Definition:** A breach of etiquette or protocol, often used to mock or condemn someone's behavior.
+- **Example Usage:** "We were supposed to keep the noise down, you real held this L there!"
+#### 中文
+- **定义:** 违反礼仪或规范的行为，常用于嘲笑或谴责某人的行为。
+- **使用示例:** “我们本来要保持安静的，结果你真的一点都不讲规矩，真是‘Hold this L’！”
 ```
+注：这里的"hold this L"是一种俚语表达，其中"L"代表"lame"，意思是比较糟糕或者不符合期待的行为。这种表达方式常见于网络社交平台或年轻人群体中。
