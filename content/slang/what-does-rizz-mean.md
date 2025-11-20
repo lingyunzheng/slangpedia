@@ -1,19 +1,16 @@
 ---
 title: "What Does 'rizz' Mean? (rizz 是什么意思？)"
 slug: "what-does-rizz-mean"
-date: 2025-11-19
+date: 2025-11-20
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Rizz
+## Rizz (英 / 美)
 **English:** 
-Rizz, often used in casual contexts, refers to a confident and showy manner of walking or standing. It typically describes someone who carries themselves with an air of superiority or self-assurance, often in a rather exaggerated or dramatic way. 
-For example: "She was oozing rizz as soon as she walked into the room."
+- **Rizz:** This slang term is commonly used in the LGBTQ+ community, particularly among gay and lesbian men, in the United States and the UK. It is often employed to describe an attractive, cool, and trendsetting vibe or attitude. Someone with "rizz" is considered to be very fashionable, stylish, and someone who stands out in a crowd.
 **Chinese:**
-Rizz 是一种俚语，指的是走路或站姿充满自信和炫耀的风格。通常描述某人带着一种优越或自我肯定的态度，这种态度有时显得相当夸张或具戏剧性。
-例如：“她一走进房间就开始散发 Rizz。”
+- **Rizz:** 这个 slang 术语在 LGBTQ+ 社区中广泛使用，尤其是在美国和英国的同性恋和双性恋男性之间。通常用来描述具有吸引力、酷炫和紧跟潮流的气质或态度。有 "rizz" 的人被认为是时尚、有品味且能在人群中脱颖而出。
 ```
-This explanation captures the essence of the term in both English and Chinese, providing examples to illustrate usage.

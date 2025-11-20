@@ -1,18 +1,20 @@
 ---
 title: "What Does 'cope' Mean? (cope 是什么意思？)"
 slug: "what-does-cope-mean"
-date: 2025-11-19
+date: 2025-11-20
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Cope (EN/-CN)
-## EN
-**To cope:** To handle or deal with a difficult or unpleasant situation.
-Example: I need to cope with a lot of work while preparing for an exam.
-## CN
-** coping:** 处理或应对困难或不愉快的情况。
-例句：考试准备的同时还要处理大量的工作，我需要好好 coping。
+## Cope (英汉双解俚语)
+### English
+**Cope** - To deal with or manage a challenging situation.
+*Context*: Used when someone is trying to handle a difficult or stressful situation.
+*Example*: "I'm trying to cope with the long hours at work."
+### 汉语
+**cope** - 指处理或应对困境或挑战。
+*情境*: 当某人正在尝试处理困难或压力大的情况时使用这个词。
+*例句*: "我正在设法应对长时间的工作。"
 ```

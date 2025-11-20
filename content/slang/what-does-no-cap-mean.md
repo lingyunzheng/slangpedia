@@ -1,16 +1,15 @@
 ---
 title: "What Does 'no cap' Mean? (no cap 是什么意思？)"
 slug: "what-does-no-cap-mean"
-date: 2025-11-19
+date: 2025-11-20
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## No Cap
-### English
-"**No cap**" is slang used to affirm that something is true or genuine. It's a way to emphasize that you're not exaggerating or lying. For example, "I just won a million dollars in the lottery? No cap."
-### 中文
-"**No cap**" 是一种俚语，用来强调某件事是真实的，没有夸张或撒谎。它是一种确认某种说法是真实的表达方式。例如，“我刚刚在彩票中赢得了一百万美元？No cap。”
+## no cap
+- **English:** Used to emphasize that something is true and not an exaggeration or joke.
+- **Chinese:** 用来强调某事是真的，并非夸张或开玩笑。
+- Example Usage: "I ran 10 miles today. no cap." -> "今天跑了10英里。真的，可不是吹牛。"
 ```

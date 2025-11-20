@@ -1,22 +1,27 @@
 ---
 title: "What Does 'peak' Mean? (peak 是什么意思？)"
 slug: "what-does-peak-mean"
-date: 2025-11-19
+date: 2025-11-20
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Peak (网络用语)
-## 中文
-**巅峰** - 指某方面的最高点或最强状态。通常用来形容人在某个领域达到的能力或成就的巅峰时刻。
-**例句：**
-- 她在短跑项目上的表现真是达到了个人的 peak。
-- 他们俩的合作简直是 peak level 的配合。
-## English
-**Peak** - Refers to the highest point or strongest state in some aspect. It's commonly used to describe a moment where someone reaches the pinnacle of their ability or achievements in a specific field.
-**Example Sentences:**
-- Her performance in the sprints truly reached her peak.
-- Their collaboration could be considered a peak level teamwork.
+## Peak (峰/顶)
+**English**: "Peak"
+1. **Meaning**:
+- The "peak" is often used to describe the highest point, the best moment, or the most successful time in a particular situation or career.
+2. **Example**:
+- "After reaching the career peak, he decided to retire early." -> " career 峰后，他选择提早退休。"
+3. **Usage**:
+- It is commonly used to describe achievements and their corresponding moments.
+**Chinese**: "峰" 或者 "顶"
+1. **含义**:
+- "峰" 或 "顶" 常用来形容最高峰、最好的时刻或某情境或职业生涯中最成功的时候。
+2. **例句**:
+- "在职业高峰之后，他选择提早退休。" -> "career 峰后，他选择提早退休。"
+3. **用法**:
+- 常用来描述成就及其对应的时刻。
 ```
+This markdown format helps provide a clear bilingual comparison and context for understanding the slang term.

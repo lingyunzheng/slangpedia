@@ -1,18 +1,16 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2025-11-19
+date: 2025-11-20
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sigma (Σ)
-**English:**
-- **Definition:** The symbol used in mathematics to denote the summation of a sequence of numbers. It can also be used more figuratively to describe someone who excels in multiple areas or is well-rounded.
-- **Slang Explanation:** In a casual setting, "sigma" might be used to describe someone with a high level of performance or capability in various domains. If you're the boss and your team leader is "sigma," it means they're awesome in everything they do, from coding to meeting deadlines.
-**Chinese:**
-- **定义:** 数学中用来表示一系列数字求和的符号。更抽象地说，也可以用来形容某人擅长多个领域或是个全能者。
-- **俚语解释:** 在日常用语中，“sigma”通常用来形容表现极佳、多才多艺的人。如果你是老板，而你的团队领头人被称为“sigma”，那就意味着他样样精通，无论是编程还是完成任务都有出色的表现。
+## Sigma (σ)
+### English
+Sigma is a letter in the Greek alphabet commonly used in statistics and mathematics to represent a standard deviation. In slang usage, it can refer to a high deviation in behavior or actions, often implying someone who is unpredictable or inconsistent. It can also describe a situation that's highly unlikely or that something is far from average.
+### Chinese
+Sigma（σ）是希腊字母之一，在统计学和数学中常用来表示标准差。在俚语中，它可以指行为或行动的巨大差异，通常暗示某人是不可预测或不一致的。它也可以形容某事极其不可能，或某事远偏离平均水平。
 ```

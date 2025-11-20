@@ -1,24 +1,26 @@
 ---
 title: "What Does 'spill the tea' Mean? (spill the tea 是什么意思？)"
 slug: "what-does-spill-the-tea-mean"
-date: 2025-11-19
+date: 2025-11-20
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English to Chinese Slang: "Spill the Tea"
-### English
-**Spill the tea**: To share confidential or insider information, often gossip or secrets.
-### Chinese
-**吃老本 (Chī lǎoběn) / 吐槽 (Tùcáo) / 煮熟的青蛙 (Zhǔ shú de wángé)**
-- **吃老本 (Chī lǎoběn)**: 原本指依赖过去积累的经验或资源来生存，现在常用来比喻泄露秘密或八卦。
-- **吐槽 (Tùcáo)**: 通常指批评或评论，但也常被用于分享或揭露八卦消息。
-- **煮熟的青蛙 (Zhǔ shú de wángé)**: 这是一个比喻，用来描述一个人或某件事失去了抵抗能力，现在常用来比喻彻底暴露或被泄露的秘密或信息。
+# Spill the Tea
+## English
+**Spill the tea:** This phrase is used when someone wants to share gossip or private information that has been kept secret. It's as though one is releasing a container of tea, letting the contents fall out.
 ### Example
-- **English**: I was so surprised by what she said, I didn't expect her to spill the tea about the company's new policy.
-- **Chinese**: 我真没想到她说出了那句“煮熟的青蛙”，公司的新政策全被曝光了。
-### Note
-In Chinese, there isn't a direct equivalent for "spill the tea," but the phrases provided capture the essence of sharing insider or sensitive information in a social context.
+*She was pushed to spill the tea about the company's surprise party for John.*
+## Pinyin
+**Spill the tea:** Fāshì di.chá
+### Explanation
+- **Fāshì** (发誓): Swear, Promise
+- **di.chá** (茶): Tea
+### Usage
+This idiom is frequently used to describe the act of sharing behind-the-scenes information or gossip, similar to the English meaning.
+---
+### Cultural Context
+This expression is deeply rooted in the culture and typically refers to exposing something that was confidential or not meant for public knowledge. It’s often used in discussions about celebrity gossip, office politics, and personal scandals.
 ```

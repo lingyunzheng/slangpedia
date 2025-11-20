@@ -1,22 +1,20 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2025-11-19
+date: 2025-11-20
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Bruh (American English / slang)
-## Explanation:
-**Meaning:** An interjection often used to express surprise, frustration, or agreement. It can be considered a more casual equivalent to "bro" when you're trying to show that you're feeling the same emotions.
-**Usage Example:**
-- **In English:** "Bro, that movie was so intense! Bruh, I couldn't stop shaking!"
-- **In Simplified Chinese:** 哥们儿，那部电影真的超级紧凑！Bruh，我根本停不下来地颤抖！
-**In Traditional Chinese:** 哥們兒，那部電影真的超级緊湊！Bruh，我根本停不下來地顫抖！
-## Bilingual Slang Explanation:
-- English: "a casual expression of surprise, frustration, or agreement"
-- �拙劣翻譯: “表達驚訝、懊惱或同意的非正式發語”
-- 更好的翻译: “表示惊讶、沮丧或认同的非正式用语”
+# Bro (Bruh) 🤷‍♂️♂️
+## English Explanation
+"Bro" is a casual, widely used slang term that originated from African American Vernacular English (AAVE). It is commonly abbreviated as "Bruh." This term is used to refer to a male friend or as a mild exclamation similar to "wow" or "that's interesting." It can also be used to express surprise, disbelief, or to soften the impact of a statement.
+### Example:
+- "Oh bro, that's some wild stuff!" — Used to express surprise or to add emphasis.
+## Chinese Explanation
+"Bro" 是一种常用的俚语，起源于非裔美国人的口头用语（AAVE）。它通常缩写为 "Bruh"。这个词可以用来指代男性朋友，也可以像 “哇” 或 “真有意思” 一样作为轻微的感叹。它还能用来表示惊讶、不belief 或者软化语句的语气。
+### 示例：
+- “哦 Bro，这真是些疯狂的事情！” — 表达惊讶或加重句子的语气。
 ```

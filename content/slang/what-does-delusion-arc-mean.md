@@ -1,17 +1,17 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2025-11-19
+date: 2025-11-20
 tags:
 - slang
 - internet
 - tiktok
 ---
+Here's the bilingual slang explanation for "delusion arc" in Markdown format:
 ```markdown
-## Delusion Arc (幻觉弧线: Guàn Jué Huódídài)
-**English Explanation:**
-"Delusion Arc" is a colloquial term often used in online gaming communities and internet cultural spaces. It refers to a situation where a player or group of players exhibits extremely unrealistic or unfeasible strategies or actions, often winning due to sheer luck rather than skill. This term plays on the idea of an arc (a curved line) that is so far from the norm as to be almost invisible or anomalous, akin to seeing a visible arc of light in complete darkness—the delusional strategy can sometimes yield unusual success, but the arc itself is deceptive and misleading.
-**Chinese Explanation:**
-"幻觉弧线" (Guàn Jué Huódídài) 是指在线游戏和互联网文化空间中的一种俚语。它描述的是某个玩家或玩家团体采取了极其不切实际或不可行的策略和行动，却因运气极佳而获得了胜利。这种说法利用了"弧线" (曲线) 的隐喻，意味着一条远离常规的、几乎看不见或异常的曲线——看似不合常理的策略偶尔会有惊人成功，但这条曲线本身是误导性的，不可信赖。
+# Delusion Arc
+## 中文解释
+**幻觉弧线**：这原本是指在特定情况下，人们可能会产生一种虚假但又难以辨别的感受或信念，就像是在梦境般的世界里行走。当用这个词形容一个情节或行为时，通常意味着某人正沉迷于一种错误的看法或幻觉之中，无法自拔。
+## 英文 Explanation
+**Delusion Arc**: This originally refers to a situation where someone might experience a false but hard-to-distinguish feeling or belief, akin to walking through a dreamscape. When using this term to describe a plot or behavior, it typically means that someone is deeply ensnared in a mistaken or delusional view, unable to extricate themselves.
 ```
-This markdown format provides a clear comparison between English and Chinese slang terms, making it easy to understand both the concept and its usage.

@@ -1,18 +1,18 @@
 ---
 title: "What Does 'side questing' Mean? (side questing 是什么意思？)"
 slug: "what-does-side-questing-mean"
-date: 2025-11-19
+date: 2025-11-20
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Side Questing
-**English:**  
-"Side questing" comes from the world of video games, referring to tackling smaller, less critical tasks or stories that pop up outside of the main storyline. In the digital gaming realm, these side quests can often offer additional rewards, like experience points or items, and can be fun diversions from the main objective. 
-- **Example:** When playing an RPG, players might choose to explore the castle dungeon (side quest) for a chance at great loot, rather than sticking to the main storyline.
-**汉语:**  
-"Side questing" 这个说法源自于电子游戏界，指的是除了主线剧情之外，游戏中偶尔插入的一些小任务或小故事。在数字游戏中，这些支线任务常常会提供额外的奖励，比如经验值或物品，给玩家带来了从主线目标中短暂的分神，但也可能带来额外的奖励和乐趣。
-- **例句：** 在玩一款角色扮演游戏时，玩家可能会选择探索城堡地牢（支线任务），以获得优良的战利品，而非完全按照主线剧情进行。
+# Side Questing
+## English Explanation
+"Side questing" refers to doing smaller, less vital tasks or activities in addition to the main objective or goal. These tasks aren't crucial to the main storyline but can often provide benefits like experience, items, or character development. This term is widely used in video gaming, where players frequently undertake these smaller missions to gain rewards or progress their character.
+## Chinese Explanation
+"侧任务"（cè rènwu）指的是在完成主要目标或任务的同时，进行一些较小的、不太重要的活动或任务。这些任务虽然对主线故事不是必须的，但却经常能带来经验、物品或其他角色发展的奖励。这个术语广泛应用于电子游戏领域，玩家常会接这些较小的委托来获得奖励并推进角色成长。
+--- 
+在电子游戏中，“侧任务”是一些附带的小任务或挑战，玩家可以通过完成它们来获取额外奖励或逐步提升角色能力。这些任务通常是辅助性的，虽然不是游戏故事的关键部分，但对玩家的总体体验和角色发展都有积极影响。
 ```
