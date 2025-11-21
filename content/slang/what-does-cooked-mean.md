@@ -1,24 +1,18 @@
 ---
 title: "What Does 'cooked' Mean? (cooked 是什么意思？)"
 slug: "what-does-cooked-mean"
-date: 2025-11-20
+date: 2025-11-21
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English Slang: "Cooked"
-### Explanation:
-- **Meaning:** When something is "cooked," it generally means it's compromised, altered, or fixed in a way that undermines its authenticity or fairness. In some contexts, it might also mean something is very good or excellent, depending on the scenario.
-- **Example Use Cases:**
-- "The election results are cooked, so we can't trust the outcome."
-- "I played this musical piece so well, the teacher said it sounded cooked, like it was pre-prepared."
-### 中文俚语： "煮过的"
-### 解释：
-- **含义：** 当某物被称作"煮过的"时，通常意味着它被人为篡改、操控或者不公正地处理，从而失去了其真实性或公平性。在某些情况下，它也可能意味着某样东西非常棒或出色，具体视语境而定。
-- **使用示例：**
-- "选举结果被篡改了，所以结果不能被信任。"
-- "我弹奏的这首曲子非常出色，老师说听起来像是事先准备好的。"
+# Slang: Cooked
+## English
+**Cooked:** Something that is considered very good or excellent. The phrase is often used to describe a situation, action, or person that has a particularly impressive or exceptional quality. For example, if someone has cooked a dish, it means it's very delicious.
+*Example:* "That party last night was totally cooked! The food and the company were amazing."
+## 中文
+**炒菜（chǎo cài）:** 形容某样事物非常出色或优秀。这个短语通常用来形容某个情境、行为或人具有特别出色的品质。例如，如果某人烹饪了一道菜，那就意味着菜做得非常美味。
+*例句:* “昨晚的那个派对真是炒菜级的！食物和服务都是非常棒的。”
 ```
-This markdown formatting provides a clear structure for both the English and Chinese explanations, making it easy to compare and understand the slang usage in both languages.

@@ -1,16 +1,17 @@
 ---
 title: "What Does 'hold this L' Mean? (hold this L 是什么意思？)"
 slug: "what-does-hold-this-l-mean"
-date: 2025-11-20
+date: 2025-11-21
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### "Hold this L" (中文：hold this L)
-**English Explanation:**
-"Hold this L" is an internet slang phrase often used to express frustration, disappointment, or annoyance. It originated from the letter "L" held up as a hand gesture, resembling the shape of the letter "L" when viewed from the side. The gesture is reminiscent of the popular saying "L" in gaming contexts, meaning someone has "left" the game, abandoned the fight, or won unfairly. In these situations, "hold this L" can be used to mock or express displeasure at the person making the "L" gesture or performing similarly unfair actions.
-**Chinese Explanation:**
-"Hold this L" 是一种网络俚语，通常用来表达不满、失望或愤怒。它起源于用手指做出字母 "L" 的手势，从侧面看就像字母 "L" 的形状。这个手势让人想起电子竞技中常用的“再见”或不公平行为的手势。当有人做出这个手势或进行不公平的行为时，"hold this L" 可以用来嘲讽或表达对那个人的不满。
+## "Hold this L" (英文原句)
+**"Hold this L"** 
+### 汉语解释
+这是一句在中文网生文化中流行的网络用语，通常用于挑战或者强调某件事的重要性。当你使用“hold this L”时，实际上是在说“接受这个事实”、“坚持这个观点”或是在表达一种强硬的态度。其中，“L”通常表示“loser”，在这里被用来构成一个手势姿势：一手伸出，弯曲拇指和其他手指呈“L”形。这种姿势有时候也会被称为“L 状手势”。整体来说，这句话用来坚定表达自己的观点或立场。
+### 英文解释
+This is a popular internet slang phrase in Chinese internet culture, typically used to challenge or emphasize the importance of something. When you say "hold this L," you're essentially saying "accept this fact," "admit this point," or expressing a firm stance. Here, "L" often refers to the "loser" gesture: making a "L" shape with your hand by curving your thumb and other fingers. This gesture is sometimes called the "L shape pose." Overall, the phrase is used to firmly assert one's viewpoint or stance.
 ```

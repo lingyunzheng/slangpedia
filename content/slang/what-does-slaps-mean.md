@@ -1,22 +1,19 @@
 ---
 title: "What Does 'slaps' Mean? (slaps 是什么意思？)"
 slug: "what-does-slaps-mean"
-date: 2025-11-20
+date: 2025-11-21
 tags:
 - slang
 - internet
 - tiktok
 ---
-Certainly! Here are bilingual slang explanations for "slaps" in markdown format:
 ```markdown
-## Slaps
-**English**: Slaps
-**Chinese (Simplified)**: 拍
-- **Explanation**: In slang, "slaps" often refers to a way of emphasizing a point or showing agreement, typically in a friendly or playful manner. It can also imply a friendly punch or gesture of support. It's similar to saying "Yes!" or "Of course!" but with a more physical, emphatic gesture. 
----
-Example:
-- **English**: "Slaps table in agreement" -> 拍桌子表示同意
-- **Chinese (Simplified)**: 小明拍了拍桌子说：“我当然同意！”
-- **Explanation**: Xiao Ming nodded in agreement by slapping the table.
+## English - "Slaps"
+In English slang, "slaps" can be used in two primary ways:
+1. **Physical Slap**: Refers to the act of hitting someone with an open hand, which is often used as a form of discipline or in a playful manner. Example: "He gave her a slaps for not finishing her homework."
+2. **Cool, Attractive**: Sometimes used to express appreciation for someone's appearance or style. Example: "That shirt really gives him slaps."
+## 中文 - "Slaps"
+在英文俚语中，“slaps”主要有两种用法：
+1. **掌掴**：指用掌心打人，常用于惩戒或开玩笑。例如：“因为没交作业，他挨了一巴掌。”
+2. **酷、吸引人**：有时用来表达对某人的外表或风格的欣赏。例如：“这件衬衫真是太帅了，给他‘slaps’了。”
 ```
-Feel free to add more examples or details as needed!

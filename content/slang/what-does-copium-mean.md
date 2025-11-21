@@ -1,23 +1,19 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2025-11-20
+date: 2025-11-21
 tags:
 - slang
 - internet
 - tiktok
 ---
-Certainly! Here's a bilingual explanation in Markdown for "copium":
 ```markdown
-## Copium (English)
-**Definition:** A playful and informal term for caffeine, often used by individuals who enjoy drinks with a high caffeine content for their energy boost.
-**Usage Example:** "I need a cup of copium to get through this afternoon's meetings!"
-**Slang Explanation:**
-"Copium" is a playful twist on the word "coyote," which is sometimes used synonymously with coffee in informal conversations. The suffix "-ium" is often appended to words to give them a more scientific or technical sound, adding to the jest and fun in this slang term.
----
-## Copium (Chinese)
-**定义:** 一个轻松且非正式的术语，用于指代咖啡因，常用于描述那些喜欢饮用高咖啡因含量饮料以获得能量补充的人。
-**使用示例:** "下午的会议我要一杯‘copium’才有精神！"
-**俚语解释:**
-“Copium”是对“草原狼”（coyote）这个词的一种幽默变形，而在非正式的对话中，这个词有时与咖啡互换使用。词尾添加 "-ium" 会给这个词带来更科学或技术的感觉，增加了这种俚语的趣味性。
+## Copium (Copium)
+### English
+**Copium**: A playful or joking term for a police officer, often used in casual or humorous contexts. It's similar to terms like "cop" but with a more lighthearted twist.
+### Simplified Chinese
+**Copium（Copium）**: 一个在轻松或幽默的语境中用于形容警察的玩词语。类似于“警察”的说法，但是更加轻快和风趣。
+### Example Usage
+- English: "Hey, there's a copium at the corner, let's avoid him."
+- 简体中文： "嘿，在拐角处有一个Copium，我们绕道走吧。"
 ```

@@ -1,23 +1,19 @@
 ---
 title: "What Does 'salty' Mean? (salty 是什么意思？)"
 slug: "what-does-salty-mean"
-date: 2025-11-20
+date: 2025-11-21
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Salty (English)
-### Explanation
-The term "salty" generally refers to someone who is feeling resentful, bitter, or annoyed, especially due to feeling they have been treated unfairly. It often describes a situation where someone’s expectations or prior positive experiences have been disappointed.
-### Example
-- She missed the game and is feeling super salty about missing out on all the action.
-## 辣鸡 (Làjī, Chinese)
-### Explanation
-"辣鸡" (Làjī) literally translates to "spicy garbage" and is used in a similar way to "salty." It describes a situation where someone feels upset or frustrated, often because they feel they have been wronged or because their expectations were not met. The term conveys a sense of bitterness or resentment.
-### Example
-- 他没被选上当队长，心里超辣鸡。
-- Translation: He wasn't chosen as the team captain, and he feels really salty about it.
+## Salty (英语: salty / 中文: 咸鱼)
+### English Explanation: 
+**Salty** is a slang term used to describe someone who is feeling bitter, resentful, or upset about a situation, often due to perceived unfairness or lack of justice. It can also imply someone who is oversensitive or reacts negatively to a situation that may not warrant such an intense reaction.
+### Chinese Explanation: 
+“咸鱼”是一个网络用语，用来形容心情烦躁、不满或因为觉得不公平或得不到公正对待而感到愤恨的人。这个词也能用来形容那些对不合理的事情反应过度敏感，感到极大不满的人。
+**Example Usage:** 
+- **English:** "Lily got rejected for the job and is feeling salty about it."
+- **Chinese:** "莉莉因为求职被拒而不高兴，有点咸鱼的感觉。"
 ```
-This markdown format provides a simple and clear bilingual explanation of the term "salty" and its Chinese equivalent "辣鸡."

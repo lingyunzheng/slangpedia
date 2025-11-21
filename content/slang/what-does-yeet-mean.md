@@ -1,22 +1,28 @@
 ---
 title: "What Does 'yeet' Mean? (yeet 是什么意思？)"
 slug: "what-does-yeet-mean"
-date: 2025-11-20
+date: 2025-11-21
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Yeet: 抛弃/投掷
-## English Explanation
-"Yeet" is a slang term that originated in the gaming community, but has spread widely in casual and online communication. It's used in several contexts:
-- **To Toss or Cast Away**: "Yeet" can be used to describe the act of throwing away or dismissing something, often done with a triumphant or dismissive attitude. For example, "I yeet this broken phone in the trash."
-- **For a Sexually Aggressive Move**: It can describe an over-the-top sexy move, usually used in a joking or exaggerated way. For example, "She gave him the yeet after showing off her latest outfit."
-- **To Express Enthusiasm or Affirmation**: Sometimes used to show strong approval or excitement, similar to saying "cool" or "yeah," but with a bit more emphasis. For example, "That's yeet, bro!"
-## Chinese Explanation
-"Yeet" 是一个起源于游戏圈但是已经广泛传播到日常交流中的网络流行语。它可以用于多种情境中：
-- **丢弃/抛弃**: "Yeet" 可以用来描述扔掉或放弃某物的动作，通常带有胜利或不屑的态度。例如，“我把这台坏掉的手机扔进垃圾桶了。”
-- **性暗示的动作**: 有时用来描述性感的夸张动作，通常带有开玩笑或夸张的语气。例如，“她通过展示她最新的服装送给他一个 yeet。”
-- **表示热情或肯定**: 有时用来表示强烈的赞同或兴奋，类似于说“酷”或“是的”，但带有更加强调的意味。例如，“这真是太 yeet 了，伙计！”
+## Yeet
+### English
+**Meaning:**  
+Yeet is a multi-faceted slang term commonly used to express various emotions and actions, often associated with excitement, rejection, or throwing things.
+- **Excitement:** You might hear someone say "Yeet!" when something is extremely cool or they are enthusiastic about it.
+- **Rejection:** When someone "yeets" another during a game of Call of Duty, it means they aim and fire at them, but in the context of rejection, it can mean dismissively rejecting someone.
+- **Physical Action:** It can also be used to describe a physical action like throwing something, as in "Yeet that trash away!"
+**Example Sentence:**  
+She yeeted her planner across the room when she couldn't find the date for her vacation.
+### 中文
+**含义：**  
+"Yeet" 是一个多用途的网络俚语，常用来表达多种情感和动作，通常与兴奋、拒绝或扔东西相关。
+- **兴奋：** 当某事物极其酷炫时，或者某人对某事非常热情时，你会听到“Yeet!”
+- **拒绝：** 在诸如《使命召唤》的游戏里，当一个人“yeet”另一个人时，意味着他们瞄准并射杀对方，但在拒绝的语境中，它表示无礼地拒绝某人。
+- **物理动作：** 它也可以用来描述投掷某个物体的动作，“Yeet that trash away!”
+**例句：**  
+当她找不到度假日期时，她把她的日程本扔到了房间的另一头。
 ```

@@ -1,20 +1,23 @@
 ---
 title: "What Does 'ong' Mean? (ong 是什么意思？)"
 slug: "what-does-ong-mean"
-date: 2025-11-20
+date: 2025-11-21
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Ong (中文与英文俚语解释)
-## 中文
-**一杠**  
-**Explanation:**  
-在某些情况下，"一杠"通常用于描述一些建筑结构上的梁或者支撑物。但在网络用语中，它常被用来形容一个人比较直率、坦诚或"一根筋"的性格特点。这部分用法来源于闽南语中的“ＯＮＧ”，意指直直的一根棍子，引申为人的性格直来直去，不拐弯抹角。
-## English
-**One Bar**  
-**Explanation:**  
-In internet slang, "one bar" is used to describe someone who is straightforward, honest, or has a one-tracked mind. This usage comes from the Min Nan Chinese word "Ong," which literally refers to something straight like a bar or rod. The term is metaphorically applied to describe a person's direct or uncomplicated personality.
+# Slang Term: "ong"
+## English Explanation
+In informal English slang, "ong" can be used interchangeably with the term "friend" or sometimes to emphasize the quality of the friendship. It's often used in casual conversations to show strong camaraderie or to highlight good buddies.
+### Examples
+1. "Wassup, Ong! Long time no see."
+2. "You're the best ong, we've got each other's back."
+## Chinese Explanation
+在网络用语中，“ong” 通常用来代替“朋友”一词，也可以用来强调友情的深厚程度。它常用于休闲对话中，以展示强烈的同志情谊或突出好朋友。
+### 例子
+1. “嘿，Ong！好久不见。”
+2. “你是最好的Ong，我们互相扶持。”
 ```
+This markdown format makes it easy to read and understand the usage of the slang term in both English and Chinese.
