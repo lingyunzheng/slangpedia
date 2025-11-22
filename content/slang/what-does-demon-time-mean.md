@@ -1,7 +1,7 @@
 ---
 title: "What Does 'demon time' Mean? (demon time 是什么意思？)"
 slug: "what-does-demon-time-mean"
-date: 2025-11-21
+date: 2025-11-22
 tags:
 - slang
 - internet
@@ -9,8 +9,10 @@ tags:
 ---
 ```markdown
 ## Demon Time
-**English:** 
-"Demon Time" is a slang phrase often used to describe a period when someone is exceptionally focused and productive, usually characterized by the extended and intense use of energy. It's akin to being in a zone where distractions are pushed aside, and all effort is directed towards a specific task or activity that demands high concentration.
-**中文:**
-"Demon Time" 是一个俚语，用来形容一个人在某个时间段内极度专注于某项任务或活动，表现出极高的生产力和创造力。通常这个时间段会伴随着对周围干扰的忽略，所有的精力都集中在需要高度集中注意力的任务上。它的用法类似于人们进入一种“心流状态”。
+### English
+**Meaning:** A period when someone is extremely focused and productive, often to the point where they don't notice or care about what's going on around them. It's like being in a zone where anything that might distract them isn't a concern.
+**Example:** "When Alex started coding, he entered demon time and didn't come out for 10 hours!"
+### 中文
+**意思:** 指某人在极度专注和高效工作或创作时的状态，通常会完全沉浸在任务中，忽略了周围的一切。就像是进入了一个完全不理外界干扰的状态。
+**例句:** "当艾里克斯开始编码时，他进入了恶魔时间，一待就是十个小时没有出来！"
 ```

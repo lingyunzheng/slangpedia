@@ -1,27 +1,18 @@
 ---
 title: "What Does 'lowkey' Mean? (lowkey 是什么意思？)"
 slug: "what-does-lowkey-mean"
-date: 2025-11-21
+date: 2025-11-22
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Lowkey
-### English
-"Lowkey" is an informal term that can have two main usages:
-1. **Subtly**: To indicate that something is done or true without being noticed or loudly acknowledged.
-2. ** gần như không**: To describe something as barely noticeable or not significant.
-### Example Usage
-- "I lowkey really like that new coffee shop downtown."
-- "She lowkey got a new job, I heard."
-### Spanish
-"Lowkey" no tiene una traducción directa al español, pero se puede explicar como:
-1. **Sutilmente**: Para indicar que algo se está haciendo o es verdadero de una manera discreta y no llamativa.
-2. **Muy suavemente**: Para describir algo como apenas perceptible o sin importancia.
-### Ejemplos de Uso
-- "Lowkey me encanta ese nuevo café del centro."
-- "Ella lowkey tiene un nuevo trabajo, lo escuché."
+# Lowkey
+## English
+**Lowkey**: This is an informal adjective used to indicate that something is happening in a quiet or subtle way. It's often used to make an admission or explain a situation without drawing too much attention to it.
+**Example**: "Lowkey stressed about the upcoming exams, but I'm hiding it well."
+## 中文
+**Lowkey**：这是一个非正式用词，用来表示某事是以一种安静或微妙的方式发生的。通常用来表示某种状态或情况，但又不想引起过多注意。
+**例句**：考试快要来临了，低音量焦虑，但表现得不错。
 ```
-This markdown format provides a clear and concise explanation of the term "lowkey" and its usage, including examples for both English and Spanish.

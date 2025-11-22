@@ -1,7 +1,7 @@
 ---
 title: "What Does 'bet' Mean? (bet 是什么意思？)"
 slug: "what-does-bet-mean"
-date: 2025-11-21
+date: 2025-11-22
 tags:
 - slang
 - internet
@@ -9,12 +9,9 @@ tags:
 ---
 ```markdown
 # Bet
-## English
-- **Definition:** A wager or bet is an agreement between two or more people to exchange money or something of value based on the outcome of a particular event.
-- **Bilingual Slang Explanation:**
-- *Bet* (赌): 主要是押注某件事的结果，类似的词有“打赌”。例如，在一项比赛中押注获胜者就是“赌”谁会赢。
-## Chinese
-- **定义:** 赌注或下注是一种多人之间基于某事件结果达成的金钱或物品交换的协议。
-- **双语俚语解释:**
-- *赌* (Bet): 主要是押注某件事的结果，类似的词有“打赌”。例如，在一场比赛中押注获胜者的“赌”就是“打赌谁会赢”。
+**English Slang Explanation:**
+A bet is a wager or a promise to do something based on the outcome of a specified event or decision. It can be casual, such as a friendly competition where the loser performs a task, or more formal involving money or material goods as stakes. The act of making a bet is often a way to settle a dispute, enhance excitement, or test loyalty.
+**Chinese Slang Explanation:**
+赌 (Dǔ) 通常指在某种情景或事件的结果发生之前，双方做出的具有赌注或承诺的约定。它可以是轻描淡写的，比如朋友之间的娱乐性竞争，输了的人做某项任务作为补偿；也可以是正式的，可能涉及金钱或其他物质作为赌注。做出赌注的行为往往是用来化解争端、增添刺激、或是考验忠诚的方式。
 ```
+In Chinese, the term "赌" is often used more broadly to imply risk-taking or gambling, not just friendly wagers.

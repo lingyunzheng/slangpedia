@@ -1,19 +1,24 @@
 ---
 title: "What Does 'ate' Mean? (ate 是什么意思？)"
 slug: "what-does-ate-mean"
-date: 2025-11-21
+date: 2025-11-22
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### 英文 slang: Ate
-#### Explanation:
-- **Meaning**: In informal contexts, "ate" can be used to describe someone who is extremely adept at a particular task, especially related to gambling or entertainment.
-- **Example**: "He's really **ate** when it comes to poker." This means he is exceptionally skilled at playing poker.
-### 中文俚语: 赌无可赌（俗称“吃了”）
-#### 解释：
-- **意思**：在非正式的场合，“吃了”通常用来形容某人在特定技能上表现极为出色，尤其是在赌博或娱乐方面。
-- **例句**："他赌无可赌，在扑克牌上特别吃香。" 这意味着他玩扑克牌特别有天赋或技巧高超。
+## English: Ate
+### Meaning
+The slang term "ate" is an informal verb often used to indicate that a person has consumed a large amount of food, or has eaten extremely quickly and voraciously.
+### Example
+- **English Example:** "Wow, you really ate that pizza!"
+- **Bilingual Explanation:** "哇哦，你吃那披萨吃得真多！" (Wō о, nǐ chī nà pīsá chī dé zhēn duō！)
+## English: Ate
+### Meaning (Alternate usage)
+Another usage of "ate" in slang context can be as a shorter, more casual form of "ate shit," implying that someone has done something wrong, been embarrassed, or made a mistake.
+### Example
+- **English Example:** "She totally ate that test, she failed so badly."
+- **Bilingual Explanation:** "她那考试完全搞砸了，考得很糟糕。" (Tā nà kàoshì wánquán gǎozhá le, kǎ de hěn zāngcāo。)
 ```
+This markdown structure provides clear bilingual explanations and examples for the slang term "ate."

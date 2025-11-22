@@ -1,19 +1,21 @@
 ---
 title: "What Does 'mid' Mean? (mid 是什么意思？)"
 slug: "what-does-mid-mean"
-date: 2025-11-21
+date: 2025-11-22
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## mid
-英语解释: "mid" 在俚语中通常用于强调某事处于中间状态或者进行中。它类似于中文里的“期间”或“中间”。
-中文解释: "mid" 在亚文化或聊天中，常用来指出某个事物处于中间状态或者正在进行，并且不强调起点或终点。它类似于说“中间”或“期间”。
-例句:
-- 英语: "I just arrived at mid of the meeting."
-中文: "我刚好赶到会议的中间。"
-- 英语: "We are in mid of planning the event."
-中文: "我们现在正处于计划活动的过程中。"
+## 中文解释
+**mid** - 中
+在某些特定的网络语境中，“mid”被用作“中”的意思，比如在指代中间位置或者一般的、普通的状态。
+例如：
+- 中间的座位 - mid 的座位
+## English Explanation
+**mid** - middle
+In some specific internet slang contexts, "mid" can be used to mean "middle" or a general, ordinary condition, such as indicating a middle position.
+Example:
+- Middle seat - mid seat
 ```

@@ -1,7 +1,7 @@
 ---
 title: "What Does 'chad' Mean? (chad 是什么意思？)"
 slug: "what-does-chad-mean"
-date: 2025-11-21
+date: 2025-11-22
 tags:
 - slang
 - internet
@@ -9,10 +9,10 @@ tags:
 ---
 ```markdown
 # Chad
-**English:**  
-A term used primarily in North America, "chad" is often a derogatory slang term used to describe someone who is considered outdated, square, and lacking in style or modernity. It can also be used to describe someone who is perceived as earnest, oblivious, or overly conventional.
-**Simplified Chinese:**
-“Chad” 是北美地区常见的一个贬义 slang 词汇，用来形容一些被认为过时、老土或缺乏时尚感和现代性的人。这个词也可以用来形容那些被认为纯真无邪、不谙世事或过于守旧的人。
-**Traditional Chinese:**
-“Chad” 是北美地區常見的一個貶義俚語，用來形容一些被認為過時、老土或缺乏時尚感和現代性的人。這個詞也可以用來形容那些被認為純真無邪、不諳世事或過於守舊的人。
+**English:**
+Chad is a term used to describe someone who is considered "over the top" in a conservative or stereotypically masculine way. They might wear very traditional or stereotypical outfits, behave in a way that's seen as excessively practical or manly, and generally adhere to very traditional gender norms. The term can also imply a lack of style or sophistication.
+*Example:* "He's such a chad with his crisp, white button-down shirts and slim-fit jeans. It's like he's never heard of fashion."
+**Chinese:**
+Chad 是一个用来形容那些以保守或传统男性化方式过头行事的人的术语。他们可能穿着非常传统或刻板的服装，行为上显得特别实用或阳刚，并且通常遵循非常传统的性别规范。这个词也可能暗示缺乏时尚或优雅。
+*例子:* "他穿着得很整洁，每次都是白衬衫和修身牛仔裤，简直就是没听说过时尚一样。"
 ```

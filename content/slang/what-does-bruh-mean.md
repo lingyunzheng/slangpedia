@@ -1,7 +1,7 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2025-11-21
+date: 2025-11-22
 tags:
 - slang
 - internet
@@ -10,11 +10,9 @@ tags:
 ```markdown
 # Bruh
 ## English
-**Definition:** A versatile slang term often used to express agreement, disbelief, frustration, or amusement. It can be used in various contexts to soften the impact of what's being said or to add emphasis.
-**Usage Example:**
-- "This traffic is insane! Bruh, I’m going to be late for the meeting!"
-## 中文
-**定义：** 一个多功能的俚语词汇，常用来表示同意、惊讶、沮丧或有趣。无论在什么情境下使用，它都可以软化说话的效果，或增加语气的强调。
-**使用示例：**
-- "这交通状况简直太恶劣了！天，我要迟到了！"
+**Bruh**: An interjection commonly used to express a range of emotions, from frustration to disbelief, often when nothing substantial needs to be said. Its exact meaning can vary widely based on context. 
+**Example Usage**: "Bruh, did you really just say that?"
+## Chinese
+**Bruh**：一个常用于表达各种情绪的感叹词，情绪可以从沮丧到难以置信不等，通常在没有太多需要说明的内容时使用。具体含义根据语境而变化。
+**例句**："Bruh，你真的刚说了那个吗？"
 ```
