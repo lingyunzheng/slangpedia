@@ -1,29 +1,16 @@
 ---
 title: "What Does 'cap' Mean? (cap 是什么意思？)"
 slug: "what-does-cap-mean"
-date: 2025-11-22
+date: 2025-11-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Cap (American English)
-## Explanation
-- **Meaning**: To understand or grasp an idea, often used when a concept is clear or obvious.
-- **Example**: "That's totally a cap, I didn't need you to explain it."
-- **Origin**: Derived from the phrase "makes sense" or "got it."
-## Bilingual Explanation
-- **English**: To understand or grasp an idea.
-- **Chinese**: 掌握或理解一个想法，通常意味着一个概念是清晰或显而易见的。
-- **Example**: "那简直是显而易见的，你不需要再解释了。"
-# Cap (African Patois)
-## Explanation
-- **Meaning**: A term used to indicate that something is unnecessary or excessive.
-- **Example**: "You gwan cap dih tek mi dih phone? Mi na dih selfie alri."
-- **Origin**: Comes from the Wolof language, meaning 'too much'.
-## Bilingual Explanation
-- **English**: A term used to indicate that something is unnecessary or excessive.
-- **Chinese**: 一个用来表示某事是不必要的或过度的术语。
-- **Example**: "你非要给我拍照片干什么？我已经在自拍了。"
+## Cap
+### English
+**Cap**: This term is often used in the context of someone being overly impressed or believing something to an excessive or pretentious extent. For example, if someone thinks they are superior to others because of a minor achievement, they might be considered to be "capping". 
+### Chinese
+**帽（mào）**: 这个词通常用来形容某人对某些事情过于自满或自以为是，相信得太夸张了。例如，如果有人因为一个小成就自认为比别人优越，那么他们就可以被称为“卖萌”或“戴高帽”，意思是故意夸张赞美，让人觉得虚伪。
 ```

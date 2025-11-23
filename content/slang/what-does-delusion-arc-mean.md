@@ -1,7 +1,7 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2025-11-22
+date: 2025-11-23
 tags:
 - slang
 - internet
@@ -9,12 +9,10 @@ tags:
 ---
 ```markdown
 # Delusion Arc
-## English Explanation
-"Delusion Arc" is a phrase often used in casual conversations to describe a surreal or illogical situation or storyline, often seen in movies, TV shows, or video games. It refers to a part of the narrative where the plot becomes so far-fetched or inconsistent that it completely loses coherence and plausibility. Essentially, it is the arc where characters and scenarios become too absurd to be taken seriously anymore.
-Example in context:
-- "The ending of that movie was in a delusion arc, with aliens and time-traveling cats defeating the asteroid threat."
-## 中文解释
-“Delusion Arc” 是一个常用于日常对话中的俚语，用来描述一种超现实或不连贯的情节，常见于电影、电视剧或电子游戏中。它指的是剧情中变得极其荒诞或不一致的部分，以至于完全失去了连贯性和合理性的部分。简而言之，就是剧情中变得如此荒谬以至于不再能让人认真对待的部分。
-示例用法：
-- “那部电影的结局进入了 delusion arc，异星人和时间穿越的猫打败了迎面而来的陨石威胁。”
+## English
+**Delusion Arc**: This phrase is an informal way to describe a situation or scenario that is entirely fictional, fabricated, or simply not grounded in reality. It's often used to denote an unrealistically optimistic or flawed plan. For example, "Starting a tech business with no programming skills or knowledge is a Delusion Arc."
+## 中文
+**Delusion Arc**: 这个短语用一种非正式的方式描述一个完全是虚构、编造或完全脱离现实的情况。它经常用来形容那些不切实际或者有严重缺陷的计划，比如“没有编程技能或知识就开始一家科技公司，那简直就是一场Delusion Arc（梦幻 journey）。”
+---
+**Note**: The term "Delusion Arc" is not a standard slang term and appears to be a creative or fictional concept. The explanation provided here blends creativity with common slang usage to convey the intended meaning.
 ```

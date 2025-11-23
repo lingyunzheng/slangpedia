@@ -1,18 +1,15 @@
 ---
 title: "What Does 'fit check' Mean? (fit check 是什么意思？)"
 slug: "what-does-fit-check-mean"
-date: 2025-11-22
+date: 2025-11-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# fit check
-## English
-A "fit check" in informal language often refers to a moment where someone quickly or secretly checks their appearance, often in a highly visible or formal setting. It's commonly used in contexts like before a big meeting, an interview, or a formal event. Essentially, it's a quick glance to make sure everything is looking good.
-Example: "Before stepping into the interview room, I did a quick fit check in the hallway mirror."
-## 中文
-“fit check” 这个俚语在非正式的场合下，通常指的是一个人在高 visibility 或正式场合前快速或偷偷地检查自己的仪容。它经常用于大会议前、面试前或正式活动前的情境。实际上，这是一种快速的查看，确保自己的形象良好。
-例句：踏入面试房间之前，我在走廊镜子前做了一次快速的 fit check。
+## Fit Check (英汉双解 slang explanation)
+**Fit Check** (美式英语):
+* 中文直译: "合身检查" 
+* 实际含义: 在时尚或健身领域的自我检查，通常指试穿衣服或检查自己的健身进展。例如，穿上新买的衣服，看看是否合身；或在健身后检查肌肉的发展情况。
 ```

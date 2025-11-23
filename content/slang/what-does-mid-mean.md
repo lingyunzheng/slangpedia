@@ -1,21 +1,20 @@
 ---
 title: "What Does 'mid' Mean? (mid 是什么意思？)"
 slug: "what-does-mid-mean"
-date: 2025-11-22
+date: 2025-11-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 中文解释
-**mid** - 中
-在某些特定的网络语境中，“mid”被用作“中”的意思，比如在指代中间位置或者一般的、普通的状态。
-例如：
-- 中间的座位 - mid 的座位
-## English Explanation
-**mid** - middle
-In some specific internet slang contexts, "mid" can be used to mean "middle" or a general, ordinary condition, such as indicating a middle position.
-Example:
-- Middle seat - mid seat
+# Bilingual Slang Explanation: "mid"
+## English
+**"mid"** - Short for "middle" or typically in online gaming contexts, it can refer to:
+- **Middle**: Positioned in the middle of something.
+- **Mid-game**: In multiplayer games, the period of the game following the initial phase and before the endgame. This part often features more strategic considerations and team-based tactics.
+## Chinese
+**“mid”** - 简称为“中间”或在在线游戏中，通常指的是：
+- **中间**：位于某事物中央的位置。
+- **中期**：在多人游戏中，游戏初始阶段之后，接近尾局之前的这个阶段。这个阶段通常包含更多的策略考虑和团队战术。
 ```

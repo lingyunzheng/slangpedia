@@ -1,16 +1,26 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2025-11-22
+date: 2025-11-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Ratio
+# Ratio (English-Chinese Bilingual Slang Explanation)
 ## English
-**Ratio**: In its original sense, it refers to the comparison of two quantities, often used to indicate the proportion between them. Online, it has gained a new meaning, especially in social media and confrontational debates. When someone is accused of having a "bad ratio," it means they have a history of repeatedly losing in confrontations or situations, making them seem lesser or having fewer positive outcomes compared to negative ones.
-## 中文
-**Ratio**: 在原始意义上，它指的是两个数量之间的比较，通常用于表明它们之间的比例。在网上尤其是社交媒体和辩论中，"ratio" 拥有了新的含义。当有人被认为“ratio不好”时，意味着他们在多次冲突或情境中屡次失利，给人一种负面结果多于正面结果或者显得弱势的印象。
+### Definition
+- **Ratio:** The ratio has become a popular internet slang, often used to describe the act of comparing two people or things, usually in the context of revealing perceived disadvantages or imbalances between them.
+### Example Usage
+- "He's got the looks, but she's got the money, I feel like I just got ratio-ed."
+- "I don’t need you to drop to my level. That’s called ratio-ing."
+## Chinese
+### 释义
+- **比例 (bié lǐ):** "比例" 成为了网络流行语，通常用来形容比较两个人或事物，具体来说是在揭示两人或事物之间的某种不平衡或劣势。
+### 例句
+- “他长得帅，但是她有钱，感觉被比下去了。”
+- “我根本不需要降到你的水平。这叫‘比’。”
+---
+注：这里的 "ratio" 在网络用语中被翻译为 "比"，体现了中文中的一种类比表达。这种用法通常是在社交媒体或在线讨论中凸显某种对比关系。
 ```

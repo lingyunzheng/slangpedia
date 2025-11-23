@@ -1,18 +1,18 @@
 ---
 title: "What Does 'stan' Mean? (stan 是什么意思？)"
 slug: "what-does-stan-mean"
-date: 2025-11-22
+date: 2025-11-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Stan (English-Spanish Slang)
+# Stan
 ## English
-**Stan**: Originally comes from the term "stans" (followers or supporters) of a particular band in the hardcore punk subculture. Over time, it evolved into a term used for someone who is excessively devoted to or fixated on a celebrity or online personality, often to the point of obsessiveness. It’s also used in internet culture to describe someone who is a fanatical supporter or admirer.
-*Example*: "John has become a stan for Taylor Swift, always posting about her on social media."
-## Spanish
-**Stan**: Proviene de la palabra "stans" (soportadores o seguidores) de una determinada banda en la subcultura de punk hardcore. Con el tiempo, se ha convertido en un término utilizado para describir a alguien que está extremadamente dedicado o obsesionado con un celebridad o personalidad en línea, a menudo hasta el punto de ser fanático. También se utiliza en la cultura de internet para referirse a alguien que es un seguidor admirador ferviente.
-*Example*: "Ana se ha convertido en una stán de Selena Gomez, siempre compartiendo sobre ella en las redes sociales."
+Stan is a slang term used to describe an overly dedicated or obsessed fan. The term is commonly associated with showing an excessive amount of support or loyalty to a particular person, group, or activity, to the point of appearing irrational or obsessive.
+**Example:** "He's a real Stan for Taylor Swift, always showing up to her concerts."
+## Chinese
+Stan 是一个网络俚语，用来描述一个过度奉献或痴迷的粉丝。这个词通常与对某个人、群体或活动表现出过度的支持或忠诚联系在一起，以至于显得不理性或痴迷。
+**示例：** "他是个真正的 Stan，总是去听泰勒·斯威夫特的演唱会。"
 ```

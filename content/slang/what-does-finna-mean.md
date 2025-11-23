@@ -1,20 +1,22 @@
 ---
 title: "What Does 'finna' Mean? (finna 是什么意思？)"
 slug: "what-does-finna-mean"
-date: 2025-11-22
+date: 2025-11-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Finna ( Informal slang, U.S. English / American English )
-### English
-"Finna" is a contraction of "fixin' to" which is an older Southern U.S. expression meaning "about to" or "getting ready to." It's commonly used to describe an imminent action.
-#### Example:
-- "I finna go to the store after I finish this task."
-### 中文
-"Finna" 是一种俚语，源自美国英语中的 "fixin' to"，意思是对即将发生的动作的一种表达，相当于 "about to" 或 "getting ready to"。
-#### 示例：
-- "我等会儿做完这个任务就去商店。"
+# Finna
+## English
+"Finna" is a slang term often used in American English, particularly in Southern and urban areas. It's a shortened form of "fixin' to," which is derived from an older Southern English expression meaning "about to" or "on the verge of." 
+**Usage Example:**
+- **Original:** I'm about to go to the store.
+- **Slang:** I'm finna go to the store.
+## 中文
+"Finna" 是美式英语中的俚语，尤其在南部和城市地区常用。这个词是“fixin’ to”的缩写，“fixin’ to”原本来自南方英语，意思是“即将要做某事”或“正要”。
+**用法示例：**
+- **原句:** 我要去商店。
+- **俚语:** 我finna去商店。
 ```

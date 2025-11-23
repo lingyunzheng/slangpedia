@@ -1,19 +1,18 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2025-11-22
+date: 2025-11-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Sigma Slang Explanations
-## 苏打 (Soda)
-### English:
-**Sigma**: This term is a play on the Greek letter "σ" (sigma) and can be used to describe a person or situation that's feels really refreshing or invigorating, akin to a refreshing drink of soda. It can also be used as a playful way to refer to someone who is being particularly cool or groovy.
-### 中文:
-**苏打 (Soda)**: 这个词是对希腊字母“σ”（sigma）的戏称，用来形容某人或某情况给人带来一种清爽、提神的感觉，就像喝了一瓶爽口的苏打饮料一样。也常用来形容一个人特别酷或者有型。
----
-This is a playful way to use a technical term to describe something enjoyable or refreshing.
+# Sigma (σ)
+## English
+### 1. **Tech Enthusiast**: In the tech community, "sigma" can refer to an individual who is highly knowledgeable and skilled in programming, especially in low-level or mathematical computations. These individuals often contribute to open-source projects, particularly in areas like machine learning and data science.
+### 2. **Mathematician**: A person who is extremely proficient in mathematics, often using complex formulas and theories. Sigma (Σ) is a symbol commonly used to denote summation in mathematics.
+## Chinese
+### 1. **技术宅**: 在技术爱好者中，“sigma”指的是那些在编程、尤其是低层或数学计算方面具有高超技能的人。这些人士经常贡献于开源项目，特别是在机器学习和数据科学领域。
+### 2. **数学家**: 指在数学方面极为熟练的人，经常使用复杂的公式和理论。大写字母“σ”常被用来表示数学中的累加符号。
 ```

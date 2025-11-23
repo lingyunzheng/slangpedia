@@ -1,7 +1,7 @@
 ---
 title: "What Does 'chad' Mean? (chad 是什么意思？)"
 slug: "what-does-chad-mean"
-date: 2025-11-22
+date: 2025-11-23
 tags:
 - slang
 - internet
@@ -9,10 +9,10 @@ tags:
 ---
 ```markdown
 # Chad
-**English:**
-Chad is a term used to describe someone who is considered "over the top" in a conservative or stereotypically masculine way. They might wear very traditional or stereotypical outfits, behave in a way that's seen as excessively practical or manly, and generally adhere to very traditional gender norms. The term can also imply a lack of style or sophistication.
-*Example:* "He's such a chad with his crisp, white button-down shirts and slim-fit jeans. It's like he's never heard of fashion."
-**Chinese:**
-Chad 是一个用来形容那些以保守或传统男性化方式过头行事的人的术语。他们可能穿着非常传统或刻板的服装，行为上显得特别实用或阳刚，并且通常遵循非常传统的性别规范。这个词也可能暗示缺乏时尚或优雅。
-*例子:* "他穿着得很整洁，每次都是白衬衫和修身牛仔裤，简直就是没听说过时尚一样。"
+## English
+A term primarily used in the context of fitness or personal style. A "chad" is someone or something that is considered excessively masculine, overly confident, and often ridiculed for their blatant displays of "bro" culture and stereotypical male attributes. The term is often used dismissively or sarcastically, suggesting that someone is not genuine or sincere in their actions or appearance.
+Example: "That guy in the gym, flexing his muscles and ordering everyone around? Pretty much just a chad."
+## 中文
+“Chad” 主要用于健身或个人风格的语境中，特指那些被过度刻画为阳刚、极其自信的人。这个词通常带有贬义或讽刺意味，暗示某人并非真诚或者他在行为和外表上有点矫揉造作。它往往用来描述那些显而易见地展示典型男性特质，而又显得不真诚的人。
+例子：“健身房里那个肌肉猛男，到处炫耀自己，还指手画脚命令别人，简直就是一个标准的‘Chad’。”
 ```

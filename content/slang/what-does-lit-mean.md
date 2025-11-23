@@ -1,20 +1,23 @@
 ---
 title: "What Does 'lit' Mean? (lit 是什么意思？)"
 slug: "what-does-lit-mean"
-date: 2025-11-22
+date: 2025-11-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Lit (精彩极了 / 充满活力的)
-## English
-**Lit**: Originally used to describe well-lit places, or any situation that was exciting, energetic, or exciting. It has evolved to mean anything that is cool, trendy, or impressive. For example, if a party is full of energy and fun, it could be described as "lit."
-## Chinese
-**精彩极了 / 充满活力的**：最初用于描述光线很好的地方或是任何令人激动、充满活力或令人兴奋的情况。它现在已经扩展为任何看起来很酷、时尚或令人印象深刻的事物的描述。例如，如果派对充满活力且充满乐趣，可以描述为“精彩极了”。
----
-Example usage:
-- English: "That new album is so lit!"
-- Chinese: "这张新专辑真是太精彩了！"
+## Lit (美國英語)
+### 中文解釋
+Lit 在American English 中是形容詞，表示某個事物非常精彩、刺激、有趣或酷。可以理解为“超火”的意思。
+### 示例
+- 去了那個派對真是 Lit！ (Going to that party was super lit!)
+- 這場演出真的 Lit 得不得了！ (This performance was really lit!)
+## Lit (英式英語)
+### 中文解釋
+在British English 中，lit 通常用作過去式，意思是“醉了”或“喝多了”。另外，lit 也可以作为“亮着的”或“点燃的”之意。
+### 示例
+- 她昨晚上喝得 Lit 了。（She got pretty hammered last night.)
+- 灯光 Lit 起来，音乐也跟着响起来了。（The lights lit up and the music started.)
 ```
