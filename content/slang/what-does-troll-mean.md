@@ -1,18 +1,17 @@
 ---
 title: "What Does 'troll' Mean? (troll 是什么意思？)"
 slug: "what-does-troll-mean"
-date: 2025-11-23
+date: 2025-11-24
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Trolling (English)
-**Definition**: Playing a prank or annoying someone online by posting inflammatory, irrelevant, or disruptive comments on a social media site or other online forum.
-**Example in Use**: "He was just trolling when he posted that message about wanting to bankrupt the company—I could tell he was just playing a prank and wasn't serious!"
-### troll (中文)
-**定义**: 在社交媒体或论坛上发布煽动性、无关或破坏性的评论来捉弄或骚扰他人。
-**使用示例**: "他说想把公司搞破产那个消息只是他捣乱而已——我能看出来，他根本不是认真这么想的，只是在开玩笑。"
+## Troll (中文含义)
+### English
+**Troll**: Originally from online forums and internet culture, a troll is someone who posts messages designed to stir up conflict or provoke strong reactions from others. The term can also refer to any disruptive or annoying person in real life, who is doing it intentionally.
+### 中文
+** troll**: 来源于网络论坛和互联网文化中的一个术语，指的是那些发布旨在引起冲突或激化他人强烈反应的留言的人。这个词也可以用来指现实生活中的那些故意捣乱或让人讨厌的人。
 ```
-This markdown format clearly shows both the English definition and usage example followed by the corresponding Chinese translation and usage example.
+This markdown format provides a clear and concise definition of the term "troll" in both English and Chinese, along with a brief explanation of its context of use.

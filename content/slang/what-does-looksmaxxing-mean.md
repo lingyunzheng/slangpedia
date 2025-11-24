@@ -1,16 +1,19 @@
 ---
 title: "What Does 'looksmaxxing' Mean? (looksmaxxing 是什么意思？)"
 slug: "what-does-looksmaxxing-mean"
-date: 2025-11-23
+date: 2025-11-24
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# looksmaxxing
+# "Looksmaxxing" (颜值maxxing, Yánzhǐ maxxing)
 ## English
-**Looksmaxxing**: This term is used to describe something or someone that is extremely attractive or visually appealing, often to an excessive degree. It's like saying something or someone is "maxed out" in terms of visual appeal, pushing the limits of what could be considered beautiful or handsome.
+**Definition:** Looking to enhance or exaggerate one's appearance to the extreme, often for impressing others or increasing one's attractiveness.
+**Example Sentence:** She spends hours every day looksmaxxing to get that perfect Instagram photo.
 ## Chinese
-**looksmaxxing**: 这个词用来描述某人或某物极其 attractive 或视觉上极其吸引人，有时几乎是过度的程度。这就好比说某人或某物的视觉吸引力已经“最大化”了，达到了可能是最美的或最有魅力的程度。
+**定义:** 为了增强或夸张自己的外貌而进行极大的努力，通常是为了给他人留下深刻印象或增加自身吸引力。
+**例句:** 她每天都会花好几个小时在“颜值maxxing”上，只为拍出那个完美的Instagram照片。
 ```
+This explanation captures the essence of the slang term and provides clear examples of how it is used in both English and Chinese contexts.

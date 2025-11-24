@@ -1,7 +1,7 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2025-11-23
+date: 2025-11-24
 tags:
 - slang
 - internet
@@ -10,10 +10,11 @@ tags:
 ```markdown
 # Brookie (Brokie)
 ## English
-**Definition:** A term often used to describe a person who acts like a woman, especially in a context where masculinity is being displayed or expected. It can be used to tease or mock someone for behavior that is perceived as overly feminine or not manly enough.
-**Usage Example:** "Dude, stop being such a brookie and act like a real man!"
+A term often used in internet culture to describe someone who behaves in a stereotypically feminine or traditionally "girly" way, often in a context where that is considered unusual or undesirable. Commonly used in communities where there's a noticeable gender dynamic. 
+Example:
+- "He's a brookie, always talking about fashion and makeup."
 ## 中文
-**定义：** 一个用来形容行为举止过于女性化或不符合预期中男性特质的人的词汇。通常用于嘲笑或戏谑那些被认为行为过于女性化或者不够“男子汉”的人。
-**用法例句：** “喂，别那么蔫了吧唧的，像个爷们儿点行不！”
+一个网络用语，用来形容那些行为被刻板印象为女性化或传统意义上的"女生气"的人，尤其是在这种行为不太常见或不被接受的情况下。通常用于有明显性别差异的社群中。
+例句：
+- "他特别brookie，老是谈论时装和化妆。”
 ```
-In Mandarin, there isn't an exact synonymous expression for "brookie," but the example is meant to convey a similar meaning in a context where someone is seen as not embodying traditionally expected masculine traits.

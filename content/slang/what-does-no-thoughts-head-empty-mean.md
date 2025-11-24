@@ -1,22 +1,15 @@
 ---
 title: "What Does 'no thoughts head empty' Mean? (no thoughts head empty 是什么意思？)"
 slug: "what-does-no-thoughts-head-empty-mean"
-date: 2025-11-23
+date: 2025-11-24
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 中文释义
-**脑袋空空(no thoughts head empty)**：形容头脑中一片空白，没有主意或想法的状态。类似于英语中的 "blank mind" 或 "empty mind"。
-### 示例
-- 作业很多，根本无从下手，感觉自己脑袋空空的。
-- 考试前没复习，现在脑袋空空，不知道该怎么答题。
-## 英文释义
-**No thoughts, head empty** (脑袋空空): refers to a state where one's mind is blank and lacks ideas or plans. Similar to the English expressions "blank mind" or "empty mind".
-### Examples
-- With so much homework, I have no idea where to start; my head feels empty.
-- I didn't review for the exam, so now my head is empty and I don't know how to answer the questions.
+### 中文解释
+`no thoughts head empty` - 这个表达用来形容一个人大脑一片空白，完全没有思绪或主意。比如，在做决定的时候突然不知道该怎么办，或者在思考问题时觉得脑袋里什么都没有，可以用这个表达来形容。
+### 英文解释
+`no thoughts head empty` - This expression is used to describe someone whose mind is completely empty and without any thoughts or ideas. For example, when you're trying to make a decision and suddenly have no idea what to do, or when you're thinking about a problem and feel like your head is empty, you could use this expression to describe the situation.
 ```
-This Markdown structure provides a clear comparison between Chinese and English slang terms while offering contextual examples for better understanding.

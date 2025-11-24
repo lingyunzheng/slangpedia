@@ -1,14 +1,22 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2025-11-23
+date: 2025-11-24
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Copium
-**English:** "Copium" is a playful and humorous slang term that seemed to emerge on the internet, often used to refer to absurd or surreal situations or experiences. It can also be a playful way to describe a media content (like a movie or video) that is so nonsensical or bizarre that it feels more like a surreal dream.
-**中文:** "Copium" 是一种在网络上传播的滑稽的俚语，常用来形容荒诞不经或超现实的情况。有时候，它也可以用来形容影视内容（如电影或视频）如此荒谬或离奇，以至于让人感觉像是做了一个梦。
+## Copium (English)
+**Definition:**  
+Copium is a playful and informal term derived from "coffee" and "amnio," which some internet users humorously use to describe a hypothetical substance that combines the energizing qualities of coffee with the relaxing, soothing effects of chamomile or another calming herbal tea. It's often used in light-hearted or sarcastic contexts to describe something exaggeratedly good or perfect.
+**Example Usage:**  
+"I need a hit of copium to get through this meeting. No coffee, no tea, just something that's both awake-inducing and stress-busting!"
+---
+## Copium (Chinese)
+**定义：**  
+Copium 是一个轻快而非正式的词汇，由“咖啡”和“羊水”（amnio）两个词结合创造而成，部分互联网用户用其幽默地描述一种假设的物质，这种物质兼具咖啡的提神功效与洋甘菊或其他具有安神效果的草本茶的放松作用。它通常用于轻松或讽刺的情境中，来形容某物被夸张地描述为绝佳或完美的状态。
+**例句：**  
+“为了这次会议，我需要来点 copium。什么咖啡、茶都不是，就是那种既能提神又能解压的东西！”
 ```
