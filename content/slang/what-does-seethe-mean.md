@@ -1,18 +1,15 @@
 ---
 title: "What Does 'seethe' Mean? (seethe 是什么意思？)"
 slug: "what-does-seethe-mean"
-date: 2025-11-24
+date: 2025-11-25
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Seethe
-**English:** To become agitated, angry, or annoyed.
-**Simplified Chinese:** 火冒三丈 (Huǒ mào sān zhàng) - Literally means "flames three feet tall," vividly describing someone who is extremely angry, as if their anger is so intense that it could ignite.
-**Explanation:**
-- **Seethe (English):** When you see your favorite team lose the game in a crucial moment, you might seethe with frustration. This means you are feeling very angry and impatient, like a pot of boiling water just waiting to spill over.
-- **火冒三丈 (Huǒ mào sān zhàng) (Chinese):** Imagine you're so mad about a situation that smoke—or even flames—seem to be coming out of your ears. This expression is used when someone is so irate that their anger is almost out of control, similar to how steam escapes from a container when its heat becomes too much to handle.
-Both terms describe a state of intense anger or irritation, where the person is so upset that they could potentially explode with emotion.
+## 英文：seethe
+### 中文：沸点全开、怒火中烧
+- **Seethe**：When someone is seething, they are extremely angry and the anger is almost visible. It means someone is very infuriated and might explode with anger at any moment.
+- **中文解释**：沸点全开、怒火中烧。当一个人在“沸点全开、怒火中烧”时，意味着他们非常生气，愤怒之情几乎要喷薄而出，随时都可能爆发出来。
 ```

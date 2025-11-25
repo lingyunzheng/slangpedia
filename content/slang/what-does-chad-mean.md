@@ -1,17 +1,16 @@
 ---
 title: "What Does 'chad' Mean? (chad 是什么意思？)"
 slug: "what-does-chad-mean"
-date: 2025-11-24
+date: 2025-11-25
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Chad
-**English:** A term often used to describe a man who iswards (strides with confidence) and possesses an air of superiority, typically boasting about physical appearance, money, or achievements. Often used as a backhanded compliment or criticism depending on the context. 
-**Chinese:** 堺 （shāi）：这个词通常用来形容一个充满自信、气质逼人的男性，往往喜欢炫耀自己的外貌、财富或成就。使用时带有讽刺意味，可以是夸奖也可以是嘲讽。
-例句：
-- English: "Chad just bought a new Ferrari, which he's been flexing on social media."
-- Chinese: "堺刚刚买了一辆新车拉力特，经常在社交媒体上炫富。"
+## Chadj（船长）
+**English Explanation:**  
+A "chad" is a slang term often used to describe a person who is very confident, aggressive, and often seen as a attraction for their masculine or dominant behavior. This term can also have a connotation of being showy or unnecessary effort in a field where it's not really needed. 
+**Chinese Explanation:**  
+"Chadj" 是一个网络俚语，用来形容一个人非常自信、好斗，并且经常因其阳刚或主导行为而吸引人。这个词也可能带有一种炫耀或在实际上并不需要那么多主动性领域的过度表现的意味。
 ```

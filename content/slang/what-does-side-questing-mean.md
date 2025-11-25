@@ -1,16 +1,22 @@
 ---
 title: "What Does 'side questing' Mean? (side questing 是什么意思？)"
 slug: "what-does-side-questing-mean"
-date: 2025-11-24
+date: 2025-11-25
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Side Questing
-### English
-"Side questing" refers to undertaking additional, often optional tasks or activities in a game, usually to gain rewards, experience, or to simply progress the story in a more interesting way. These aren't the main objectives or storylines but are usually scattered throughout the game world, providing extra content and enjoyment for players. Think of it as the equivalent of finding hidden Easter eggs or completing smaller, personal challenges.
-### Chinese
-“侧任务”（side questing）指的是在游戏中完成一些非主要目标的额外任务或活动，通常是为了获得奖励、经验值或是让故事发展得更有意思。这些任务不是主线剧情的一部分，但往往散落在游戏世界的各个角落，为玩家提供额外的内容和乐趣，就像是在游戏中寻找隐藏的秘密或者完成一些小挑战。
+# Bilingual Slang Explanation: Side Questing
+## English Explanation
+**Side Questing:**  
+In the world of gaming, "side questing" refers to undertaking optional tasks or missions in a game that are not necessary for the main storyline but offer bonus rewards like experience points, items, or money. Players often engage in side quests to earn extra content or resources, or simply for fun and to explore the game world more thoroughly.
+**Example:**
+- "I decided to side quest for a bit before finishing the main quest. It's always fun to level up with extra experience."
+## Spanish Explanation
+**Explorar Encargos Secundarios:**
+En el mundo de los videojuegos, "explorar encargos secundarios" se refiere a realizar tareas o misiones opcionales en un juego que no son necesarias para desarrollar la trama principal, pero ofrecen recompensas adicionales como puntos de experiencia, objetos o dinero. Los jugadores a menudo exploran encargos secundarios para ganar contenido extra o recursos, o simplemente por diversión y para explorar más la mundo del juego.
+**Example:**
+- "Decidí explorar algunos encargos secundarios antes de terminar la misión principal. Siempre es divertido subir de nivel con bonus de experiencia."
 ```

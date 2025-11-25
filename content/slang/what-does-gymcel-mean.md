@@ -1,18 +1,14 @@
 ---
 title: "What Does 'gymcel' Mean? (gymcel 是什么意思？)"
 slug: "what-does-gymcel-mean"
-date: 2025-11-24
+date: 2025-11-25
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Gymcel
-## English
-**Definition**: A term coined for people who frequently hit the gym but show little improvement in their fitness level, often engaging in lengthy workouts with minimal effective effort. It's a portmanteau of "gym" and "cel," where "cel" evokes the image of a patient waiting endlessly for results that may never come.
-**Usage Example**: "That dude has been a gymcel for months, going to the gym every day, but his six-pack is still hidden under a layer of fat."
-## 中文
-**定义**：一个用来形容那些虽然经常去健身房但却几乎没有看到健身成效的人的俚语。他们会进行长时间的锻炼，但效果却不太明显。这个词是由"gym"（健身房）和“cel”（类似于等待的代名词）组成的，暗示这些人或许是花了很多时间在等待成果而成果姗姗来迟。
-**用法示例**：那个家伙已经成了个健身房里的“等待者”，每天去健身房，结果他的六块腹肌还是被一层脂肪遮住了。
+## Gymcel
+**English:** A gymcel is a term used to describe someone who is overly obsessive about their fitness and workout routine. They often dedicate a large portion of their life to the gym, displaying an extreme level of dedication that might border on addiction. Gymcels tend to impose their fitness standards and habits on others, potentially leading to a judgmental and competitive atmosphere.
+**中文:** “Gymcel” 是一个用来形容那些对自己的健身和训练计划极为痴迷的人。他们通常会将大量时间投入到健身房，显示出一种几乎达到上瘾程度的投入。Gymcels 倾向于将自己的健身标准和习惯强加于他人，这可能会导致一个评判性和竞争性的氛围。
 ```

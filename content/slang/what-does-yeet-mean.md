@@ -1,18 +1,20 @@
 ---
 title: "What Does 'yeet' Mean? (yeet 是什么意思？)"
 slug: "what-does-yeet-mean"
-date: 2025-11-24
+date: 2025-11-25
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Yeet (meaning "to throw" with a dismissive connotation)
-## English
-**Yeet**: Originally from online gaming communities, this slang term is used to describe the act of throwing something, but it often carries a dismissive, contemptuous, or celebratory tone. For example, if you're playing a video game and you successfully avoid a virtual obstacle, you might "yeet" it to express satisfaction or dismissal. 
-**Usage Example**: "I just yeeted that barrel out of the way!"
-## Chinese
-**义特 (Yìtè)**: 这个网络流行语最早来自在线游戏社区，意思是像扔东西一样抛开某种事物，但它通常带有轻蔑、嘲笑或庆祝的意味。例如，在玩视频游戏时，如果你成功避开一个虚拟障碍物，你可能会“义特”它来表达满意或轻蔑。 
-**使用示例**：刚把那个障碍（唠嗑）义特开了。
+## Yeet (英 / 翁)
+### English:
+**Yeet**
+- **Definition:** An enthusiastic, exuberant expression often used to indicate that something or someone has been discarded or zipped away.
+- **Example Usage:** "I just sent that useless file to the trash can. Yeet!"
+### 翁
+- **定义**：一个充满热情和兴奋的表达方式，常常用于表示某样东西或某人已经被丢弃或快速移除。
+- **例句**：我刚刚把那个没用的文件扔进了垃圾桶。翁！
 ```
+This markdown provides a clear and concise explanation of the slang term "yeet" and its Chinese equivalent "翁."

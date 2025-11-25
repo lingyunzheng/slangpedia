@@ -1,16 +1,20 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2025-11-24
+date: 2025-11-25
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sigma
-**English:** 
-Sigma (σ) is often used in mathematics to denote a sum, specifically in the context of a series or a sequence of numbers. In a broader sense, it can also be used to refer to standard deviation in statistics, indicating how spread out a data set is from its mean.
-**Chinese:** 
-西格玛 (Sigma, σ) 在数学中通常表示求和，特别是在对一系列数字进行累加时。更广泛地讲，西格玛也可以用来表示统计数据中的标准偏差，意即数据集与平均值的离散程度。
+# Sigma Slang Definitions
+## English
+**Sigma**: 
+- **Definition**: Often used in a context of economics or finance, "sigma" is slang for a high-risk, high-reward investment strategy. It can also refer to something that is extremely risky or unpredictable.
+- **Example**: "He's spending his entire savings on this new tech startup, that's sigma-level risk!"
+## 中文
+**sigma**:
+- **定义**：通常用于经济或金融语境中，"sigma"指代一种高风险高回报的投资策略。也可以指非常具有风险性或不可预测的事物。
+- **例句**："他把所有的积蓄都用来投资这家新的科技创业公司，那可是sigma级别的风险！"
 ```

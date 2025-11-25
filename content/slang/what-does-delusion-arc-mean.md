@@ -1,14 +1,16 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2025-11-24
+date: 2025-11-25
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Delusion Arc (梦幻弧线)
-**中文解释:** "梦幻弧线" 是一种网络用语，用来形容某人或某事在看起来完美、理想但实际上是虚幻、不切实际的状态或发展。类似于英文中的 "delusion arc"，常常用于描述剧情、故事或者个人生活的阶段，表示一种短暂的理想期或者是不可持续的幻想。
-**英文解释:** "Delusion Arc" refers to a phase or plot point in a story, narrative, or real-life situation where everything seems perfect, ideal, and beautiful, but it is actually a delusion or unrealistic. It's often used in the context of fiction, describing a period of perfect romance, the climax of a fantasy, or a phase of personal life that appears perfectly ideal but is unsustainable or unrealistic in the long term. Similar to the concept of a "fairytale ending" or a "illusory phase" in English, it highlights the temporary nature of such perceptions.
+## Delusion Arc (幻觉弧线)
+**中文解释:**
+"幻觉弧线"是一个网络上的流行用语，用来形容一个人在特定情境下产生的误解或者完全脱离现实的幻想。这个词常常被用来形容一个人因为过度想象或者受到虚假信息的影响，而产生了一种完全不切实际的想法或幻想，就像是在一个虚幻的梦境中一样。
+**英文解释:**
+"Delusion Arc" is a slang term often used in online communities to describe a situation where someone is under a misconception or has completely detached from reality due to overthinking or being influenced by false information. This term is frequently used to describe a person who is so deeply immersed in their imagination or impacted by misleading content that they develop an entirely unrealistic idea or fantasy, much like existing in a dreamlike, illusory state.
 ```
