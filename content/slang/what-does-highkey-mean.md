@@ -1,20 +1,16 @@
 ---
 title: "What Does 'highkey' Mean? (highkey 是什么意思？)"
 slug: "what-does-highkey-mean"
-date: 2025-11-25
+date: 2025-11-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Highkey
+# Highkey (High KEY)
 ## English
-**highkey**: An intensifier used to emphasize the extent or importance of something. It's a more exaggerated way of saying "really" or "definitely."
-*Example*: 
-- **Highkey**: I'm highkey excited for the concert tomorrow! (I'm really, really super excited for the concert tomorrow!)
-## 中文
-**highkey**: 用来强调某事的程度或重要性的一种加强语气词。这是一种比“真的”或“绝对”更加夸张的说法。
-*例句*:
-- **highkey**: 我真的、真的很highkey期待明天的演唱会！（我超级超级期待明天的演唱会！）
+**Highkey** is a slang term used to emphasize the importance or frequency of something. It's often used to convey that something is definitely true or happening a lot. For example, saying "I highkey need to go to the gym" means you very much need to go to the gym or that going to the gym is a frequent priority for you.
+## 汉语
+**高key（Highkey）** 是一种常用的俚语，用于强调某件事的重要性或发生的频率。这句话常用来表达某事绝对是真实的，或者某件事发生的非常频繁。例如，说“I highkey need to go to the gym”意味着你非常需要去健身房，或者说去健身房是一个非常频繁的优先事项。
 ```

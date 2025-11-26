@@ -1,17 +1,30 @@
 ---
 title: "What Does 'ghosted' Mean? (ghosted 是什么意思？)"
 slug: "what-does-ghosted-mean"
-date: 2025-11-25
+date: 2025-11-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 英文 slang: Ghosted
-**Definition:** When someone quietly and suddenly stops all communication, not giving any explanation, effectively ending a relationship or interaction without any communication.
-**Example Sentence:** "She completely ghosted me last week. One minute we were talking, and the next, nothing."
-## 中文 slang: 幻影 (Huan Yin) 或者 轻易消失 (Qing Yi Xiao Shi)
-**定义：** 当某人突然且悄无声息地中断所有交流，不作任何解释，实际上终止了一种关系或互动，而这种方式不留任何痕迹。
-**例句：** “上周她把我彻底晾了。我们刚刚还在交流，下一刻就什么都没有了。”
+## Ghosted
+**English:**  
+*To ghost* someone is to suddenly and without warning stop all communication with them, usually leaving them in the dark about the reason why. It's a form of emotional and social abandonment.
+**Chinese (简体中文):**  
+*Ghost* 一个人是指突然且毫无预警地中断与他们所有的沟通，通常不给出离开的原因，留下对方不知所措。这是一种情感和社交上的抛弃行为。
+**Examples:**
+- In English: "After we started dating, he just ghosted me and never responded to my messages."
+- 在中文中: "当我们开始交往后，他就突然消失，再也没有回复我的信息。"
 ```
+```markdown
+## 幻游
+**Chinese (简体中文):**  
+*幻游 (huàn yóu)* 是指突然且毫无预警地中断与某人的所有沟通，通常不给出离开的原因，留下对方不知所措。这是一种情感和社交上的抛弃行为。
+**English:**  
+*To ghost* someone means to suddenly and without warning stop all communication with them, usually leaving them in the dark about the reason why. It's a form of emotional and social abandonment.
+**Examples:**
+- 在中文中: "我们开始交往后，他就突然消失，再也没有回复我的信息。"
+- In English: "After we started dating, he just ghosted me and never responded to my messages."
+```
+Both sections provide the slang term "ghost" in both English and its Chinese equivalent, along with explanations and examples.

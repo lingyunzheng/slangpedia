@@ -1,23 +1,30 @@
 ---
 title: "What Does 'cooked' Mean? (cooked 是什么意思？)"
 slug: "what-does-cooked-mean"
-date: 2025-11-25
+date: 2025-11-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# "Cooked" - Bilingual Slang Explanation
-## English
-**Meaning:** If something is "cooked," it generally means that it is unfair, false, or that something has been manipulated or tampered with to make it appear acceptable or better than it really is.
-**Example Usage:**
-- "The exam results were cooked to favor the candidates from a certain department."
-- "He claims the whole deal was cooked, but there's no concrete proof."
-## Chinese
-**含义：** "煮过的" 表示某事物是不公平的、虚假的，或者某事物被操纵或篡改，使其看起来比实际情况要好。
-**例句：**
-- 这次考试成绩被人为调整，偏袒了某个系的学生。
-- 他声称整个交易都是“煮过的”，但没有确凿的证据。
+## English Slang: Cooked
+### Chinese 烧焦 (Shāojiāo)
+- **Meaning**: In English, "cooked" is often used to describe someone who has been deceived or tricked. In Chinese slang, "烧焦" (shāojiāo) metaphorically means something that has been 'burned' or messed up. It's a less harsh expression compared to direct condemnation, implying something is lost or ruined.
+- **Example Usage**:
+- English: "He was cooked by that scammer, lost all his savings!"
+- Chinese: "他被骗子骗得烧焦了，损失了全部积蓄！" (Tā bèi piàijiamiān dé shāojiāo le, xūjí le quánbù zhùxù!)
+## English Slang: Cooked
+### Chinese 蒸熟 (Zhēnshú)
+- **Meaning**: The synonym "蒸熟" (zhēnshú), means "completely cooked" in Chinese, which is used figuratively to describe someone who is entirely deceived and left with nothing. It emphasizes that the situation is utterly hopeless.
+- **Example Usage**:
+- English: "She was cooked when she failed to see the signs of the fraud."
+- Chinese: "她完全被欺诈得蒸熟了，没看清任何迹象。" (Tā wánquán bèi jiéqià dé zhēnshú le, méi qīngklīng yìnggàn qìzhì.)
+## English Slang: Cooked
+### Chinese 毛都搭不上 (Máodū dā bù shàng)
+- **Meaning**: This phrase literally translates to "it doesn't even connect to a single hair," which is a humorous and vivid expression meaning someone has been thoroughly tricked and there's no way to recover any losses. It implies that the situation is completely hopeless and the person is left in a mess.
+- **Example Usage**:
+- English: "He was so naive that he was cooked in that deal, and now his investment is all gone."
+- Chinese: "他太天真了，连一撮毛都搭不上那次交易中的骗局，现在投资全完了。" (Tā tài zhēntiān le, lián yī cù máodū dā bù shàng cǐ cì jiāoyì zhōng de piàjué, xiànzài t蚱investment quán wán le.)
 ```
-In both languages, the term "cooked" conveys a sense of manipulation or unfairness, often implying that something is not as it seems or that it has been done in a deceptive manner.
+This markdown provides explanations for the slang term "cooked" using Chinese expressions that convey similar meanings and contexts.

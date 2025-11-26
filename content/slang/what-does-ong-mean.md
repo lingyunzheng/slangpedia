@@ -1,19 +1,23 @@
 ---
 title: "What Does 'ong' Mean? (ong 是什么意思？)"
 slug: "what-does-ong-mean"
-date: 2025-11-25
+date: 2025-11-26
 tags:
 - slang
 - internet
 - tiktok
 ---
-Here's a bilingual slang explanation for "ong" in Markdown format:
 ```markdown
-## Ong
-### English
-**ONG**: A colloquial term that can be used to refer to a person who is considered to be from a higher social or economic class. It can also be used as an expression of admiration or awe towards someone's lifestyle, wealth, or status. For example, "That new car of his is an ONG!"
-### 中文
-**Hong**: 这是一个俚语，用来指称被认为属于较高社会或经济阶层的人。这个词也可以用来表达对他人的生活方式、财富或身份的钦佩或敬畏。例如，“他的那辆新车可真是HONG！”
-**Note**: The term "ong" or "Hong" is somewhat informal and may vary in usage and connotation depending on the context and regional dialects.
+## Ong (中文/English Slang Explanation)
+### In Chinese:
+**ونg (Wēng)**  
+- **Meaning:** 通常用于形容一个人或者某个事物看起来特别滑稽可笑，但又让人感到无奈或者有点傻的样子。
+- **Example:** 他一笑起来就变成了一个大ony，真是逗比。
+- **Translation:** When he smiles, he looks like a big	ong, truly silly yet funny.
+### In English:
+**ong**  
+- **Meaning:** Used to describe someone or something that is extremely funny-looking or amusing, often in a way that is slightly embarrassing or naive.
+- **Example:** When he starts telling jokes, he turns into a real ong, so silly and funny at the same time.
+- **Translation:** 他讲起笑话来就像是一个真正的	ong，既可笑又有点尴尬。
 ```
-This format provides a clear and concise explanation of the term in both languages.
+Note: The word "ony" does not exist in Chinese or English. It's likely a misspelling. It has been replaced with "大ony" which means "big ong" in this context.

@@ -1,16 +1,17 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2025-11-25
+date: 2025-11-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Brokie (兄弟鬼)
-### English
-**Brokie**: This term is often used to describe someone who acts more like a brother but has some questionable or not-so-nice traits. It's a mix of "brother" and "ghost" (implying a deceptive or unknowable character). Essentially, they might be close but not entirely trustworthy or reliable.
-### 中文
-**Brokie**: 这个词用来形容一个人虽然表现得像兄弟一样，但实际上有一些让人怀疑或不太可靠的特点。这是一种结合“兄弟”和“鬼”（暗示了欺骗性或不可知性）的称呼。也就是说，尽管关系亲密，但他们可能并不完全可靠或值得信赖。
+# Brokie
+## English Explanation
+"Brookie" is a playful and sometimes sarcastic term, typically used to refer to a social media influencer who has gained popularity through their content, often relying on humorous or relatable posts that resonate with a specific audience. It can also be used to describe someone who is overly confident or self-assured, often to an annoying degree, in their online presence or social media skills.
+## Chinese Explanation
+"Brookie" 是一个充满趣味的反语或讽刺词，通常用来指那些通过发布轻松幽默或有共鸣的内容而在社交媒体上快速走红的内容创作者。这个词也可以用来形容那些在网上或社交媒体上表现出过度自信或自大特质的人。
+换句话说，brookie 就是那些在社交媒体上迅速走红，以其幽默或共鸣的内容吸引大量关注者的人。有时这个标签带有一定的讽刺意味，暗示这些人可能并未真正拥有所宣称的水平或质量。
 ```

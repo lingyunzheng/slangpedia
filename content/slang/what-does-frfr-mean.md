@@ -1,44 +1,45 @@
 ---
 title: "What Does 'frfr' Mean? (frfr 是什么意思？)"
 slug: "what-does-frfr-mean"
-date: 2025-11-25
+date: 2025-11-26
 tags:
 - slang
 - internet
 - tiktok
 ---
-Sure, here are some French slang terms with their explanations in markdown format:
+Sure, here are some French slang explanations in a markdown format:
 ```markdown
-## French Slang
-### 1. **La merde**
-- **English:** Sh*t
-- **Explanation:** A colloquial term used to express frustration or to describe something bad or unpleasant. It can be used in a variety of contexts, ranging from "the toilet" (le bidet) to a more general statement of dissatisfaction.
-### 2. **בן**
-- **English:** (Not a common slang term, see below)
-- **Explanation:** This actually appears to be a typo in the context. If you meant "putain," it would be a vulgar term meaning "whore" or used as a general expletive, similar to "damn" or "hell" in English. If you meant "ben," it might be a misspelling of "bien," which means "good."
-### 3. **Chelou**
-- **English:** Weird, Strange
-- **Explanation:** Used to describe something or someone that is unusual, peculiar, or odd. For example, "C'est chelou comment il danse." (It's weird how he dances.)
-### 4. **Marrant(marre)**
-- **English:** Boring, Tiring
-- **Explanation:** While "marrant" more commonly means "fun" or "enjoyable," "marre" means "tired" or "fed up." For example, "J'en suis marre." (I'm tired of it.) The slang form "marre" is more informal and can also be used to express frustration.
-### 5. **Du con**
-- **English:** (A term of contempt)
-- **Explanation:** A vulgar term meaning "moron" or "idiot," used to express strong dislike or disgust. For example, "Tu es du con!" (You're an idiot!)
-### 6. **Gros(s)**
-- **English:** Big, Fat
-- **Explanation:** This word can be used positively to emphasize the size or importance of something or can be insultingly referring to someone's body. It can be used affectionately or derogatorily. For example, "C'est un gros poisson." (He's a big fish.)
-### 7. **Pute**
-- **English:** Prostitute
-- **Explanation:** A very vulgar term referring to a prostitute. It's quite harsh and can be offensive. For example, "La pute." (The prostitute.)
-### 8. **Pote**
-- **English:** Buddy, Pal
-- **Explanation:** A term used to refer to a close friend or buddy. For example, "Mon pote." (My buddy.)
-### 9. **Cruche**
-- **English:** Dumb
-- **Explanation:** Informal term for someone who is considered unintelligent, often with a playful or teasing tone. For example, "C'est une cruche." (She's a dumb girl.)
-### 10. **Gigolo**
-- **English:** Gigolo
-- **Explanation:** A term referring to a man who engages in sexual relationships for money. It can also be used more broadly to describe someone who is overly eager to please others for their own benefit. For example, "C'est un vrai gigolo." (He's a real gigolo.)
+# French Slang Explanations
+## FRFR
+### 1. **Arrette là**
+- **Definition:** Stop there / Cut it out
+- **Explanation:** Used to tell someone to stop what they are saying or doing. It's a way of saying "enough" or "enough already."
+### 2. **C'est le nerf de la guerre**
+- **Definition:** That's the backbone of the war / That's the key
+- **Explanation:** Used to emphasize something is crucial or vital. It suggests that without this element, the entire effort or situation would fall apart.
+### 3. **Fiche-moi la paix**
+- **Definition:** Get the f*** out of my peace / Leave me alone
+- **Explanation:** A direct and informal way of asking someone to stop bothering you. It can also be used to tell someone to leave you alone.
+### 4. **Vas-y-poulet**
+- **Definition:** Go-on-chicken / Come on
+- **Explanation:** An encouraging phrase often used to get someone to do something or to motivate them. It's similar to "Come on" in English.
+### 5. **C'est dur comme oeuf**
+- **Definition:** It's as hard as a rock
+- **Explanation:** Used to describe something that is very hard or difficult. It’s a colloquial way of saying something is tough.
+### 6. **Zut**
+- **Definition:** Blimey / Oh no
+- **Explanation:** An exclamation used to express frustration, disappointment, or an error. It's similar to "Oh God" or "Shoot" in English.
+### 7. **Chou blanc**
+- **Definition:** White cabbage / I don't know
+- **Explanation:** This phrase is used as a sarcastic answer to show that you have no idea about something. It’s often used humorously or in a joking manner.
+### 8. **T'es chouette**
+- **Definition:** You're cool
+- **Explanation:** A nice way to compliment someone or to express that you like them. It can be used with friends or in casual settings.
+### 9. **C'est pas grave**
+- **Definition:** It's not a big deal
+- **Explanation:** Used to downplay a situation or an issue, suggesting it's not important or there's no need to worry about it.
+### 10. **Fous-moi le camp**
+- **Definition:** Get the hell away from me
+- **Explanation:** A very blunt way of telling someone to leave you alone or to go away. It’s stronger and more emphatic than "Fiche-moi la paix."
 ```
-If you meant something else for " benz," please clarify so I can provide the correct slang term and explanation!
+This markdown format allows you to easily read and understand the French slang and their explanations.

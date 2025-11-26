@@ -1,20 +1,16 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2025-11-25
+date: 2025-11-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Sigma Slang Definitions
-## English
-**Sigma**: 
-- **Definition**: Often used in a context of economics or finance, "sigma" is slang for a high-risk, high-reward investment strategy. It can also refer to something that is extremely risky or unpredictable.
-- **Example**: "He's spending his entire savings on this new tech startup, that's sigma-level risk!"
-## 中文
-**sigma**:
-- **定义**：通常用于经济或金融语境中，"sigma"指代一种高风险高回报的投资策略。也可以指非常具有风险性或不可预测的事物。
-- **例句**："他把所有的积蓄都用来投资这家新的科技创业公司，那可是sigma级别的风险！"
+## Sigma (σ)
+#### English
+**Sigma**: In statistics, sigma (σ) often represents the standard deviation. However, in the world of slang, particularly in online gaming forums and tech communities, sigma can refer to a very skilled or strategies masterful player. A sigma player is one who can consistently perform at a very high level, often making unconventional but effective plays.
+#### 中文
+**西格玛 (Sigma)**：在统计学中，西格玛（σ）通常代表标准差。而在网络游戏论坛和技术社区的口头禅中，“sigma”则指代一位非常熟练或策略高超的玩家。一个sigma玩家能够稳定地发挥出非常高超的水平，常常做出非常规但有效的操作。
 ```

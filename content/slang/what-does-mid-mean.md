@@ -1,24 +1,31 @@
 ---
 title: "What Does 'mid' Mean? (mid 是什么意思？)"
 slug: "what-does-mid-mean"
-date: 2025-11-25
+date: 2025-11-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## mid
-### English
-- **Meaning**: In gaming contexts, "mid" typically refers to a specific part of a game map or arena where players engage in combat. It can also be used to describe a player who operates in this zone.
-### Simplified Explanation:
-"Mid" is an abbreviation for "middle" and is used in games to describe the central area of a map. If a player is described as "mid," they're active in the middle part of the game area.
-### Example:
-- "The enemy played mid, so we had to stay on guard for a long battle."
-### Chinese
-- **意思**: 在游戏领域中，“mid”通常指的是游戏地图或竞技场中特定的战斗区域。它也可以用来描述操作该区域的玩家。
-### 简化说明：
-“mid”是“middle”的缩写，用来描述游戏中地图的中间部分。如果有人说某人“mid”，那就意味着他们在游戏中间区域活跃或战斗。
-### 示例：
-- “敌人选择mid，所以我们一直得保持警惕，防止长时间的战斗。”
+# 中文解释: mid
+## 中文俗语
+1. **mid**: 中
+- **解释**: 在某个中间的位置或状态。在网络用语中，常常用于描述某件事情进行到中间阶段的情况。
+2. **mid游戏**: 中盘
+- **解释**: 游戏进行了一定的时间，但尚未结束。强调的是游戏已经发展到了中期阶段。
+3. **mid策略**: 中期策略
+- **解释**: 指的是在某一领域或游戏中，为了达成目标而采取的中期行动、计划或策略。
+4. **mid选手**: 中单选手
+- **解释**: 在电子竞技中，尤其是《英雄联盟》等MOBA游戏中，中单是指负责中路对线的玩家角色。这里“mid”表述的是位置属性。
+# 英文解释: mid
+## English Slang
+1. **mid**: mid
+- **Explanation**: Somewhere in the middle or a state of being halfway through. In internet slang, it often describes a stage where something is ongoing.
+2. **mid game**: mid-game
+- **Explanation**: The time in a game has passed but the game is not yet finished. It emphasizes that the game has progressed to an intermediate stage.
+3. **mid strategy**: mid-term strategy
+- **Explanation**: Refers to actions, plans, or strategies implemented during the middle phase to achieve a goal.
+4. **mid player**: mid-lane player
+- **Explanation**: In esports, particularly in MOBA games like "League of Legends," a mid-lane player is responsible for the middle lane. Here "mid" identifies the positional role of the player.
 ```

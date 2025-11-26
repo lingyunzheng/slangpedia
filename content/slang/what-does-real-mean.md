@@ -1,26 +1,34 @@
 ---
 title: "What Does 'real' Mean? (real 是什么意思？)"
 slug: "what-does-real-mean"
-date: 2025-11-25
+date: 2025-11-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## "Real" (正式 / 口语)
-### 中文释义
-- 真实的，实际的
-- 实际发生的事情，真正的事情
-- 抱怨或不满的实际原因
-### 英语释义
-- Genuine or actual
-- Something that truly happened or is true
-- The actual reason for complaints or dissatisfaction
-### 搭配用法
-- "That was real good of you to help me!" (你真的很棒，帮我了！)
-- "I need to tell you the real reason I'm late." (我需要告诉你我迟到的真正原因。)
-- "She's really real when it comes to dealing with problems. Don't mess with her." (她处理问题非常严肃，不要惹她。)
-### 背景用法
-用来强调某事的真实性或严重性，或者表达对某事的真实感受。
+# Real (EN/CH)
+**EN**: Authentic, genuine. Used to describe something or someone that is sincere and true, not fake or artificial.
+**CH**: 真实的，真心的。用来形容某物或某人是真诚和真实的，而不是虚伪或做作的。
+> Example in a sentence:
+> 
+> **EN**: That new smartphone is real; it has all the latest features.
+> 
+> **CH**: 这款新智能手机很real，它包含了所有最新的功能。
+**EN**: Cool, awesome. Emphasizes something that is extremely cool or impressive.
+**CH**: 真酷，真牛逼。强调某事物极其酷炫或令人印象深刻。
+> Example in a sentence:
+> 
+> **EN**: This party was real lit last night!
+> 
+> **CH**: 这场派对昨晚真燃！
+**EN**: Honestly, truly. Used to stress the truthfulness of something.
+**CH**: 真实地说，真心的意思。用来强调某事的真实性。
+> Example in a sentence:
+> 
+> **EN**: Real talk, this job isn't for everyone.
+> 
+> **CH**: 真实地说，这份工作不是适合每个人。
 ```
+This markdown format provides a clear and concise explanation of how the term "real" is used and understood in both English and Chinese, along with context through example sentences.
