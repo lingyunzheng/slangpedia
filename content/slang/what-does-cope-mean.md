@@ -1,15 +1,22 @@
 ---
 title: "What Does 'cope' Mean? (cope 是什么意思？)"
 slug: "what-does-cope-mean"
-date: 2025-11-26
+date: 2025-11-27
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-##cope##
-- **English**: Coping is the act of managing or dealing with a difficult situation. It often involves strategies to handle stress or adversity in a way that is effective and helps maintain mental health.
-- **Simplified Chinese**: “难熬” (nán áo) /“应对” (yìng dài) - 当面对困难或压力时所采取的处理方式。这通常包括一些有效的应对策略，有助于维护心理健康。
-- **Explanation**: 当你经历压力大的时刻，比如作业到期临近、朋友间发生了争执，你或许会被逼采取各种各样的方法来应对这些情况。这些方法中包括呼吸放松法、到户外散步，或与朋友倾诉等。这些都属于“cope”的范畴。简而言之，“cope” 就是“应对困难”的艺术。
+# Slang Term: Cope 🏋️‍♂️💪
+## English
+**Meaning:** To deal with or manage a difficult situation. It involves enduring, surviving, or finding methods to adjust to challenging circumstances. Often used when someone is trying to handle stress, problems, or a stressful period in their life.
+## Chinese (简体中文)
+**含义:** 指处理或应对艰难情况。涉及忍受、生存，或是找到适应困难环境的方法。通常用于描述某人在面对压力、问题或生活中的困难时期时，如何努力应对和解决。
+### Example Usage:
+- **English:** She's really learning to cope with her new job's demanding schedule.
+- **中文:** 她正在学习如何应对新工作中紧张的日程安排。
+### Another Example:
+- **English:** I've got some hard news to tell. I just need to figure out how to cope.
+- **中文:** 我有些难过的消息要告诉你。我需要先想想怎么应对。
 ```

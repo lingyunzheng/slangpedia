@@ -1,17 +1,17 @@
 ---
 title: "What Does 'salty' Mean? (salty 是什么意思？)"
 slug: "what-does-salty-mean"
-date: 2025-11-26
+date: 2025-11-27
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Salted (咸的)
-### English Explanation
-- **Salty**: This term, often used in digital contexts, describes someone who is feeling resentful, bitter, or annoyed—usually as a response to perceived unfairness or injustice. It comes from the idea of having a literal "salty" or sour taste in one's mouth due to their feelings.
-### Chinese Explanation
-- **咸的 (xián de)**: 这个词常用于网络和数字语境中，用来形容因感受到不公或受到伤害而感到怨恨、苦涩或愤怒的人。这个短语源自一种比喻，就像嘴里尝到了真正的“咸”或苦味一样，表达人们内心的负面情绪。
+## Salty
+### English
+"Salty" is a term used to describe someone who is feeling bitter, resentful, or annoyed, especially about a perceived unfair treatment or disappointment. It can refer to someone who reacts negatively due to feeling inferior or unsatisfied.
+### Chinese
+“咸鱼”（salty fish）用来形容一个人感到愤懑、不满或因感觉受到不公平对待而产生怨恨的情绪，尤其在面对失望时。这个词常用来形容那些因为觉得自己不如别人或不满足现状而负面反应强烈的人。
 ```
-This explanation provides a clear and understandable context for both the origin of the word and how it's used in a digital context.
+This markdown format provides a simple and clear explanation of the slang term “salty” and its Chinese equivalent.

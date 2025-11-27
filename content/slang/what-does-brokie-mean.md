@@ -1,17 +1,23 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2025-11-26
+date: 2025-11-27
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Brokie
-## English Explanation
-"Brookie" is a playful and sometimes sarcastic term, typically used to refer to a social media influencer who has gained popularity through their content, often relying on humorous or relatable posts that resonate with a specific audience. It can also be used to describe someone who is overly confident or self-assured, often to an annoying degree, in their online presence or social media skills.
-## Chinese Explanation
-"Brookie" 是一个充满趣味的反语或讽刺词，通常用来指那些通过发布轻松幽默或有共鸣的内容而在社交媒体上快速走红的内容创作者。这个词也可以用来形容那些在网上或社交媒体上表现出过度自信或自大特质的人。
-换句话说，brookie 就是那些在社交媒体上迅速走红，以其幽默或共鸣的内容吸引大量关注者的人。有时这个标签带有一定的讽刺意味，暗示这些人可能并未真正拥有所宣称的水平或质量。
+# Brokie (俚语解释)
+## 英文
+**Brokie** - A derogatory term often used to describe a man who displays behavior perceived as overly feminine, sissified, or effeminate. It is commonly used in a dismissive or mocking way.
+### Example Usage:
+1. "Why is he acting so brokie? He's wearing pink jeans and using a lot of makeup!"
+2. "You can't trust him, he's such a brokie, he'll just cry at the first sign of trouble."
+## 中文
+**Brokie** - 一个贬义词，用来形容一个表现出被感知为过于女性化、娘娘气或异性的男性。它通常以贬损或嘲弄的方式使用。
+### 例句：
+1. "他怎么学女人的样穿粉裤子涂浓妆，好不正经？他是 brokie，遇到一点点麻烦就哭鼻子了，怎么还能相信他。"
+2. "他真 brokie，一遇到事情就掉眼泪，这种人靠不住。"
 ```
+This markdown structure provides definitions and examples for both English and Chinese slang terms, making it easy to understand and reference.

@@ -1,18 +1,18 @@
 ---
 title: "What Does 'cap' Mean? (cap 是什么意思？)"
 slug: "what-does-cap-mean"
-date: 2025-11-26
+date: 2025-11-27
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Cap (英语: Cap)
-**English:** A slang term often used to denote the act of showing disapproval, stopping someone, or rejecting an idea. It can also be used as a shortened form of "leader" or "narcotter" in certain contexts.
-**汉语:** 一个俚语表达方式，常用来表示不赞成、打断某人或拒绝某个建议。它还可能在某些情境下简略指代“领导者”或“上瘾者”。
----
-**Example Usage:**
-- **English:** "Hey, I think you're wrong on this one, man. Cap it."
-- **汉语:** "嘿，我觉得你在这点上错了，截止吧。"
+# Cap (Slang)
+## English
+- **Definition:** A slang term used to denote an action of slightly exaggerating or overreacting, often to a humorous or ironic effect.
+- **Example Usage:** "He totally caped when he found out he forgot his favorite shirt for the reunion."
+## 中文
+- **定义：** 表示轻微夸大或过度反应的俚语，通常带有幽默或讽刺的效果。
+- **例句：** “当他发现自己忘了带最喜欢的衬衫去团聚时，他完全夸大其词了。”
 ```

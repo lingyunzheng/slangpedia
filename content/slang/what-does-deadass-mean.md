@@ -1,14 +1,20 @@
 ---
 title: "What Does 'deadass' Mean? (deadass 是什么意思？)"
 slug: "what-does-deadass-mean"
-date: 2025-11-26
+date: 2025-11-27
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Deadass
-**English:** Deadass is a slang term commonly used to describe something that is thoroughly, completely, or overwhelmingly something specific. It often conveys an emphasis that something is as it is described, without any ambiguity.
-**中文:** Deadass 是一种俚语，常用来形容某物完全、彻底或极度符合某种特定描述。这个词通常用来强调某物确实如此，没有任何含糊之处。
+# deadass
+**English**: Really bad or terrible; can also mean very accurate or to the point, often used ironically.
+**Chinese ( Translation )**: 真差劲 或者非常精准，常用来表示讽刺的意思。
+**Example Usage**:
+- English: "This game is deadass boring."
+- Chinese: 这个游戏真的超级无聊。
+- English: "Your explanation was deadass on the money."
+- Chinese: 你的解释特别准确。
 ```
+This term can be used positively in contexts where the ironic tone suggests that while something is indeed bad, it's also the only bad thing that could be, e.g., a bed that's the worst in the world but somehow provides comfort.

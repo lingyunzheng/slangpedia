@@ -1,27 +1,18 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2025-11-26
+date: 2025-11-27
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Ratio (英语)
-## Explanation
-### 中文含义
-ratioduì
-**定义：**
-1. 比值：用来形容两个数值之间的对比。如果某人说“A和B的比例是3:1”，意味着A的数量或价值是B的三倍。
-2. 轻浮或游戏心态：特别是在社交媒体和互联网上，形容那些以挑衅、争论或制造话题来获取流量和关注度的人。例如，有人可能会说“这只是个ratio游戏，不要认真看待它”。
-### 英语含义
-1. Ratio (a comparison of one thing to another): when someone mentions "The ratio of A to B is 3:1", it means A's quantity or value is three times as much as B's.
-2. Ratio game: This refers to a mindset or behavior in social media and the internet where people provoke, debate, or create controversies just to get more views and attention. For example, someone might say "It's just a ratio game, don't take it seriously."
-## Usage Examples
-### 中文示例
-他在那条推特底下的回复全都是ratio，完全不关心内容本身。
-He was just ratioing in the comments under that tweet, completely ignoring the content itself.
-### 英语示例
-She only cared about getting likes and comments, which was just ratio gaming to her.
+## Ratio
+### English
+**Meaning:** Ratio is commonly used as a slang term to describe a situation where someone or something is put on blast or criticized harshly, often through social media or public forums. The concept often involves comparing bad aspects or criticizing someone's actions or choices, leading to a kind of "score" or "measurement" of that negativity.
+**Example:** "After he posted that offensive tweet, he's been getting a lot of ratio from people who are upset."
+### 中文
+**含义:** "Ratio" 是一种俚语表达，通常用来形容某人或某事遭到猛烈批评或抨击，这种批评往往通过社交媒体或公共讨论平台进行。这种批评涉及将负面方面或某人的行为、选择进行比较，从而产生一种“度量”或“评价”这种负面评价的程度。
+**示例:** “在发布了那条令人不悦的推文后，他已经遭受了许多来自不满人群的猛烈批评。”
 ```

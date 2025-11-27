@@ -1,7 +1,7 @@
 ---
 title: "What Does 'skibidi' Mean? (skibidi 是什么意思？)"
 slug: "what-does-skibidi-mean"
-date: 2025-11-26
+date: 2025-11-27
 tags:
 - slang
 - internet
@@ -10,7 +10,7 @@ tags:
 ```markdown
 ## Skibidi
 **English:**  
-"Skibidi" is a playful and often nonsensical term that can be used to express excitement, satisfaction, or to draw attention to something. It's often used as a filler word or to create a sense of levity and fun, similar to saying "yo" or "hey" in casual conversation.
+"Skibidi" is a playful and informal term often used in social contexts to indicate excitement, approval, or to simply add a jovial tone to a conversation. It can be thought of as a casual way to express enthusiasm, similar to saying "awesome," "cool," or "amazing."
 **Chinese:**  
-"Skibidi" 是一个充满趣味且常常毫无意义的术语，用于表达兴奋、满足感，或者吸引别人注意。它经常用作占位词，创造轻松愉快的氛围，类似于日常对话中说“嘿”或“喂”时的感觉。
+"Skibidi" 是一个充满趣味和非正式的术语，往往用于社交场合以表达兴奋、赞同，或者仅仅是为了给谈话增添欢快的气氛。可以说，它是一种休闲的方式来表达热情，类似于说“很棒”、“酷”或“超赞”。
 ```
