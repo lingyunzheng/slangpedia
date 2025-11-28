@@ -1,16 +1,23 @@
 ---
 title: "What Does 'girlboss' Mean? (girlboss 是什么意思？)"
 slug: "what-does-girlboss-mean"
-date: 2025-11-27
+date: 2025-11-28
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Girlboss
-## English
-**Girlboss**: This term originated from the American-Australian author and entrepreneur N茫ra McCarthy's book and the subsequent television series. It is used to describe a confident and independent woman who is in charge of her own business or career. This can include anyone from a small-scale entrepreneur to a high-profile business leader. A girlboss is not afraid to take risks, lead her own path, and contribute to her community.
-## Spanish
-**Boysofía**: Este término surgió de la escritora y empresaria estadounidense-australiana N茫ra McCarthy y su libro, seguido por una serie de televisi贸n. Se utiliza para describir una mujer confiada e independiente que está en el control de su propio negocio o carrera. Esto puede abarcar desde un emprendedor de escala pequeña hasta una líder empresarial de alto perfil. Una girlboss no teme a tomar riesgos, liderar su propio camino y contribuir a su comunidad.
+# Girlboss (英语)
+## 汉语解释
+- **女孩老板**: 指的是具有强大领导力和商业头脑的女性企业家。这个词常用来形容那些自信、独立并且在职场上表现优秀的女性。
+## 示例用法
+- 这位女企业家完全称得上是“ girlboss”，她能独立决策并在商业世界里大放异彩。
+- 我们的客户今天遇到了一位真正的“girlboss”，她的专业知识和领导能力令人印象深刻。
+# Girlboss (汉语)
+## 英语解释
+- **Girlboss**: Refers to a powerful and business-savvy female entrepreneur. This term is often used to describe women who are confident, independent, and excel in their professional lives.
+## Example Usage
+- This female entrepreneur is a true "girlboss", she makes important decisions and shines in the business world.
+- Today our client met a real "girlboss", her professional knowledge and leadership skills were impressive.
 ```

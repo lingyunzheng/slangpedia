@@ -1,18 +1,19 @@
 ---
 title: "What Does 'slaps' Mean? (slaps 是什么意思？)"
 slug: "what-does-slaps-mean"
-date: 2025-11-27
+date: 2025-11-28
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Term: Slaps
-## English
-**Definition:** A forceful tap or hit on someone's face or body, often used as a gesture of contempt, playful affection, or as a correction.
-**Example Usage:** "The football coach slaps the player who made a mistake to get him focused."
-## Chinese
-**定义:** 对人脸部或其他部位进行有力的拍打，常常用来表达鄙视、开玩笑的亲近或作为纠正。
-**例句:** "教练对犯错的球员用力拍了拍，以让他集中注意力。"
+## Slaps
+**English Slang Explanation:**
+"Slaps" can be used in a few different ways in informal English. It can refer to a quick, sharp strike with the hand, often for emphasis or to express disapproval. In some contexts, it can also mean giving someone a compliment or showing off.
+**Chinese 花式解释:**
+"Slaps" 这个词在非正式场合有几种特殊的用法。它可以指用手快速而有力地拍打某人，通常是为了强调或表示不满。在某些情况下，它也可以表示向某人抛出一个赞许或炫技。
+**Example Usage:**
+- English: "You did a great job, slaps!" -> 你做得很好，slaps！
+- Chinese 节奏：你做得很好，slaps！
 ```

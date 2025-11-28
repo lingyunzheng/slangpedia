@@ -1,16 +1,16 @@
 ---
 title: "What Does 'out of pocket' Mean? (out of pocket 是什么意思？)"
 slug: "what-does-out-of-pocket-mean"
-date: 2025-11-27
+date: 2025-11-28
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Out of Pocket
-- **英语**: out of pocket
-- **中文**: 花了自己钱的
-### 解释：
-- **英语**: When you say something is "out of pocket," it means you've spent your own money on it, often used in terms of expenses or costs that you personally had to cover.
-- **中文**: "花自己钱的" 表示你花了个人的钱。通常用于描述你需要自行承担的费用或开销。例如，如果你的朋友请客吃饭，但你主动提出买单，这就可以说是你 "出自己口袋的钱"。
+## Out of Pocket (Both English & Chinese)
+### English
+**Out of Pocket:** When you have to pay for something yourself, often because it exceeds your insurance coverage or a company's budget. It's like when you have to cover the cost with your own money.
+### Chinese
+**出-of-pocket (Chū-bu-pōtti)**: 当你自己必须自己支付某项费用时，通常是由于保险覆盖范围之外或公司预算不足。这就像你不得不自己掏钱支付的时候。
+```

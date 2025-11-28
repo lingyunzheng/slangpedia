@@ -1,22 +1,34 @@
 ---
 title: "What Does 'lore' Mean? (lore 是什么意思？)"
 slug: "what-does-lore-mean"
-date: 2025-11-27
+date: 2025-11-28
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Lore (n.)
-## English
-- **Meaning:**  
-Lore refers to the traditional knowledge, stories, or legends passed down within a community, often steeped in history or cultural significance.
-- **Slang Explanation:**
-When you're rapping about your background, neighborhood, or the cool stories you've heard that make you unique, that's lore. It's like boasting about the rich history or urban legends that define you.
-## Chinese
-- **含义:**  
-"lore" 指的是在一个社群中世代相传的传统知识、故事或传说，往往蕴含着历史或文化的重要性。
-- **俚语解释:**
-当你在说你的背景、社区的故事，或者那些让你独特的有趣传说时，这就是lore。这是在炫耀你身上所带有的丰富历史或街头传说。
+## Lore (英) / 谚语/典故 (中)
+### English
+- **Lore**: Colloquial term referring to traditional knowledge, beliefs, or history passed down through generations. It can also describe accumulated wisdom or expertise in a particular field.
+### Chinese
+- **谚语/典故**: 形容祖上传下来的知识、信仰或历史，也可以指某一特定领域里积累起来的智慧或专业知识。
+```
+### Example Usage
+- **English**: "He has a wealth of lore about ancient civilizations."
+- **Chinese**: "他对古代文明有着丰富的知识和见解。"
+### Additional Note
+- **Lore** can also be used to describe computer jargon or gaming knowledge passed down through communities. It might be used as "lore" in this context.
+- **谚语/典故** can be used in both traditional and contemporary contexts to describe sayings or stories that carry cultural or historical significance.
+```markdown
+## Lore (英) / 谰言/谎言 (中)
+### English
+- **Lore**: In slang, it can ironically refer to a tall tale or exaggeration.
+### Chinese
+- **谚语/谎言**: 形容夸张的故事或者谎言。
+### Example Usage
+- **English**: "His story of surviving the Bermuda Triangle is just lore, not to be trusted."
+- **Chinese**: "他关于在百慕大三角区幸存的故事只是一个夸张的传说，不可信。”
+### Additional Note
+In Japanese, a similar term might be used: `怪聞 (kawami)` or `伝説 (densetsu)`, depending on the context.
 ```

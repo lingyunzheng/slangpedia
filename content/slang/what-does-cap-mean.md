@@ -1,18 +1,25 @@
 ---
 title: "What Does 'cap' Mean? (cap 是什么意思？)"
 slug: "what-does-cap-mean"
-date: 2025-11-27
+date: 2025-11-28
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Cap (Slang)
-## English
-- **Definition:** A slang term used to denote an action of slightly exaggerating or overreacting, often to a humorous or ironic effect.
-- **Example Usage:** "He totally caped when he found out he forgot his favorite shirt for the reunion."
-## 中文
-- **定义：** 表示轻微夸大或过度反应的俚语，通常带有幽默或讽刺的效果。
-- **例句：** “当他发现自己忘了带最喜欢的衬衫去团聚时，他完全夸大其词了。”
+### Cap
+**English:**  
+- **Definition:** To limit or restrict someone or something.  
+- **Example Usage:** "I tried to talk about it, but he just capped me off by changing the subject."
+**Chinese (简体字):**  
+- **定义:** 限制或阻止某人或某事。  
+- **例句:** "我试着谈论这件事，但他通过改变话题直接阻止了我。"
+**English:**  
+- **Definition:** To be very impressed or amazed by something.  
+- **Example Usage:** "When she saw the new house, she was totally capped."
+**Chinese (简体字):**  
+- **定义:** 对某事感到非常印象深刻或惊讶。  
+- **例句:** 她看到那栋新房子后，感到非常惊讶。
 ```
+This markdown format provides clear bilingual explanations for the slang term "cap."

@@ -1,18 +1,21 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2025-11-27
+date: 2025-11-28
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Ratio
-### English
-**Meaning:** Ratio is commonly used as a slang term to describe a situation where someone or something is put on blast or criticized harshly, often through social media or public forums. The concept often involves comparing bad aspects or criticizing someone's actions or choices, leading to a kind of "score" or "measurement" of that negativity.
-**Example:** "After he posted that offensive tweet, he's been getting a lot of ratio from people who are upset."
-### 中文
-**含义:** "Ratio" 是一种俚语表达，通常用来形容某人或某事遭到猛烈批评或抨击，这种批评往往通过社交媒体或公共讨论平台进行。这种批评涉及将负面方面或某人的行为、选择进行比较，从而产生一种“度量”或“评价”这种负面评价的程度。
-**示例:** “在发布了那条令人不悦的推文后，他已经遭受了许多来自不满人群的猛烈批评。”
+## Ratio (普通话：比拼；英语：ratio)
+**中文释义：**
+- **比拼：** 比较谁更优秀或更成功，尤其是在社会地位、财力、成就等方面。这往往是一种展示和较量，而非实际的对抗或竞争。
+- **烧 ratio：** 打破常规，做一件出人意料或者令人震撼的事情，以此来赢得他人尊重或认可。这个词常用于网络和社交媒体环境，强调一种挑战常规的精神。
+**英文释义：**
+- **ratio：** A comparison of two quantities, often expressed as a fraction or a percentage. In everyday slang, particularly in social and online contexts, "ratio" is used to refer to a display or comparison of who or what is better or more impressive, often related to status, wealth, or achievements.
+- **Burn ratio：** To do something shocking or unexpected to gain respect or acknowledgment from others. This phrase is commonly used in online and social media environments, highlighting an unconventional or challenging attitude.
+使用示例：
+- 他最近发了一些烧 ratio 的帖子，自驾车去极地探险。
+- In her latest post, she burned ratio by driving to the poles in a self-made vehicle.
 ```
