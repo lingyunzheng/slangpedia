@@ -1,23 +1,17 @@
 ---
 title: "What Does 'cooked' Mean? (cooked 是什么意思？)"
 slug: "what-does-cooked-mean"
-date: 2025-11-28
+date: 2025-11-29
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English: Cooked
-### Meaning
-- **Cooked**: In informal English, this slang term can mean that something or someone is in a difficult, alarming, or dangerous situation. It's often used to express that a person is in trouble or has made a mess of a situation.
-### Chinese: 烤糊了 (Kǎo hú liǎo)
-- **意思**: 类似地表达某人或某事处于一个困难、令人不安或危险的情况中，通常用来表明某个人陷入困境或把事情搞砸了。
-- **例句**: "他投资的公司搞砸了，现在真是烤糊了。" (Tā tنص投资 de gōngsī gǎo zɑ，zài jiɑn zhēn kǎo hú liǎo.) - Translation: "His investment company messed up, now really cooked."
-## English: Cooked
-### Meaning
-- **Cooked**: In the context of drugs, this slang refers to drug deals or preparations that are set up or arranged.
-### Chinese: 交易（交易被安排好啦） ( jiàyì (jiàyì bèi āihuì le))
-- **意思**: 表示一个毒品交易或者准备已经被安排好了，可能指的是幕后操纵或是策划好的交易。
-- **例句**: "那个毒品交易看起来很 genuine，但其实已经被 cook 了。" (Nà ge dǔpín jiàyì kàn qǐlái hěn zhēnqián，dàn qíshí yǐjīng bèi le.) - Translation: "That drugs deal looks genuine, but it was actually cooked."
+## 英文解释：Cooked
+- **Meaning:** Literally means "cooked" but in slang, it can mean something that is "done for" or "set up." For example, if you're "cooked" for something like a prank or trap, it means you're helpless or in a bad situation.
+- **Example Sentence:** "I'm fully cooked for that prank, I should have seen it coming."
+## 翻译解释：煮熟的
+- **意思:** 这个词在俚语中通常并不是指食物被煮熟了，而是指人处在一个“被套牢的”或者“被安排好的”境地。例如，如果你“煮熟了”某个把戏或陷阱，说明你处于一个无力反抗或者不利的局面。
+- **例句:** “这个恶作剧我已经‘煮熟了’，我本应该早点看出来的。”
 ```

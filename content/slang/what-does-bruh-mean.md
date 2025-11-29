@@ -1,16 +1,22 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2025-11-28
+date: 2025-11-29
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Bruh
-**English Explanation:**
-"Bruh" is a commonly used slang term, often employed as a party qualifier or interjection. It is used to express a range of emotions from agreement and understanding to confusion, surprise, or disbelief. The term is widely popular in informal conversations among friends and is also found in social media and online forums.
-**Chinese Explanation:**
-"Brüh" 是一种常用的俚语，通常用作党欢或感叹词。它可以用来表达从认同、理解到困惑、惊讶或难以置信的一系列情绪。该词在朋友间的非正式对话中非常流行，并且也可以在社交媒体和在线论坛中找到。
+### Bruh (American English)
+**Definition:** A versatile interjection used to express a range of emotions such as surprise, agreement, disagreement, or to simply add emphasis. Often used among friends or in casual conversations.
+**Example:** "That movie was rough, buhhhhh!"
+- Translation to Simplified Chinese: 纳尼（表示惊讶、同意、不同意或仅为加强语气）
+**Simplified Chinese Usage:** "这部电影真棒，暴君（bu5 jun1 – rough version of "bruh"）！"
+```
+### Bruh (Asian Internet)
+**Definition:** Though originally an American English slang term, "bruh" has been adopted by the Asian internet communities, retaining its essence but often used in online contexts with additional nuance. It is commonly used in online forums, social media, and gaming groups to express similar emotions to its American counterpart.
+**Example:** "Bruh, I can't believe she did that!"
+- Translation to Traditional Chinese: 喂，我完全唔相信佢會做呢件事！
+**Traditional Chinese Usage:** "Bruh, I can't believe she did that!" - "喂，我完全唔相信佢會做呢件事！"
 ```

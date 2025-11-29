@@ -1,28 +1,19 @@
 ---
 title: "What Does 'troll' Mean? (troll 是什么意思？)"
 slug: "what-does-troll-mean"
-date: 2025-11-28
+date: 2025-11-29
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Troll (Chinese: 老婆/pass：呛声)
-**English**: Troll  
-**Chinese**: 老婆, pass: �angling (呛声)
-## Explanation
+## Troll
 ### English
-In English, "troll" is often used as a noun to describe a person who posts inflammatory, offensive, or irrelevant comments on the internet with the intention of provoking other users. Alternatively, it can refer to a type of online behavior characterized by cynicism, hostility, and a general desire to disrupt online communities.
-### Chinese
-The term "老婆" (lǎo pó) is an informal English slang used in Chinese online communities, but it is generally considered crude and is not recommended for everyday use. Pass: "angling (呛声)" is a more polite term that is commonly used in place of "老婆". "Angling" in this context refers to someone who deliberately provokes others to provoke a reaction, often in online discussions.
-## Example Usage
-### English
-- Example: She's such a troll; she just talks to stir up trouble.
-- Translation: 她就是个撩人的, 就是喜欢搅局。
-### Chinese
-- Example: 他就是个呛声的，故意激惹别人。
-- Translation: He is just an angler; he intentionally provokes others.
-## Note
-The term "troll" can be quite negative and is best avoided in professional or formal settings. If you need to refer to such behavior, it is more polite to use "故意挑衅" (gùzhōng tèxiào) or "故意起哄" (gùzhōng qǐhòng), which convey the same idea without the crude connotation.
+**Definition:** A person who posts inflammatory, irrelevant, or off-topic messages in an online discussion forum with the intent of provoking emotional responses or disrupting normal discourse.
+**Example Use:** "I didn't expect to be trolled by some anonymous commenter on my blog post."
+### 翻译
+**定义：** 在在线讨论论坛中发布煽动性、无关或偏离主题的评论，目的是引起激烈情绪反应或扰乱正常讨论的人。
+**例句：** "我在博客文章下面没有想到会有匿名评论者恶意捣乱。"
 ```
+This markdown format provides a clear and concise definition for both the English and the simplified Chinese meanings of the term "troll."

@@ -1,18 +1,23 @@
 ---
 title: "What Does 'spill the tea' Mean? (spill the tea 是什么意思？)"
 slug: "what-does-spill-the-tea-mean"
-date: 2025-11-28
+date: 2025-11-29
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Spill the Tea (英語: Spill the Tea)
-- **Meaning (意義):** 在networks和社交媒体上分享关于某人的有争议或敏感的私人信息。
-- **Usage Example (使用範例):** "She was really nervous because everyone at the party was going to spill the tea about her new relationship."
-- **对等的网络流行语 (等效的网络流行语):** "放猛料" (fàng měng liào)
-- **解释 (Explanation):** 意指在网络上公布一些关于某人的敏感信息或秘密。
-- **用法示例 (Usage Example):** "自从她发了一张照片，朋友圈就开始放猛料，大家都在猜她到底去了哪里。"
+## Spill the Tea
+**English:** To share gossip or confidential information, often in a drama-filled or scandalous manner.
+- *Example:* "She just had to spill the tea about the new boss's personal life, didn't she?"
+**Chinese:** 乱说话 (Luàn shuō huà) / 抛茶叶 (Pāo yàcài)  
+- *Transliteration:* Luàn shuō huà, Pāo yàcài
+- *Means:* 无缘无故地说闲话 (Yuānyú wúgù de shuō xiánhuà)  
+- *Literal Translation:* To blabber aimlessly about gossip  
+- *Explanation:* 总是忍不住分享不为人知的秘密 (Zǒngshì bù rěnní fēnxàng bù rènwéizhīde mìbì)  
+- *Literal Translation:* Unable to resist the temptation to share secrets that people don't know  
+- *Usage:* 当你在社交媒体上分享你朋友生活中的小秘密时，你就是在抛茶叶。 (Dāng nǐ zài shíjiānwéiyuán shàng fēnxàng nǐ péngyǒu shēnghuó zhōng de xiǎomìmì shí, nǐ jiù shì zài pāo yàcài.)  
+- *Literal Translation:* When you share your friends' little secrets on social media, you are spilling the tea.
+This phrase is often used in conversations where someone is sharing information that they were supposed to keep private, or gossiping in a more dramatic or exaggerated way.
 ```
-This markdown format clearly shows the meaning and usage of "spill the tea" in both English and Chinese, along with a practical usage example.
