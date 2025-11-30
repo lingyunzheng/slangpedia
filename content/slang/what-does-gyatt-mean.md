@@ -1,20 +1,18 @@
 ---
 title: "What Does 'gyatt' Mean? (gyatt 是什么意思？)"
 slug: "what-does-gyatt-mean"
-date: 2025-11-29
+date: 2025-11-30
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Gyatt (A Slang Term)
-## English Explanation:
-**Gyatt** is a playful and informal term often used to describe a person who is overly dramatic or excessively serious in a light-hearted or sarcastic context. It can also imply someone who is picky or fussy about small details, making it a fairly versatile slang term.
-Example Usage:
-- "He's such a gyatt about his morning routine, calling it a 'ritual' just because he likes his coffee exactly how he wants it."
-## Chinese Explanation:
-**Gyatt** 是一个充满趣味且非正式的术语，常用于形容一个在轻松或讽刺的语境下过分戏剧化或特别认真的人。它还可能暗示某人对小细节非常挑剔或讲究，因此是一个相当通用的俚语。
-Example Usage:
-- "他关于早上的例行公事太搞笑了，把喝咖啡说成是‘仪式’，就因为喜欢咖啡的具体口味。"
+## Gyatt (California Rap Scene)
+**中文解释**：加州说唱圈里用来形容一种轻松、嘻哈的态度和风格。类似于“悠闲”或“随性”的意思。
+**English Explanation**：A term used in the California rap scene to describe a laid-back, hip-hop attitude and style. It can be likened to "relaxed" or "casual."
+```
+## Gyatt (Internet Slang)
+**中文解释**：源于网络的一种口语化表达，“干他”是一种常用的网络用语，用来表示挑战某事、打击某人或表示极大的愤怒。Gyatt可以与其形成对比，表示一种比“干他”还更轻松、幽默的态度。
+**English Explanation**：A colloquial internet term, "干他" (gàn tā) is a commonly used phrase to challenge something, hit someone, or show immense anger. Gyatt, in contrast, can imply a much more laid-back and humorous attitude.
 ```

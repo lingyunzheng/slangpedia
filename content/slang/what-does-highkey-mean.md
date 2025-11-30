@@ -1,16 +1,19 @@
 ---
 title: "What Does 'highkey' Mean? (highkey 是什么意思？)"
 slug: "what-does-highkey-mean"
-date: 2025-11-29
+date: 2025-11-30
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Highkey
-### English Explanation
-"Highkey" is an informal slang used to emphasize the significance or真实性 of something. It is derived from the word "highly" but is typically used in a more casual and emphatic way. For example, if someone says "I highkey love this movie," they are expressing that they really, really love the movie.
-### Chinese Explanation
-"Highkey" 是一种非正式的俚语，用于强调某事物的重要性或真实性。它源自 "highly"，但在使用时更加 casual 和强调。例如，如果有人说 "I highkey love this movie"，他们就是在表达自己非常、非常喜爱这部电影。
+# Highkey
+- **English:** A slang term used to emphasize that something is very true or very noticeable.
+- **Chinese:** 一个用来强调某事非常真实或非常明显的小说法语词。
+Example Usage:
+- **English:** I'm highkey excited for the concert tonight!
+- **Chinese:** 我今晚的演唱会超级超兴奋（highkey 兴奋）！
+Explanation:
+The term "highkey" is often used in casual conversations, social media, and texts to stress the intensity or reality of a situation. It adds emphasis to the statement without making it sound overly dramatic.
 ```

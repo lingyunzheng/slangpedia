@@ -1,7 +1,7 @@
 ---
 title: "What Does 'spill the tea' Mean? (spill the tea 是什么意思？)"
 slug: "what-does-spill-the-tea-mean"
-date: 2025-11-29
+date: 2025-11-30
 tags:
 - slang
 - internet
@@ -9,15 +9,13 @@ tags:
 ---
 ```markdown
 ## Spill the Tea
-**English:** To share gossip or confidential information, often in a drama-filled or scandalous manner.
-- *Example:* "She just had to spill the tea about the new boss's personal life, didn't she?"
-**Chinese:** 乱说话 (Luàn shuō huà) / 抛茶叶 (Pāo yàcài)  
-- *Transliteration:* Luàn shuō huà, Pāo yàcài
-- *Means:* 无缘无故地说闲话 (Yuānyú wúgù de shuō xiánhuà)  
-- *Literal Translation:* To blabber aimlessly about gossip  
-- *Explanation:* 总是忍不住分享不为人知的秘密 (Zǒngshì bù rěnní fēnxàng bù rènwéizhīde mìbì)  
-- *Literal Translation:* Unable to resist the temptation to share secrets that people don't know  
-- *Usage:* 当你在社交媒体上分享你朋友生活中的小秘密时，你就是在抛茶叶。 (Dāng nǐ zài shíjiānwéiyuán shàng fēnxàng nǐ péngyǒu shēnghuó zhōng de xiǎomìmì shí, nǐ jiù shì zài pāo yàcài.)  
-- *Literal Translation:* When you share your friends' little secrets on social media, you are spilling the tea.
-This phrase is often used in conversations where someone is sharing information that they were supposed to keep private, or gossiping in a more dramatic or exaggerated way.
+**English Explanation:**
+"Spill the tea" is a slang phrase that means to share confidential or hidden information with others, often gossip or details that were supposed to be kept secret. It implies revealing private conversations, behind-the-scenes information, or secrets.
+**Chinese Explanation:**
+"Spill the tea" 溜出茶 (liū chū chá) 指的是泄露机密或隐藏的信息，往往是八卦或本应保密的秘密。这个词用来形容分享私人对话、幕后的信息或秘密。
+Usage Examples:
+- "She finally spilled the tea about her ex-boyfriend's secret affair."
+- "They didn't want anyone to know about the plan, but he couldn't help but spill the tea."
+- "She spilled the tea about the company's upcoming merger, causing a stir in the office."
+This phrase is often used in informal conversations, social settings, and in entertainment media when discussing scandals or exclusive information.
 ```

@@ -1,20 +1,19 @@
 ---
 title: "What Does 'mid' Mean? (mid 是什么意思？)"
 slug: "what-does-mid-mean"
-date: 2025-11-29
+date: 2025-11-30
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## mid
-### English
-- **Definition**: *Adjective or Noun* - "Middle" or "average" in quality or ability.
-- **Example**: "He’s really mid, nothing outstanding, but not bad either."
-- **Context**: Often used to describe something or someone that is neither particularly good nor bad, but in the middle.
-### Chinese
-- **含义**: *形容词或名词* - "中间的" 或 "一般" 的质量和能力。
-- **例句**: "他真的挺 mid，既不出众也不差。"
-- **场景**: 经常用来描述某人或某事既不是特别好也不是特别差，处于中间水平。
+## mid (一半, yì bàn)
+**English:**
+- **Meaning:** "mid" can be used to refer to something that is in the middle or halfway between two points.
+- **Usage Example:** "I'm in mid-sentence when the phone rings." This can be translated as: "我在中间说话的时候，电话响了。" (Wǒ zài zhōngjiān shuōhuà de shíhòu, diànhuà xiǎngle.)
+**Chinese:**
+- **Meaning:** "一半" (yì bàn) means "half" or "one half of something."
+- **Usage Example:** "他吃了一半的披萨就走了。" (Tā chī le yì bàn de pīsā jiù zǒu le.) translates to "He ate half the pizza and left."
 ```
+This markdown format provides clear translations and usage examples for both the English and Chinese slang terms.

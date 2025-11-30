@@ -1,19 +1,17 @@
 ---
 title: "What Does 'touch grass' Mean? (touch grass 是什么意思？)"
 slug: "what-does-touch-grass-mean"
-date: 2025-11-29
+date: 2025-11-30
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English: "Touch grass"
-### Meaning:
-- **Literal:** To touch or feel grass.
-- **Slang:** Refers to someone suicide or making a failed attempt at suicide. It's a euphemistic expression that is considered inappropriate and sensitive, generally avoided in polite conversation.
-### Chinese (简体中文): "触草"
-### 含义:
-- **字面意思:** 触摸或感觉到草。
-- **俚语:** 指某人自杀或尝试自杀未遂。这是一个委婉但被认为是不恰当和敏感的表达，通常避免在正式或礼貌的对话中使用。
+## "Touch grass" (English)
+**Definition:** To regret or deeply apologize for a previous action or words that caused harm or embarrassment.
+**Example Usage:** "I don't know what came over me at that party. If I could, I would touch grass for saying those things."
+## "踩草坪" (Chinese) 
+**Definition:** 表示对自己的不当行为感到后悔或道歉。通常用于因某些言行给他人带来了困扰或尴尬之后。
+**例句:** "我在聚会里说的话太不检点了。如果可以的话，我真的希望自己能踩草坪道歉。"
 ```

@@ -1,19 +1,21 @@
 ---
 title: "What Does 'rizz' Mean? (rizz 是什么意思？)"
 slug: "what-does-rizz-mean"
-date: 2025-11-29
+date: 2025-11-30
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Rizz (美国英语 / 英国英语)
-### 美国英语
-- **解释**: Rizz 是一种用于描述某人或某物所表现出来的酷炫、有型特质的流行俚语。这个词通常用来形容一个人的风格、动作或者整体气场，其中蕴含着一种现代的、搞怪的或极端的魅力。
-- **例子**: "Wow, that new roller-skate move had some sick rizz, I need to learn that!"
-### 英国英语
-- **解释**: 在英国英语中，“rizz”并没有广泛使用，但可以理解为与美国英语中描述某种吸引人的特质相关，但在实际交流中比较少见。
-- **例子**: (未找到有效的例子，但理论上可以假定为 "She's got some serious rizz with her dance moves!"
+# Rizz (English)
+**Meaning:** 
+Rizz is a term often used to describe a person's demeanor, style, or overall cool factor. It can relate to how someone carries themselves, their fashion sense, or their attitude. It’s frequently used in a positive context to compliment someone who exudes confidence or swagger.
+**Example Sentence:**
+"Jameel really got the rizz tonight with his new outfit and that smooth walk."
+# 仪态 (Yí tài) (Chinese)
+**Meaning:**  
+"仪态" (yí tài) 在这里用来形容一个人的气质、风格或整体酷感。它可以与某人如何站立、时尚感和态度有关。这个词汇通常用于正面来称赞那些充满自信或有魅力的人。
+**例句:**
+"今晚 Jameel 的仪态真是太酷了，新 outfit 和那种飘逸的步伐简直绝了。"
 ```
-This markdown format provides a clear and concise bilingual explanation of the slang term "rizz," including definitions and examples for both American and British English contexts, where applicable.

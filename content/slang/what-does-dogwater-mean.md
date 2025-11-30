@@ -1,24 +1,18 @@
 ---
 title: "What Does 'dogwater' Mean? (dogwater 是什么意思？)"
 slug: "what-does-dogwater-mean"
-date: 2025-11-29
+date: 2025-11-30
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Dogwater (English)
-### Meaning
-"Dogwater" is a slang term often used to describe something of very low quality, almost worthless. It's used to criticize or devalue something or someone.
-### Example Usage
-1. "This guitar is so \[dogwater\] that it sounds worse than nothing."
-2. "The movie was \[dogwater\], there was no plot and the acting was terrible."
-## 狗尾水 (Dogtail Water, Chinese)
-### 含义
-"狗尾水" 是一个俚语，通常用来形容非常低劣的东西，几乎一文不值。它用于批评或贬低某个事物或人。
-### 使用示例
-1. "这把吉他太 \[狗尾水\] 了，听起来比没声音还糟糕。"
-2. "这部电影太 \[狗尾水\] 了，没有剧情，表演也不好。"
+## Dogwater (狗水 in Chinese)
+### English Explanation:
+**Dogwater**: A term often used in online gaming communities to refer to water or arena match types in games like PUBG (PlayerUnknown's Battlegrounds). These matches are considered easy compared to more challenging or crowded match types, hence the implication that they are as useful as "dog water" (which is essentially just water that doesn't satisfy one's thirst well).
+### Chinese Explanation:
+**狗水 (gǒu shuǐ)**: 来源于在线游戏玩家之间的俚语，常用来指代像绝地求生（PUBG）这类游戏中那种比较容易、参与人数较少的比赛模式。这些模式被称为“狗水”，意味着它们对于满足玩家的挑战欲望来说几乎毫无用处。“狗水”在这里暗指无法满足需求的劣质水。
+---
+请注意，这种说法有时也会用于描述生活质量或环境等较为平庸的情况。
 ```
-In both languages, "dogwater" (狗尾水) is used to express strong disapproval or to indicate something is of very poor quality.

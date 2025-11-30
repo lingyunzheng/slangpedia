@@ -1,19 +1,17 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2025-11-29
+date: 2025-11-30
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Delusion Arc
-### English
-**Definition:** A metaphorical term used to describe a period of time where someone holds onto unrealistic or irrational beliefs, often in a way that is quite noticeable and extensive.
-**Example:** "Ever since she started following online gurus, Maria entered a delusion arc where she believed investing in bitcoin was the only way to get rich."
-### 中文
-**定义：** 用于形容一段时期内，某人执着于不切实际或不理智的信念，通常这个阶段表现得非常明显且持续时间较长。
-**例句：** “自从开始跟着网络上的建国大师，玛丽亚进入了一个妄想弧，她相信投资比特币是唯一快速致富的方法。”
+# Delusion Arc (Delusion Arc)
+## English
+**Delusion Arc**: A term often used in online gaming communities to describe a phase where a player consistently performs poorly, attributing their failures to external factors rather than their own skill or decision-making. It's akin to the "Arc of Delusion" where gamers convince themselves that they can win or that luck is on their side when evidence suggests otherwise. This can also refer to the period when someone is firmly in a state of self-deception or denial.
+## 中文
+**妄想弧线 (Wàngxiǎng Huáxiàn)**：一个常用于在线游戏社群中的术语，指玩家表现持续不佳时，倾向于将失败归咎于外部因素而非自己的技巧或决策的情况。这就是所谓的“妄想弧线”，是指游戏者不断说服自己能够获胜或者认为他们的运气很好，即便证据显示事实并非如此。这个词也可以用来形容一个人处于自我欺骗或不愿承认现实的状态。
 ```
-In both the English and Chinese explanations, "delusion arc" is described as a significant period of time where someone clings to irrational beliefs, providing contexts that illustrate this idea.
+```

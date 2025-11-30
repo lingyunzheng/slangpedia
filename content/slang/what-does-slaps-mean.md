@@ -1,23 +1,18 @@
 ---
 title: "What Does 'slaps' Mean? (slaps 是什么意思？)"
 slug: "what-does-slaps-mean"
-date: 2025-11-29
+date: 2025-11-30
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Slap in English and Chinese
+## Slaps
 ### English
-- **To give someone a slap**: Literally means to hit someone with an open hand, often implying a gesture of anger or forceful disagreement. 
-- Example: "He was really angry and gave her a slap across the face."
-- **Slapdash**: Quickly done or done carelessly.
-- Example: "The way she dressed up today was so slapdash, it almost made me laugh."
+**Slaps**: This term can refer to a physical gesture of hitting someone with an open hand. In a more casual or slang context, it can also mean giving "likes" or "appreciation" on social media, often expressed with a sideways face emoji `👍`.
+**Example**: "She got a ton of slaps on her Instagram post."
 ### 中文
-- **给某人一个巴掌**：字面上的意思是用 open hand 挥打对方，通常表示生气或坚决反对的姿态。
-- 例句：他真的好生气，给了她一个巴掌。
-- **草率、马虎**：快速完成或粗心大意地完成。
-- 例句：她今天穿的衣服看起来很草率，感觉都要笑出来了。
+**Slaps**：这个词可以指代用手掌拍打的动作。在比较随意或俚语的语境中，它也可以表示在社交媒体上给某条内容点赞或表示赞赏，通常用微笑的手势表情 `👍` 来表示。
+**例句**：她的Instagram帖子得到了很多点赞。
 ```
-This markdown format provides clear and concise definitions with contextual examples for both English and Chinese phrases involving the concept of "slap."
