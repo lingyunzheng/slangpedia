@@ -1,18 +1,24 @@
 ---
 title: "What Does 'glowed up' Mean? (glowed up 是什么意思？)"
 slug: "what-does-glowed-up-mean"
-date: 2025-11-30
+date: 2025-12-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Glowed Up
-## English
-**Definition**: The phrase "glowed up" is used to describe a significant and noticeable improvement or transformation in someone's appearance, style, or overall vibe. It often implies that the person has stepped up their game, whether it's through a new fashion sense, a change in attitude, or simply looking and feeling more confident than before.
-**Example**: "Wow, Jesse totally glowed up at the party last night! She got a new haircut and was so much more confident!"
-## Chinese
-**定义**：“glowed up”是用来形容某人在外貌、风格或整体氛围上发生了显著且显而易见的改善或转变。它通常意味着这个人通过新的着装风格、改变态度或看起来和感觉更加自信等途径提升了自己的表现。
-**示例**：“哇，昨晚聚会时杰西焕然一新！她换了一个新发型，看起来自信多了！”
+# "Glowed Up" - A Slang Explanation
+## English Explanation
+**Glowed Up** is a popular slang term used to describe someone who has significantly improved their appearance, style, or overall presence. It's often used to express admiration for someone who has taken steps (such as changing their wardrobe, gaining confidence, or generally improving their aesthetic) to look or feel better than before.
+## Chinese Explanation
+**Glowed Up** (焕然一新 / huàn rán yī xīn) 表示某人的外貌、风格或整体形象有了显著的提升。它通常用来赞美某人通过更换衣着、增强自信或以其他方式改善自己的外貌和感觉，使其看起来比之前更好。
+### Usage Examples
+- **English:** Wow, you totally glowing up! That new haircut and makeup look amazing!
+- **Chinese:** 天哪，你真的焕然一新了！那款新的发型和化妆真的看起来很棒！
+- **English:** She totally glowed up for the party; she looked perfect!
+- **Chinese:** 她为聚会焕然一新了，看起来简直完美！
+### Related Phrases
+- **英文相关短语:** #TotalLookChanger
+- **中文相关短语:** #整体造型焕然一新
 ```

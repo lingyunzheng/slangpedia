@@ -1,18 +1,20 @@
 ---
 title: "What Does 'gyatt' Mean? (gyatt 是什么意思？)"
 slug: "what-does-gyatt-mean"
-date: 2025-11-30
+date: 2025-12-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Gyatt (California Rap Scene)
-**中文解释**：加州说唱圈里用来形容一种轻松、嘻哈的态度和风格。类似于“悠闲”或“随性”的意思。
-**English Explanation**：A term used in the California rap scene to describe a laid-back, hip-hop attitude and style. It can be likened to "relaxed" or "casual."
-```
-## Gyatt (Internet Slang)
-**中文解释**：源于网络的一种口语化表达，“干他”是一种常用的网络用语，用来表示挑战某事、打击某人或表示极大的愤怒。Gyatt可以与其形成对比，表示一种比“干他”还更轻松、幽默的态度。
-**English Explanation**：A colloquial internet term, "干他" (gàn tā) is a commonly used phrase to challenge something, hit someone, or show immense anger. Gyatt, in contrast, can imply a much more laid-back and humorous attitude.
+## Gyatt
+### English
+"Gyatt" is an internet slang derived from the word "guy" or "guy-att," often used to refer to someone in a mock-heroic or exaggeratedly cool manner. It's similar to the term "bro" but with a touch of sarcasm or heightened enthusiasm.
+### 中文
+"Gyatt" 是一种互联网俚语，来源于单词 "guy" 或 "guy-att"。它常用来形容某人以一种戏谑的、过度酷的方式。与“bro”类似，但带有更多的讽刺或兴奋感。
+---
+例句：
+- **English:** Why did you bring a leftover roast chicken? It's like you’re trying to gyatt for our next hangout.
+- **中文:** 你为什么要带剩菜呢？你这是想“gyatt”我们下次出去玩吗？
 ```

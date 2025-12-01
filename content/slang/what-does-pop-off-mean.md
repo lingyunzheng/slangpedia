@@ -1,18 +1,18 @@
 ---
 title: "What Does 'pop off' Mean? (pop off 是什么意思？)"
 slug: "what-does-pop-off-mean"
-date: 2025-11-30
+date: 2025-12-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# "Pop Off"
-## English
-- **Definition:** To start or continue with aggressive or competitive behavior; often related to showing off or being overly confident.
-- **Example Usage:** "He got into a verbal altercation with his brother and started to pop off."
-## 中文
-- **定义:** 表示表现出攻击性或竞争性的行为；通常与炫耀或过于自信有关。
-- **例句使用:** "他和他的弟弟因为一点小事而争吵起来，并开始故意炫耀自己。"
+## English: Pop off
+### Chinese: 爆炸 (Burst Out) / 爆肝 (Work Overtime)
+Originated from various contexts, it can be used to describe someone or something doing something with a lot of energy, excitement, or intensity. The term often implies an immediate and strong reaction, usually with a positive connotation.
+- **Usage Example in English:** "He's really pop off when he talks about basketball."
+- **Literal Chinese Explanation:** 他一谈起篮球就精力充沛地滔滔不绝。 (Tā yī tán qǐ líán mén jiù jīnglì chāijià de tāotāo bùjué.)
+- **Usage Example in Chinese:** "她一听到这个消息就爆肝工作，迫不及待想要实现梦想。" (Tā yī tīngdào zhège xiāoxi jiù bào gān gōngzuò, bùpángguò mìngxiǎng yào xiǎngshí xiǎng mèngxiǎng.)
+- **Translation:** She could hardly wait to work overtime upon hearing the news and was bursting out with the desire to realize her dreams.
 ```

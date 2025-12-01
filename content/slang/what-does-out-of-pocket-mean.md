@@ -1,18 +1,21 @@
 ---
 title: "What Does 'out of pocket' Mean? (out of pocket 是什么意思？)"
 slug: "what-does-out-of-pocket-mean"
-date: 2025-11-30
+date: 2025-12-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Bilingual Slang Explanation: Out of Pocket
-### English Explanation
-**Out of Pocket:** This phrase is often used to describe a situation where a person or entity must pay for something directly, rather than it being covered by a third party, such as an insurance policy or employer. It can also refer to the amount of money one personally has to spend for something.
-**Example Sentence:** "If you go to the doctor, remember that the copay is usually out of pocket."
-### Chinese Explanation
-**出自己腰包 (Chū zìjǐ yāo bāo):** 这个短语通常用来描述一个人或实体必须直接支付某样东西，而不是由第三方（如保险政策或雇主）承担的情况。这个词也可以指一个人必须自己支付的金额。
-**例句：** "如果你去看医生，记得自费部分通常是需要你自己掏腰包支付的。"
+## Out of Pocket (英语)
+### Bilingual Slang Explanation
+**英语:** Out of pocket
+**中文 (俚语):** 自掏腰包
+**解释:** 当你支付原本应该由其他人承担的费用时，你就是在“自掏腰包”。比如，朋友请客吃饭，但你却付了所有账单，这时候你就可以说自己是“自掏腰包”了。
+**Example Usage:**
+- **英语:** I couldn't afford a cab, so I walked home, out of pocket.
+- **中文 (俚语):** 我打车的钱没有了，打不到车就只好走回家了，真是自掏腰包。
+---
+自掏腰包 (zì tāo yāo bāo)：通常是动词短语，在特定语境下表达为了帮助或满足某人而自己承担费用。
 ```

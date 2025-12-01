@@ -1,18 +1,18 @@
 ---
 title: "What Does 'dogwater' Mean? (dogwater 是什么意思？)"
 slug: "what-does-dogwater-mean"
-date: 2025-11-30
+date: 2025-12-01
 tags:
 - slang
 - internet
 - tiktok
 ---
+Here's the bilingual slang explanation for "dogwater" in Markdown format:
 ```markdown
-## Dogwater (狗水 in Chinese)
+## Dogwater
 ### English Explanation:
-**Dogwater**: A term often used in online gaming communities to refer to water or arena match types in games like PUBG (PlayerUnknown's Battlegrounds). These matches are considered easy compared to more challenging or crowded match types, hence the implication that they are as useful as "dog water" (which is essentially just water that doesn't satisfy one's thirst well).
+- **Meaning:** Informal term often used as slang to describe tap water, especially when it's considered of low quality or not fit for drinking.
 ### Chinese Explanation:
-**狗水 (gǒu shuǐ)**: 来源于在线游戏玩家之间的俚语，常用来指代像绝地求生（PUBG）这类游戏中那种比较容易、参与人数较少的比赛模式。这些模式被称为“狗水”，意味着它们对于满足玩家的挑战欲望来说几乎毫无用处。“狗水”在这里暗指无法满足需求的劣质水。
----
-请注意，这种说法有时也会用于描述生活质量或环境等较为平庸的情况。
+- **意思:** 常用俚语来指自来水，尤其是在指水质较差、不适合饮用时。
+- **用法示例:** "I don't want to drink this dogwater; maybe I'll buy some bottled water." -> "我不喝这自来水，可能会买瓶装水。"
 ```

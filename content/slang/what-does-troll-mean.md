@@ -1,18 +1,25 @@
 ---
 title: "What Does 'troll' Mean? (troll 是什么意思？)"
 slug: "what-does-troll-mean"
-date: 2025-11-30
+date: 2025-12-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Troll (English/Chinese)
-### English
-A troll is a person who posts inflammatory, extraneous, or off-topic messages in an online discussion forum with the intent of provoking readers into an emotional response or of drawing attention to themselves, usually with the intent to anger or disrupt. 
-**Example**: "David keeps posting about politics in the middle of a sports thread—it's a clear case of trolling."
-### Chinese
-“ Troll ”指的是在网络上发布具有煽动性、无关紧要或者偏离主题的帖子的人，意图引起读者的情绪反应或增加自己的关注度，通常目的是激怒或扰乱他人。
-**例子**： "大卫总是发政治内容在体育讨论区，这显然是在引战。"
+# Troll (汉语: 桶儿)
+## English Explanation
+### Definition
+A troll is usually someone who posts inflammatory, extraneous, or off-topic messages in an online discussion thread with the intent of provoking conflict or drawing attention to themselves, or for amusement gained through inciting arguments. 
+### Bilingual Example Usage
+- "He's just a troll, trying to stir up trouble in the forums."
+- 他只是个桶儿，在论坛里捣乱，挑起事端。
+```
+## Chinese Explanation
+### 定义
+桶儿通常是那些在网络讨论帖中发布刺激性、无关或偏离主题的消息的人，目的是激化冲突或吸引注意，或者通过引发争论获得乐趣。
+### 双语例句
+- "他只是个桶儿，在论坛里捣乱，挑起事端。"
+- "He's just a troll, trying to stir up trouble in the forums."
 ```

@@ -1,24 +1,16 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2025-11-30
+date: 2025-12-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Ratio Slang Explanation
-## Chinese
-**含义**: 比例，比率，但在网络用语中，"比例"一词通常被赋予更深的意义，类似于"势力"或"影响力"。
-**解释**: 当某人或某事被夸奖具有"高 Ratio"时，意味着这个人或事非常出色或与另一个对象相比占绝对优势。比如，"他的车 Ratio 真高，新车跟用了10年似的"，这里的比并不是指使用时间，而是指外观或车辆的整体状态。
-**例子**: 
-- 你发了一个 Vlog，评论区充满了赞美你的称赞，你可以说 "这个视频的 Ratio 真高！"。
----
-## English
-**Meaning**: Ratio, which usually refers to a proportion or rate, takes on a deeper meaning in internet slangs, often referring to someone or something being extremely impressive or superior to another thing.
-**Explanation**: If someone or something is said to have "High Ratio," it means they are exceptional or significantly superior to others. For example, "His car has a high Ratio, it looks brand new after ten years," which means the car's condition or appearance is impressive, not the time it has been used.
-**Examples**:
-- After posting a Vlog, you receive a ton of compliments, you might say "This video has a high Ratio!"
+# Ratio (Simplified Chinese: 比例; Traditional Chinese: 比例)
+**English Slang Explanation:** 
+Ratio is a term often used to describe a showdown or contest between two parties, often in the context of social media challenges or confrontations. For example, if two people or groups are engaging in a friendly bet or challenge, their "ratio" refers to the agreed-upon stakes or conditions. If one party wins or performs better, they often "win the ratio" by gaining a higher social media following or more responses to their posts.
+**Chinese Slang Explanation:** 
+"比"指的是两个事物之间的对比或者比例关系。"例"进一步强化了这种关系的概念。在网络文化和社交挑战的语境中，"ratio"有时被用来指双方进行的挑战或对决，比如在社交媒体上发起的一种比拼。如果一方在挑战中获胜，或者在社交媒体上取得更好的成绩，他们就“赢得了比例”或“秀了比例”，意味着他们得到了更多的关注和认可，比如粉丝数量的增加或更多正面的互动。
 ```
-This markdown format provides clear and concise explanations for both the Chinese and English context of the slang term "ratio."

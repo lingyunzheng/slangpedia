@@ -1,18 +1,22 @@
 ---
 title: "What Does 'bet' Mean? (bet 是什么意思？)"
 slug: "what-does-bet-mean"
-date: 2025-11-30
+date: 2025-12-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Explanation: Bet
-## English
-**Bet**: A casual verbal agreement that something is true, often made with the intention to pay a penalty if the statement is proven wrong. It can also refer to a bet made for money or other stakes.
-Example: "I bet it's going to rain today. If I'm wrong, you buy me an ice cream!"
-## Chinese
-**赌** (Dǔ): 一种口头约定，通常用来表示某个事情的真实性，如果这个陈述被证明是错误的，约定的一方就需要承担责任，可以是罚款等形式。也可以指为了金钱或其他赌注而下的赌注。
-例句：今天要下雨，我打赌。如果错了，你要请我吃冰淇淋！
+### bet
+**英語**: bet  
+**中文**: 赌注
+**說明**:
+- **英語**: In casual slang, "bet" can refer to a wager or gamble, where people make a bet on the outcome of an event, or simply a claim followed by a risk of losing something (often money) if it turns out to be wrong.
+- **中文**: 在俚語中，"賭注"（bet）通常是指一個打個賭的行為，人們可能會就某個事件的結局打個賭，或只是做出一個斷言並附條件说如果被證明是錯的，就得失去某些東西（通常是錢）。
+**Example Usage**:
+- **英語**: I bet it’s going to rain today.
+- **中文**: 我打賭今天會下雨。
+- **英語**: I bet you’re lying.
+- **中文**: 我賭你是撒謊。
 ```

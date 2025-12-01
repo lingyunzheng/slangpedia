@@ -1,7 +1,7 @@
 ---
 title: "What Does 'grindset' Mean? (grindset 是什么意思？)"
 slug: "what-does-grindset-mean"
-date: 2025-11-30
+date: 2025-12-01
 tags:
 - slang
 - internet
@@ -10,7 +10,7 @@ tags:
 ```markdown
 # Grindset (俚语解释)
 ## 中文解释
-"Grindset" 在中文中的俚语解释是“拼劲”或“奋斗状态”。这个词用来描述一种充满工作热情和努力的生活态度，强调不断努力、不懈追求成功的决心和精神。无论是学业、职业还是兴趣爱好，拥有一个强大的“grindset”都能帮助人们在各个领域取得成就。
+“磨石”，指的是一个人投入大量时间、精力或资源到某种活动中，以达到目标或提高自己的状态。这是一种高度自我驱动的态度，通常与努力工作、追求成功或改变生活方式紧密相关。
 ## 英文解释
-The term "grindset" in English refers to a "grinding attitude" or "determined outlook." It describes a mindset of putting in intense, consistent effort and maintaining an unwavering drive towards success. It can be used in various contexts, including academics, careers, or hobbies, to characterize the dedication and perseverance required to achieve one's goals.
+"Grindset" is a slang term derived from the phrase "grind," which refers to deducing a lot of time, energy, or resources into a specific activity to achieve a goal or improve oneself. It describes a highly self-motivated attitude, often associated with working hard, striving for success, or changing one's lifestyle.
 ```

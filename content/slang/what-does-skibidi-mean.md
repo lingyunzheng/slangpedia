@@ -1,21 +1,18 @@
 ---
 title: "What Does 'skibidi' Mean? (skibidi 是什么意思？)"
 slug: "what-does-skibidi-mean"
-date: 2025-11-30
+date: 2025-12-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Skibidi: A Slang Explanation
+# Skibidi
 ## English
-**Skibidi**:
-- **Meaning**: A playful, humorous term often used to express confusion or disbelief.
-- **Example**: "Skibidi, did you really just say that? That's wild!"
----
-## Chinese
-**Skibidi**:
-- **含义**: 一个playful和幽默的词汇，常用来表示困惑或难以置信。
-- **示例**: "Skibidi，你刚刚说的是真的吗？这太疯狂了！"
+- **Meaning**: An exclamation often used to express excitement, surprise, or to encourage someone to do something.
+- **Example**: "Skibidi, let's hit the dance floor tonight!"
+## 中文
+- **意思**：常用来表达兴奋、惊讶，或者鼓励某人去做某事的一种叫喊。
+- **例句**： "Skibidi，今晚我们去跳舞吧！"
 ```

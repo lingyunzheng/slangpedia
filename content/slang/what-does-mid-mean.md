@@ -1,19 +1,16 @@
 ---
 title: "What Does 'mid' Mean? (mid 是什么意思？)"
 slug: "what-does-mid-mean"
-date: 2025-11-30
+date: 2025-12-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## mid (一半, yì bàn)
-**English:**
-- **Meaning:** "mid" can be used to refer to something that is in the middle or halfway between two points.
-- **Usage Example:** "I'm in mid-sentence when the phone rings." This can be translated as: "我在中间说话的时候，电话响了。" (Wǒ zài zhōngjiān shuōhuà de shíhòu, diànhuà xiǎngle.)
-**Chinese:**
-- **Meaning:** "一半" (yì bàn) means "half" or "one half of something."
-- **Usage Example:** "他吃了一半的披萨就走了。" (Tā chī le yì bàn de pīsā jiù zǒu le.) translates to "He ate half the pizza and left."
+# "mid"
+- **English:** 
+- A slang term often used in various contexts, but most commonly associated with online gaming communities. It refers to the middle or center of a map, arena, or battlefield. Players often position themselves in the "mid" to stay central and have a balanced advantage in observation and movement.
+- **Chinese:** 
+- 一个俚语术语，主要用于在线游戏社区中。它通常指的是地图、竞技场或战斗场地的中间部分。玩家会将自己定位在“mid”位置，以保持视野和移动的平衡优势。
 ```
-This markdown format provides clear translations and usage examples for both the English and Chinese slang terms.

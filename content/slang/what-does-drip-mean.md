@@ -1,16 +1,17 @@
 ---
 title: "What Does 'drip' Mean? (drip 是什么意思？)"
 slug: "what-does-drip-mean"
-date: 2025-11-30
+date: 2025-12-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Drip (英译汉)
-### 汉语解释
-- **流loser**: 在某些社交环境下，尤其是在线游戏、体育赛事等活动中的参与者，如果一个人表现非常差，连续失败，或者总是做出错误的决定，被大家戏称为“流loser”。这个称呼暗示此人像水不断滴漏般无法掌控局面，表现糟糕。
-### 英语解释
-- **drip**: This term is often used in online gaming, sports, and other competitive scenarios to describe a participant who consistently underperforms, makes poor decisions, and generally has a difficult time controlling the situation. It’s similar to saying someone is "dripping" losers because their performance is like water endlessly dripping, unable to maintain good results.
+## Drip (English)
+**Definition:** Drip refers to someone or something that is exceptionally attractive or cool, often used to describe a person's style, attitude, or overall presence.
+**Example:** "That new rapper on the block is seriously a drip, his outfits and food taste."
+## Dripper (Chinese)
+**定义:** Dripper 是指某个东西或某个人极其吸引人或酷，常用来描述一个人的风格、态度或整体气场。
+**示例:** "街区上的这个新说唱歌手真是个dripper，他的穿着和食物都特别有品味。"
 ```

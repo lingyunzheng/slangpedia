@@ -1,24 +1,18 @@
 ---
 title: "What Does 'valid' Mean? (valid 是什么意思？)"
 slug: "what-does-valid-mean"
-date: 2025-11-30
+date: 2025-12-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Valid
-## English
-**Definition:** Something that is genuine, authentic, or meets the required standards.
-**Slang Explanation:** "On point" or "Okay with me." Often used to affirm something as legitimate or satisfactory.
-**Example Usage:**
-- "Their new recipe for pizza is valid and tastes great!"
-- "I'm valid with the idea of ordering takeout."
-## Chinese
-**定义:** 真实的，可靠的，或符合要求的。
-**潮语解释:** "中规中矩的" 或 "可以接受的"。通常用来肯定某事是真实可靠的或令人满意。
-**用法示例:**
-- "他们新推出的披萨食谱是有效的，味道很好！"
-- "我对于点外卖这个主意是完全可以接受的。"
+# Slang Explanation: "valid"
+**English:**  
+- **Definition:** Confirmed to be correct or true; legally or logically appropriate.
+- **Example usage:** "That's a valid point you made about the project timeline."
+**Chinese (简体中文):**  
+- **定义:** 确认为正确或真实的；法律上或逻辑上适当的。
+- **例句:** "你关于项目时间线的观点是有道理的，是有效的。"
 ```
