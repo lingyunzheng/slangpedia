@@ -1,17 +1,16 @@
 ---
 title: "What Does 'drip' Mean? (drip 是什么意思？)"
 slug: "what-does-drip-mean"
-date: 2025-12-01
+date: 2025-12-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Drip (English)
-**Definition:** Drip refers to someone or something that is exceptionally attractive or cool, often used to describe a person's style, attitude, or overall presence.
-**Example:** "That new rapper on the block is seriously a drip, his outfits and food taste."
-## Dripper (Chinese)
-**定义:** Dripper 是指某个东西或某个人极其吸引人或酷，常用来描述一个人的风格、态度或整体气场。
-**示例:** "街区上的这个新说唱歌手真是个dripper，他的穿着和食物都特别有品味。"
+## Drip (汉语：滴漏)
+### English Explanation:
+**Drip:** Originally, this term is from the concept of a "drip" in a water bottle or a leaking faucet, symbolizing a slow and continuous process. It now often refers to someone or something that is constantly updating or nagging in a persistent manner, similar to a continuous drip.
+### Chinese Explanation:
+**滴漏 (Dīlòu):** 这个词最初来源于水瓶里的“滴漏”或是水龙头漏水的概念，象征着一种缓慢而持续的过程。现在这个词常用来形容一个人或事物以一种持续不断的、令人厌烦的方式进行更新或催促。
 ```

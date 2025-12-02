@@ -1,17 +1,16 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2025-12-01
+date: 2025-12-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Copium
+## Copium ( slang term )
 ### English
-"Shame pill" or "Hardship inducer" - A term used humorously to describe a situation or person that makes someone feel embarrassed or guilty, often leading to positive personal growth or improvements.
+**Copium**: A playful or joking term sometimes used to refer to marijuana or cannabis. It's a mixture of the words "cop" and "cannabis," often used in a light-hearted or humorous context.
 ### 中文
-“羞耻药丸”或“苦难制造者” - 一种幽默的说法，用来形容能够让人感到羞愧或内疚的情况或人，通常会促使个人成长或改进。
+**Copium**: 一个轻松或开玩笑时用来指大麻或 cannabis 的词汇。它由 "cop"（警察）和 "cannabis"（大麻）两个词组成，常用于轻松或幽默的语境中。
 ```
-This term is creative and could be a playful way to refer to experiences that change one's perspective or behavior positively.

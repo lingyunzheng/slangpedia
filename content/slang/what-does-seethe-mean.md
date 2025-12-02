@@ -1,20 +1,27 @@
 ---
 title: "What Does 'seethe' Mean? (seethe 是什么意思？)"
 slug: "what-does-seethe-mean"
-date: 2025-12-01
+date: 2025-12-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Meaning of "Seethe"
-## English
-**Meaning:** A figurative expression for being extremely angry and ready to lose one's temper. It is often used to describe a situation where someone is so worked up that they feel like they could erupt or boil over.
-### Example:
-- "Ever since the company announced the layoffs, the boss has been seething with anger."
-## Chinese
-**含义:** 形容某人极度愤怒，即将失控。常用于描述一个人愤怒到几乎要爆发或失控的情况。
-### 例句:
-- "自从公司宣布裁员以来，老板一直在怒火中燃烧。"
+## 英文解释：seethe
+### 俚语解释：煮腾腾
+- **含义**：这个词常用来形容人的情绪异常激昂，感到强烈的不满或愤怒，就像是快要煮沸的水一样。
+- **例句**：
+- 她一想到那个让她伤心的人，就**seethed**。
+- 他被解雇后，几乎**seethed**了一整个晚上。
+- **使用场景**：当你想要表达某人的情绪异常激烈或在内心深处积累了大量的不满时，可以使用“seethe”或“煮腾腾”。
+---
+## 中文解释：煮腾腾
+### 俚语解释：seethe
+- **含义**：这个词形容人的情绪异常激昂，感到强烈的不满或愤怒，就像是快要煮沸的水一样。
+- **例句**：
+- 她一想到那个让她伤心的人，就**煮腾腾**了。
+- 他被解雇后，几乎**煮腾腾**了一整个晚上。
+- **使用场景**：当你想要表达某人的情绪异常激烈或在内心深处积累了大量的不满时，可以使用“煮腾腾”或“seethe”。
 ```
+这两段解释从不同的语言视角对“seethe”进行了描述，并提供了对应的中文俚语表达，便于记忆和理解。

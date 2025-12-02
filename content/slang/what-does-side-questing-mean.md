@@ -1,16 +1,19 @@
 ---
 title: "What Does 'side questing' Mean? (side questing 是什么意思？)"
 slug: "what-does-side-questing-mean"
-date: 2025-12-01
+date: 2025-12-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Side Questing
-## English
-**Side questing** refers to taking on additional, non-essential tasks or missions in a video game, separate from the main quest. Players enjoy these side quests for various reasons—such as exploring new areas, finding hidden treasure, or simply killing time. These tasks often lead to rewards like experience points, items, or insights into the game world.
-## 中文
-**支线任务（Side Questing）**是指在游戏里完成额外的、非主要任务的小任务或支线。玩家完成支线任务可以获得多种好处，例如探索新区域、寻找隐藏宝藏或仅仅消磨时间。这些任务往往会带来经验值、物品或其他对游戏世界的见解。
+# Side Questing (Side Questing)
+## English Explanation
+"Side Questing" typically refers to engaging in activities that aren't the main focus or goal but offer additional rewards, experiences, or fun. This term is most commonly used in the context of games, whether they are role-playing games (RPGs), video games, or even board games. Side quests are side jobs, missions, or personal objectives that can be completed alongside the main storyline to enhance gameplay and reward players with bonuses such as experience points, items, or exclusive content.
+## Bilingual Slang Explanation
+**英文解释:** "Side Questing" 指的是进行那些不是主要焦点或目标的活动，但能提供额外的奖励、经验或乐趣。这个词多用于游戏的语境中，无论是角色扮演游戏（RPG）、电子游戏还是桌面游戏。支线任务是指可以与主线故事并行完成的小任务或个人目标，通过完成它们，玩家可以获得经验值、物品或其他专属内容的额外奖励。
+**双语俚语解释:**
+_Side Questing_ (边角料任务)
+- 在游戏中，你会遇到一些不是主线剧情，但同样好玩、有趣的小任务或目标 (Side Questing)。完成这些支线任务，可以获得额外的经验值、道具和其他奖励，让你的游戏体验更加丰富多彩。
 ```

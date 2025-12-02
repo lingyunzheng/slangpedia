@@ -1,18 +1,22 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2025-12-01
+date: 2025-12-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# "Bruh" in English and Chinese
-## English
-**"Bruh"** is a casual interjection used to express a wide range of emotions, from confusion or disbelief to agreement or surprise. It's commonly used among friends or in informal settings. The word is often accompanied by non-verbal cues or other words to further convey the sentiment. "Bruh" is derived from "bro" (short for "brother"), but tends to be used more broadly without the close-knit sense of the relationship implied by "bro."
-- **Example:** "Bruh, how did you know about this?!"
-## 中文
-**"Bruh"** 是一个常用的俚语表达，用于传达惊讶、困惑或同意等多种情绪。这词通常用于朋友间或非正式场合，有时候后面还会跟上肢体语言或其他词汇来进一步表达情感。"Bruh" 源自 "bro"（意为 "brother"），但使用上更为广泛，并未包含像 "bro" 那样亲密的关系暗示。
-- **例句:** "Bruh，你怎么知道这件事？！"
+# Bruh (俚语解释)
+## 中文解释
+“ bruh ”实际上是英文中的一个非正式词汇，用来吸引注意或表达轻蔑、沮丧或夸张情感等。在中国，它通常用于表示无语或无奈的状态，也可以用于表达惊讶或好奇的情绪。
+例句：
+- 好吧，你真的能行吗？ **中文**: 真TM行，好吧，你真的能行吗？  
+- 啥情况？ **中文**: 哎呀，bruh，啥情况？
+## 英文解释
+"Bruh" is a casual English term used to grab attention or express disdain, frustration, or exaggeration. It can be used to convey feelings of surprise, disbelief, or to express being fed up or frustrated. The term is often used in a conversational or informal tone.
+Examples:
+- "Wow, you really did it?" **Original**: Bruh, you really did it?
+- "What's going on?" **Original**: Bruh, what's going on?
 ```

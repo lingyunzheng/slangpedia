@@ -1,22 +1,17 @@
 ---
 title: "What Does 'deadass' Mean? (deadass 是什么意思？)"
 slug: "what-does-deadass-mean"
-date: 2025-12-01
+date: 2025-12-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## deadass
-### English
-- **Definition:** A hyperbolic or humorous way to describe something or someone who is extremely or totally something, often used to emphasize a point or affect expression.
-- **Example Sentences:**
-- "That new flavor of ice cream is deadass delicious!"
-- "He's deadass tired after the marathon."
-### 中文
-- **定义：** 一种充满幽默感或夸张的方式来描述某人或某物极其或完全某种状态，常用于强调某个观点或表达某种情绪。
-- **例句：**
-- “这款新口味冰淇淋是绝了，超级好喝！”
-- “参加完马拉松他累得要死，完全废了！”
+## "deadass" - 苦逼死滴
+**English Explanation:**
+- **deadass**: This slang term is often used to describe someone who is extremely serious, intense, or focused, to the point of being robotic or expressionless. It can also be used to suggest that someone is so engrossed in a task or situation that they are not paying attention to what is going on around them.
+**Traditional Chinese Explanation:**
+- **苦逼死滴 (kǔ bī sǐ dī)**: 这个俚语用来形容一个人非常严肃、专注，以至于有些机械或表情木讷。也可以表示某个人沉浸于某项任务或情境中，以至于忽视了周围的环境。
 ```
+This explanation provides a comprehensive understanding of both the term "deadass" in English and its equivalent in Chinese, capturing the nuances of its usage.

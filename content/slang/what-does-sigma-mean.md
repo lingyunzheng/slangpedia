@@ -1,19 +1,18 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2025-12-01
+date: 2025-12-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sigma (Σ)
-### English
-**Meaning**: Refers to a variable or placeholder commonly used in math or programming. Think of it as a placeholder or a symbol used in various formulae and equations, often representing a sum or a total.
-*Example*: "We can use sigma to sum up all the elements in a sequence."
-### 中文
-**含义**：指数学或编程中常用来表示变量或占位符的一个符号。把它想象成一个在各种公式和方程式中使用的占位符或符号，常用来表示总和或总计。
-*例句*：“我们可以用 sigma 来求一个序列中所有元素的和。”
-```
+# Sigma
+## English
+**Meaning**: Often used to describe a situation, a person, or an action that is perfectly aligned, well-organized, and precise.
+**Example**: "His plan was sigma, down to the last detail."
+## Chinese
+**意思**：通常用来形容一种完美契合、井井有条和精确无误的情况、人或行为。
+**示例**："他的计划非常sigma，每个细节都考虑周全。"
 ```

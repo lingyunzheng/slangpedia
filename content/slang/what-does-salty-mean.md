@@ -1,19 +1,19 @@
 ---
 title: "What Does 'salty' Mean? (salty 是什么意思？)"
 slug: "what-does-salty-mean"
-date: 2025-12-01
+date: 2025-12-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 苦手 (kǔ shǒu) - Salty
-### English Explanation:
-**Salty**: This term is used to describe someone who shows an excessive or disproportionate response to something perceived as negative or unfair, often feeling bitter or resentful. It can also imply that someone is taking criticism or feedback personally in a way that is seen as overly emotional or irrational.
-### 中文解释:
-**苦手 (kǔ shǒu)**: 这个词用来形容某人对某种负面或不公平的情况表现出过分或不成比例的反应，通常感到苦涩或怨恨。它也可以暗示某人过于情绪化或不合理地对待批评或反馈。
-### Example Usage:
-- **English**: "John got salty when his team didn't recognize his hard work, and he started complaining loudly."
-- **中文**: "约翰在团队没有认可他的辛勤工作时变得非常苦手，开始大声抱怨。"
+## Salty (咸鱼, Xián Yú)
+### English:
+**Salty**: This is a slang term often used to describe someone who is feeling bitter, jealous, or overly upset about a situation. It can also describe someone who is making sarcastic or snide remarks. The term gets its name from the image of a "salty" or "spoiled" fish, which doesn't taste good and is generally unpalatable, just like a person's depressed or angry state.
+### Simplified Chinese:
+**咸鱼 (Xián Yú)**: 这个词通常用来形容心情恶劣、嫉妒或者对某事过度沮丧的人。这个词也可以用来形容一个人在说讽刺或挖苦的话。这个术语的名字来源于咸鱼，咸鱼不新鲜，不好吃，就像一个情绪低落或者生气的人一样。
+### Context Example:
+English: "Wow, why is Alex so salty about losing the game?"
+Chinese: 哇，亚历克斯在输掉比赛后为什么会这么咸鱼呢？
 ```

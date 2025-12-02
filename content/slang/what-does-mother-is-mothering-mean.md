@@ -1,19 +1,22 @@
 ---
 title: "What Does 'mother is mothering' Mean? (mother is mothering 是什么意思？)"
 slug: "what-does-mother-is-mothering-mean"
-date: 2025-12-01
+date: 2025-12-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## "mother is mothering"
+## Mother is Mothersing (noun phrase)
 **English:**  
-When someone is "mothering" another person, they are showing them a lot of care, attention, and nurturing, often in a way that makes someone feel safe and looked after. It's like when a mother takes care of her child, protecting and soothing them.
-**Chinese:**
-当某人“mothering”另一个人时，他们表现出了大量的关怀、关注和养育行为，常常使对方感到安全和照顾。这就像母亲照顾孩子时的呵护和安抚行为一样。
-例句：
-- English: "Since she broke up with her boyfriend, her best friend has been constantly mothering her, which really helps her feel supported."
-- Chinese: "自从她和男友分手后，她最好的朋友一直在不断提供母亲般的照顾，这真的让她感到得到了支持。"
+When someone is being very nurturing and caring towards another person, especially in a motherly way. It means showing a lot of affection and concern for someone, often making sure they are taken care of properly.
+**Simplified Chinese + Pinyin:**  
+当某人对另一个人表现出非常呵护和关心，特别是在一种母性的方式下。这意味着对别人表现出很多关爱和关心，通常确保他们得到妥善照顾。
+**Example Usage:**  
+- I felt really relieved when my aunt mothered me through those difficult times. (Wǒ tèbié liǎnhuī de rúguǒ wǒ de qī tóu mò捨母了我度过那些艰难的时期。)
+**English Slang Explanation:**  
+- It's like someone is giving you the "mother-hen" treatment, where they are fussing over you, ensuring you eat well, sleep well, and overall have a good experience.
+**Simplified Chinese + Pinyin:**  
+- 这就像有人在给你“母鸡”待遇，会对你嘘寒问暖，确保你吃得饱、睡得好，总体上有一个好的体验。
 ```

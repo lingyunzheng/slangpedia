@@ -1,22 +1,24 @@
 ---
 title: "What Does 'cooked' Mean? (cooked 是什么意思？)"
 slug: "what-does-cooked-mean"
-date: 2025-12-01
+date: 2025-12-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English: Cooked
-### Chinese: 烧烤 (Shāokǎo) / 炸开 (Zhá kāi)
-**Explanation:** 
-In both English and Chinese, "cooked" can mean something is "finished" or "completed." However, the slang interpretation in English can expand to mean that someone or something has been dealt with in such a way that they are now in a mess or defeated. 
-- **English Example:** "He tried to cheat on the test but got caught. Now, he's cooked."
-- **Chinese Example:** "他考试作弊被抓了，现在可惨了。" (Tā kǎoshì zhúpì bèi zhuōle, xiànzài kěcánle.) -> He tried to cheat on the test but got caught. Now, he's cooked.
-In the Chinese slang context, "烧烤" (shāokǎo, literally "grilled") and "炸开" (zhá kāi, literally "blown apart") are hyperbole phrases that describe a situation where someone or something has been "cooked" or "finitied" in a poor or ruined state, metaphorically similar to an item being grilled to the point of being seriously charred or someone being left in a bad state.
-**Relevant Alternative Phrases:**
-- **English:** Burned / Broiled
-- **Chinese:** 烧焦 (Shāojiāo) - Burned to a crisp
-- **英语:** 烫手 (Tàng shǒu) - Hot potato (used more commonly to describe a difficult or embarrassing situation)
+## 英文 slang: cooked
+- **Meaning:** Finished, resolved, or completed.
+- **解释:** 完成了，解决了，或者结束了。
+### Examples:
+- "I finally got a place to live, I'm so cooked!"
+- "最后我终于找到了住的地方，我现在可以说是万事大吉了！"
+## 中文 slang: 煮熟了 (zhُu**shū liǎo)
+- **Meaning:** Figuratively means something that is done or completed; often used to suggest it's too late to change or fix.
+- **解释:** 形容某事已经完成或解决，有时用来表示已经来不及改变或补救。
+### Examples:
+- "我已经煮熟了，别想让我改变主意。"
+- "我已经万事俱备，你别想打乱我的计划。"
 ```
+These explanations provide a way to understand and use both the English and Chinese slang terms "cooked" and "煮熟了" in context.
