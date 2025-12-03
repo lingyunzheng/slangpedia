@@ -1,18 +1,20 @@
 ---
 title: "What Does 'real' Mean? (real 是什么意思？)"
 slug: "what-does-real-mean"
-date: 2025-12-02
+date: 2025-12-03
 tags:
 - slang
 - internet
 - tiktok
 ---
+Sure, here are the bilingual slang explanations for "real" in Markdown format:
 ```markdown
-# Slang Explanation: "Real"
-**English:**
-- **Definition:** Something that is genuine, authentic, or not fake. "Real" can also be used to describe someone or something as serious, impactful, or truthful.
-- **Example Usage:** "This brand is real and not a knock-off."
-**Chinese:**
-- **释义:** "真的" 表示某事物是 genuine、authentic 或是真实的，而不是假的。"Real" 还可以用来形容某人或某事物是严肃的、有影响力的或真实的。
-- **例句:** "这个品牌是 real 的，不是仿制品。"
+## Real
+- **English**: 
+- In informal or slang contexts, "real" can mean something that is authentic, serious, or genuine. It can also be used to emphasize the intensity or genuineness of something.
+- Example: "That's real spectacular!" (That's genuinely impressive.)
+- **Chinese**: 
+- 在非正式或俚语的语境中，"real" 可以表示某事物是真实的、认真的或真诚的。它也可以用来加强某事物的强度或真实性。
+- 例句：那真是精彩绝伦！(That's genuinely impressive.)
 ```
+Feel free to let me know if you need any more detailed examples or additional slang uses!

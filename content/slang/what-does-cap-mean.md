@@ -1,19 +1,18 @@
 ---
 title: "What Does 'cap' Mean? (cap 是什么意思？)"
 slug: "what-does-cap-mean"
-date: 2025-12-02
+date: 2025-12-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Cap
-**English:** 
-- *Definition:* To be dismissed or caught off guard, often in a humorous or lighthearted way.
-- *Example:* "Jerry tried to prank his friend but got capped instead. Now he's capped lol."
-**Chinese:**
-- *定义:* 被打倒或者被捉弄，通常以一种幽默或轻松的方式。
-- *例句:* 杰瑞试图给朋友一个惊喜，结果却被捉弄了。现在他状态jb malfunction了，哈哈哈。
+# Cap (英 / 美)
+**英:** Cap (noun or verb)
+- **As a noun:** Can refer to something that is final or conclusive, often used to acknowledge that someone knows more than you about a topic. Example: "That's a cap, bro."
+- **As a verb:** Is used similarly to indicate that someone has final knowledge or authority on a topic. Example: "That's the cap on it, I'm not talking about it anymore."
+**美:** Cap (名词或动词)
+- **作为名词:** 可以指某事是最终的或结论性的，常用来承认某人比你更了解某个话题。例如：“That's a cap, bro.”
+- **作为动词:** 使用方法类似，表示某人对某个话题拥有最终的了解或权威。例如：“That's the cap on it, I'm not talking about it anymore.”
 ```
-Note: "jb malfunction" is a humorous way to express being “capped” in Chinese internet slang, meant to be lighthearted and not taken too seriously.

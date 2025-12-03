@@ -1,16 +1,19 @@
 ---
 title: "What Does 'slaps' Mean? (slaps 是什么意思？)"
 slug: "what-does-slaps-mean"
-date: 2025-12-02
+date: 2025-12-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Slaps
-**English Explanation:**
-"Slaps" is a casual term used to describe a type of attack that involves quick, forceful strikes with the hand. It can be used in both literal and metaphorical contexts. For instance, "slaps" in a literal sense might refer to someone physically striking another person with their hand. Metaphorically, it could mean giving someone a verbal or emotional "hit" to their feelings or ego. 
-**Chinese Explanation:**
-"slaps" 是一个常见的俚语，用来描述用手迅速有力地打击的动作。它既可以用字面意义，也可以用比喻意义。字面上的“slaps”可能指某人用拳头击打另一个人。比喻意义下，“slaps”则可能指的是给某人一个口头或是情感上的“打击”。
+## English: Slaps
+### Definition: Slaps
+- **Explanation:** A physical act of striking someone with an open hand, usually on the face or behind the ears, to express frustration, anger, or to break up a fight.
+- **Example Usage:** "He got so mad at the teammate for messing up the play that he gave him a couple of slaps."
+## 中文: Slaps
+### 定义: 拍
+- **解释:** 用手掌拍打某人，通常拍在脸上或耳后，用以表达愤怒、不满，或是为了打断争斗。
+- **例句:** "当队友在比赛中搞砸了一个配合后，他因为愤怒给了对方几巴掌。"
 ```

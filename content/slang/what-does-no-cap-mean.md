@@ -1,16 +1,19 @@
 ---
 title: "What Does 'no cap' Mean? (no cap 是什么意思？)"
 slug: "what-does-no-cap-mean"
-date: 2025-12-02
+date: 2025-12-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## No Cap
-**English:**
-- No Cap: This phrase is used to emphasize that what is being said is literally and absolutely true. It's often used to confirm that there are no hidden meanings or exaggerations in the statement. This term originally comes from hip-hop culture and has gained widespread use in modern slang.
-**Chinese:**
-- No Cap: 这个词用来强调所言之事是绝对真实的，并且没有隐含的意思或者夸张的说法。它起源于嘻哈文化，现在在现代俚语中被广泛使用。
+## English Slang: No Cap
+### Meaning
+"No cap" is used to confirm that something is 100% true or genuine. It originated in the hip-hop and rap culture and is used to denote honesty or authenticity.
+### Usage Example
+"Did you really get that promotion? No cap, your hard work paid off!"
+### Chinese Equivalent
+- **含义**: "No cap" 用来确认某事是百分之百真实或真实的。它起源于hip-hop和说唱文化，用于表示诚实或真实性。
+- **使用示例**：你真的晋升了？No cap，你的努力得到了回报！
 ```

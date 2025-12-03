@@ -1,16 +1,23 @@
 ---
 title: "What Does 'slay' Mean? (slay 是什么意思？)"
 slug: "what-does-slay-mean"
-date: 2025-12-02
+date: 2025-12-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Slay (verb)
-**English:**  
-Slay is a slang term used to describe someone or something that is extremely effective, impressive, or impressive in a way that they completely dominate a situation. It often implies that the person or thing is successful, powerful, or victorious in a given context. For example, "She slayed her presentation today!"
-**Chinese:**  
-" slay " 这个俚语用来形容某人或某物极其有效、令人印象深刻，或者以一种完全掌控局面的方式表现出色。它通常表示一个人或事物在一个特定的背景下是成功的、强大的或胜利的。例如，“她今天的演讲简直棒极了！”
+## Slay (English - 斩獲 / 蛇蝎)
+**English:** Slay:  
+To absolutely dominate, knock out, or make someone so impressed that they are left speechless. It's the act of doing something exceptionally well, leaving nothing to be desired.
+**Chinese (Simplified - 斩獲):** 斩獲:  
+这个词常用来形容一个人在某个比赛中取得了非常出色的成绩，或者在某个方面表现得极其出色，让人们感到惊叹和钦佩，就像是在战斗中斩首一样快准狠。
+**Chinese (Traditional - 蛇蝎):** 蛇蝎:  
+這個俚語常被使用在形容有著令人驚艷或敬畏表現的人或事物。如同蛇蝎一樣，既毒辣又引人注目，常常能引起他人的驚奇與趨之若鶩。
+---
+Example:
+- **English:** She totally slayed her dance routine at the recital!
+- **Chinese (Simplified):** 她在汇报表演中的舞蹈完全吊帅！
+- **Chinese (Traditional):** 她在匯報表演中的舞蹈完全帥呆了！
 ```

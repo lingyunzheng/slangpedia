@@ -1,24 +1,21 @@
 ---
 title: "What Does 'glowed up' Mean? (glowed up 是什么意思？)"
 slug: "what-does-glowed-up-mean"
-date: 2025-12-02
+date: 2025-12-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English: Glowed Up
-### Definition
-When someone looks or feels much more attractive or impressive after a change or improvement.
-### Example
-After her trip to the salon and buying some new outfits, she completely glowed up for the wedding.
-### Chinese: 超级脱单 (Chuāng jī tū duān)
-### Translation
-"超级脱单" literally translates to "super great in love/freed from singles status," but it's used as an equivalent slang term for "glowed up." This phrase implies that someone looks or feels extremely attractive or captivating after a makeover or positive change.
-### Example
-她这次聚会前去掉了单身狗的标志，打扮得超级脱单，真是焕然一新！
-（她这次聚会前去掉了单身狗的标志，打扮得超级脱单，真是焕然一新！）
-She removed the matchmaking dog collar before the gathering and looked super great, truly glowing up!
+## Glowed Up
+**English:**  
+"Glowed up" is a slang term used to describe someone who looks much better or more attractive than they did previously. It can also refer to a significant improvement in someone's appearance, mood, or overall vibe.
+**Chinese:**  
+"Glowed up" 是一个俚语，用来形容某人看起来比以前更好看或更具吸引力。它也可以指一个人在外貌、情绪或整体氛围上有了显著的提升。
+例句：  
+- English: She totally glowed up after her hair and makeup got fixed!  
+- Chinese: 她的妆发整好了以后，整个人都焕发了新的光彩！
+- English: He glowed up so much after losing weight.  
+- Chinese: 他减重后，整个人的精神都好了很多。
 ```
-This comparison illustrates both the English phrase and its equivalent Chinese slang, providing context and usage.

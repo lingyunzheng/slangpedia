@@ -1,25 +1,18 @@
 ---
 title: "What Does 'frfr' Mean? (frfr 是什么意思？)"
 slug: "what-does-frfr-mean"
-date: 2025-12-02
+date: 2025-12-03
 tags:
 - slang
 - internet
 - tiktok
 ---
-Sure, here is a markdown format with bilingual slang explanations for "frfr".
 ```markdown
-# Slang Explanation: frfr
-**English:** Frfr
-- **French:** Frfr
-## Meaning
-- **English:** "FRENCH FRENCH." This phrase is often used humorously to highlight someone's strong French accent or their untranslatable French slang, emphasizing the incomprehensibility of their speech due to cultural idioms or dialects.
-- **French:** "FRENCH FRENCH." Phrase utilisée de manière humoristique pour mettre en évidence un fort accent français ou pour souligner des termes de slang français que les autres ne comprennent pas du tout, en raison de blagues culturelles ou de dialectes.
-## Usage Examples
-- **English:** "Oh man, his frfr is so thick, I could barely understand a word he said!"
-- **French:** "Oh mon dieu, son frfr est si épais, j'ai presque rien compris de ce qu'il a dit !" 
-## Related Terms
-- **English:** French phrase, French accent, French slang
-- **French:** Phrase française, accent français, jargon français
+## French Slang Explanations
+### frfr
+- **Meaning**: "frfr" is an internet acronym for "friendfriend". It is used to indicate that someone is a very good friend or a close buddy.
+- **Example**: 
+- **French**: "Jean et Marie sont de vrais frfr, ils passent tout leur temps libre ensemble."
+- **English**: "Jean and Marie are true frfr, they spend all their free time together."
 ```
-Feel free to adjust the content as needed!
+This explanation covers the meaning and usage of the French slang "frfr" in both French and English.

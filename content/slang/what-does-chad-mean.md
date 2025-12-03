@@ -1,17 +1,16 @@
 ---
 title: "What Does 'chad' Mean? (chad 是什么意思？)"
 slug: "what-does-chad-mean"
-date: 2025-12-02
+date: 2025-12-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Chad (英汉双解俚语)
-- **English**: Chad is often used to describe a person who is overly muscular, socially awkward, and into fitness or bodybuilding. It's a derogatory term that suggests the person is overcompensating with their physical appearance and behavior.
-- **中文**: "Chad" 常用来描述一个过分肌肉发达、社交笨拙且热衷于健身或健美的个人。这通常是一个贬义词，暗示这个人在试图通过外貌和行为来弥补什么。
-Usage example:
-- In English: "He’s so chad, it’s like he’s trying too hard."
-- 在中文中：他好 chad，看上去像是刻意表现自己一样。
+## Chad
+### English
+A term used to describe a person who is considered to be overly masculine or athletic, often portraying a stereotypical image of a "manly man." This persona might involve excessive fitness, a tough exterior, or particular fashion choices that align with a traditional masculine ideal.
+### Chinese
+一个用来形容被认为过于阳刚或健壮的人的术语，通常呈现出一种典型的“男子汉”形象。这种形象可能包括过度的健身、强硬的外表，或者与传统阳刚之气相符的特定着装选择。
 ```

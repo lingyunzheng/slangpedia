@@ -1,17 +1,18 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2025-12-02
+date: 2025-12-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Delusion Arc (Delusional Arc)
-**中文解释：**
-"幻觉弧线"，通常用来描述一个人的行为或想法远偏离现实，处于一种自我编织的幻想世界中。这种情况可能是因为精神健康问题、药物影响、或是某种特定的强烈的个人信念。在日常口语中，这个短语用来形容那些过于理想化或不切实际的想法和行为。
-**英文解释:**
-"Delusion Arc" refers to a trajectory of behavior or thought that is significantly removed from reality and immersed in one's own fabricated fantasies. This situation can be due to mental health issues, the influence of drugs, or a very strong personal conviction. In everyday speech, this phrase is used to describe overly idealized or unrealistic thoughts and actions.
+## Delusion Arc
+**中文解释**: 梦境；幻觉弧
+- **背景**: 通常与心理学或科幻领域相关，指一个人的思维或感知进入了一种虚构或幻想的状态。
+- **例子**: "自从那件事之后，他整个人陷入了自我制造的 delusion arc，再也无法理清现实和虚构的界限。"
+**英文解释**: Delusion Arc
+- **Background**: Typically associated with psychology or science fiction, it refers to a state where a person's thoughts or perceptions have entered a realm of imagination or fantasy.
+- **Example**: "Ever since that incident, he has been stuck in a delusion arc, unable to distinguish between reality and fiction."
 ```
-This markdown format provides a clear comparison between the Chinese and English slang explanations, making it easy for users to understand and reference.
