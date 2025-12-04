@@ -1,18 +1,22 @@
 ---
 title: "What Does 'maxxing' Mean? (maxxing 是什么意思？)"
 slug: "what-does-maxxing-mean"
-date: 2025-12-03
+date: 2025-12-04
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Maxxing
-## English
-**Meaning:** "Maxxing" is a slang term often used to describe the act of pushing something or someone to the absolute limit, or to the point of exhaustion. It can be applied to physical effort, stress, or even in a more abstract way, such as the intensity of a challenge.
-**Example:** "After maxxing the gym for three straight hours, I was too exhausted to cook dinner."
-## 中文
-**含义:** "Maxxing" 是一种俚语，常用来说某人或某事被推到了极限，或是达到了极度疲惫的程度。它可以用于体力上的极限挑战，精神上的压力，甚至是一种挑战的激烈程度。
-**例句:** "经过三个小时的极限锻炼，我已经累到不想准备晚餐了。"
+# English: Maxxing
+## Definition
+To achieve the highest level or peak performance in an activity, often used in reference to sports, gaming, or any competitive scenario. It can also imply pushing something or someone to their absolute limits.
+## Example
+"I really need to up my game if I want to max out my score in this tournament."
+---
+# 中文: Maxxing
+## 释义
+达到某种活动的最高水平或最佳表现，通常用于体育、游戏或任何竞争场景中的描述。也可以指推动某人或某物达到极致状态。
+## 示例
+“如果想在比赛中达到最高分，我确实需要提升我的状态。”
 ```

@@ -1,21 +1,24 @@
 ---
 title: "What Does 'touch grass' Mean? (touch grass 是什么意思？)"
 slug: "what-does-touch-grass-mean"
-date: 2025-12-03
+date: 2025-12-04
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English: Touch Grass
-### Chinese: 触草
-**Explanation:** "Touch grass" is an American slang phrase primarily used to indicate a change in one's stance or beliefs, especially ones that have been very strong or firmly held. It's often used humorously or in a self-deprecating manner. For example, if someone used to strongly oppose a policy but then changed their mind, they might say, "I now touch grass on that policy."
-In Chinese, "触草" (chù cǎo) is a playful reinterpretation of "touch grass," suggesting a "touching" or change in behavior or beliefs, often in a lighthearted or self-mocking way. It's used similarly to express a significant change in one's views or actions.
-**Example Usage:**
-- **English:** "I used to think tattoos were the devil's work, but now I touch grass on that."
-- **Chinese:** "我以前觉得文身是魔鬼的工作, 但现在我在这方面有所转变了。" (Wǒ yǐqián juédé wénshēn shì mìguǐde gōngzuò, nǐ xiàoniàn wǒ zài zhèkǒu yǒu suǒzhuǎnyì le.)
-**Literal Meaning:**
-- **English:** No literal meaning.
-- **Chinese:** No literal meaning. The term is used metaphorically.
+## English: touch grass
+### Bilingual Slang Explanation
+**English:**  
+To fail, particularly in a noticeable or embarrassing way; to admit defeat. This expression is often used in informal settings, particularly in sports or other competitive scenarios when someone malfunctions or fails spectacularly.
+**Chinese:**  
+在草地上摩擦。通常用于在比赛或其他竞争场合失败得非常惨烈或尴尬时，承认自己失败或退出竞争。这种表达多出现在非正式场合。
+### Example Sentences
+**English:**
+1. He almost touched grass in the final leg of the race.
+2. She touched grass when she couldn't complete the project on time.
+**Chinese:**
+1. 在比赛的最后一棒中，他差点就要“在草地上摩擦”了。
+2. 当她未能按时完成项目时，她算是“在草地上摩擦”了。
 ```

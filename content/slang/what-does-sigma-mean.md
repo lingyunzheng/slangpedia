@@ -1,7 +1,7 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2025-12-03
+date: 2025-12-04
 tags:
 - slang
 - internet
@@ -9,10 +9,12 @@ tags:
 ---
 ```markdown
 # Sigma (Σ) Slang Explanations
-## English
-**Sigma**: In gaming communities, this term can be used as a shorthand for someone who is skilled, particularly in strategy games or complex games requiring nuanced play. It's similar to saying "pro" or "elite player."
-Example: "Wow, that Sigma player is killing it in the battle royale!"
-## 中文
-**sigma**: 在游戏圈里，这个词常被用来指代技术高超、尤其在策略游戏或需要精妙操作的游戏中的高手。类似于说“职业玩家”或“顶级玩家”。
-例句: "哇，那个sigma玩家在吃鸡游戏里真是碾压对手！"
+## In English
+**Sigma** is often used to refer to a particularly skilled or knowledgeable individual, especially in a field of programming or data science. It's a way to describe someone who's extremely proficient and can execute complex tasks with ease.
+**Example:**
+- "That's why he's called a sigma guy; he can solve any coding problem in no time!"
+## In Chinese
+**Sigma** 通常用来指那些在编程或数据科学领域特别有技能和知识的人。这是一种形容某人非常熟练，能够轻松完成复杂任务的方式。
+**例句:**
+- “他被叫做sigma哥，因为他能瞬间解决任何编程问题！”
 ```

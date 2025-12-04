@@ -1,16 +1,17 @@
 ---
 title: "What Does 'chad' Mean? (chad 是什么意思？)"
 slug: "what-does-chad-mean"
-date: 2025-12-03
+date: 2025-12-04
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Chad
-### English
-A term used to describe a person who is considered to be overly masculine or athletic, often portraying a stereotypical image of a "manly man." This persona might involve excessive fitness, a tough exterior, or particular fashion choices that align with a traditional masculine ideal.
-### Chinese
-一个用来形容被认为过于阳刚或健壮的人的术语，通常呈现出一种典型的“男子汉”形象。这种形象可能包括过度的健身、强硬的外表，或者与传统阳刚之气相符的特定着装选择。
+# Chad
+**English:** A slang term often used to describe someone who is out of touch, overly confident, or awkwardly successful, especially in sports or gym cultures. It can also imply that someone is trying too hard to be impressive or attractive.
+**Chinese:** 帅逼（“Chāobī”），这是一个网络流行语，用来形容那些与实际表现不符、过于自信或者在健身房、运动场等场合中过度炫耀自己的人。这个词经常用来批评那些试图过于展现自己或显得过分自信的人。
+Example Usage:
+- In English: "He's such a chad, always working out and talking about how fit he is."
+- In Chinese: "他就是一个帅逼，总是健身还老是炫耀自己的身材。"
 ```

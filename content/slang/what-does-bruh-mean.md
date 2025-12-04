@@ -1,15 +1,16 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2025-12-03
+date: 2025-12-04
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Bruh (英/美英语)
-**英語解释:** *Bruh* 是一种流行在网络文化中的叹息词或惊叹词，类似于“man”、“nah”、“yo”等表达。它通常用于表示惊讶、困惑、轻蔑或强调某事物的重要性。它可以替代许多表达感叹或延长语气的词语，且在对话中通常省去元音，形成一种似凊脆的拖音效果。
-**美式英语解释:** "Bruh" is a common interjection used in internet and social media culture, often replacing phrases like "man," "nah," or "yo." It's used to express surprise, confusion, derision, or to emphasize something. Similar to how other interjections work, "bruh" adds a conversational flair and can be used to extend or alter the tone of the speaker's voice. It's often written with the "uh" sound omitted, creating a rapid, almost flippant pronunciation.
+## Bruh (布卢)
+### English Explanation
+"Bruh" is a versatile interjection commonly used in online and casual speech to express a wide range of sentiments, from exasperation and confusion to agreement or surprise. Its usage often depends on context. The origin is somewhat unclear, but it gained prominence in the early 2000s among internet users.
+### Chinese Explanation
+"Bruh" 是一个在在线和随意对话中广泛使用的感叹词，可以表达多种情感，从厌烦、困惑到同意或惊讶。它的用法很大程度上依赖于语境。它的起源尚不完全清楚，但这一词在2000年初在网上用户间流行起来。
 ```
-If you plan to use this in a presentation or document, this markdown style allows for easy readability and formatting.

@@ -1,7 +1,7 @@
 ---
 title: "What Does 'girlboss' Mean? (girlboss 是什么意思？)"
 slug: "what-does-girlboss-mean"
-date: 2025-12-03
+date: 2025-12-04
 tags:
 - slang
 - internet
@@ -10,7 +10,7 @@ tags:
 ```markdown
 # Girlboss
 ## English
-**Girlboss**: This term is often used to describe a strong, independent, and highly successful woman who is in control of her own career and business. It's a term that emphasizes confidence, entrepreneurial spirit, and the ability to take charge. Think of the characters in shows like "Girl Boss" or in the book "Girl, Wash Your Face," where women take active roles and lead their own ventures with determination.
+**Girlboss**: A colloquial term often used to describe a confident, successful, and savvy female entrepreneur or business leader. The term gained popularity through a memoir of the same name by Sophia Amoruso, who also starred in the Netflix series *Orange is the New Black*.
 ## Chinese
-**Girlboss**: （女强人）这个词用来描述一个强大、独立且非常成功的女性，她在自己的职业生涯或事业中掌控全局。这个词强调自信、创业精神和领导力。类似于《Girl Boss》这部剧中的角色，或是《Girl, Wash Your Face》这本书中的女性，她们以坚定的决心领导自己的事业。
+**Girlboss**: （美俚）指自信、成功的女性企业家或商业领导者。这个词因索菲亚·阿莫洛索的自传《Girlboss》而广为人知，她也出演了Netflix的电视剧《权力的游戏》的衍生剧《橙色是新的灰色》。
 ```

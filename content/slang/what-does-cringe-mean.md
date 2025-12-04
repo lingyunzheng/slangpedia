@@ -1,25 +1,22 @@
 ---
 title: "What Does 'cringe' Mean? (cringe 是什么意思？)"
 slug: "what-does-cringe-mean"
-date: 2025-12-03
+date: 2025-12-04
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Cringe (中文: 坑爹)
-**English**: Cringe is a term used to describe something or someone that is awkward, embarrassing, or offensively socially unacceptable. It can also be used to express strong disapproval or disgust in a sarcastic way. 
-**Chinese**: 坑爹 (pǐ dī) is a colloquial term in Chinese that describes something or someone that is extremely awkward, embarrassing, or socially out of line. It can also be used similarly to express strong disapproval or disgust in a sarcastic manner.
-Example:
-- **English**: That dance performance was cringe-worthy.
-- **Chinese**: 那个舞蹈表演真是坑爹，尴尬极了。
-```
-```markdown
-# Cringe (中文: 打_spaces_inwords)
-**English**: Cringe is a term used to describe something or someone that is awkward, embarrassing, or offensively socially unacceptable. It can also be used to express strong disapproval or disgust in a sarcastic way.
-**Chinese**: 打空格 (dǎ kòng gé) is a playful way of inserting spaces into words to make them seem nonsensical or embarrassing, often used in similar contexts to express disapproval. It creates a humorous or mocking effect.
-Example:
-- **English**: His attempt at humor was cringe.
-- **Chinese**: 他的幽默尝试真是 打空格 ，让人觉得尴尬极了。
+# Cringe
+## English
+"Cringe" is a slang term often used to describe something or someone that is so embarrassing, awkward, or off-putting that it elicits an involuntary cringe or shudder from the observer. It's commonly used to criticize behavior, comments, or situations that are seen as absurd, uncool, or poorly executed.
+**Example Usage:**
+- "Their attempt at a dance routine was so bad, it was cringe."
+- "When he said cats are smelly, it was just cringe and not very factual."
+## Chinese
+“Cringe”是俚语，常用来形容某些令人尴尬、别扭或不合时宜的行为、评论或情境，以至于观察者会不由自主地产生一种皱眉或颤抖的感觉。它通常用来批评那些被认为是荒谬、不酷或执行不力的行为。
+**使用例句：**
+- “他们的舞步实在烂到让人觉得尴尬，简直是在cringe。”
+- “当他宣称猫很臭时，这简直是cringe，而且也不准确。”
 ```
