@@ -1,24 +1,19 @@
 ---
 title: "What Does 'touch grass' Mean? (touch grass 是什么意思？)"
 slug: "what-does-touch-grass-mean"
-date: 2025-12-04
+date: 2025-12-05
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English: touch grass
-### Bilingual Slang Explanation
-**English:**  
-To fail, particularly in a noticeable or embarrassing way; to admit defeat. This expression is often used in informal settings, particularly in sports or other competitive scenarios when someone malfunctions or fails spectacularly.
-**Chinese:**  
-在草地上摩擦。通常用于在比赛或其他竞争场合失败得非常惨烈或尴尬时，承认自己失败或退出竞争。这种表达多出现在非正式场合。
-### Example Sentences
-**English:**
-1. He almost touched grass in the final leg of the race.
-2. She touched grass when she couldn't complete the project on time.
-**Chinese:**
-1. 在比赛的最后一棒中，他差点就要“在草地上摩擦”了。
-2. 当她未能按时完成项目时，她算是“在草地上摩擦”了。
+# "Touch Grass"
+**English Slang Meaning:** 
+"Touch grass" is an informal term used in the United States, primarily among younger generations, to mean getting rid of a bad habit, especially a drug or alcohol habit. It can also imply that someone feels especially remorseful or regretful about a past decision.
+**Chinese Slang Meaning:** 
+"触草"（touch grass）这个俚语主要用在部分年轻人中，用来形容戒掉不好的习惯，尤其是戒毒、戒酒等。同时，它也可以表示一个人对自己的某个过去决定特别后悔或内疚。
+Example in a sentence:
+- English: "You should really touch grass and stop smoking."
+- 中文：你应该真正戒掉抽烟的习惯了。
 ```

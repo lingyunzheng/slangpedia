@@ -1,23 +1,23 @@
 ---
 title: "What Does 'troll' Mean? (troll 是什么意思？)"
 slug: "what-does-troll-mean"
-date: 2025-12-04
+date: 2025-12-05
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Troll (English)
-### Definition
-A troll is someone who intentionally posts inflammatory, extraneous, or off-topic messages in an online discussion forum with the primary intention of provoking负面情绪或引起冲突，有时他们也会为了娱乐而故意发布无关或负面的内容，以此来搅局或引发辩论。
-### Examples
-- "Why did John post that ridiculous comment? He must be a troll trying to start a fight."
-- "Avoid any replies to the comment; it's a troll trying to waste time."
-## 滥/posts汉
-### 定义
-在一个在线讨论论坛中，恶意发布引人反感、离题或无关内容的人被称为“Troll”，目的是煽动负面情绪或引发争论。这些人通常通过发布无关或负面的内容来引发辩论或搅局。
-### 示例
-- “约翰为什么会发那种荒谬的评论？他肯定是想挑起事端的Troll。”
-- “不要回复那条评论；很明显那是一个Troll在浪费时间。”
+# Troll (Literal and Slang)
+## Chinese
+**使用场景**: 网络上无目的的恶作剧或挑衅别人的人。
+**解释**: 本义是指那些在网络上制造混乱、发布无意义或误导性信息的人，为了博取关注或者挑战他人。在更广泛的应用中，它可以指一种故意引起他人愤怒或不适的行为或言论方式。
+**例句**: 
+- 在论坛上看到那些整天发无意义评论的人，真是太像网络管理员所说的“troll”了。
+## English
+**Usage**: A person who posts or says something provocative or nonsensical with no particular purpose, often to elicit a reaction.
+**Explanation**: The term refers to individuals who create chaos online by posting irrelevant or misleading information, with the aim of drawing attention or challenging others. More broadly, it can also refer to behavior or speech that is deliberately intended to provoke an emotional response or discomfort.
+**Example Sentence**:
+- The annoying person who keeps posting random comments on the forum is definitely a "troll" according to the site administrator.
 ```
+This markdown format clearly outlines the usage and meaning of the term "troll" in both Chinese and English, along with example sentences to illustrate the context in which it might be used.

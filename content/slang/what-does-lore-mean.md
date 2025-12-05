@@ -1,24 +1,25 @@
 ---
 title: "What Does 'lore' Mean? (lore 是什么意思？)"
 slug: "what-does-lore-mean"
-date: 2025-12-04
+date: 2025-12-05
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Lore Slang Explanations
+# Slang Explanations: "lore"
 ## English
-### Definition
-- **Definition**: "Lore" is generally defined as information or knowledge accumulated over a long period of time, often in a cultural or traditional context.
-### Slang Explanation
-- **Meaning**: In casual slang, "lore" is often used to describe something that is widely known but perhaps lack substantial proof or a definitive source.
-- **Example**: "The lore about the haunted house in the middle of the woods is pretty wild, but no one has ever seen anything supernatural there."
-## 中文
-### 注释
-- **注释**: "Lore" 基本上是指长时间积累下来的知识或信息，通常存在于文化和传统背景之中。
-### 热门用法
-- **含义**: 在口语中，"lore" 通常用来描述那些虽然广泛流传但可能缺乏有力证据或明确来源的情况。
-- **例句**: "关于森林中央的鬼屋的传说真是丰富多彩，但那里从未有人真正看到过什么超自然的事情。"
+### Meaning
+1. **Old School Knowledge or Tradition**: In a gaming or anime context, "lore" refers to the detailed background information, history, and mythology of a fictional universe. It can include characters, events, settings, and worlds that are part of a particular game or series.
+2. **Insider Language**: In more casual contexts, "lore" can also refer to inside jokes or insider knowledge specific to a particular community or group. It might be used to describe the subtler, less obvious cultural meanings within a specific scene or series.
+### Example Usage
+- "Be sure to catch up on the lore before playing the new expansion pack; it's full of surprises!"
+## Chinese
+### 含义
+1. **旧知识或传统**：在游戏或动漫的背景下，“lore”指的是虚构宇宙中的详细背景信息、历史和神话。它可能包括该系列中的角色、事件、场景和世界。
+2. **内部语言**：在更随意的上下文中，“lore”也可能指的是特定社区或团体中的内部笑话或内部知识。它可能用于描述特定场景或系列中不太显眼的文化意义。
+### 用法示例
+- “在玩新的扩展包之前，记得先搞清楚些背景知识，里面充满了惊喜！”
 ```
+This markdown provides a clear and concise explanation of the term "lore" in both English and Chinese contexts, along with example usages.

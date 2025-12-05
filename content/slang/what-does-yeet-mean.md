@@ -1,25 +1,24 @@
 ---
 title: "What Does 'yeet' Mean? (yeet 是什么意思？)"
 slug: "what-does-yeet-mean"
-date: 2025-12-04
+date: 2025-12-05
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Yeet (英 / 翔 / Yeet)
-### English
-**[Origin]** Originated from the online community, specifically from the videogame "Rocket League" where players used it to describe a successful pass or shot. It has since been adopted into wider slang culture.
-- **Meaning:** To throw, to expel, to discard, or to eject with force. It's often used to express satisfaction or a positive reaction.
-- **Example Usage:** "I just kidsledded past him and yeeted the ball into the goal!"
-### Simplified Chinese
-**[来源]** 起源于网络游戏“火箭联盟”中的玩家用语，用来描述一次成功的传球或射门。之后被广泛应用于更多的网络文化中。
-- **意思:** 拍，扔，抛弃，或强力推出。常用来表达满意或积极的反应。
-- **使用示例:** “我刚滑步过掉他，然后yeeted 球进了！”
-### Traditional Chinese
-**[來源]** 起源於網-league mpg 網路上遊戲「火箭聯盟」中的玩家用語，用來描述一次成功的傳球或射門。之後被廣泛應用於更多的網路文化中。
-- **意義:** 拍，拋，拋棄，或加大力量推出。常用来表達滿意或積極的反應。
-- **使用示例:** 「我剛滑步過掉他，然後yeeted 球進了！」
+# Yeet
+## English Explanation
+"Yeet" is a versatile slang term used to express a variety of actions or sentiments. Originally associated with Thug Life, it gained widespread popularity among many English speakers due to its use in video games, especially among players of the game "Call of Duty." 
+The term can mean:
+- Throwing something
+- Expressing excitement or enthusiasm
+- Rejecting something or someone
+## Chinese Explanation
+"Yeet" 是一个多用途的网络流行语，用来表达各种行为或情绪。最初与 Thug Life 相关，由于其在视频游戏中，特别是在游戏角色“使命召唤”中的使用而广为人知。
+这个词汇可以用来表示：
+- 抛投某物
+- 表示兴奋或热情
+- 拒绝某物或某人
 ```
-This markdown breaks down the term "yeet" into its English and Chinese meanings, providing a clear understanding of its origin and usage.

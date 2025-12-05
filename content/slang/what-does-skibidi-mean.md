@@ -1,18 +1,14 @@
 ---
 title: "What Does 'skibidi' Mean? (skibidi 是什么意思？)"
 slug: "what-does-skibidi-mean"
-date: 2025-12-04
+date: 2025-12-05
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Skibidi
-## English
-**Definition:** Skibidi is an internet meme that originated from a music video. It has evolved into various uses, often related to excitement, celebration, or humor. The term itself is nonsensical and used more for its sound than its meaning.
-**Example:** "We won the game! Skibidi! Finally, some good news!"
-## 中文
-**定义：**Skibidi 是一个网络梗，源自一首音乐视频。它已经被用于多种用途，通常与兴奋、庆祝或幽默相关。这个词语本身没有实际意义，主要是因为它的发音。
-**示例：** "我们赢了比赛！Skibidi！终于有好消息了！"
+# Skibidi: 苏必帝 (Sū Bì Dì)
+**English**: "Skibidi" is a colorful, often humorous slang term. It can be used in various contexts to express surprise, excitement, or as a filler word, similar to "yeah" or "uh-huh" in casual speech. Its exact origin isn't clear, but it has become popular through social media and internet culture.
+**Chinese**: "苏必帝" (Sū Bì Dì) 是一种充满色彩且通常具有幽默感的俚语。它可以用于多种情景，用来表达惊讶、兴奋，或作为填充词，类似于俚语中的“yeah”或“uh-huh”。虽然其确切来源尚不清楚，但这个词已经通过社交媒体和网络文化变得流行起来。
 ```

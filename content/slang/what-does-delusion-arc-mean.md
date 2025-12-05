@@ -1,24 +1,16 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2025-12-04
+date: 2025-12-05
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Delusion Arc (Delusional Loop)
-**中文解释：**
-“Delusion Arc”是指一个人处于一种自以为是的妄想状态，无法接受现实，持续坚持一种不切实际的想法或信念。这种状态就像是进入了一个迷宫，每一步都让这个人更深地陷入自己的幻想中，无法自拔。
-**英文解释：**
-A "Delusion Arc" refers to a person who is in a state of self-delusion, unable to accept reality and persisting in a unrealistic idea or belief. This condition is like entering a maze where each step further entangles the person in their fantasies, making it hard to break free.
----
-### Example Scenarios
-**中文示例：**
-1. 小李一直坚信自己是网络知名人士，但没有人知道他，他的朋友圈里也没有体现。他每天都会花大量时间在社交媒体上维护一个不存在的公众形象。
-2. 小王一直认为他在一家大公司做项目经理，但其实他只是个实习生，工作内容几乎都是跑腿和整理文件。他每天用捏造的项目报告向自己证明这一点。
-**英文示例：**
-1. Xiao Li firmly believes he is a well-known figure online, even though no one knows him, and there's no evidence in his social circle. He spends a great deal of time on social media maintaining an nonexistent public persona.
-2. Xiao Wang constantly thinks he is a project manager at a big company, while in reality, he is just an intern, mostly doing errands and filing documents. He fabricates project reports every day to convince himself of this belief.
+# Delusion Arc (幻觉弧线)
+## 中文解释
+"幻觉弧线"是个流行于部分网络群体中的独特词汇，通常用来比喻某个人的精神状态或思维模式处于一种虚幻、不切实际的阶段。这可能是指一个人在面对问题时产生了极端或不现实的看法，导致他在做出决策时出现偏差。有时候，它也可以用来形容某件事或者某种事态发展呈现出一种看似合理但实际上根本不存在支持基础的趋势。
+## 英文 Explanation
+"Delusion Arc" is a term popular among certain online communities, used to describe someone's mental or thought state as being in a state of illusion, or highly unrealistic phase. This can mean an individual holds extreme or unrealistic views while making decisions. It can also refer to a situation or trend that appears reasonable but lacks an actual foundation. The term effectively captures the irregular and misleading nature of such perceptions or developments.
 ```

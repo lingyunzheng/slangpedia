@@ -1,23 +1,24 @@
 ---
 title: "What Does 'locked in' Mean? (locked in 是什么意思？)"
 slug: "what-does-locked-in-mean"
-date: 2025-12-04
+date: 2025-12-05
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English: Locked in
-### Explanation
-"Locked in" is an expression that means you are committed to something with no way out or no possibility of changing your position. It can also mean being at a disadvantage because of something you've done or agreed to.
-### Example
-- **English Example:** "He's locked into a long-term contract with the company, he can't quit now."
-- **Chinese Example:** "他签了长期合同，现在无法退出。"
-## 中文: 锁定了
-### 解释
-"锁定" 是一个表达，意指你在某事上被承诺或投入，已没有退出或改变自己立场的可能性。它也可以表示因为你做了或同意了某些事情而处于不利的地位。
-### 示例
-- **英文示例：** "他签了长期合同，现在无法退出。"
-- **中文示例：** 他签了长期合同，现在无法退出。
+## English Slang: "Locked In"
+### Explanation:
+If someone says they are "locked in," it means they feel committed or trapped in a situation or relationship. It can also refer to a scenario where someone feels they have no choice but to continue with a particular plan or decision.
+### Example Usage:
+- "I'm locked into this job until after next year, so I can't quit now."
+- "She feels locked in her marriage because the kids are too young to handle a divorce."
+## 翻译为中文：
+## 英文俚语： "locked in"
+### 解释：
+当有人表示自己“被锁定了”时，这意味着他们觉得自己陷入了某种局面或关系之中，无法轻易离开。这个词也可以用来形容某人觉得自己别无选择，只能继续某个计划或决定。
+### 示例用法：
+- “我被锁定了这份工作到明年之后，所以现在不能辞职。”
+- “她觉得自己陷入了婚姻的困局，因为孩子还太小无法处理离婚。”
 ```

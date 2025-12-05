@@ -1,16 +1,21 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2025-12-04
+date: 2025-12-05
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## brokie (Bro + Bookie)
-**English:**
-A slang term often used to describe a young, attractive male who is perceived to be popular or desirable among his peers, typically known for his good looks and social skills. Often used in a somewhat pejorative manner to suggest that the person may be more concerned with their image or popularity than with genuine relationships or deeper connections.
-**Chinese (简体中文):**
-一个常用的俚语，用来形容那些被认为是迷人且受欢迎的年轻男性，通常因其外貌和社交技巧而受到同龄人的关注。这个词汇有时带有贬义，暗示这个人可能更关注自己的形象或受欢迎程度，而不是真正的情感联系或深厚的关系。
+## Brokie (English)
+### Meaning
+A slang term used to describe someone who frequently uses overly masculine or aggressive behavior to impress others. It can also refer to someone who is insecure and relies on harsh words or actions to try to assert their dominance.
+### Example Usage
+- "John is such a brokie, always trying to show off how tough he is."
+## 哥逼 (Pinyin: gē bī, Chinese)
+### Meaning
+一个用来形容经常使用过于阳刚或粗暴行为来博取他人注意的人。这个词也可以指那些不自信，通过说狠话或动作来试图确立自己权威的人。
+### 例句
+- "约翰真像个哥逼，总是试图展示自己有多强硬。"
 ```

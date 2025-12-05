@@ -1,18 +1,19 @@
 ---
 title: "What Does 'finna' Mean? (finna 是什么意思？)"
 slug: "what-does-finna-mean"
-date: 2025-12-04
+date: 2025-12-05
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Finna
+# "Finna" Bilingual Slang Explanation
 ## English
-**Definition**: When you're planning or gearing up to do something in the near future. It's like saying "about to" or "on the way to" do something.
-**Example**: "I finna grab a bite to eat after work." -> "I'm about to eat something after work."
-## Chinese
-**定义**: 你在计划或准备做一些事情，通常指的是即将发生的某个动作。可以说“正要做……”或者“准备去做……”。
-**例句**: "我 finna 抓个吃的下班后。" -> "下班后我正要做点吃的。"
+- **Meaning**: "Finna" is a colloquial term used primarily in the southern United States. It is a casual way to say "going to" or "about to."
+- **Example Usage**: "I finna head home after work." (I am going to head home after work.)
+## 中文
+- **意思**："Finna" 是美国南部地区常用的俚语，通常用来表示"要去"或"正要做"某事。
+- **用法示例**："I finna head home after work." 可以翻译为 "下班后我正要去 home。"
 ```
+Note: The term "finna" is often used in informal contexts and its use can vary slightly depending on regional dialects and contexts.

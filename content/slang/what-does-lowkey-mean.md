@@ -1,7 +1,7 @@
 ---
 title: "What Does 'lowkey' Mean? (lowkey 是什么意思？)"
 slug: "what-does-lowkey-mean"
-date: 2025-12-04
+date: 2025-12-05
 tags:
 - slang
 - internet
@@ -9,10 +9,10 @@ tags:
 ---
 ```markdown
 ## Lowkey
-### English
-"Lowkey" is a slang term used to describe something that is happening in a subtle or mild way. It can also be used to indicate that something is happening infrequently or to a small degree.
-Example: "She's lowkey crushing on him," meaning she has a small but noticeable crush.
-### Chinese
-"Lowkey" 是一种俚语表达方式，用来描述某种行为或态度是以一种微妙或轻微的方式发生的。也可以用来表示某事发生的频率不高或程度不大。
-例句：她对他的喜欢算是低key，意味着她对他的喜欢是隐约可见的。
+**English**: A slang term used to indicate something is happening in a subtle or unofficial manner.
+- **Example of Use**: "She's lowkey crushing on him, you can tell by the hint of blush in her cheeks."
+- **Literal Explanation**: "Lowkey" means in a subtle or low-profile way, not openly or loudly.
+**Chinese**: 一个俚语表达，用来表示某些事是以隐秘或非正式的方式发生的。
+- **使用示例**："她低key在暗恋他，从她脸上的微微红晕可以看出。"
+- **直白解释**："低key"表示以一种不明显或低调的方式，不是公开或大声的方式。
 ```
