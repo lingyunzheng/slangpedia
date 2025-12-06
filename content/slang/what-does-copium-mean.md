@@ -1,20 +1,16 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2025-12-05
+date: 2025-12-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Copium (English)
-**Meaning:** A playful or humorous term derived from combining "coffee" and "heroin." It often refers to a highly addictive form of coffee or any beverage consumed excessively, giving a temporary high or euphoric feeling.
-### Example Usage:
-- "I feel like I'm on copium after that triple espresso!"
-## Copium (Chinese)
-**意义:** 一个玩乐或幽默的词汇，由“咖啡”和“海洛因”组合而成。它常用来形容一种让人上瘾的咖啡或其他饮品，过度消费后会让人产生短暂的高潮或快感。
-### 用例：
-- “喝完那杯三倍浓缩意式咖啡后，我觉得自己像是中了copium！”
+## Copium (英汉双解俚语)
+### English Explanation
+**Copium**: A playful or mock term used, particularly in America, as a replacement for "coke" (which is short for cocaine). This term is often used in spaces where people want to avoid the negative connotations associated with the drug. It can also be a term friends use when discussing a stimulant in a humorous or lighthearted way.
+### 汉语解释
+**Copium**: 这是一个 playful 或者说是一种休闲的用词，特别是在美国，作为“可卡因”的代名词使用（cocaine 缩写为 coke）。在想避开毒品的负面含义时，人们会使用这个词。它也可以是朋友在幽默或者轻松的氛围中谈论兴奋剂时使用的术语。
 ```
-This markdown format allows for clear and organized bilingual explanations, making it easy to understand the term in both languages.

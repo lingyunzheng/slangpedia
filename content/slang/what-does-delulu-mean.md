@@ -1,18 +1,22 @@
 ---
 title: "What Does 'delulu' Mean? (delulu 是什么意思？)"
 slug: "what-does-delulu-mean"
-date: 2025-12-05
+date: 2025-12-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Delulu
-### Chinese
-**杜拉拉 (Dūlálá)**
-- **Interpretation**: "杜拉拉" is a coined name often used as a nickname or a term in internet slang to refer to a type of office lady or working girl who is portrayed as hardworking, efficient, and ambitious. It first became popular in China through a chapter of a novel titled "杜拉拉的小金鱼" (Dūlálá's Little Goldfish), written by Feng Jicai, and later gained widespread usage in modern times, particularly after the TV series adaptation of the novel.
-### English
-**Delulu**
-- **Interpretation**: "Delulu" is not a traditional English slang term but rather a transliteration of the Chinese term "杜拉拉" (Dūlálá). In English-speaking communities, it is often used to describe a stereotypical hard-working, efficient, and ambitious young professional, especially a woman. The term has been popularized through social media and internet culture, often used humorously or ironically to describe someone who fits this archetype.
+## Delulu (Noun) 🇨🇳🇺🇸
+### Chinese (简体中文)
+**_delulu (初心者)**  
+意思：通常用来形容那些对某些领域或事物还处于入门级水平的新人，就像游戏中的新手一样，需要更多的时间和经验来提升自己。与"菜鸟"、"新丁"等词汇意思相近。
+### English (US English)
+**_Delulu (Novice)**  
+Meaning: Often used to describe someone who is still at the beginner level in a particular field or activity, much like a new player in a game who needs more time and experience to improve. It is similar in meaning to "newbie" or "freshman."
+---
+### Example Usage
+- **Chinese:** 小明在网上是个 delulu，但是通过我们的教程，他很快就熟练起来了。（Xiao Ming is a delulu online, but he quickly became proficient through our tutorials.）
+- **English:** Li Ming was a delulu when it came to social media, but thanks to our guide, he's now quite the expert.
 ```

@@ -1,19 +1,18 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2025-12-05
+date: 2025-12-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Bilingual Slang Explanation: Ratio
-## English
-**Ratio**: A term originally from mathematics (the comparison of two quantities), but often used in internet slang to describe a situation where someone is flexing or boasting about something, which then provokes an inferior or defensive response. It can also be used to describe a conflict or a debate between two people where emotions are escalated.
-## Chinese
-**ratio**: 原本是一个数学术语（两个数量之间的比较），但经常在 internet 上被用来形容一个人炫耀某事，因此引发了他人感到 inferior 或者防御性的回应。也可以用来描述两个人之间的冲突或辩论，其中情绪被升级。
-### Example Usage
-- **English**: "He was posting his new car on social media, and now it's escalated into a real ratio."
-- **Chinese**: "他在社交媒体上晒他的新车，现在这个 ratio 真的升级了。"
+## Ratio (English-Chinese Slang)
+### English
+**Ratio**: In casual conversation, especially on social media, **ratio** refers to the comparison of likes, comments, or followers one person has on a post or account relative to another. It's often used in a competitive or dismissive tone, implying that the subject has a lot more of something they're boasting about compared to someone else.
+Example: "Man, his new video got wild ratio, like 50,000 likes to 100 comments!"
+### 中文
+**比例**: 在非正式的对话中，特别是在社交媒体上，**ratio**指的是一个人在某个帖子或账号上的点赞、评论或关注数量相对于另一个人的情况。通常使用这种术语是带有竞争性的或敷衍的语气，暗示这个人所炫耀的东西与另一方相比数量庞大。
+例子: “天啊，他的新视频简直是火爆，点赞数有5万，但留言才区区100个！”
 ```

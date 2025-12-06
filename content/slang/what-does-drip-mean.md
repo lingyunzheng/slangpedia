@@ -1,41 +1,29 @@
 ---
 title: "What Does 'drip' Mean? (drip 是什么意思？)"
 slug: "what-does-drip-mean"
-date: 2025-12-05
+date: 2025-12-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Drip (English)
-**Meaning:** To leak slowly or steadily.
-**Usage Example:** "The water was dripping from the leaky faucet."
-## Bilingual Explanation
-- **中文含义:** 慢慢地或持续不断地滴落。
-- **用例示例:** "从漏水的水龙头里慢慢地滴着水。"
+### Drip (English)
+**Definition:** A term originating from the hip-hop and street culture, "drip" primarily refers to someone who is overly confident, stylish, and ostentatious in their display of wealth and fashion.
+**Bilingual Slang Explanation:**
+- **English:** A person who shows off their wealth and fashion sense in a flashy and over-the-top way.
+- **Chinese:** 在展示财富和时尚方面表现出极度炫耀和浮夸的人。（zài shǎn shì fù huò hé shí xiāng bìng yǎo xiào hé fú kuā rén.）
+### Example Sentence:
+- **English:** He was dripping with confidence at the party.
+- **Chinese:** 他在晚会上自信满满，显得非常高调。（tā zài wǎn huì shàng zì xìn màn mǎn, diǎn dé gāo dào hěn gāo.)
+---
+### Drip (Chinese)
+**定义:** "滴"一词源于嘻哈和街头文化，主要用来形容那些在展示财富和时尚方面表现出极度炫耀和浮夸的人。
+**双语俚语解释:**
+- **英语:** A term used to describe someone who shows off their wealth and fashion sense in a flashy and over-the-top way.
+- **中文:** 用来形容那些在展示财富和时尚方面表现出极度炫耀和浮夸的人。（yòng lái xíngróng ná kěyǐ xíngróng rén cái zài shǎn shì fù huò hé shí xiāng bìng yǎo xiào hé fú kuā rén.）
+### 示例句子:
+- **英语:** He was dripping with confidence at the party.
+- **中文:** 他在晚会上自信满满，显得非常高调。（tā zài wǎn huì shàng zì xìn màn mǎn, diǎn dé gāo dào hěn gāo.）
 ```
-```markdown
-# 滴屁 (Dìpì, Chinese)
-**Meaning:** A type of expressing admiration, similar to "drip" in the sense of something impressive or cool.
-**Usage Example:** "他的新发型真是滴屁！"
-## Bilingual Explanation
-- **中文含义:** 表示赞赏或惊叹，类似于对某样东西印象深刻或很酷的表达。
-- **用例示例:** "他的新发型真是滴屁！" (His new hairstyle is really cool!)
-```
-```markdown
-# Drip (Alternate Usage, English)
-**Meaning:** A slang term used to describe something as impressive, cool, or stylish; sometimes implies it's the best or most desirable.
-**Usage Example:** "This new shoe brand is dripping!"
-## Bilingual Explanation
-- **中文含义:** 俚语，用来形容某物很酷、很潮或很到位，有时还暗示这是最佳或最值得拥有的。
-- **用例示例:** "这款新鞋品牌是滴屁！" (This new shoe brand is dripping! It's really cool!)
-```
-```markdown
-# 滴屎 (Dīshǐ, Chinese)
-**Meaning:** A combination of "drip" and "shit," used in internet slang to describe something as silly or worthless.
-**Usage Example:** 这个笑话真是太滴屎了！
-## Bilingual Explanation
-- **中文含义:** 网络用语，形容某物很愚蠢或毫无价值。
-- **用例示例:** "这个笑话真是太滴屎了！" (This joke is really silly!)
-```
+This markdown format provides a clear and concise explanation of the term "drip" in both English and Chinese, along with example sentences to illustrate its usage.

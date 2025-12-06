@@ -1,20 +1,22 @@
 ---
 title: "What Does 'mother is mothering' Mean? (mother is mothering 是什么意思？)"
 slug: "what-does-mother-is-mothering-mean"
-date: 2025-12-05
+date: 2025-12-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Bilingual Slang Explanation: "mother is mothering"
-**English:**  
-"Mother is mothering" is an informal way of saying that a woman is taking care of someone or something, often in a nurturing or protective manner. It means the woman is being a good caretaker or parent figure.
-**Chinese:**  
-"母亲在‘母鸡’着”（注：这里的“母鸡”是个网络流行语，意为‘母鸡着’，就像母鸡保护小鸡一样，意为照顾）是一个非正式的说法，表示一位女性正在照顾或照料某人或某物，通常是一种呵护或保护的方式。这意指这位女性正在扮演一个良好的看护者或家长形象。
-Example Usage:  
-- English: "She's really mothering her new team members, showing them around and answering all their questions."  
-- Chinese: "她对新团队成员真的在‘母鸡’着，带着他们熟悉环境，回答他们所有的问题。"
+# "Mother is mothering"
+## English Explanation
+When someone is "mothering," they are showing maternal care or concern, often in a way that's protective or nurturing. It often implies that they are looking after someone or something with a lot of care and fuss.
+### Example Usage
+- "Tim has been mothering the new hire, making sure he has everything he needs to succeed."
+## Chinese Explanation
+"Mother is mothering" 母老虎 (Mǔ lǎohǔ) 或者 给…当妈妈 (gěi…dāng māma) 指的是用母亲的方式给予关怀或照顾，通常带有过度保护或细心照料的意味。
+### 例句
+- "Tim 对新手工作上一直给当妈妈，确保他有所有需要的东西来成功。"
+这里的 “母老虎” 是幽默的说法，形象地描述了这种行为。
 ```
-This format provides both the translation and a brief example of how to use the phrase in context.
+This explanation provides a clear bilingual breakdown, including contextual examples to illustrate the use of the slang terms.

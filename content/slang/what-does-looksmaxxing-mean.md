@@ -1,27 +1,21 @@
 ---
 title: "What Does 'looksmaxxing' Mean? (looksmaxxing 是什么意思？)"
 slug: "what-does-looksmaxxing-mean"
-date: 2025-12-05
+date: 2025-12-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# looksmaxxing
-**English:**  
-"Sneaking peeks at someone excessively, usually with the intention of judging their appearance. Derived from 'looks' and 'maxxing out' (maxing out, getting to the maximum amount/level)."  
-Example: She's looksmaxxing her crush at the party.  
-**简体中文:**  
-"频繁偷看某人的外貌，通常是出于评价其外貌的目的。源自'looks'（外貌）和'maxxing out'（最大限度地）."  
-示例：她在派对上频繁偷看她喜欢的对象。
-```
-```markdown
-# looksmaxxing
-**English:**  
-"Constantly looking at someone with the main intention of assessing or scrutinizing their physical appearance. Can be seen as disrespectful or inappropriate if done too often."  
-Example: He's being such a looksmaxxer at the beach, it's really annoying.  
-**简体中文:**  
-"频繁盯着某人看，主要目的是评价或审视其外貌。如果做得太过频繁，可能会被视为不尊重或不适当."  
-示例：他在海滩上这么盯着别人看，真的让人很讨厌。
+# Looksmaxxing
+## English Explanation
+"Looksmaxxing" is a blend of the words "looks" and "maxxing," where "maxxing" itself refers to doing something to the maximum extent. In this context, it describes someone who prioritizes or emphasizes their appearance immensely, often to the point of looking overly perfect or unnatural. This term is commonly used in social media and online communities to describe individuals who are extremely conscious or focused on how they look.
+## Chinese Explanation
+"Looksmaxxing" 是由 "looks"（外表）和 "maxxing"（做到极致）两个词拼接而成。"Maxxing" 是指做到极致，强调把某件事做到最大程度。在 "Looksmaxxing" 中，用来形容那些极度重视或强调自己外表的人，有时会显得外表非常完美或不自然。这个词常被用于社交媒体和在线社区，用来描述那些非常在乎自己外表的人。
+Example Sentences:
+- "She's really looksmaxxing today, trying on ten different outfits for one meeting."
+- 她今天真得是在looksmaxxing，为了一个会议试了十套不同的衣服。
+- "It's all about looks these days, everyone is looksmaxxing."
+- 现在都在拼外表，每个人都 looksmaxxing。
 ```

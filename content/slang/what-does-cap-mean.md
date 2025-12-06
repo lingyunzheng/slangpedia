@@ -1,18 +1,20 @@
 ---
 title: "What Does 'cap' Mean? (cap 是什么意思？)"
 slug: "what-does-cap-mean"
-date: 2025-12-05
+date: 2025-12-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Cap (俚语解释)
+# Cap (英中美式俚语)
+## English
+**Meaning:** To completely understand or comprehend something. Often used to express exasperation when someone claims to fully understand a difficult or complex situation.
+**Example:**
+- "I know you cap, but how are you supposed to handle this complicated project all by yourself?"
 ## 中文
-**解释1**：网络用语，表示“完全符合”、“极致”。例如，“这套衣服真的 cap 住我了”意味着这套衣服非常适合我，极致地符合我的风格。
-**解释2**：表示某种行为或选择非常完美，以至于无需再作改变。“这次考试真的很 cap 住我了”可以理解为这次考试非常适合我，复杂程度刚好，挑战性也不失，十分合适。
-## 英文
-**Explanation 1**: Slang, meaning "completely fitting" or "extreme." For example, "This outfit really cap me" means it perfectly suits me or is the most fitting.
-**Explanation 2**: Indicates that an action or choice is so perfect that it does not need further modification. For example, "This exam really cap me" suggests the exam is just right, neither too easy nor too difficult.
+**含义:** 用来表示完全理解或懂某件事。通常用于当有人声称完全理解一个复杂的情况时，表达出的是一种无奈或不满的情绪。
+**例句:**
+- "我知道你懂，但是你要怎么独自搞定这个复杂的项目呢？"
 ```

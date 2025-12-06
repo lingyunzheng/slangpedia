@@ -1,20 +1,17 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2025-12-05
+date: 2025-12-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Definition of "Bruh"
-### English
-"Bruh" is a versatile interjection that can be used to express a range of emotions, such as surprise, exasperation, or camaraderie. It's a casual and informal term often used among friends or peers to convey understanding or agreement.
-### Bilingual
-- **English**: "Bruh" is a casual interjection used to express various emotions, like surprise or understanding, often among friends.
-- **Chinese**: "Bruh"（Bruh）是一个在朋友之间使用的 casual 语句，用来表达各种情绪，如惊讶或理解。
-### Example Usage
-- **English**: "Bruh, that's insane!"
-- **Chinese**: 哥们儿，那真是惊为天人！(Bruh, that's insane!)
+## Bruh (English)
+**Definition**: An interjection used to express a range of emotions, such as surprise, disbelief, or exasperation. It's often used in informal and casual conversations.
+**Example**: "Bruh, have you seen the traffic today? I was stuck in my car for three hours!"
+## 布鲁 (Chinese)
+**定义**: 表达惊讶、不信或无奈等情感的拟声词。常用于非正式和轻松的对话中。
+**示例**: "布鲁，你今天看交通了吗？我开车堵了三个小时！"
 ```

@@ -1,21 +1,24 @@
 ---
 title: "What Does 'cope' Mean? (cope 是什么意思？)"
 slug: "what-does-cope-mean"
-date: 2025-12-05
+date: 2025-12-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Explanation: Cope
+# Cope (Slang)
 ## English
-**Cope**: To deal with or adjust to a difficult or unpleasant situation.
-### Example Usage
-- "I'm really coping with my new job schedule."
-## Spanish
-**Cotear**: Manejar o adaptarse a una situación difícil o incómoda.
-### Ejemplo de Uso
-- "Estoy realmente cotear con la nueva horaria de mi trabajo."
+**To cope**: To deal with or get through a difficult or challenging situation.
+### Example:
+I'm really busy with work, but I think I can cop it.
+## 中文
+**搞掂 (gǎo dān)**: 应对或处理艰难或有挑战的情况。
+### 例句：
+工作好忙，但我觉得我能搞掂。
 ```
-This markdown structure provides a clear and concise bilingual explanation of the slang term "cope" and its equivalent in Spanish, "cotear."
+## Explanation
+- **Cope** is often used to describe the ability to deal with stressful or difficult situations.
+- **搞掂 (gǎo dān)** is a common colloquial term in Chinese that conveys a similar meaning to "to cope" in English. It is informal and mostly used in casual conversations.
+- Both words express the idea of managing through difficult circumstances.

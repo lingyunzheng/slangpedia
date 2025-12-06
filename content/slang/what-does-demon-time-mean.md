@@ -1,16 +1,16 @@
 ---
 title: "What Does 'demon time' Mean? (demon time 是什么意思？)"
 slug: "what-does-demon-time-mean"
-date: 2025-12-05
+date: 2025-12-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Demon Time (Demon Time)
-**English Explanation:**
-"Demon Time" is a slang term often used to describe an extended period of being productive, creating, or accomplishing a lot of work. It's like when you get into such a flow of intense focus that time seems to fly by, and you can produce more than usual. It's when you're in your zone and nothing can stop you from getting things done.
-**中文解释:**
-“Demon Time”是一个俚语，常用来形容长时间高效地工作、创造或完成大量任务的状态。这意味着你进入了高度集中的状态，时间仿佛在飞逝，你可以比平时更高效地产出成果。当你完全沉浸在某项工作或任务中，没有外界因素能够打扰你时，就进入了“Demon Time”。
+## Demon Time
+### English Explanation
+"Demontime" is a nickname for "demon mode" or "insane mode" in many video games. It refers to a state or ability where a character performs actions at an enhanced, almost superhuman speed or intensity, often out of ordinary control. This term is also used metaphorically to describe a person or a situation where someone is performing at their best or going all out.
+### Chinese Explanation
+"恶魔时间"（Demontime）是对游戏中“恶魔模式”或“狂暴模式”的昵称。当角色在游戏里处于这种模式时，他们的动作会变得超常的快速或强度增加，有时甚至显得不受控制。这个词也被用于比喻一个正在巅峰状态或者全力发动的情况的人或场景。
 ```

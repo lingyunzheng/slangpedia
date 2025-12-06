@@ -1,18 +1,27 @@
 ---
 title: "What Does 'cooked' Mean? (cooked 是什么意思？)"
 slug: "what-does-cooked-mean"
-date: 2025-12-05
+date: 2025-12-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Explanation: "Cooked"
-## English
-**Cooked**: This phrase is used to describe a situation where something is fake, false, or a complete fabrication. It can also mean that something has deteriorated to a state where it is no longer good or functional. In some contexts, it can mean that someone has "cooked the books," which means they have manipulated or falsified records.
-**Example**: "This report looks cooked to me; the numbers don't add up."
-## 中文
-**煮过的**：这个表达用来描述某事是虚假的、虚构的或是完全捏造的。它也可以表示某物已经退化到无法使用或不再适于使用的情况。在某些语境中，它还意味着“做假账”，即篡改或伪造记录。
-**例句**："这份报告看起来就是煮过的，数字对不上账。"
+# English: Cooked
+## Definition
+- **Literal Meaning:** A meal that has been prepared or cooked.
+- **Slang Meaning:** If something is "cooked," it means that it is successfully resolved or accomplished without major issues.
+## Example Usage
+- "I managed to negotiate a better deal; everything is cooked."
+- "The project was cooked last minute; everyone is happy."
+## Chinese (Literal meaning): 烹饪完成
+## Definition
+- **Literal Meaning:** 已经完成的料理或烹饪好的食物。
+- **Slang Meaning:** 如果某个事情是“烹饪好的”，那么意味着该事情成功解决了或实现了，而且进展顺利，没有任何大问题。
+## Example Usage
+- “我成功谈判了一个更好的协议；一切都已经烹饪好了。”
+- “项目最后一刻就烹饪好了，每个人都很满意。”
 ```
+Notes:
+The term "cooked" in the context of slang usage can often be seen in informal or conversational settings, especially in business or when discussing tasks that are expected or required to be completed.

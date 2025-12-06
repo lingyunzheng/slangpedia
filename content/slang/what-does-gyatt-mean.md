@@ -1,16 +1,20 @@
 ---
 title: "What Does 'gyatt' Mean? (gyatt 是什么意思？)"
 slug: "what-does-gyatt-mean"
-date: 2025-12-05
+date: 2025-12-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Gyatt (粤语)
-## 中文解释
-地摊，即指小型的街头露天市场或买卖摊位。通常聚集在城市的街头巷尾或特定区域，商品种类多样，价格亲民，适合寻找便宜货或寻找独特商品的消费者。
-## 英文解释
-A street stall or small market set up on the roadside or in back alleys. These are usually informal and scattered throughout cities, offering a wide variety of goods at more affordable prices. They're perfect for bargain hunters and those looking for unique items.
+# Gyatt
+## Chinese (简体中文)
+** gyatt** - 这个词来源于英文 "gyaant"（高音版的 "fantastic" 或 "awesome"），通常用来形容某件事情非常了不起或令人惊叹。比如，某人完成了一个很难的任务，你可以用“gyatt”来表达你的惊叹和赞扬。
+示例：
+- 任务完成得太棒了！- 任务完成得 gyatt！
+## English
+** Gyatt** - This term comes from the phonetic spelling of "gyaant," which is a high-pitched version of "fantastic" or "awesome." It's used to express great admiration or excitement about something impressive or amazing. For example, if someone accomplishes a difficult task, you can use "gyatt" to express your amazement and praise.
+Examples:
+- The task was completed admirably! - The task was completed gyatt!
 ```

@@ -1,16 +1,16 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2025-12-05
+date: 2025-12-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sigma (Σigma)
-**English:**  
-Sigma is often used in programming, statistics, and mathematics, representing the summation or total of a series. In a more casual context, it can also refer to someone who is very analytical, detail-oriented, or highly technical.
-**Chinese (简体中文):**  
-Sigma（Σ）通常用于编程、统计和数学中，表示一个序列的总和或求和。在更口语化的用法中，它也可能用来形容某人非常细致、注重细节或技术性强。
+# Sigma
+## English
+**Sigma** is often used casually to refer to a skilled or knowledgeable person, especially in academic or technical fields. It's similar to saying "the expert" or "the pro." For example, "He's a sigma for cybersecurity," meaning he's an expert in cybersecurity.
+## Chinese
+**sigma** 通常用来指一个在学术或技术领域里非常擅长或有知识的人。类似于说“专家”或“专业者”。例如，“他是网络安全的 sigma”，意即他在网络安全方面是专家。
 ```

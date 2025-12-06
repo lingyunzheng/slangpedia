@@ -1,7 +1,7 @@
 ---
 title: "What Does 'maxxing' Mean? (maxxing 是什么意思？)"
 slug: "what-does-maxxing-mean"
-date: 2025-12-05
+date: 2025-12-06
 tags:
 - slang
 - internet
@@ -9,8 +9,10 @@ tags:
 ---
 ```markdown
 # Maxxing
-## 中文解释
-“maxxing”这个词在网络语言中常常被用来形容某个人或者事物达到极致状态，或者是某个东西被用到了最大量或者最强的程度。比如，当你尝试用尽所有力量来做一件事，可以说“我maxxing我的力量”。这里的“maxxing”就是表示用到极限的意思。
-## 英文 Explanation
-"Maxxing" is commonly used in internet slang to describe something or someone reaching its peak state, or being used to the maximum extent or strength. For example, if you're trying to put in all your effort to do something, you might say "I'm maxxing my power." In this context, "maxxing" indicates pushing something to its limit.
+## English
+**Maxxing Out**: This term is often used to describe the situation where someone has spent or used up all their available resources, such as credit limits, to the maximum extent possible. For example, someone might "max out their credit card" by using it up to its full limit. It generally implies that any further usage would be beyond what is currently possible or sustainable.
+**Example**: "She had to max her card out for the big vacation, but now she needs to pay it all back."
+## 中文
+** максing 出**：这个词通常用来描述某人已经利用了所有可用资源的极限，比如信用限额。例如，某人可能会把信用卡的额度全部刷完。这通常意味着再也无法进一步使用或超出当前的界限。
+**例句**："她为了度假不得不把信用卡刷爆了，现在得全部还清。"
 ```

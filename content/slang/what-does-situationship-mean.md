@@ -1,18 +1,18 @@
 ---
 title: "What Does 'situationship' Mean? (situationship 是什么意思？)"
 slug: "what-does-situationship-mean"
-date: 2025-12-05
+date: 2025-12-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Situationship: A Slang Explanation
-**English Slang: Situationship**
-- **Definition:** A romantic or sexual relationship that lacks commitment. It's often described as a "space holder" or a type of relationship that exists because it suits both parties but may not be a long-term option.
-- **Example:** "Since things haven't worked out with Tom, Jess is currently in a situationship with Alex to keep her options open."
-**Chinese Slang: 境况恋情 (jìng kuàng lí qínɡ)**
-- **定义:** 一种缺乏承诺的恋爱或性伴侣关系，通常用来描述一种“空白状态”的关系，因为双方都觉得合适而保持现状，但可能不是长久的关系选择。
-- **例子:** "自从和汤姆分手后，Jessica目前正处于一种境况恋情中，与Alex保持这种关系，只是为了保持选择的开放性。"
+## Situationship
+### Chinese (简体中文)
+**含义**: "situationship" 是 "situational relationship" 的缩写，是指一种临时的、没有明确双方意图的感情状态，类似于“凑合关系”或“看情况发展的关系”。这种关系通常并不稳定，双方可能在寻找更适合自己的伴侣，或者只是暂时性地维持一种关系以应对某种情况。
+**例句**: 他们之间的相处都还行，但大家都没把这种情况当回事，所以可以称之为一种“situationship”。
+### English
+**Definition**: "situationship" is a portmanteau of "situational relationship," meaning a temporary emotional connection without clear mutual intentions. It's akin to a "make do" or "see how it goes" relationship. This type of relationship is usually unstable, with both parties possibly looking for a more suitable match or simply maintaining a relationship to address some circumstances.
+**Example**: They get along well enough, but no one sees this as something serious, so it could be called a "situationship."
 ```
