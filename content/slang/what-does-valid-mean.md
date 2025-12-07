@@ -1,18 +1,15 @@
 ---
 title: "What Does 'valid' Mean? (valid 是什么意思？)"
 slug: "what-does-valid-mean"
-date: 2025-12-06
+date: 2025-12-07
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Valid
-### English
-A slang term used to denote something as acceptable, legitimate, or true. Often used in casual or informal settings to affirm the correctness or appropriateness of something.
-Example: "Is that score valid? Sure, it's entered directly into the system."
-### Chinese
-一个俚语表达，用来表示某事是可接受的、合法的或真实的。通常在非正式或轻松的场合用于肯定某事的正确性或适宜性。
-Example: "这个分数有效吗？当然有效，直接录入系统里的。"
+### 中文解释
+**valid**：有效，合法。通常用来形容某事或某种状况是有效的、合法的或符合规定的。例如，一个文件、一条信息或一个交易。
+### 英文解释
+**valid**：有效, legitimate. Used to describe something or a condition that is valid, legal, or in compliance with set rules. For example, a document, a message, or a transaction.
 ```

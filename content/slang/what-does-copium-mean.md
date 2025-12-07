@@ -1,16 +1,15 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2025-12-06
+date: 2025-12-07
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Copium (英汉双解俚语)
-### English Explanation
-**Copium**: A playful or mock term used, particularly in America, as a replacement for "coke" (which is short for cocaine). This term is often used in spaces where people want to avoid the negative connotations associated with the drug. It can also be a term friends use when discussing a stimulant in a humorous or lighthearted way.
-### 汉语解释
-**Copium**: 这是一个 playful 或者说是一种休闲的用词，特别是在美国，作为“可卡因”的代名词使用（cocaine 缩写为 coke）。在想避开毒品的负面含义时，人们会使用这个词。它也可以是朋友在幽默或者轻松的氛围中谈论兴奋剂时使用的术语。
+## Copium
+**English:** _Copium_ is an onomatopoeic slang term often used to refer to comedy or humor. It’s a playful and imaginative way to describe something that’s incredibly hilarious or funny.
+**中文:** _Copium_ 是一个富有想象力的俚语，常用来形容喜剧或幽默。这是一个充满趣味和创意的方式来描述某件极其好笑或有趣的事情。
 ```
+In this context, "copium" is a creative play on "com-pii-um," where "com" stands for "comedy" and "piii" is a playful elongation of "pium" to emphasize the comedic or humorous nature.

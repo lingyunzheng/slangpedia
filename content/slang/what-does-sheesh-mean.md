@@ -1,19 +1,18 @@
 ---
 title: "What Does 'sheesh' Mean? (sheesh 是什么意思？)"
 slug: "what-does-sheesh-mean"
-date: 2025-12-06
+date: 2025-12-07
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sheesh (通用)
-- **中文解释**：通常用来表示一种轻蔑、无奈或轻声抱怨的情绪。
-- **英文解释**：Used to express a scent of disdain, helplessness, or a soft complaint.
-### 例子
-- **中文**：那个价格简直是个她esh！
-- **英文**：That price is just sheesh!
-- **中文**：你昨天为什么这么晚回来？她esh，我又不是你母亲。
-- **英文**：Why were you so late yesterday? Sheesh, I'm not your mother.
+## Sheesh (English)
+**Definition**: An exclamation expressing frustration, disbelief, disappointment, etc.
+**Example**: "Sheesh, this traffic is crazy again today!" 
+**Bilingual Slang Explanation**:
+**她ốch (Tê-ốch) (Chinese)**
+**释义**: 表达不满、惊讶或失望的一个感叹词。
+**示例**: "她ốch，今天的交通又那么疯狂！"
 ```

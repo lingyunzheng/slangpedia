@@ -1,20 +1,24 @@
 ---
 title: "What Does 'ate' Mean? (ate 是什么意思？)"
 slug: "what-does-ate-mean"
-date: 2025-12-06
+date: 2025-12-07
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# "Ate" Slang Explanations
+# "Ate" in Bilingual Slang
 ## English
-**"Ate"**: This term is not a common slang in English. However, in certain contexts, it might refer to the verb "ate" (past tense of eat) which makes sense in a literal context, but isn't used as a slang term in casual conversation.
+### Meaning
+- **Completely**: This slang usage of "ate" means to fully consume or complete something. For example, when someone says, "I ate up all the chips," they mean they finished all the chips.
+### Example
+- **"They ate up the entire pizza in one sitting."**  
+- (They completely finished the entire pizza in one sitting.)
 ## Chinese
-**"吃 (Chī)"**: 在中文里，“吃” (chī) 有时被用作非字面意义的俚语，表示“玩弄”、“浪费时间”或者对某个人或事物有兴趣。例如：
-- 吃游戏 (chī rì wāng): 等于玩游戏，沉迷于游戏。
-- 吃青春 (chī qīnɡchūn): 挥霍青春。
-- 吃裸照 (chī luǒzhào): 看裸照。
-在不同的上下文中，“吃” (chī) 的含义可能有所不同。
+### 吃光 (Chī Guāng)
+- **Completely/consume**: 用作表示完全消费或消耗光某物，例如说 "我把薯片都吃光了"，意思是把所有的薯片都吃完了。
+### 示例
+- **"他们把整个比萨一口气吃光了。"**
+- (They completely finished the entire pizza in one sitting.)
 ```

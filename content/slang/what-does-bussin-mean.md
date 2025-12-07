@@ -1,22 +1,26 @@
 ---
 title: "What Does 'bussin' Mean? (bussin 是什么意思？)"
 slug: "what-does-bussin-mean"
-date: 2025-12-06
+date: 2025-12-07
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Bilingual Slang: "Bussin'"
-## English Explanation
-"Bussin'" is a slang term that is often used informally, typically by younger generations. It is generally used to describe something or someone that is highly successful, active, or exciting. The term can also convey a sense of intensity or energy. 
-### Examples:
-- She's bussin' right now, got two jobs and still finding time to volunteer!
-- That new club downtown is bussin' every Friday night, it's packed!
-## Chinese Explanation
-"‘Bussin’’ 是一种非正式的语言，通常被年轻一代使用。它用来描述非常成功、活跃或令人兴奋的事物。这个词也可以传达出强度或活力的感觉。
-### 示例：
-- 她现在可火了，一边打工还一边做志愿者！
-- 市中心那个新俱乐部每个周五晚上都‘bussin’，根本停不下来，总是挤满了人！
+# Bussin' (busy)
+## English
+**"Bussin'"** is a slang term derived from "busy." It's used to describe a person or situation that is very active, happening, or exciting. You might hear something like, "He’s really bussin' tonight at the party!"
+## 中文
+**"Bussin'"** 是一个从 "busy" 演变而来的俚语，用来形容一个非常活跃、忙碌或充满活力的人或情况。你可以听到类似的说法：“他今晚 party 里好 bussin' 呢！”
+--- 
+#### Examples:
+- **English:**
+- "She's bussin' her way up the career ladder."
+- **中文:**
+- “她正努力往上爬，干得很 bussin’。”
+- **English:**
+- "He’s bussin' it at the chess tournament."
+- **中文:**
+- “他参加的象棋赛场上好 bussin'。”
 ```

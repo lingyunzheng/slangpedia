@@ -1,7 +1,7 @@
 ---
 title: "What Does 'rizz god' Mean? (rizz god 是什么意思？)"
 slug: "what-does-rizz-god-mean"
-date: 2025-12-06
+date: 2025-12-07
 tags:
 - slang
 - internet
@@ -10,9 +10,7 @@ tags:
 ```markdown
 # Rizz God
 ## English
-**Definition:** A Rizz God is someone who exudes a lot of confidence and coolness. They're the type of person who makes others feel like they're the center of attention just by existing.
-**Example:** "That new guy at the club is a total rizz god, he walks in and the entire room looks at him."
+**Rizz God**: A term from social media and slang culture, typically used to describe someone who exudes a lot of style, confidence, and swag. It's often applied to individuals who are seen as the epitome of cool, whether in music, fashion, or social settings. It can also be used as a self-deprecating compliment or to mock someone's exaggerated sense of style.
 ## 中文
-**定义：** Rizz God 是指充满自信和酷感的人。他们能让周围人都觉得自己的存在带来了特别的魅力。
-**示例：** “那个新来的俱乐部里真是个Rizz God，一进去整个房间都盯着他看。”
+**Rizz God**: 这个词源自社交媒体和俚语文化，通常用来形容那些充满魅力、自信且气场强大的人。它可以应用于音乐、时尚或社交场合中被认为非常酷的人。也可以作为一种自嘲或嘲讽某人的夸张风格的说法。
 ```

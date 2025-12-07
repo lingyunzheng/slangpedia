@@ -1,21 +1,19 @@
 ---
 title: "What Does 'yeet' Mean? (yeet 是什么意思？)"
 slug: "what-does-yeet-mean"
-date: 2025-12-06
+date: 2025-12-07
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Yeet (English)
-**Meaning**: Yeet is a versatile slang term used to express rejection, disapproval, or simply removing something unwanted. It's also used as an exclamation of excitement or to get rid of something with a sense of force.
-**Example**:
-- *"I can't believe she's into that type of music, yeet!"*
-**Origin**: The word has roots in the mid-2000s from online communities, although its derivation is unclear. It gained widespread popularity, particularly among younger generations, through the internet.
-# Yeet (Chinese)
-**意义**: Yeet 是一个多功能的网络流行语，用来表达拒绝、不赞成，或者简单地处理掉一些不想保留的东西。它还可以用来表示兴奋，或者以一种有力的方式丢弃某物。
-**例句**:
-- *"我简直不敢相信她喜欢那种音乐，yeet！"*
-**起源**: 这个词起源于2000中期的网络社区，尽管其起源尚不清楚。它在年轻人群中通过互联网广泛流行起来。
+# Yeet (English to Chinese)
+**English:** Yeet!  
+**Chinese:** 嘗試用力抛掷某个物体或用类似抛物线的动作表达兴奋或对某事的强烈否定时，可以使用“yeet”。  
+Also, it can be used to express excitement or strong disapproval about something.  
+- **情景用法:**  
+你可以对朋友说，“I totally aced that test! Yeet!” 或者当朋友做了件你认为很糟糕的事情时，你可以用“Yeet, that's so bad!” 来表达你的强烈不满。  
+- **中文例句:**  
+（你能感觉到某人用力抛出东西时），他可能会说：“嘿，这个玩具很重，我yeet掉了！” 或者你可以说，“Yeet, 你这次考试真的失败了！”用来表达强烈的不满或否定。
 ```
