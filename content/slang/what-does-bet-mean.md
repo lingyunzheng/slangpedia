@@ -1,25 +1,16 @@
 ---
 title: "What Does 'bet' Mean? (bet 是什么意思？)"
 slug: "what-does-bet-mean"
-date: 2025-12-07
+date: 2025-12-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Explanation: Bet
-## English
-### Meaning
-A casual assertion that something will happen, often accompanied by a bet or promise to do something if the assertion is proven wrong.
-### Example
-- **"Bet you can't finish that whole pizza by yourself."**
-- I'm confident that you won't be able to eat the entire pizza on your own, and I might even offer a bet to prove it.
-## 中文
-### 含义
-一种随意的说法，表明某件事情会发生，通常伴随着赌注或如果说法被证明是错误时要做的事情。
-### 例句
-- **“我打赌你一个人吃不完那个整个披萨。”**
-- 我有信心你一个人吃不完整个披萨，我甚至可能会打赌来证明。
+## Bet
+**中文解释：赌注或打赌**
+在日常对话中，“bet”可以用来表示一种赌博的行动或者是一种打赌的行为。人们经常用它来表示一种约定：一方认为某件事会发生，而另一方则认为不会，双方各自押注一定金额或承诺的内容。输了的一方通常会遵守约定进行相应的惩罚或给予胜利者奖励。
+**英文 Explanation: Gamble or Wager**
+In everyday conversation, "bet" refers to an act of gambling or a wager. It's often used to describe an agreement where one party believes something will happen while the other believes it won't. Both sides place a certain amount of money or a promise on the outcome. The losing side is typically required to follow through on a consequence or reward the winner as agreed.
 ```
-If you need more examples or further explanations, feel free to ask!

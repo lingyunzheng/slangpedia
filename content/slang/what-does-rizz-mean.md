@@ -1,23 +1,18 @@
 ---
 title: "What Does 'rizz' Mean? (rizz 是什么意思？)"
 slug: "what-does-rizz-mean"
-date: 2025-12-07
+date: 2025-12-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Rizz (英): Got Rizz? (有气质吗？)
-**English Explanation**: 
-"Got rizz" is a slang term that originated in the hip-hop and fashion communities. It's used to describe someone who exudes confidence, style, and presence. Simply put, it’s about someone having that "it" factor. The term can be used to describe a person, their outfit, or even their overall vibe.
-**Chinese Explanation**: 
-"Got rizz" 是源自嘻哈和时尚圈的一个俚语，用来形容一个人散发着自信、时髦和存在感。简单来说，就是指某人拥有那种“不可替代”的魅力。这个词可以用来形容一个人、他们的穿搭，甚至他们整体的感觉。
-```
-```markdown
-## Rizz (中): 有瑞滋吗？（有气质吗？）
-**Chinese Explanation**: 
-"有瑞滋吗？" 是从嘻哈和时尚圈流行起来的一个俚语，用来形容一个人散发着自信、时髦和存在感。简单来说，就是指某人拥有那种“独特”的魅力。这个词可以用来形容一个人、他们的穿搭，甚至他们整体的感觉。
-**English Explanation**: 
-"Got rizz" is a slang term that comes from the hip-hop and fashion scenes. It means to exude confidence, style, and presences. In other words, it's about someone having that "it" factor. The term can be used to describe a person, their outfit, or even their overall atmosphere.
+## Rizz: 莉兹
+### English
+*Rizz* is a slang term that describes a vibrant, bold, and glamorous presence or attitude, often associated with someone who exudes an air of confidence and style. It's commonly used to emphasize that someone or something looks extremely cool and attractive, or that they are full of energy and swagger.
+Example: "She totally nailed that outfit – her rizz was on point!"
+### 中文
+*Rizz* 是一个网络流行语，用来形容一种充满活力、大胆和高雅的存在感或态度，通常指的是那种充满自信和风格的人或事物。这个词常用来强调某人或某物看起来极其酷炫且有吸引力，或者充满活力和派头。
+例句："她完全把那套衣服穿出了感觉——她的莉兹可真足！"
 ```

@@ -1,16 +1,20 @@
 ---
 title: "What Does 'no cap' Mean? (no cap 是什么意思？)"
 slug: "what-does-no-cap-mean"
-date: 2025-12-07
+date: 2025-12-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## "No Cap" 没带帽儿
-### English Explanation
-"**No cap**" is an informal expression used to emphasize that something is true or real. It's similar to saying "for real" or "I'm not joking." The phrase originates from the idea that a cap (hat) cannot be on one's head and simultaneously lie. Therefore, when someone says "no cap," they are asserting that what they are saying is the truth and not a lie or exaggeration.
-### Chinese Explanation
-“**没带帽儿**”是一个 informal 说法，用于强调某件事是真的或真实的。它类似于说“真的”或“我可没有骗你”。“帽儿”在这里并不是指真的帽子，而是借喻。当有人使用“没带帽儿”来表达时，他们是在声称他们所说的都是事实，并非在说谎或夸大其词。
+## English: No Cap
+### Definition
+"No cap" is a slang phrase commonly used to indicate that what is being said is true or accurate, without exaggeration. It is used to emphasize sincerity or to confirm that something is genuine.
+### Example
+- **English**: "I had the best time at the party last night!"
+- **Bilingual**: "I had the best time at the party last night! No cap." (我昨晚在派对上玩得超开心！No cap.)
+### Context
+This phrase is often used in casual conversations to avoid any misunderstanding or to confirm honesty about a statement. It's a way to assert that there's no exaggeration in what is being said.
 ```
+This markdown format provides a clear definition and usage example of the slang phrase "no cap" in both English and Simplified Chinese.

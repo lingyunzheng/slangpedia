@@ -1,24 +1,18 @@
 ---
 title: "What Does 'ate' Mean? (ate 是什么意思？)"
 slug: "what-does-ate-mean"
-date: 2025-12-07
+date: 2025-12-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# "Ate" in Bilingual Slang
-## English
-### Meaning
-- **Completely**: This slang usage of "ate" means to fully consume or complete something. For example, when someone says, "I ate up all the chips," they mean they finished all the chips.
-### Example
-- **"They ate up the entire pizza in one sitting."**  
-- (They completely finished the entire pizza in one sitting.)
-## Chinese
-### 吃光 (Chī Guāng)
-- **Completely/consume**: 用作表示完全消费或消耗光某物，例如说 "我把薯片都吃光了"，意思是把所有的薯片都吃完了。
-### 示例
-- **"他们把整个比萨一口气吃光了。"**
-- (They completely finished the entire pizza in one sitting.)
+### 英文解释: Ate
+- **Definition:** A slang term used as an expression of extreme disappointment, frustration, disbelief, or anger.
+- **Example:** "I put in so much effort to prepare for the project presentation, and my boss just ate when I asked for feedback. I thought she was going to give me some constructive criticism, but instead, she just said nothing constructive at all."
+### 中文解释: 被艹 (注: 在中文中，"被艹"是相当粗俗和禁忌的表达，通常用于强调极度失望或生气的情绪。)
+- **定义：** 一个俚语，用来表达极度的失望、沮丧、不可置信或愤怒。
+- **例句：** "我为那个项目演示做了很多准备，但是当我在寻求反馈时，老板只是被艹了。我以为她会给我一些建设性的建议，但她实际上什么建设性的反馈都没有给我。"
 ```
+请注意，“被艹”是一个相当粗俗的表达，仅作为在中文中传达强烈情绪的一个例子。在正式或家庭友好的环境中应当避免使用。

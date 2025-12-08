@@ -1,29 +1,27 @@
 ---
 title: "What Does 'locked in' Mean? (locked in 是什么意思？)"
 slug: "what-does-locked-in-mean"
-date: 2025-12-07
+date: 2025-12-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English: Locked in
-**Explanation:** 
-"Locked in" means being committed to something or being unable to change a decision or situation. It can also refer to being mentally or physically stuck.
+### English: Locked In
+**Meaning:** 
+- In a metaphorical sense, "locked in" means being stuck in a situation from which there is no easy way out. It can also refer to a decision or agreement that is final and cannot be reversed.
 **Bilingual Slang Explanation:**
-- **English:** "Locked in"
-- **Simplified Chinese:** 被锁定了 ( bèi suǒliànle )
-- **Explanation:** 打比方说，就像门被锁上了一样，无法退出或改变当前的状态。它既可以用来形容已经做出无法更改的决定，也可以形容身体或精神上的僵局。
-- **Usage Example:** "We are locked in this contract for three years, so we can't back out now."
-- **中文例句:** 我们已经签订了三年的合同，所以现在不能中途退出了。
-## English: Locked in
-**Explanation:** 
-When referring to a social media post or video, "locked in" means it is restricted and can no longer be edited or deleted.
+- **英语解释:** "Locked In" 形象地表示被困在一个无法轻易摆脱的情况中。这个词也可以用来形容一个已经做出且无法更改的决定或协议。
+- **例句:** 
+- "We are locked in this contract, so it will be hard to change the terms."
+- "We're finally locked in to the plans for the event, no turning back now."
+### English: Locked In
+**Meaning:** 
+- In a more casual setting, "locked in" can mean something that is certain or definitive, often used to describe a situation where the outcome is very clear and there's no doubt.
 **Bilingual Slang Explanation:**
-- **English:** "Locked in"
-- **Simplified Chinese:** 上锁了 ( shàngsuǒle )
-- **Explanation:** 比如说在社交媒体上，一旦你的帖子或视频“上锁”了，就无法再编辑或删除了。
-- **Usage Example:** "I accidentally hit 'lock' on my post, now it's locked in and I can't delete it anymore."
-- **中文例句:** 我不小心点了锁的标志，现在我的帖子已经锁定了，我不能删除它了。
+- **英语解释:** 在比较随意的场合，"Locked In" 可以表示某件事情是确定无疑的，通常用来形容结果非常明确，没有丝毫疑问的情况。
+- **例句:** 
+- "The election results are locked in; the candidate you support is winning."
+- "Our new location is locked in, and it's going to be great for business."
 ```

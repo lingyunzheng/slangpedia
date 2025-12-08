@@ -1,21 +1,19 @@
 ---
 title: "What Does 'sigma grindset' Mean? (sigma grindset 是什么意思？)"
 slug: "what-does-sigma-grindset-mean"
-date: 2025-12-07
+date: 2025-12-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sigma Grindset (Sigma 态度)
-### 中文解释
-在中文网络用语中，“sigma grindset”（sigma 态度/心态）指的是那些有着不懈努力和极致追求精神的人。这些人通常会非常认真地对待自己的目标，不畏艰难，持续不断地付出努力，超越常人。在一些论坛、游戏中，经常可以看到一些玩家或者讨论组强调这样的精神，鼓励大家要有“sigma 态度”。
-### 英文 Explanation
-In internet slang, "sigma grindset" (sigma 态度) refers to individuals who are characterized by their relentless effort and extreme dedication to their goals. These people tend to take their objectives very seriously, are not afraid of hard work, and consistently put in efforts that go beyond the norm. This term is often used in forums, games, and discussion groups to emphasize such a mindset and encourage everyone to adopt a "sigma attitude."
-### Example Usage
-- 中文示例：他有很强的 sigma 精神，每天都坚持锻炼，最终成为了健身达人。
-- 英文 Example: He has a strong sigma mindset and trains every day consistently, eventually becoming a fitness guru.
-- 中文示例：团队中的每个人都在努力保持 sigma 态度，争取达到公司的最高标准。
-- 英文 Example: Every member on the team strives to maintain a sigma attitude, aiming to meet the company's highest standards.
+# Sigma Grindset 🏋️‍♂️💪
+## English Explanation
+**Sigma Grindset** is a term often used in online gaming communities, particularly in multiplayer online battle arena (MOBA) games like League of Legends or PlayerUnknown's Battlegrounds ( PUBG). It refers to a player or team who consistently works hard to achieve their goals, often through repetitive, monotonous, yet necessary tasks. The "sigma" part of the term is derived from the mathematical term representing the sum or total of elements, which is metaphorically used here to signify effort or dedication. A player with a sigma grindset is known for their persistence and determination in improving their skills, playing more games to gather data, and making incremental improvements through hard work.
+## Chinese Explanation
+**sigma grindset** (sigma 砺炼集中) 是在线游戏社区中广泛使用的一个术语，尤其是在多人在线战斗竞技场（MOBA）游戏，例如《英雄联盟》或《绝地求生》中。这个术语用来描述那些始终致力于实现目标的玩家或团队，他们通常通过重复性、单调但又是必要性的任务来实现这一点。“sigma”一词来源于数学中的术语，表示元素的总和或总值，这里的比喻用法是指努力或奉献。具有sigma grindset的玩家以其坚持不懈的精神和改善技能的决心而闻名，通过参与更多的比赛获取数据，并通过努力工作实现微小但持续的进步。
+**As an example:**
+- 英文：That team has a real sigma grindset, they never give up and always show up to practice.
+- 中文：那支队伍真的很有一套sigma grindset，他们从不放弃，总是刻苦练习。
 ```

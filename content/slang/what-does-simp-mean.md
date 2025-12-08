@@ -1,19 +1,21 @@
 ---
 title: "What Does 'simp' Mean? (simp 是什么意思？)"
 slug: "what-does-simp-mean"
-date: 2025-12-07
+date: 2025-12-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Slang Term: Slew (中文: 菇 '')
-### English Explanation
-**Simp** - A term commonly used in social media and internet culture to describe a person who is overly infatuated or obsessive in their admiration of someone, often to the point of being seen as foolish or even comical. A simp may shower their crush with excessive compliments, gifts, or attention, regardless of the response or expectations.
-### Chinese Explanation
-**菇 '' (Gū '')** - 在网络社交和互联网文化中，用来形容一个对某人过度倾慕或痴迷的人，常常表现得非常愚蠢或可笑。一个菇 '' 可能会给予自己的 crush 过多的赞美、礼物或关注，而且这些行为往往不会得到相应的回应或满足自己的期待。
-### Usage Example
-English: "He's such a simp for her, always sending her flowers and writing heartfelt love letters."
-Chinese: “他是她的菇 ''，总是给她送花，还写满了真情实感的情书。”
+## Slang: Simp
+**English:** A simp is someone who is overly or obsessively devoted to a romantic relationship, especially when that devotion is based on the other person's physical appearance rather than their personality or qualities. It refers to someone who is perceived as being infatuated, often in a one-sided and almost ridiculous manner. Satisfyingly, this term is often used in a derogatory or mocking way, implying a lack of real depth in the simper's attraction.
+**Chinese (简体中文):** " simp "是指那些对恋爱关系过分或痴迷投入的人，尤其是这种忠诚基于对方的外貌而不仅仅是个性或品质。当一个人的吸引力完全集中在对方的外表上，而忽视了对方的内在时，这个词语就更适用了。这种使用通常带有贬义或戏谑，暗示这种SIMP的吸引力缺乏真正的深度。
+**Example Sentence:**
+- English: He's such a simp for her, always sending flowers and writing heartfelt letters.
+- Chinese (简体中文): 他简直是她的镇simp，老是送花写情书。
+**Example in Use:**
+- English: My neighbor is a simp for our new teacher; he's been trying to set them up on a date all summer.
+- Chinese (简体中文): 我邻居简直是个对我们的新的老师的镇simp，整个夏天都在拼命为他们牵线搭桥。
 ```
+This markdown format provides both the English and Chinese meanings of "simp" along with example sentences and usage notes.

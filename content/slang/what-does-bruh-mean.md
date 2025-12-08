@@ -1,25 +1,24 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2025-12-07
+date: 2025-12-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Bruh (Brutha/Brother)
-### English
-**Definition:** "Bruh" is a casual, informal term used to address someone in a friendly or playful manner, often used to express disbelief or exasperation. It is a variation of the word "brother" but is much more casual and often less formal.
-**Example Sentences:**
-- "Bruh, you seriously thought I would fall for that?"
-- "Bruh, this is impossible!"
-### Chinese
-**定义:** "Bruh" 是一个非正式的词汇，用于以友好或戏弄的方式称呼某人，通常用来表达惊讶或无奈。它是 "brother" 的一种变体，但语气更为随意，且通常不那么正式。
-**例句:**
-- "你真当我是傻子啊，你这鬼主意就想得出来？"
-- "Bruh, you seriously thought I would fall for that?"
-- "这事儿就这么定了，没法商量了？"
-- "Bruh, this is impossible!"
+### bruh (Bruh)
+**英汉双解解释**
+1. **含义**:
+- "Bruh" is a casual interjection used to express exasperation, annoyance, or disbelief. It's a friendly and informal way to say "bro" (short for "brother"), but with a more relaxed and sometimes humorous edge.
+2. **用法**:
+- 在与朋友之间的轻松对话中使用，比如面对某件你感到非常意外或觉得可笑的事情时，比如：“Bruh, did you hear what happened at the office today?” (嘿，你知道今天办公室发生了什么吗？)
+3. **例子**:
+- "The traffic was so bad today, Bruh! I was an hour late for work." (今天交通太糟糕了，速教！我上班迟到了一个小时。)
+4. **衍生用法**:
+- “Bruh” can also be used to emphasize a point or add a tone of agreement or interest, like "Bruh, that’s exactly what I was thinking!" (嘿，我也是这么想的！)
+**双语示例句子**:
+- "Bruh, I can't believe we're still waiting here!" (速教，我简直不敢相信我们还在这儿等着！)
+- "Hey, Bruh, did you see the latest viral video on TikTok?" (嘿，速教，你看到最新的TikTok上最火的视频了吗？)
 ```
-This markdown structure provides a clear and concise explanation for the term "bruh" along with example sentences to illustrate how it's used in both English and Chinese contexts.

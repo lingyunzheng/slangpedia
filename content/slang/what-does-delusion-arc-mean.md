@@ -1,16 +1,16 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2025-12-07
+date: 2025-12-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Delusion Arc (Delusion Arc)
-## 中文解释
-"Delusion Arc" 是一个结合了“妄想弧线”概念的网络用语，通常用来形容一个人在完全被幻想或虚构的情节所支配的状态，就像是被一段幻想中的“弧线”引导着一样。这种状态常见于一些沉迷于奇幻故事、桌面游戏或者虚构世界的人身上。
-## 英文 Explanation
-"Delusion Arc" refers to a phrase that combines the concept of "delusional arc," often used to describe a person who is wholly under the influence of fantasies or fictional narratives, as if guided by an imaginary "arc." This term is commonly applied to individuals deeply immersed in fantastical stories, tabletop games, or imaginary worlds.
+# Delusion Arc - 笨比弧线 (Bèn'bǐ Húxiàn)
+#### English:
+**Delusion Arc** is a term often used in online communities, especially in Chinese-speaking forums or social media platforms like Bilibili or Weibo. It refers to an extended period or a series of posts where someone writes about their nonsensical or unrealistic thoughts or ideas using long, drawn-out sentences or content that doesn't make sense to the reader. It can also describe a storyline or a plot in a narrative that seems illogical or unrealistic because it's so stretched out or convoluted that it loses common sense.
+#### 中文:
+**笨比弧线 (Bèn'bǐ Húxiàn)**，这个词常出现在中文网络社交平台或论坛中，尤其是在Bilibili或微博上。它是指某人在较长的文本中持续写下一些缺乏逻辑或极其不切实际的想法或观点，使用冗长、扩展化的句子或内容，常常让人难以理解。此外，这个术语也用来形容一个故事线或叙述中的情节因为过于拉扯、不切实际而缺乏逻辑。这样的描述往往透露出一种夸张或荒诞的意味。
 ```
