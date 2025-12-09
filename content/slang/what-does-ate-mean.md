@@ -1,18 +1,19 @@
 ---
 title: "What Does 'ate' Mean? (ate 是什么意思？)"
 slug: "what-does-ate-mean"
-date: 2025-12-08
+date: 2025-12-09
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### 英文解释: Ate
-- **Definition:** A slang term used as an expression of extreme disappointment, frustration, disbelief, or anger.
-- **Example:** "I put in so much effort to prepare for the project presentation, and my boss just ate when I asked for feedback. I thought she was going to give me some constructive criticism, but instead, she just said nothing constructive at all."
-### 中文解释: 被艹 (注: 在中文中，"被艹"是相当粗俗和禁忌的表达，通常用于强调极度失望或生气的情绪。)
-- **定义：** 一个俚语，用来表达极度的失望、沮丧、不可置信或愤怒。
-- **例句：** "我为那个项目演示做了很多准备，但是当我在寻求反馈时，老板只是被艹了。我以为她会给我一些建设性的建议，但她实际上什么建设性的反馈都没有给我。"
+## Ate (English) / &Tié (&tie) (Chinese)
+### English
+**Ate**: This is a casual and informal term used to refer to a woman or a female friend. It is primarily used among groups of friends or in a very familiar setup. It can be a respectful nickname or a term of endearment, similar to "sister" or "buddy" in some contexts.
+### Chinese
+**&&Tié (&tie)**: 在中文中，“Ate”通常是用来称呼女性朋友的一种随意且非正式的方式。它类似于英文中的“sister”或“buddy”，但更口语化，多用于很熟悉的朋友之间或者是亲密的群体中。这也可能是一种尊敬的昵称。
+### Example Usage
+- **English**: "Hi Ate, how was your day?"
+- **Chinese**: "您好&Tié，您今天过得怎么样？"
 ```
-请注意，“被艹”是一个相当粗俗的表达，仅作为在中文中传达强烈情绪的一个例子。在正式或家庭友好的环境中应当避免使用。

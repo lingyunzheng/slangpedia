@@ -1,19 +1,16 @@
 ---
 title: "What Does 'sigma grindset' Mean? (sigma grindset 是什么意思？)"
 slug: "what-does-sigma-grindset-mean"
-date: 2025-12-08
+date: 2025-12-09
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Sigma Grindset 🏋️‍♂️💪
-## English Explanation
-**Sigma Grindset** is a term often used in online gaming communities, particularly in multiplayer online battle arena (MOBA) games like League of Legends or PlayerUnknown's Battlegrounds ( PUBG). It refers to a player or team who consistently works hard to achieve their goals, often through repetitive, monotonous, yet necessary tasks. The "sigma" part of the term is derived from the mathematical term representing the sum or total of elements, which is metaphorically used here to signify effort or dedication. A player with a sigma grindset is known for their persistence and determination in improving their skills, playing more games to gather data, and making incremental improvements through hard work.
-## Chinese Explanation
-**sigma grindset** (sigma 砺炼集中) 是在线游戏社区中广泛使用的一个术语，尤其是在多人在线战斗竞技场（MOBA）游戏，例如《英雄联盟》或《绝地求生》中。这个术语用来描述那些始终致力于实现目标的玩家或团队，他们通常通过重复性、单调但又是必要性的任务来实现这一点。“sigma”一词来源于数学中的术语，表示元素的总和或总值，这里的比喻用法是指努力或奉献。具有sigma grindset的玩家以其坚持不懈的精神和改善技能的决心而闻名，通过参与更多的比赛获取数据，并通过努力工作实现微小但持续的进步。
-**As an example:**
-- 英文：That team has a real sigma grindset, they never give up and always show up to practice.
-- 中文：那支队伍真的很有一套sigma grindset，他们从不放弃，总是刻苦练习。
+# Sigma Grindset
+## 中文解释
+**Sigma Grindset**：这是一个来自互联网和社交媒体的俚语，特指一种坚持不懈、务实地达成目标的行为模式或态度。类似于“低头磨 person（或事物）”，强调了过程中的辛苦努力和专注于目标的深度投入。在不同的情境下，可以用它来描述任何需要长期努力才能实现的项目或目标，比如学习、健身或职业发展等。
+## 英文 Explanation
+**Sigma Grindset**: This is a slang term from the internet and social media that describes a mindset or approach characterized by persistent, practical effort toward achieving goals. It's akin to "grinding away" or "nail-biting effort" and emphasizes the hard work and deep dedication required to get something done. It's often used to describe any project or goal that requires a long-term effort to achieve, whether it be in education, fitness, or career development, and highlights the determination to see it through to the end.
 ```

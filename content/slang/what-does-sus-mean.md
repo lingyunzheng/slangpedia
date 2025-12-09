@@ -1,19 +1,22 @@
 ---
 title: "What Does 'sus' Mean? (sus 是什么意思？)"
 slug: "what-does-sus-mean"
-date: 2025-12-08
+date: 2025-12-09
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## sus (英语: sus)
-### English Explanation:
-**"sus"** is a slang term on the internet, typically used to express suspicion or doubt about someone or something. The term gained popularity with the help of social media, particularly on platforms like Twitter. It can also be used to describe a person who appears to be acting suspiciously.
-### Chinese Explanation:
-**"sus"** 是网络用语，通常用来表示对某人或某事的怀疑或质疑。这个词汇在网络上，特别是在 Twitter 上，得到了广泛应用。有时也被用来形容行为可疑的人。
-**Example Usage:**
-- **English:** I think this is a scam, that guy is real sus.
-- **Chinese:** 我觉得这可能是诈骗，这家伙真是sus。
+## Sus (English)
+### Definition
+"Sus" is a slang term used to imply suspicion or doubt about someone or something. It's derived from the verb "suspicion" but has been shortened and popularized via internet culture.
+### Example
+"I saw Alex whispering to someone, and now I'm totally sus about his motives."
+## Sus (Chinese 疑神疑鬼)
+### Definition
+“Sus” 在中文网络用语中用来表示对某人或某事存有怀疑或戒备。它来源于英文的“suspicions”，但受到了网络文化的广泛传播和流行。
+### 示例
+“我看见亚历克斯和别人小声议论，现在我对他的想法有点sus了。”
 ```
+This markdown format provides a clear and concise bilingual explanation of the term "sus" in both English and Chinese, along with examples to illustrate its usage.

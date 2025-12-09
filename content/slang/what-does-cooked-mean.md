@@ -1,27 +1,23 @@
 ---
 title: "What Does 'cooked' Mean? (cooked 是什么意思？)"
 slug: "what-does-cooked-mean"
-date: 2025-12-08
+date: 2025-12-09
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### 英文 slang: cooked
-#### 中文 slang: 炒作过的 or 醉了
-1. **cooked** (verb, informal)
-- **Explanation:** When something is described as "cooked," it typically means the item has been tampered with, faked, or altered to appear better or more valuable than it really is. This term is often used in the context of goods, data, or even information.
-- **Example:** "This app's review score is cooked; it's not that good as it seems."
-2. **cooked** (adj., informal)
-- **Explanation:** If a situation, circumstance, or event is described as "cooked," it suggests it's unfair, rigged, or manipulated in favor of one side. This term is often used in sports, games, or any competitive context where fairness is a concern.
-- **Example:** "That basketball game was cooked; one team must have taken bribes to win."
-### 炒作過的 / 醉了
-#### 英文 slang: hopped up, intoxicated
-1. **炒作過的** (verb, informal)
-- **Explanation:** When something is described as "炒作過的" (cooked), it refers to something that has been overly promoted or exaggerated for a sale. This term often used in the context of products, stocks, or real estate.
-- **Example:** "The stock price has been cooked; it’s not a good investment idea at this point."
-2. **醉了** (adj., informal)
-- **Explanation:** "醉了" can sometimes be used similarly to "cooked" in the context of being inebriated or overly influenced. However, it often carries more of a literal meaning of being drunk or heavily intoxicated. In slang, it could also imply something is manipulated or distorted to the point of being misleading.
-- **Example:** "That story's point is a bit drunk; it's hard to take it seriously." (Using "醉了" to mean misleading or exaggerated.)
+### 吃（chī）老本 (cooked old rice)
+- **English Slang Equivalent:** "Hanging on to past glory"
+- **Explanation:** This phrase describes someone who relies on past achievements, experiences, or skills rather than making new efforts or acquiring new knowledge and skills. It’s often used to describe people who refuse to adapt to new situations or technologies.
+Example Usage:
+- 苏明虽然已经退休，但他还是坚持使用“吃老本”的策略，试图用他年轻时积累的知识解决问题。 (Though Su Ming has retired, he still tries to solve problems using the "eating old rice" strategy, relying on his accumulated knowledge from when he was young.)
+```
+```markdown
+### 煮 (zhǔ) 豆成 (chéng) 汁 (jiang)
+- **English Slang Equivalent:** "Cooking the beans to eat the beans" (idiomatically: "destroying the tools to achieve a goal")
+- **Explanation:** This term is used to critique actions that bring about a negative consequence for the person acting out of self-interest or short-sightedness. It implies that someone is taking away resources or tools that benefit them in the long run.
+Example Usage:
+- 王总经理为了自己的升职，牺牲了整个团队的努力，这简直就是煮豆成汁的例子。 (Manager Wang, in pursuit of his own promotion, sacrificed the entire team's efforts, which is a perfect example of "cooking the beans to eat the beans.")
 ```

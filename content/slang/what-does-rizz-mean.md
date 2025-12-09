@@ -1,18 +1,31 @@
 ---
 title: "What Does 'rizz' Mean? (rizz 是什么意思？)"
 slug: "what-does-rizz-mean"
-date: 2025-12-08
+date: 2025-12-09
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Rizz: 莉兹
-### English
-*Rizz* is a slang term that describes a vibrant, bold, and glamorous presence or attitude, often associated with someone who exudes an air of confidence and style. It's commonly used to emphasize that someone or something looks extremely cool and attractive, or that they are full of energy and swagger.
-Example: "She totally nailed that outfit – her rizz was on point!"
-### 中文
-*Rizz* 是一个网络流行语，用来形容一种充满活力、大胆和高雅的存在感或态度，通常指的是那种充满自信和风格的人或事物。这个词常用来强调某人或某物看起来极其酷炫且有吸引力，或者充满活力和派头。
-例句："她完全把那套衣服穿出了感觉——她的莉兹可真足！"
+# Rizz (American English)
+## Definition:
+Rizz is a playful or slang variation of the word "class" or "style." It's used to describe someone or something with a cool, fashionable, or stylish vibe.
+## Example Usage:
+- "Man, that new sneaker drop is rizz."
+- "She's got the rizz, no doubt about it."
+## Bilingual Explanation:
+- **English:** Rizz is a slang term used to describe something or someone that is stylish or cool.
+- **Chinese:** Rizz 是一个用于形容某人或某物有品味或酷炫的俚语。
+# リズ (Japanese)
+## Definition:
+リズ (rizz) 在日语中是英文 "class" 或 "style" 的一种变体，通常用来形容酷炫或时髦的样子。
+## Example Usage:
+- "新しいシューズの取り扱いはリズな感じがする。"
+- "Man, that new sneaker drop is rizz."
+- "彼女はリズで、間違いないね。"
+- "She's got the rizz, no doubt about it."
+## Bilingual Explanation:
+- **日本語:** リズは「klass」または「スタイル」のバリエーションとして使われる流行語で、気が利いたり、カリスマ性のあるスタイルや魅力を持っている人やものを指す。
+- **English:** Rizz is a popular slang term that refers to stylish, cool, or charismatic style or personality.
 ```

@@ -1,20 +1,17 @@
 ---
 title: "What Does 'drip' Mean? (drip 是什么意思？)"
 slug: "what-does-drip-mean"
-date: 2025-12-08
+date: 2025-12-09
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Drip (Era 1)
-## English
-"Drip" is a slang term often used to refer to someone or something that is considered to be in a high-end, luxurious, or "lit" (cool, awesome) state. It can describe anything from a luxury car to a famous celebrity. The term often implies an excess of someone's wealth, style, or fame.
-Example:
-- "He's a total drip, with his Gucci sweater and gold chain around the neck."
-## 中文
-"drip" 是一个俚语，用来形容某人或某物处于高端、奢华或“lit”（酷炫，棒）的状态。它可以描述从豪华汽车到著名名人的一切。这个词通常暗示某人的财富、风格或名气非常充裕。
-例句：
-- "他真是个装模作样的drip，穿着古驰毛衣，脖子上还挂着金链子。"
+## Drip (English)
+**Definition:** A term often used to describe something that is perceived as unnecessary or excessive, especially in relation to material possessions or luxury items.
+**Example Usage:** "He has so many designer bags, it's like a dripping faucet of luxury."
+## 滴水 (Dropsian - Chinese)
+**Definition:** 用来形容某种被认为是不必要的或过度的东西，特别是在提及物质财产或奢侈品时。
+**Example Usage:** "他有那么多的奢侈包，简直就是奢侈的滴水成河。"
 ```
