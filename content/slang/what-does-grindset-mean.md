@@ -1,18 +1,20 @@
 ---
 title: "What Does 'grindset' Mean? (grindset 是什么意思？)"
 slug: "what-does-grindset-mean"
-date: 2025-12-09
+date: 2025-12-10
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Grindset (English)
-**Definition:** A commitment to a continuous and rigorous work ethic, often with an attitude of perseverance and dedication. It's about staying driven and focused on achieving one's goals, no matter the obstacles.
-**Example Usage:** "Ever since he started investing heavily in his grindset, he's been climbing the corporate ladder much faster."
-# Grindset (Chinese)
-**定义：** 指一种持续且刻苦的工作态度，常常伴随着坚持不懈和全力以赴的精神。这是一个人即便面对困难也依然保持专注、努力实现目标的状态。
-**使用示例：** “自从他开始大力投入自己的磨砺态度后，他爬 corporate 梯的速度明显快了很多。”
+# Grindset (英式英语/美式英语)
+## 英式英语
+- **定义**: 一种持续努力工作或在特定领域付出艰苦努力的生活态度或文化。通常用于描述那些专注于目标，无论白天或夜晚，在追求成功的过程中不断努力的人。
+- **例子**: "Tom has a real grindset after his business failed, now he spends 18 hours a day trying to get his company back on its feet."
+## 美式英语
+- **定义**: 一种专注并投入大量时间与精力进行工作或实现目标的生活态度或文化。通常指那些在工作或个人目标上持续不懈的努力者。
+- **例子**: "Ever since her big promotion, Jane has had a serious grindset, pushing herself to her limits every single day."
+## 备注
+"Grindset" 常出现在互联网文化中，尤其是在社交媒体和各类在线论坛上，强调长时间、高强度的工作或追求目标的精神。
 ```
-Note: I modified the example to fit better within Chinese cultural reference and kept the English "corporate ladder" as it was in the original. If you need more specific cultural reference, please let me know.

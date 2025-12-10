@@ -1,24 +1,19 @@
 ---
 title: "What Does 'peak' Mean? (peak 是什么意思？)"
 slug: "what-does-peak-mean"
-date: 2025-12-09
+date: 2025-12-10
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Peak (English)
-### Definition
-The best, most excellent, or top-notch state or condition. Often used to describe something or someone at the highest level of quality or performance.
-### Bilingual Slang Explanation
-- 英文：The best, most excellent, or top-notch state or condition. Often used to describe something or someone at the highest level of quality or performance.
-- 中文：顶峰，极好的状态或条件。常用来形容某事或某人处于最佳或最高水准的状态。
-## Peak (Chinese)
-### Definition
-顶尖，顶峰，极好的状态。用来形容处于最佳或最高水准的状态。
-### Bilingual Slang Explanation
-- English: Top-notch, peak, or the best condition. Often used to describe something or someone in the highest level of quality or performance.
-- 中文：顶尖，顶峰，极好的状态。常用来形容某事或某人处于最佳或最高水准的状态。
+## Peak [English-Chinese Slang Explanation]
+**Peak:**
+- **English:** Refers to something at its best or in its most impressive state. It can also be used to denote the highest point of something, such as a cubic content or a trend.
+- **Chinese:** 峰值 (fengzhi) or 顶峰 (dǐngfēng), which literally means "peak" or "apex." It is often used to describe a situation at its highest point or best moment.
+Example:
+- English: "The sales peaked last month."
+- Chinese: "上个月的销售额达到了峰值。" (Shàng yuè de míng обязкарено ставить тире перед "по" в данном предложении, т.к. перед предложением стоит отрицание --- "не") 过月销售额达到了顶峰。" (Shàng yuè de míng yǐ guò yuè de míng mǎi dào le dǐngfēng.)
 ```
-This double-sided explanation offers the definition in both languages and provides a direct translation for better understanding.
+Note: In Chinese, a comma might be more natural for "上个月的销售额达到了顶峰" but the context and sentence structure can dictate whether a comma or a period is more appropriate.

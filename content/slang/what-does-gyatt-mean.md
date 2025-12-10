@@ -1,19 +1,20 @@
 ---
 title: "What Does 'gyatt' Mean? (gyatt 是什么意思？)"
 slug: "what-does-gyatt-mean"
-date: 2025-12-09
+date: 2025-12-10
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Gyatt (粤语/广东话)
-**English Slang Explanation:** 
-Gyatt is a slang term commonly used in Cantonese, mainly spoken in parts of southern China. It can be used to refer to a person who is considered quite outdated or out of touch with current trends. Someone who is labeled gyatt might be engaging in behavior considered old-fashioned or not hip by the modern standards.
-**Cantonese Slang Explanation:** 
-" gyatt" (音譯: 百嘜, Bender in some contexts) 是廣東話俚語中常用的一個詞，通常指的是那些被認為不太瞭解或跟上當前潮流的人。被標籤為 gyatt 的人可能會表現出一些被認為過時或不合潮流的行為。
-**Example in Context:**
-- **English:** Sam is so gyatt; he still wears suspenders and plays video games on a PlayStation 2.
-- **Cantonese:** 茶mond 真係百嘜喇，佢依日係 ABOUT suspenders 荷начен 又係greso玩啲PlayStation 2(Gameboy啊兩保).
+## Gyatt (Gyae-t)
+### English Explanation
+"**Gyatt**" is a playful and casual word often used to refer to someone who is boastful or excessively confident. It's akin to bragging or putting on a show of one's abilities or achievements in a way that might be seen as exaggerated or braggy.
+### Chinese Explanation
+"Gyatt (gyae-t)" 是一个富有趣味性和随意性的词汇，常用来形容那些自视甚高或过度自信的人。这个词类似于炫耀或在展示自身能力或成就时显得过度夸大或自夸，让人觉得有点虚张声势。
+---
+Example Usage:
+- **English**: "He's so gyatt about his new car."
+- **Chinese**: "他对新买的车吹嘘得太厉害了。"
 ```

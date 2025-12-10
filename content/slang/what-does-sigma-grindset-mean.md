@@ -1,16 +1,16 @@
 ---
 title: "What Does 'sigma grindset' Mean? (sigma grindset 是什么意思？)"
 slug: "what-does-sigma-grindset-mean"
-date: 2025-12-09
+date: 2025-12-10
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Sigma Grindset
-## 中文解释
-**Sigma Grindset**：这是一个来自互联网和社交媒体的俚语，特指一种坚持不懈、务实地达成目标的行为模式或态度。类似于“低头磨 person（或事物）”，强调了过程中的辛苦努力和专注于目标的深度投入。在不同的情境下，可以用它来描述任何需要长期努力才能实现的项目或目标，比如学习、健身或职业发展等。
-## 英文 Explanation
-**Sigma Grindset**: This is a slang term from the internet and social media that describes a mindset or approach characterized by persistent, practical effort toward achieving goals. It's akin to "grinding away" or "nail-biting effort" and emphasizes the hard work and deep dedication required to get something done. It's often used to describe any project or goal that requires a long-term effort to achieve, whether it be in education, fitness, or career development, and highlights the determination to see it through to the end.
+# Sigma Grindset (sigma策略+grindset熬夜党)
+**English Explanation:**
+"Sigma grindset" is a term often used in the context of online communities, especially among gamers, streamers, and students. It refers to a dedicated and persistent approach to work or study. "Sigma" is used to denote a level of precision or professionalism, while "grindset" implies a particular mindset or lifestyle of putting in the hours of hard work, often at the expense of a good night's sleep or personal life, to achieve a desired outcome.
+**Chinese Explanation:**
+"Sigma磨练"是用来描述一种在线社区特别是游戏玩家、主播和学生等群体中常见的心态和生活方式。它指的是对工作或学习的投入和持续努力。"Sigma"用来表示一种精确或专业的态度，而"grindset"则指的是不惜熬夜晚或牺牲个人生活来投入大量时间和精力去达成某个目标的心态和生活方式。
 ```

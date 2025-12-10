@@ -1,7 +1,7 @@
 ---
 title: "What Does 'NPC' Mean? (NPC 是什么意思？)"
 slug: "what-does-npc-mean"
-date: 2025-12-09
+date: 2025-12-10
 tags:
 - slang
 - internet
@@ -9,9 +9,10 @@ tags:
 ---
 ```markdown
 # NPC
-## 中文
-NPC：非玩家角色，通常出现在游戏、虚拟世界或角色扮演中，作为剧情中的一部分存在，玩家与之互动但无法控制这些角色。在一些情况下，NPC可以提供任务、信息或走上固定的剧情路径。
 ## English
-NPC: Non-Player Character, a character found in games, virtual worlds, or role-playing scenarios who exists as part of the storyline and is interacted with but controlled by the game. In some cases, NPCs can provide quests, information, or follow a fixed plot path.
+**NPC: Non-Player Character**
+- **Explanation:** In video games, an NPC is a character that is not controlled by a player. These characters often interact with the player through quests, dialogues, or providing information. They are part of the game's environment and are crucial for progressing the story or providing background context.
+## Chinese
+**NPC: 非玩家角色 (Fēi Wányǎ Rolè)**
+- **Explanation:** 在电子游戏中，NPC代表非玩家控制的角色。这些角色通常通过任务、对话或提供信息与玩家互动。他们是游戏环境的一部分，对于推进故事或提供背景信息非常重要。
 ```
-This markdown format provides a clear bilingual explanation of what NPC means, including its common usage in various contexts.

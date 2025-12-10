@@ -1,22 +1,22 @@
 ---
 title: "What Does 'deadass' Mean? (deadass 是什么意思？)"
 slug: "what-does-deadass-mean"
-date: 2025-12-09
+date: 2025-12-10
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-###deadass (英汉双解俚语)
-#### English Explanation:
-- **死板** / **老实**: It means someone or something is very serious, direct, and not humorous or playful at all. It can be used to describe both people and situations.
-#### Chinese Explanation:
-- **死板**: 指人或事情非常严肃、直接，不幽默或开玩笑。它可以用来形容人和情况。
-- **老实**: 同样表示严肃、不玩笑的态度，多用于描述人的行为或性格。
-例句:
-- "He came across as deadass serious during the meeting." 
-- 他在会议上显得特别严肃直板。
-- "They wanted their product to be seen as deadass reliable."
-- 他们希望他们的产品能被视为非常可靠。
+## English: Deadass
+### Definition
+- **Deadass**: This slang term is used to emphasize something that is complete, genuine, or to the fullest extent. It can also be used to indicate that something is extremely intense or serious.
+### Example Usage
+- "I'm deadass tired after working all night."
+- "That movie was deadass funny!"
+### Chinese (Simplified)
+- **死认真 (Sǐ zhēn rèn)**: 用来强调某事是非常认真、完全的，或者极端到极点的。它还可以用来表示某事非常激烈或严肃。
+### Example Usage in Chinese
+- "我工作了一整夜，累得要死认真。"
+- "那部电影真的超级搞笑！"
 ```

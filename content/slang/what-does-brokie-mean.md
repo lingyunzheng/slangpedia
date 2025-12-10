@@ -1,16 +1,21 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2025-12-09
+date: 2025-12-10
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Brokie (英文: Brokie)
-### English Explanation:
-**Brokie:** This term is a humorous blend of "broker" and "slut," typically used in internet slang, especially on social media platforms like Twitter, Reddit, or Discord. It is often used to describe someone, usually a man, who is very willing to sell their services (often intimate services) for money or other favors. Brokies are often perceived as opportunistic and greedy. The term is generally used in a negative or mocking context.
-### 中文解释:
-**Brokie:** 这个词汇是由“经纪人”（broker）和“妓女”（slut）两个词融合而来，通常在社交媒体平台上如推特（Twitter）、雷德dit（Reddit）、或雷 Nude（Discord）中使用。这个词大多用来形容那些非常愿意为了金钱或恩惠提供个人服务（通常涉及私密服务）的人，尤其是指男性。Brokies 被认为是机会主义和贪婪的代名词，通常是在负面或戏谑的语境下使用的。
+## Brokie (English)
+### Definition
+A term often used in online gaming communities, "brokie" refers to a player who only abuses their knowledge or reputation to gloat, insult, or shame lesser players without contributing positively to team effort or game experience. 
+### Example Usage
+"Stop behaving like such a brokie in that game chat, it's ruining the morale of the team."
+## 哥哔 (Chinese)
+### 解释
+“哥哔”（gē bī）是一个常在网络游戏社区中使用的词汇，用来形容那些仅仅依靠自己的知识或声望，在游戏中傲慢、无礼或嘲弄相对较弱的玩家，而不作出任何对团队努力或游戏体验有正面贡献的行为的人。
+### 示例用法
+“别这样哥哔，在游戏聊天里搞破坏，会影响队伍士气的。”
 ```

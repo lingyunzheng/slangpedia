@@ -1,16 +1,19 @@
 ---
 title: "What Does 'mother is mothering' Mean? (mother is mothering 是什么意思？)"
 slug: "what-does-mother-is-mothering-mean"
-date: 2025-12-09
+date: 2025-12-10
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# "mother is mothering"
-## 英文解释
-"Mother is mothering" can be interpreted as when a mother is being really helpful, nurturing, and caring towards her children. It implies that the mother is putting lots of effort into ensuring that her kids are comfortable, well-fed, and taken care of.
-## 中文解释
-“妈妈正在带孩子”通常指的是妈妈正在非常体贴、照顾孩子。这表明妈妈正在付出很多努力，确保孩子们感到舒适、吃饱穿暖并且受到关怀。
+# "Mother is Mothering"
+**English:**  
+When a mother is "mothering," she's taking care of someone or something with loving attention and care. Often used metaphorically, it describes the act of nurturing or taking responsibility in a nurturing way.
+**Chinese (翻译):**  
+当一个母亲在“mothering”时，她是以充满爱意的方式照顾某人或某物。这个词通常被比喻使用，描述的是以养育的方式进行照顾或承担责任的行为。
+**Example Usage in Context:**
+- English: "Since John started working late, Sarah has been mothering him by doing all his chores."
+- Chinese (翻译): “自从约翰开始工作到很晚后，莎拉一直在照顾他，代他做所有家务活。”
 ```

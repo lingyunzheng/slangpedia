@@ -1,24 +1,22 @@
 ---
 title: "What Does 'slaps' Mean? (slaps 是什么意思？)"
 slug: "what-does-slaps-mean"
-date: 2025-12-09
+date: 2025-12-10
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Slaps (英语解释)
-**Slaps**: 
-- **Meaning**: A quick, sharp blow with the open hand.
-- **Bilingual Slang Explanation**: 
-- **英文**: A quick, sharp blow with the open hand, often used in a playful or teasing manner.
-- **中文**: 用开放式手掌快速、突然地打一下，通常带有戏弄或开玩笑的意思。
-## Slaps (中文解释)
-**Slaps**:
-- **含义**: 手掌快速、突然地打一下。
-- **双语俚语解释**:
-- **英文**: A quick, sharp blow with the open hand, often used in a playful or teasing manner.
-- **中文**: 用开放式手掌快速、突然地打一下，通常带有戏弄或开玩笑的意思。
+# Bilingual Explanation for "slaps" as a Slang Term
+## English Explanation:
+In English, "slaps" as a slang term can mean giving quick, sharp strikes with the open hand or palm, often used in a playful or teasing manner. It can also refer to a sudden, quick change or impact.
+## Chinese Explanation:
+在英文中，“slaps”这个词作为俚语，通常是指用掌心快速、尖锐地拍打，常常用于玩闹或戏谑的方式。它也可以指突然、快速的影响或变化。
+---
+例句：
+- English: "She gave her brother a few good slaps on the back, laughing as he stumbled."
+- Chinese: "她给了弟弟几下背上的拍打，看着他踉跄着笑起来。"
+- English: "The market slaps everyone with unexpected volatility."
+- Chinese: "市场给每个人带来了意外的波动，就像一记突如其来的拍打。"
 ```
-You can use this markdown structure to elaborate more on the context, usage, or examples of the slang phrase.
