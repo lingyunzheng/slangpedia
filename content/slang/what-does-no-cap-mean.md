@@ -1,16 +1,20 @@
 ---
 title: "What Does 'no cap' Mean? (no cap 是什么意思？)"
 slug: "what-does-no-cap-mean"
-date: 2025-12-10
+date: 2025-12-11
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# "No Cap" Slang Explanation
-## English
-**No Cap**: This phrase is commonly used to indicate that something is true, real, or authentic. It's often used to emphasize the sincerity of a statement or to correct a misunderstanding. For example, if someone says "I just got a promotion," a friend might respond, "No cap," to confirm that the statement is true and unexaggerated.
-## 中文
-**No Cap**: 这个词组常用来表明某事是真的、真实的或真实的。它经常用来强调陈述的真实性或纠正误解。例如，如果有人说到“我刚得到升职”，一个朋友可能会回复“no cap”来确认该陈述是真实的且没有夸张的说法。
+## "No Cap" (官方无滤镜)
+### English
+**No cap**: An expression used to emphasize that what is being said is true and not an exaggeration or a joke. It is often used to convey authenticity or honesty.
+**Example Usage**:
+- "I actually won the lottery! No cap!"
+### 中文
+**no cap**: 用于强调所说的话是真实的，并不是夸大其辞或在开玩笑。它常用来表达真诚或诚实。
+**使用示例**：
+- “我事实上中了彩票！no cap！”
 ```

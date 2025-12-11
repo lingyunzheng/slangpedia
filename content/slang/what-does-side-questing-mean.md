@@ -1,16 +1,18 @@
 ---
 title: "What Does 'side questing' Mean? (side questing 是什么意思？)"
 slug: "what-does-side-questing-mean"
-date: 2025-12-10
+date: 2025-12-11
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Side Questing (中文解释：刷任务)
-## English Explanation
-**Side Questing**: In video games, side quests refer to optional tasks or activities that players can undertake alongside the main storyline. These quests often provide extra rewards such as experience points, items, or money. They can also provide side stories, useful equipment, or insights into the game world.
-## 中文解释
-**刷任务**: 在电子游戏中，侧任务是指在主线剧情之外的可选任务或活动。玩家可以在完成主要任务的同时，选择接受这些任务。刷任务通常会提供额外的奖励，比如经验值、物品或金钱。这些任务还可能提供背景故事、有用的装备或对游戏世界的了解更多。
+## Side Questing
+**English Slang:** Side questing is the act of undertaking additional tasks or activities alongside the main goal or objective. These tasks often provide rewards or fulfill quests but are not the primary focus of the endeavor.
+**Chinese Slang:** 侧任务 (cè rèn wù) 是指在主要目标或任务之外进行额外的任务或活动。这类任务通常会提供奖励或完成支线任务，但并不是主要任务的核心部分。
+Example:
+- **English:** "I decided to side quest and get some extra experience points while I was at it."
+- **Chinese:** "我决定顺便做一些支线任务，顺便赚取一些额外的经验点数。"
 ```
+This markdown format clearly explains the concept of "side questing" in both English and Chinese, providing a straightforward example for better understanding.

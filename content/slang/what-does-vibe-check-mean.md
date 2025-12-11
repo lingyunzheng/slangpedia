@@ -1,19 +1,19 @@
 ---
 title: "What Does 'vibe check' Mean? (vibe check 是什么意思？)"
 slug: "what-does-vibe-check-mean"
-date: 2025-12-10
+date: 2025-12-11
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Vibe Check (Chinese: 心有灵犀)
-**English Explanation:**
-A slang term used to check if someone is on the same page or sharing similar feelings. It's often used in casual conversations to gauge compatibility or to see if there's mutual understanding or interest.
-**Chinese Explanation:**
-"心有灵犀" (xīn yǒu líng xī) literally translates to "mind has a spirit together," which is a poetic way to express a mutual understanding or a sense that both parties share the same feelings or thoughts, even without explicit communication. It's often used to check if someone shares the same mood or intent.
-**Example Usage:**
-- English: "Hey, did you feel the vibe check when I mentioned the plans for the weekend?"
-- Chinese: "嘿，你不是也感觉到了我们讨论周末计划时的那种默契吗？" (hēi, nǐ bù shi yě gèng dé le wǒmen tǎnglǎn zúmù huàríng yín shí de nà zhǒng qì mò ma?)
+# Vibe Check (中文： vibes check)
+## English Explanation
+A slang phrase typically used to ask someone if they are in agreement with a proposed plan or idea. It's a way to gauge the atmosphere or the team's sentiment before proceeding with a decision or action.
+## Chinese Explanation
+一种口头禅，通常用于询问对方是否同意某个提议或想法。这是一种在作出决定或行动之前，了解氛围或团队情绪的方式。
+Example Usage:
+- **English**: "We're planning to go to the beach on Saturday. Vibe check, how does that sound?"
+- **Chinese**: "我们打算周六去海滩。 vibe check，听起来怎么样？"
 ```

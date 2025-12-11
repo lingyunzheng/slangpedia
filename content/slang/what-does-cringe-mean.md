@@ -1,19 +1,26 @@
 ---
 title: "What Does 'cringe' Mean? (cringe 是什么意思？)"
 slug: "what-does-cringe-mean"
-date: 2025-12-10
+date: 2025-12-11
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Cringe
-**English**: Cringe is a slang term that describes something or someone that is so bad, embarrassing, or off-putting that it elicits a cringing reaction. It can be used to describe actions, videos, music, or any content that makes people feel uncomfortable or awkward.
-**Chinese**: "cringe" 是一种俚语，用来形容一些极其糟糕、尴尬或令人不适的事物或行为，以至于人们会本能地皱眉或躲开。它可以用来形容动作、视频、音乐或任何让人生出不自在或尴尬感觉的内容。
-**Example Usage**:
-- English: "The way he sang that song was cringe."
-- Chinese: "他唱歌的方式让人感觉很cringe。"
-- English: "That viral video made me cringe so much, I couldn't watch it to the end."
-- Chinese: "那个病毒视频让我感觉很cringe，我根本没看完就关掉了。"
+## Cringe (英式英语)
+**Definition**: 
+Cringeworthy behavior or content that is so embarrassing, awkward, or of such poor quality that it makes one recoil in misery or head-slap (literally or figuratively).
+**Example**:
+- "OMG, did you see the new video of John trying to dance? It’s so cringe!"
+**Explanation**:
+This term often describes moments that make people feel uncomfortable or embarrassed, especially because of poor execution or obvious inexperience. It can also be used sarcastically to highlight the very opposite, acknowledging someone's terrible attempt in a lighthearted context. In summary, when something is cringe, it's a major fail in there.
+## 渺态 (中式网络用语)
+**定义**:
+指行为或内容极其尴尬、囧态百出，让人感到羞耻或痛苦，有时也用于夸张的赞誉中暗示某种特别糟糕的表现。
+**例句**：
+- “天啊，你看John那跳舞的新视频，真是太渺态了！”
+**解释**：
+这个用语通常用来形容那些让人极度不舒服或尴尬的时刻，特别是由于拙劣的表现或明显的缺乏经验造成的。有时也会用一种开玩笑的方式来形容某人的拙劣表现，以表明一种超乎寻常不佳的表现。总的来说，当某事渺态时，那就是一种表现极差的情况。
 ```
+Both terms and explanations are tailored to capture the essence of the term "cringe" as used in their respective languages.

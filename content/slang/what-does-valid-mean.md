@@ -1,22 +1,20 @@
 ---
 title: "What Does 'valid' Mean? (valid 是什么意思？)"
 slug: "what-does-valid-mean"
-date: 2025-12-10
+date: 2025-12-11
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Valid
-## English
-### Definition
-- **Legit**: Something or someone that is genuine and not fake. Often used to describe a situation, idea, or person that is real and reliable.
-### Example
-- "Jose's new business idea is *valid* and he's already gaining traction."
-## Chinese
-### 释义
-- **正经的**：指真实可靠，不是虚假的。常用来描述真实可靠的人、事、物或情况。
-### 示例
-- "Jose的新商业创意是*正经的*，他已经吸引了不少关注。"
+# Slang Term: "valid"
+## English Explanation
+"valid" as slang can mean something is legit, real, or genuine. It indicates that something is true, correct, or does what it's supposed to do.
+**Example:**
+- "His claims about the treasure map are valid."
+## Chinese Explanation
+“valid” 在俚语中可以表示某事是真实的、真正的或有效的。它表明某事是真的、正确的或是按预期起作用的。
+**例句:**
+- “他关于藏宝图的陈述是有效的。”
 ```

@@ -1,18 +1,22 @@
 ---
 title: "What Does 'situationship' Mean? (situationship 是什么意思？)"
 slug: "what-does-situationship-mean"
-date: 2025-12-10
+date: 2025-12-11
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Situationship 🇺🇸 / 现实恋爱 🇨🇳
-**English:** 
-Situationship is a term used to describe a confusing or tumultuous romantic relationship, often when two people are involved in a complicated situation that makes traditional dating dynamics unclear or difficult. It is essentially a fancy way to say you're in a relationship with someone but the usual dating rules don't quite apply.
-**Chinese:**
-"现 实 恋 爱" (xìshí liànrài) 是指一种令人困惑或复杂的恋爱关系，通常出现在两个人卷入了某种复杂情境中，使得传统的恋爱规则或动态变得模糊或难以适应的情况。简而言之，就是和某人处于一种恋情状态，但通常的恋爱法则并不适用。
-гаражные ворота 🇺🇸 / гаражные ворота 🇷🇺
-This example is a bit different since "situationship" is a concept rather than a concrete object. The comparison you provided is with "garage doors," which is more of a comparison rather than an explanation for a slang term. If you need more creative examples how should I proceed?
+## Situationship (English)
+### Explanation
+A situationship (also sometimes written as "situationship") is a term used to describe a casual, not-quite-relationship that is defined more by circumstance than by mutual desire to be in a relationship. It's like dating someone because of a friendship or out of a sense of obligation, rather than romantic interest.
+### Example Usage
+"Even though we hang out a lot, I feel like our relationship is more of a situationship. I don't think either of us is looking for anything serious."
+---
+## 情势恋爱 (Chinese)
+### 解释
+“情势恋爱”是指一种非正式、介于友谊和恋爱之间的情况，更多是由情境而非双方都愿意进入恋爱情绪中来维持的关系。它可能是因为友情或者出于某种义务而开始交往，而不是因为有浪漫的兴趣。
+### 使用例句
+“尽管我们经常一起玩，我觉得我们之间的关系更像是情势恋爱。我感觉我们俩都没有在这种关系中寻求任何严肃的东西。”
 ```

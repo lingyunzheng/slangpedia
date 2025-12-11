@@ -1,20 +1,20 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2025-12-10
+date: 2025-12-11
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sigma
+## Sigma (Σ)
 ### English
-**Sigma**: When used in English slang, "sigma" is often associated with the concept of someone being a social snob or being overly critical of others. It's a bit like calling someone a "sigma snob," implying they are very selective and judgmental about social interactions and behaviors.
+Sigma is often used in a broader context to refer to something being precise or particular, especially when referring to data or calculations. It can also denote the act of adding up or summing numbers. In a more colloquial setting, it might be used to indicate a complex or detailed matter.
 Example:
-- He's such a sigma, always judging people for the smallest of social blunders.
+- "She's very sigma about her data analysis, making sure every decimal point is correct."
 ### 中文
-**sigma**：在中文的 slang 中，“sigma”通常用来形容一个人是个社交挑剔鬼或者对他人过于挑剔。有点像是说“sigma 精神病”，意味着他们对社交互动和行为非常挑剔和苛刻。
-例句：
-- 他真是个 sigma，总是因为别人的小社交失误而横加指责。
+在更广泛的语境中，“Sigma”通常用来表示精确或详细，特别是在提到数据或计算时。它还可以表示汇总或加总数字的行为。在更为口语化的环境中，“Sigma”可能用来指代复杂或细致的事情。
+Example:
+- “她对数据分析非常sigma，确保每个小数点都正确无误。”
 ```

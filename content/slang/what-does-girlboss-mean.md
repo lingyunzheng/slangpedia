@@ -1,18 +1,22 @@
 ---
 title: "What Does 'girlboss' Mean? (girlboss 是什么意思？)"
 slug: "what-does-girlboss-mean"
-date: 2025-12-10
+date: 2025-12-11
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Girlboss (English - Slang)
-**Definition:** A term describing a successful and empowered woman who runs a business, often with a strong and confident demeanor. It emphasizes leadership, independence, and assertiveness in a professional context, often with an entrepreneurial spirit.
-**Chinese Slang Explanation:** 女老板 (Nǚ lǎnbàng) - 这个词用来形容成功并且独立的女性企业家。她不仅能够经营自己的生意，还是团队中的领导者。这个词强调了女性在职场上的自主性、自信和强大的商业头脑。 girls + boss，强调女性在商业领域的领导力和成功。
-**Example Usage:**
-- In English: "Mary is such a girlboss; she started her business from scratch and now employs over 50 people."
-- In Chinese: "玛丽是一个真的女老板；她从零开始创办了自己的企业，现在雇佣了50多人。"
+# Girlboss
+## 英文
+### Explanation
+"Girlboss" is a slang term that refers to a successful, independent woman who runs her own business or is a leader in her field. It often implies confidence, self-reliance, and pragmatism. The term gained popularity after the release of the book "Girl, Interrupted" and subsequently the Netflix series "Girlboss," both of which portray strong, self-made women.
+### Usage Example
+- "She's the girlboss of our office, running everything with her eyes closed."
+## 中文
+### 解释
+“Girlboss”是一个网络用语，用来形容那些独立、成功的女性，特别是那些自己创业或在其领域担任领导者的女性。这个词通常意味着自信、自立和实用主义。这个词在《 Girl, Interrupted》一书和之后的Netflix同名剧集《Girlboss》发布之后变得更加流行，这两个作品都讲述了坚强和自立的女性故事。
+### 使用示例
+- “她是办公室的girlboss，闭着眼睛就把所有事情都打理得井井有条。”
 ```
-This markdown format provides a clear and concise bilingual explanation of the term "girlboss," including a definition, Chinese slang explanation, and example usage.

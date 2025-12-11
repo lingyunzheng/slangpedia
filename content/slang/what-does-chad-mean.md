@@ -1,17 +1,15 @@
 ---
 title: "What Does 'chad' Mean? (chad 是什么意思？)"
 slug: "what-does-chad-mean"
-date: 2025-12-10
+date: 2025-12-11
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Chad (磷酸脚)
-**English:** 
-Chad is a term used to describe a person who is extremely dedicated and often to the point of being delusional in their devotion to a hobby, career, or pursuit. It can also refer to someone who is seen as socially awkward or stiff due to their intense focus on their interests.
-**Chinese (磷酸脚):**
-磷酸脚是指一个极其投入且有时近乎偏执的人，他们可能会对某种爱好、职业或追求付出极大的热情。这个词也可以用来形容因为过于专注于兴趣而显得社交上有些笨拙或僵硬的人。这个词来源不明确，可能与某种化学物质比喻的投入度有关，但具体由来广泛争议，有人认为可能来自1970年代一种叫做磷酸的咖啡因提神饮料。
+## Chad
+**English:** A term often used to describe a man who enjoys fitness, often working out excessively and may spend a significant amount of time and money on bodybuilding, gym membership, and supplements. Sometimes used sarcastically to mock commitment levels in relationships or to criticize someone's efforts as being too hard or too excessive.
+**Chinese: (查德)** 用来形容一个注重健身的男性，经常过度锻炼，可能花费大量的时间和金钱在健身、健身房会员和补充剂上。有时用于讽刺，嘲笑某人在关系中的投入程度过高，或是批评某人的努力过于认真或过分。
 ```
-Note: The term "磷酸脚" is a creative rendering from the English "chad" into Chinese slang. It is playful and not officially recognized, but meant to capture the essence of the term.
+This markdown structure provides a clear and concise explanation of the term "chad" in both English and Chinese, focusing on its usage and connotations.
