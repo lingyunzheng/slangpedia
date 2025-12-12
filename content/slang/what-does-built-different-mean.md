@@ -1,19 +1,18 @@
 ---
 title: "What Does 'built different' Mean? (built different 是什么意思？)"
 slug: "what-does-built-different-mean"
-date: 2025-12-11
+date: 2025-12-12
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# "built different" (中文解释)
-## English
-- **Meaning:** This phrase is an informal way of saying someone has a different body shape or physical constitution compared to others. It can refer to being taller, shorter, wider, or possessing an unusual physical attribute.
-- **Usage Example:** "He looks built different. I bet he lifts weights a lot."
-## 中文
-- **含义：** 这个词组是种非正式的说法，用来描述一个人的身体形状或体质和他人不同。它可以指更高、更矮、更宽，或者拥有某种不寻常的身体特征。
-- **使用示例：** “他看起来长得不一样。我怀疑他经常举重。”
+## "Built Different" (Slang)
+### English
+- **Meaning**: Describes someone or something that has a unique or distinctive appearance or build, often with an emphasis on physical attributes.
+- **Example Usage**: "Man, that guy is built different! He's got that ripped, muscular look."
+### 中文
+- **释义**：用来形容某人或某物有独特的或明显的外形或构造，通常强调体形特征。
+- **例句**："哇，这家伙真长得不一样！他那肌肉横生的样子实在不同寻常。"
 ```
-This markdown formatted content provides a clear and concise bilingual explanation of the slang phrase "built different."

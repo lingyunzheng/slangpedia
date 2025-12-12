@@ -1,23 +1,16 @@
 ---
 title: "What Does 'slaps' Mean? (slaps 是什么意思？)"
 slug: "what-does-slaps-mean"
-date: 2025-12-11
+date: 2025-12-12
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Slaps (English)
-**Meaning**: A quick strike with an open hand, often used in playful or enthusiastic contexts.
-**Example**: "Slaps on the back" – A friendly gesture of support or encouragement, often when congratulating someone.
-**Bilingual Explanation**:
-- **English**: A quick strike with an open hand, often used in playful or enthusiastic contexts.
-- **Chinese**: 快速击打，用开放的手掌，通常用于友好或兴奋的场合，如给予某人的背部打鼓掌作为鼓励或友好表示。
-## 拍一拍 (Chinese)
-**Meaning**: 一个快速的击打或拍打，用开放的手掌。常用于友好或兴奋的场合，如用来鼓励或表现出友好。
-**Example**: “拍一拍后背” – 作为给予某人的背部打鼓掌的形式来给予鼓励或友好的表示。
-**Bilingual Example**:
-- **Chinese**: 快速击打，用开放的手掌，通常用于友好或兴奋的场合，如给予某人的背部打鼓掌作为鼓励或友好表示。
-- **English**: A quick strike with an open hand, often used in playful or enthusiastic contexts.
+# Slang Explanation for "slaps"
+## English
+**Slaps**: This term can be used as a noun or verb. As a verb, it often means to hit someone or something lightly. In a more figurative sense, it can mean giving someone a virtual high-five or a compliment, especially in online contexts. As a noun, it refers to the act of slapping or the gesture itself.
+## Chinese
+**slaps**: 这个词可以用作名词或动词。作为动词，它通常意味着轻打某人或某物。在更形象化的语境中，它可以意味着在网上给某人一个虚拟的庆祝动作或赞美，特别是在论坛或社交媒体上。作为名词，它指的是拍打的动作或行为。
 ```

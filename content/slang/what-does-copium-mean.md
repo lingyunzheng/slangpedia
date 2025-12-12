@@ -1,20 +1,18 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2025-12-11
+date: 2025-12-12
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Copium (English-Spanish)
-## English
-**Copium**: A playful, informal term often used to describe a feeling induced by copious amounts of caffeine or energy drinks, akin to euphoria or a burst of energy. It can also be used sarcastically to describe a heavy or excessive use of substances which might otherwise be illegal or socially frowned upon (an example would be "ecstasy" or similar substances).
-### Example Sentence:
-"I needed a shot of copium to survive this cram session!"
-## Spanish
-**Copium**: Un término coloquial y divertido a menudo utilizado para describir una sensación causada por una ingesta excesiva de caféine o bebidas energéticas, similar a la euforia o un repunte de energía. También se puede usar de forma sarcástica para describir el uso en exceso de sustancias que pueden ser ilegales o socialmente desaprobadas (por ejemplo, "ecstasy" o sustancias similares).
-### Ejemplo de Frase:
-"Necesité un sustento de copium para sobrevivir a esta sesión de estudio intensa!"
+## Copium (English)
+**Definition:** A playful or humorous slang term often used to refer to caffeine or energy drinks, emphasizing their strong stimulating effects.
+**Example Usage:** "I need a bowl of copium to power through this afternoon's meetings!"
+## Copium (Chinese)
+**定义:** 这是一个 playful 或 humorous 的俚语，常用来指代咖啡因或能量饮料，强调它们强烈的提神效果。
+**示例用法:** "我需要用一杯copium来支撑下午的会议！"
 ```
+Note: The term "copium" is self-generated for the purpose of this translation exercise. While it may be a playful or invented word in a specific context or meme, it's not a widely recognized term in either English or Chinese.

@@ -1,20 +1,22 @@
 ---
 title: "What Does 'highkey' Mean? (highkey 是什么意思？)"
 slug: "what-does-highkey-mean"
-date: 2025-12-11
+date: 2025-12-12
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### highkey
-**英语**: Definitely / Absolutely
-**中文**: 确实 / 绝对
-**解释**:
-- **英语**: "highkey" is a colloquial expression used to emphasize something. It is derived from "high key," which in music and lighting refers to something being very loud or bright. In slang, it is used to indicate that something is significant or undeniable.
-- **中文**: "highkey" 的意思是在强调某事的时候使用的一种表达方式。这个词来源于音乐和灯光术语中的“high key”，表示某事非常引人注意或突出。在俚语中，它被用来说明某事是非常重要或不言自明的。
-**例句**:
-- **英语**: I've been highkey motivated to finish this project by the deadline.
-- **中文**: 我确实/绝对被这个项目的最后期限激发了动力。
+## Highkey
+### English
+"Highkey" is an intensifier often used in spoken and written language to emphasize or exaggerate the degree to which something is true. It's derived from "highly" but is used in a casual, informal context.
+Example:
+- "I'm highkey excited for the concert!"
+- "She's highkey the best at chess."
+### Chinese
+“Highkey” 是一个增强语气的词，常用于口语和书面语中，用来强调或夸张某件事情的真实性。它来源于 "highly"，但在语境上更加随意和非正式。
+例子：
+- "我对这场演唱会高key地感到兴奋！"
+- "她高key是最擅长下国际象棋的人。"
 ```

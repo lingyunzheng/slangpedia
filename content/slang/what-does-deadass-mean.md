@@ -1,22 +1,19 @@
 ---
 title: "What Does 'deadass' Mean? (deadass 是什么意思？)"
 slug: "what-does-deadass-mean"
-date: 2025-12-11
+date: 2025-12-12
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English Explanation
-**Deadass:** 
-- **Definition:** Used to describe something that is extremely, or exceptionally, something (usually negative). It can also mean someone who is very serious or straight-faced.
-- **Example:** "This meeting is **deadass** boring, I could fall asleep!"
-- **Usage:** Informal
-## Chinese Explanation
-**死认真/真认真:**
-- **定义:** 用于表示某事极其、非常（通常是负面的）的情况。也可以用来形容一个人非常认真或严肃不苟言笑。
-- **例句:** “这个会议**死认真**的无聊，我都快睡着了！”
-- **用法:** 非正式
+## English: deadass
+**Definition:** This slang term is used to describe someone who is extremely serious, focused, or intense, often to the point of being unyielding or stubborn.
+**Example Usage:** "He's been deadass committed to his workout routine this week, hardly taking a break."
+---
+## 中文: 死认真/板着脸
+**定义:** 这个俚语用来形容一个人非常严肃、专注或严厉，有时甚至到顽固或固执的程度。
+**使用示例:** "他这一周对锻炼计划简直死认真，几乎没有休息过。"
 ```
-The term "deadass" is often used informally and can be translated into Chinese using "死认真" (shǐ zhēn rèn) or "真认真" (zhēn zhēn rèn), depending on the exact context and tone of the original sentence.
+Note: The term "deadass" doesn't have a direct equivalent in Chinese, so "死认真" (shī zhēn rèn) or "板着脸" (bǎn zhe liǎn) are used to convey a similar sense of seriousness or grim determination.

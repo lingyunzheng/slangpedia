@@ -1,46 +1,30 @@
 ---
 title: "What Does 'frfr' Mean? (frfr 是什么意思？)"
 slug: "what-does-frfr-mean"
-date: 2025-12-11
+date: 2025-12-12
 tags:
 - slang
 - internet
 - tiktok
 ---
-Certainly! Below are some French slang terms, each paired with a brief explanation in markdown format.
 ```markdown
-# French Slang
-## Têtu
-- **Meaning:** Stubborn
-- **Example Usage:** "Quand tu es têtu, tu ne l'écoutes pas, c'est un vilain défaut."  
-- **Translation:** "When you're stubborn, you don't listen, that's a bad trait."
-## Goûter
-- **Meaning:** Snack, usually in the afternoon
-- **Example Usage:** "On va faire un goûter après l'école."  
-- **Translation:** "We're going to have a snack after school."
-## Cracheur de feux
-- **Meaning:** Fireworks (though used more metaphorically to describe someone who constantly yells or is very talkative)
-- **Example Usage:** "Il est souvent vu comme un cracheur de feux dans le clan."  
-- **Translation:** "He is often seen as a fireworks guy in the gang."
-## Bric à brac
-- **Meaning:** Junk, odds and ends (literally translates to "scratch and scrounge")
-- **Example Usage:** "Je mets tout ce que j'attrape dans le brique à brac."  
-- **Translation:** "I put anything I find in the bric-a-brac."
-## Faute de parcours
-- **Meaning:** Resume (job application, biographical outline)  
-- **Example Usage:** "Il l'a envoyé son CV en mentionnant tout son faute de parcours."  
-- **Translation:** "He sent his resume, mentioning all his qualifications."
-## Choper
-- **Meaning:** To catch, to take (often used for catching a cold, but can also mean to grab, to get arrested, etc.)
-- **Example Usage:** "Attention, en été, c'est bien plus facile de choper un rhume !"  
-- **Translation:** "Be careful, in summer, it's much easier to catch a cold!"
-## Tours des putains
-- **Meaning:** About town, going places (a colloquial way of saying "around town")
-- **Example Usage:** "Ce soir, on va défoncer des tours des putains."  
-- **Translation:** "Tonight, we're going out around town."
-## Rouler (lui/la)
-- **Meaning:** To screw, to hurt (someone, usually in the sense of breaking up with someone)
-- **Example Usage:** "Il ne voulait pas venir, donc elle lui a rouler."  
-- **Translation:** "He didn't want to come, so she broke up with him."
+# French Slang Explanations (fr/fr)
+## FAQ: "frfr" Slang in French
+### What does "frfr" mean in French slang?
+"Frfr" is an internet slang term in French, used similarly to the English term "french fry." However, in slang, it often has a more casual and colloquial meaning. It can be used to describe something that is ordinary, boring, or mainstream.
+#### Examples:
+- **Usage example:**  
+- "C'est juste de la frfr, pas assez exciting."  
+- (Translation: It's just ordinary, not exciting enough.)
+- **Usage context:**  
+- Friends discussing a typical, no-frills meal at a casual restaurant.  
+- When someone is talking about a common or everyday activity that lacks anything special or noteworthy.
+### Related Terms
+- **Bâtard** - Another term that means "ordinary" or "rundown" in French slang, similar to "frfr."
+- **Top de la top** - This phrase means something is extremely good or the best, the opposite of "frfr."
+### Cultural Note
+Slang evolves with the times and varies among different regions and generations in France. "Frfr" is an example of how internet slang can create new words with unique meanings.
+---
+This explanation should help you understand the meaning and usage of "frfr" in French slang.
 ```
-Would you like to add any more specific French slang terms or any other language combination?
+Let me know if you need more elaboration or any other slang terms!

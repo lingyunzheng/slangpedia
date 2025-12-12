@@ -1,16 +1,16 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2025-12-11
+date: 2025-12-12
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Ratio (Both EN and CN)
-- **English:** "Ratio" is a non-serious way to compare two things, often in a way that highlights the superiority or inferiority of one thing over another. For example, someone might say "My car gives me way better ratio than yours," meaning their car offers a better value or deals more excitement compared to another car.
-- **Chinese:** "比惨 (bǐ cǎn)" or "炫富 (xuàn fù)" (which can have a similar connotation depending on context) is often used colloquially to mean comparing one's own situation in a negative way, highlighting how much worse one's problem or situation is compared to someone else's. It can also be used in a more positive way to "show off" success or possessions, similar to how "ratio" is used to boast about something positive. However, "ratio" in English is not commonly used in the same negative context as "比惨" or "炫富" in Chinese.
-- 比惨 (bǐ cǎn): 指在比较各种糟糕情况时用来展示自己情况比他人更糟糕。
-- 炫富 (xuàn fù): 指用展示自身财富、成功等来吸引关注，这在汉语环境中常理解为一种炫耀，与英语中的“ratio”在积极上有些相近，但在中文中更强调物质上的展示。
+# Ratio (英语: Ratio)
+## Chinese Explanation
+“比例”或“比值”，但更多时候用于比较两个不符合常规交换条件的事物，特别是当一个人或事物在某个领域明显优于别人或事物时。例如，如果一个人的社交媒体仅关注他自己的成就而不关心别人的成就，别人可能会说“你只关注自己的ratio”。
+## English Explanation
+"Ratio" or "proportion," but more often it is used in a context where two things are being compared that do not follow the usual exchange condition, especially when one person or thing is clearly superior to another in a particular field. For example, if someone focuses solely on their own accomplishments on social media without caring about others' achievements, others might say "you’re just focusing on your ratio."
 ```

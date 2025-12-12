@@ -1,19 +1,16 @@
 ---
 title: "What Does 'goated' Mean? (goated 是什么意思？)"
 slug: "what-does-goated-mean"
-date: 2025-12-11
+date: 2025-12-12
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Goated
-## English
-"Sick" or "extremely talented" — typically used to describe someone who is amazing or exceptionally good at something. The term often implies a combination of skill, style, and popularity.
-## 中文
-"非常出色"或"超有才华"——通常用来形容某人在某一方面极其优秀或非常出色。这个词常常暗示着技能、风格和流行度的结合。
-例句：
-- "They say that Tom Brady is officially goated in the NFL," translates to "他们说汤姆·布雷迪在NFL中真的是超凡脱俗的存在。"
-- "She's goated at playing the piano," translates to "她弹钢琴真是非常出色。"
+## Goated
+**English:**  
+"Goated" is a slang term that originated in social media and street culture. It's used to describe someone or something that is the best in a particular context, often emphasizing the supreme quality or superiority. For example, if someone is exceptionally skilled at a game, or a particular car is considered the best model of its type, it could be referred to as "goated."
+**中文：**  
+"goated" 是一个起源于社交媒体和街头文化的俚语。它用来描述某个人或某件事在特定情境下是最棒的，常常强调其卓越的质量或优越性。比如，如果某人在某场比赛中表现出色，或者一辆车被认为是同类型中最顶级的车型，就可以称之为“goated”。
 ```

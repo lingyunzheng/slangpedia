@@ -1,16 +1,18 @@
 ---
 title: "What Does 'rizz' Mean? (rizz 是什么意思？)"
 slug: "what-does-rizz-mean"
-date: 2025-12-11
+date: 2025-12-12
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Rizz (俚语解释)
-## 中文
-“Rizz”原本来源于意大利语“riga”，意为“派头”、“风度”，也指一种带有个性特色的姿态或态度。在现代中文中，它被用来形容某人或某事很有气场，充满个性和自信。
-## 英文
-"Rizz" originates from the Italian word "riga," which means "style" or "grace" and can also refer to a certain attitude or pose with character. In modern English usage, it describes someone or something with charisma, confidence, and a unique personality.
+## "Rizz" Slang Explanation
+**English:**  
+- **Definition:** A playful, enthusiastic, and often exaggerated way of walking or posing.
+- **Example Usage:** "She came into the room with some serious rizz, making everyone turn to stare."
+**Chinese (简体中文):**  
+- **定义:** 一种愉快、充满活力且常常带有夸张意味的走路或摆姿方式。
+- **使用示例:** "她一进房间就带着一股子酷(rizz)，把所有人的眼光都吸引过去了。"
 ```
