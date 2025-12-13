@@ -1,7 +1,7 @@
 ---
 title: "What Does 'gymcel' Mean? (gymcel 是什么意思？)"
 slug: "what-does-gymcel-mean"
-date: 2025-12-12
+date: 2025-12-13
 tags:
 - slang
 - internet
@@ -9,11 +9,12 @@ tags:
 ---
 ```markdown
 # Gymcel
-## English
-A slang term derived from combining "gym" and "cel" (cell or cellphone). It typically refers to someone who frequently checks their phone, especially while working out at the gym. This person might be seen scrolling through social media, texting, or playing games on their phone instead of focusing on their workout.
-## 中文
-一个由“健身房”（gym）和“cell”（细胞或者手机）组合而成的词，用来形容那些在健身房时频繁检查手机的人，特别是刷社交媒体、发短信或者玩游戏。这种人可能不太专注自己的锻炼。
-### Example Usage
-- In English: "I saw a gymcel on the treadmill, so busy on their phone they forgot to run."
-- 在中文：我在跑步机上看到一个正在刷手机的健身码农，以至于忘记了跑步。
+**English:** A person who heavily prioritizes going to the gym and staying in shape, often to the point of obsession. Gymcel individuals often spend a lot of time at the gym, follow strict diets, and engage in various fitness-related activities.
+**Chinese:** 一个非常注重健身、保持体型的人，有时甚至到了痴迷的程度。健身控（gymcel）通常会花费大量的时间在健身房，严格控制饮食，并参与各种健身活动。
+例子：
+- "John is a gymcel, he hits the gym every single day after work."
+- "Mary is the gymcel of the group, always posting her fitness progress on social media."
+例子（中文）：
+- "约翰是健身控，下班后每天都去健身房。"
+- "玛丽是这群人里的健身控，经常在社交媒体上晒她的健身进度。"
 ```

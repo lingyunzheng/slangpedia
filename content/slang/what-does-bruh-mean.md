@@ -1,22 +1,25 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2025-12-12
+date: 2025-12-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Bruh: A Slang Explanation
-## English
-**Definition:** "Bruh" is a slang term used to express agreement, surprise, confusion, or emphasize a statement. It can be considered a more casual version of "bro" (short for brother) or "man."
-**Usage Examples:**
-- "I can't believe the concert was canceled. Bruh, that's crazy!"
-- "Hey bro, would you believe me if I said I saw a UFO? Bruh, it's true!"
-## 中文
-**定义:** "Bruh" 是一种俚语表达，用来表示赞同、惊讶、困惑或强调某个陈述。它可以被视为“bro”（兄弟）或“man”（男人）的更非正式版本。
-**使用示例:**
-- "我简直不敢相信音乐会取消了。Bruh，这就疯狂了！"
-- "嘿，Bro，你信不信我真的看到UFO了？Bruh，这是真的！"
+## English: Bruh
+### Chinese: 哥们儿 (Gēmèr) / 哥们 (Gēmén)
+#### Explanation:
+- **English:** "Bruh" is a slang term often used in casual conversations to refer to someone as a friend or associate. It can be used as a noun, verb, or an interjection to convey various emotions such as surprise, exasperation, or agreement.
+- **Chinese:** "哥们儿" (gēmèr) or "哥们" (gēmén) are informal terms used to refer to male friends. They can express feelings like closeness, agreement, or even disagreement. The terms are often used in spoken language or informal writing.
+#### Usage Examples:
+English:
+- "Bruh, that movie was so bad, I almost fell asleep twice!"
+Chinese:
+- "哥们儿，那部电影简直太烂了，我都认死理儿地睡了两次！"
+English:
+- "Bro, you're a bruh-tal player."
+Chinese:
+- "哥们，你玩得简直太牛了！"
 ```

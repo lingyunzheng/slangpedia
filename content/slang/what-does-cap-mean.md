@@ -1,18 +1,20 @@
 ---
 title: "What Does 'cap' Mean? (cap 是什么意思？)"
 slug: "what-does-cap-mean"
-date: 2025-12-12
+date: 2025-12-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Cap
+# Cap (English/Chinese)
 ## English
-**Meaning:** To realize or admit that something is true or better than what was originally thought or believed.
-**Example Usage:** "He finally had to cap that this new restaurant was way better than he expected."
-## 中文
-**含义：** 承认或意识到某事是真的或比原本所认为的更好。
-**例句：** "他终于不得不承认这家新开的餐厅比他预期的好多了。"
+**Cap**:
+- **Definition**: To overcome or defeat someone or something, especially by a small margin.
+- **Example**: "He barely managed to cap the competition with his last-second goal."
+## Chinese
+**帽（mào）子**:
+- **Definition**: 意思是指在竞争或竞赛中以微弱的优势击败其他人或事物。
+- **例句**："他最后关头的进球勉强战胜了对手，可以说是以帽子之差险胜。"
 ```

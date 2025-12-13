@@ -1,27 +1,16 @@
 ---
 title: "What Does 'yeet' Mean? (yeet 是什么意思？)"
 slug: "what-does-yeet-mean"
-date: 2025-12-12
+date: 2025-12-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Yeet (noun or verb)
-**English:**
-- *Meaning:* A dismissive or forceful action in gaming or casual culture, often used to indicate rejection, throwing something away, or ejecting a character from a game.
-- *Example:* "I just yeeted that question out of my mind. No use thinking about it."
-**简体中文:**
-- *含义:* 在游戏或日常文化中表示一种 dismissive 或强制性的动作，常用于表示拒绝、抛弃某物，或从游戏中踢出角色。
-- *例句:* "我把那个问题从脑海中 yeet 出去了，想它也没用。"
-```
-```markdown
-# Yeet (verb)
-**English:**
-- *Meaning:* An internet slang term used to express enthusiasm, excitement, or gladness, similar to the word "aye".
-- *Example:* "Yeet! We won the game!"
-**简体中文:**
-- *含义:* 一种网络流行语，用于表达兴奋、惊喜或高兴的情绪，类似于单词 "aye"。
-- *例句:* "Yeet! 我们赢了比赛！"
+## Yeet - 耶特
+### English:
+**Yeet** is an internet slang term that originated from gaming communities. It is used to describe a quick, powerful throw or expulsion of something, often with an air of confidence or excitement. The action can be literal, such as tossing an object, or figurative, like "yeetting" away bad habits. It gained widespread popularity in 2020 and is often accompanied by a jubilant or triumphant expression.
+### Chinese (简体):
+**耶特 (Yeet)** 是一个网络流行语，起源于游戏社区。它用来形容快速有力地抛掷或排出什么东西，常常带有自信或兴奋的意味。这个动作可以是字面意义上的，比如扔东西，也可以是比喻意义上的，比如“耶特”掉坏习惯。这个词语在2020年广泛流行开来，通常会伴有欢乐或胜利的表情。
 ```

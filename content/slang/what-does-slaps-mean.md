@@ -1,16 +1,21 @@
 ---
 title: "What Does 'slaps' Mean? (slaps 是什么意思？)"
 slug: "what-does-slaps-mean"
-date: 2025-12-12
+date: 2025-12-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Explanation for "slaps"
-## English
-**Slaps**: This term can be used as a noun or verb. As a verb, it often means to hit someone or something lightly. In a more figurative sense, it can mean giving someone a virtual high-five or a compliment, especially in online contexts. As a noun, it refers to the act of slapping or the gesture itself.
-## Chinese
-**slaps**: 这个词可以用作名词或动词。作为动词，它通常意味着轻打某人或某物。在更形象化的语境中，它可以意味着在网上给某人一个虚拟的庆祝动作或赞美，特别是在论坛或社交媒体上。作为名词，它指的是拍打的动作或行为。
+## Slaps (Slapping)
+- **英语解释**: Slaps in English can refer to a physical act of hitting someone gently with an open hand. It can also be a playful, friendly gesture.
+- **俚语解释**:
+- **英语**:
+- **Define**: A fast, gentle hit with the open hand.
+- **Usage**: "You just got a friendly slap on the back from your friend."
+- **中文**:
+- **定义**: 轻轻的快速挥手拍打，通常带有嬉戏或友好的意味。
+- **用例**: "你从朋友那里得到了一个友好的拍背。”
 ```
+This markdown style provides a clear and concise explanation of the term "slaps" with its linguistic nuances in both English and Chinese.

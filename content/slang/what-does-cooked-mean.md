@@ -1,31 +1,22 @@
 ---
 title: "What Does 'cooked' Mean? (cooked 是什么意思？)"
 slug: "what-does-cooked-mean"
-date: 2025-12-12
+date: 2025-12-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
+# Slang Term: Cooked 🚀
 ## English: Cooked
-### Literal Meaning: 
-Burnt or overdone, often used to describe food that has been cooked too long and has lost its freshness or quality.
-### Slang Explanation:
-- **Status or Evaluation**: Used to indicate that someone or something is great, excellent, or perfect. For example, if a person looks outstanding, you might say "He's cooked." 
-- **Understanding or Agreement**: Sometimes used to express that you fully understand or are on the same page with someone. For example, saying "I'm cooked with this idea" means you are very convinced or in total agreement.
-### Example Sentences:
-- Wow, this meal is cooked, it's delicious! (This dish is excellent, it's delicious!)
-- She has cooked ideas, I think we should try them out. (She has great ideas, I think we should try them out.)
-```
-## Chinese: 烂了 / 烧焦了
-### 烂了 (làn le):
-- **Literal Meaning**: 腐烂、变质，通常指食物变坏了。
-### 成语/俚语解释:
-- **状态或评价**: 表示某人或某事很厉害、很好、完美。例如，如果一个人看起来很棒，你可能会说“他可谓是烂了”。
-- **理解或认同**: 有时用于表达你完全理解或和某人意见一致。例如，说“我对这个想法烂了”意味着你非常认可或完全同意。
-### 例句:
-- 哇，这顿饭可真是烂了，真是太好吃了！
-- 她的想法烂了，我觉得我们应该试试看。
-- 这个项目烂了，我们需要马上采取行动。
+- **Meaning**: If something is "cooked," it means it's ready or done. In informal slang, it can also mean that someone has messed up really badly or that something is a failure.
+- **Example Usage**: 
+- "The cake is cooked, let's enjoy it!" 
+- "Man, this party is so lame, it's totally cooked."
+## 中文：煮熟
+- **意思**: 如果某事被描述为“煮熟”（cooked），那就意味着它已经准备好或已经完成了。在非正式俚语中，这个词也可以用来表示某人已经糟糕地失败了，或者某事情完全失败了。
+- **例句**:
+- “蛋糕煮熟了，我们可以享用它了！” 
+- “哇塞，这个聚会太难看了，完全煮熟了。”
 ```

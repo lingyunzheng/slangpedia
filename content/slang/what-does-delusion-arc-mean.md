@@ -1,17 +1,16 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2025-12-12
+date: 2025-12-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Delusion Arc
-**English:**
-A term used to describe a period or event in a narrative or personal journey where someone allows themselves to believe a particularly far-fetched or unrealistic plan or scenario as a reality. It often involves a character (or oneself) in a story who is so deeply invested in their fantasy that they act based on it, sometimes to disastrous effects.
-**Chinese:**
-一个用来形容在叙述或个人经历中，人们对自己一个特别离谱或不现实的计划或情景产生认同，认为它就是现实的时期。这个词常用于描述故事中的一个角色（或自己）如此深入地投入到幻想中，以至于会基于这种错觉采取行动，有时会导致不幸的结果。
+## Delusion Arc
+- **English Slang Explanation:** A "delusion arc" can be humorously described as a storyline where a character's beliefs completely脱离现实，以至于他们的境况看起来像是迷失在了一个自我编织的幻想世界里。这种情况通常发生在剧情转折点，主角坚信不疑的某个错误信息引导他们进入一个令人难以置信的困境。这种情节设定常用于讽刺或增加喜剧效果。
+- **Chinese 调皮解释:** " delusion arc" 可以形容某个人或者角色的故事走向实在太过“脱节现实”了，仿佛整个剧情被他们自己编织的美梦给带偏了一样。这种情况经常发生在角色坚信某个错误信息，从而陷入一个完全无法解释的困境，就像是他们被自己搞的一团糟。这种设定往往用来凸显荒谬感或者增加剧情的笑料。
+---
+希望这些解释能为你带来一点乐趣！天花乱坠的故事走向，迷路的幻想，快来看看谁是下一个“delusion arc”吧。
 ```
-This markdown structure helps clarify the meaning of "delusion arc" in both English and Chinese, making it easier to understand and translate.

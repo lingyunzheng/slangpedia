@@ -1,18 +1,17 @@
 ---
 title: "What Does 'rizz' Mean? (rizz 是什么意思？)"
 slug: "what-does-rizz-mean"
-date: 2025-12-12
+date: 2025-12-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## "Rizz" Slang Explanation
-**English:**  
-- **Definition:** A playful, enthusiastic, and often exaggerated way of walking or posing.
-- **Example Usage:** "She came into the room with some serious rizz, making everyone turn to stare."
-**Chinese (简体中文):**  
-- **定义:** 一种愉快、充满活力且常常带有夸张意味的走路或摆姿方式。
-- **使用示例:** "她一进房间就带着一股子酷(rizz)，把所有人的眼光都吸引过去了。"
+## Rizz (英语)
+- **Definition:** A playful way to describe confidence, especially in a cool or provocative manner.
+- **Example Usage:** "She's always got the rizz, walking into the party like she owns the place."
+## 靳 (拼音: Rizz, 汉语)
+- **定义:** 一种形容自信的态度，尤其是在酷或挑逗的场合下使用。
+- **用例示例:** “她总是带着十足的靳，走进派对就像拥有整个场地一样。”
 ```

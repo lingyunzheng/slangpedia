@@ -1,7 +1,7 @@
 ---
 title: "What Does 'skibidi' Mean? (skibidi 是什么意思？)"
 slug: "what-does-skibidi-mean"
-date: 2025-12-12
+date: 2025-12-13
 tags:
 - slang
 - internet
@@ -10,8 +10,9 @@ tags:
 ```markdown
 # Skibidi
 ## English
-A catchphrase or meme that originated from a viral dance challenge where the person says "Skibidi" while doing a dance move. It's often used in a playful or humorous context to express excitement or invite others to join in on the fun.
+- **Definition**: A nonsense word often used in exuberant, playful, or celebratory contexts. It can mimic the sound of cheering, clapping, or dancing in a frenzied way.
+- **Example**: "Let’s get this party started! Skibidi jsonObject!" (Using it to emphasize excitement or enthusiasm.)
 ## Chinese
-一个起源于病毒性舞蹈挑战的口头禅或梗，“Skibidi”是人们在跳舞时说的一句话。通常用于表现出兴奋或邀请其他人一起加入这个有趣的玩法。
----
-This phrase can be seen in various online contexts where people are trying to engage others by mimicking this dance move and using the phrase.
+- **定义**：一个无意义的词语，通常用于夸张、欢快或庆祝的语境中。它能模仿欢呼、鼓掌或疯狂跳舞的声音。
+- **例句**：让我们把这个派对开始吧！Skibidi jsonObject！（用它来强调兴奋或热情。）
+```
