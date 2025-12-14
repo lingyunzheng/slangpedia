@@ -1,25 +1,21 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2025-12-13
+date: 2025-12-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English: Bruh
-### Chinese: 哥们儿 (Gēmèr) / 哥们 (Gēmén)
-#### Explanation:
-- **English:** "Bruh" is a slang term often used in casual conversations to refer to someone as a friend or associate. It can be used as a noun, verb, or an interjection to convey various emotions such as surprise, exasperation, or agreement.
-- **Chinese:** "哥们儿" (gēmèr) or "哥们" (gēmén) are informal terms used to refer to male friends. They can express feelings like closeness, agreement, or even disagreement. The terms are often used in spoken language or informal writing.
-#### Usage Examples:
-English:
-- "Bruh, that movie was so bad, I almost fell asleep twice!"
-Chinese:
-- "哥们儿，那部电影简直太烂了，我都认死理儿地睡了两次！"
-English:
-- "Bro, you're a bruh-tal player."
-Chinese:
-- "哥们，你玩得简直太牛了！"
+### 【英文】Bruh
+**Definition:** A versatile slang term, often used as a non-specific exclamation or to emphasize something.
+**Explanation:** Usually used in casual conversations, "bruh" can be placed at the beginning, middle, or end of a sentence. It can express surprise, agreement, confusion, or even to establish a casual, friendly tone. For example:
+- "Bruh, that's so lit!" (Literally: That's really cool!)
+- "How was your weekend, bruh?" (Literally: How was your weekend, friend?)
+### 【中文】Bruh
+**定义:** 一种多用途的网络用语,常用来作为感叹词或加强语气。
+**解释:** “Bruh” 通常用在非正式的对话中，可以放在句子的开头、中间或结尾。它可以表达惊讶、同意、困惑，甚至可以用来建立一种轻松友好的语气。例如：
+- “Bruh, that’s so lit!” (直译：那真的好酷！)
+- “How was your weekend, bruh?” (直译：你的周末过得怎么样，兄弟？)
 ```

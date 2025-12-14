@@ -1,27 +1,28 @@
 ---
 title: "What Does 'ick' Mean? (ick 是什么意思？)"
 slug: "what-does-ick-mean"
-date: 2025-12-13
+date: 2025-12-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Ick (ICK / ick)
-## English
-- **Definition**: Describes something that is disgusting, unpleasant, or gross. Often used to express disgust or revulsion.
-- **Example**: "The slimy texture of the swamp was just ick."
-## Chinese (简体中文)
-- **定义**: 表示令人厌恶、不舒服或恶心的东西。常用来表达对某物的厌恶或反感。
-- **例句**: "沼泽地里黏糊糊的感觉真是让人觉得 ick。"
-```
-```markdown
-# Ick (ICK / ick)
-## English
-- **Definition**: Also used as a dismissive term, similar to "meh" or "eh," indicating boredom or indifference.
-- **Example**: "Ick, I don't care about that."
-## Chinese (简体中文)
-- **定义**: 也可以用作一种冷漠或无所谓的贬义词，类似于“meh”或“eh”，表示无聊或冷漠。
-- **例句**: "我真 ick，我对那件事不感兴趣。"
+## ick (英式英语)
+### 意思
+- 一种表达厌恶或反感的俚语。
+### 用例
+- Oh, that's such an ick feeling! (啊，那真的很令人厌恶！)
+### 相关词组
+- ick factor (令人反感的因素)
+- feel icky (感觉很不舒服)
+---
+## 厌物 (中文)
+### 意思
+- 一种表达厌恶或反感情感的俚语。
+### 用例
+- 哎呀，这种感觉真是腻歪极了！(Oh, that's such an 厌物 feeling!)
+### 相关词组
+- 厌物感 (令人反感的情感)
+- 感觉很腻歪 (感觉很不舒服)
 ```

@@ -1,24 +1,23 @@
 ---
 title: "What Does 'cringe' Mean? (cringe 是什么意思？)"
 slug: "what-does-cringe-mean"
-date: 2025-12-13
+date: 2025-12-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Cringe (English)
-**Meaning:** 
-An expression of disapproval or disgust, often followed by a head-slap or eye roll. It can be used to describe something or someone that is awkward, embarrassing, or simply not cool.
-**Example Usage:**
-- "Ugh, his dance moves were so cringe, I couldn't stop laughing."
-- "That fashion Instagrammer is so cringe with her outfits and fake smile."
-## 腻sensé (Chinese)
-**Meaning:** 
-一个表示不悦、不屑或难以忍受的表达，常伴随着摸头或翻白眼的动作。它用来描述令人尴尬、丢脸或缺乏品味的事情或人。
-**例句使用:**
-- “呃，他的舞蹈动作真是腻sensé，我根本止不住笑。”
-- “那个时尚的Instagram博主真腻sensé，她的造型和假笑太假了。”
+## Cringe (英式/美式)
+### English Explanation
+**Cringe:** A situation or behavior that is so embarrassing or awkward it makes someone want to physically cringe or hide. Often used to describe something that is perceived as extremely uncool or embarrassing.
+### Example Usage
+- "His attempt at a dance move was so bad, it was pure cringe."
+- "She posted a picture of herself in a sweater so big it looked like she was wearing a blanket. Major cringe!"
+### Chinese Explanation
+**崩瓷 (Bēngcí):** 一个让人大跌眼镜、非常尴尬的情况或行为。通常用来形容某人做某事非常丢脸或不酷。
+### 例句
+- “他的舞蹈动作完全崩瓷，简直太尴尬了。”
+- “她发了一张穿得像裹毯子一样的毛衣照片，真是崩瓷。”
 ```
-Note: The term "腻sensé" is a creative transliteration to approximate "cringe" in Chinese, as there's no exact equivalent. The usage context is similar to the English slang.
+This markdown format includes both the English and Chinese slang terms, providing context and examples for each.

@@ -1,22 +1,20 @@
 ---
 title: "What Does 'no cap' Mean? (no cap 是什么意思？)"
 slug: "what-does-no-cap-mean"
-date: 2025-12-13
+date: 2025-12-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### English: No Cap
-#### Meaning: 
-"Know what you're talking about; don't exaggerate or lie."
-#### Explanation:
-When someone says "no cap" in a casual or street context, they're affirming that what they're saying is true and not an exaggeration. It comes from the phrase "to cap" which means to exaggerate or lie. To "no cap" means the speaker is debunking a claim of exaggeration or lying, essentially saying "I'm being genuine."
----
-### 中文: 没带帽 (wèi dài mào)
-#### 含义: 
-“说实话，不夸张或撒谎。”
-#### 解释:
-当某人说“没带帽”在轻松或街头语境中，他们是在确认他们所说的是真实的，而不是夸张或撒谎。"带帽"这个词来源于夸张或撒谎的意思，而“没带帽”则表示说话人是在驳斥夸张或者撒谎的说法，也就是在说“我讲的是真话。”
+## "No Cap"
+**English:**  
+"Don't take me seriously; I'm not being literal or serious."  
+Example:  
+Someone says, "I ran a marathon yesterday," and to clarify, they add, "No cap, just saying I went for a long run."
+**中文:**  
+“不要当真；我不是在开玩笑或认真说的。”  
+例句：  
+有人说到“我昨天跑了一次马拉松”，为了澄清，他们会说，“No cap，只不过是说了一下自己跑了很长一段路。”
 ```

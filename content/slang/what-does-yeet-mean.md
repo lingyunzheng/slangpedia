@@ -1,16 +1,29 @@
 ---
 title: "What Does 'yeet' Mean? (yeet 是什么意思？)"
 slug: "what-does-yeet-mean"
-date: 2025-12-13
+date: 2025-12-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Yeet - 耶特
-### English:
-**Yeet** is an internet slang term that originated from gaming communities. It is used to describe a quick, powerful throw or expulsion of something, often with an air of confidence or excitement. The action can be literal, such as tossing an object, or figurative, like "yeetting" away bad habits. It gained widespread popularity in 2020 and is often accompanied by a jubilant or triumphant expression.
-### Chinese (简体):
-**耶特 (Yeet)** 是一个网络流行语，起源于游戏社区。它用来形容快速有力地抛掷或排出什么东西，常常带有自信或兴奋的意味。这个动作可以是字面意义上的，比如扔东西，也可以是比喻意义上的，比如“耶特”掉坏习惯。这个词语在2020年广泛流行开来，通常会伴有欢乐或胜利的表情。
+## Yeet (English)
+### Definition
+Yeet is a slang term used to express a strong throw or rejection, often with enthusiasm or excitement. It can also be used to express enthusiasm or dismissal of something.
+### Example Usage
+- English: "I'm yeeting this job offer because it's too fast-paced for me."
+### Bilingual Explanation
+**英 文**: Yeet 是一种俚语，用于表达强烈的扔出去或拒绝某个东西的行为，通常带有热情或兴奋。它也可以用于表达对某事物的热情或拒绝。
+**中文**: Yeet 是一种俚语，用于表达强烈的扔出去或拒绝某个东西的行为，通常带有热情或兴奋。它也可以用于表达对某事物的热情或拒绝。
+---
+## 投稿 (Chinese)
+### 定义
+投稿可以解释为投稿给媒体、杂志、网站或其他出版物的内容，或者是在线分享自己的创作或观点。
+### 例句
+- 中文: "我最近投稿了一篇科技文章给一家杂志。"
+- English: "I recently submitted an article on technology to a magazine."
+### Bilingual Explanation
+**中文**: 投稿可以解释为向媒体、杂志、网站或其他出版物提交的内容，或是在线分享自己的创作或观点。
+**英语**: The term "投稿" can be explained as content submitted to media, magazines, websites, or other publications, or sharing one's work or opinions online.
 ```

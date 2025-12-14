@@ -1,27 +1,18 @@
 ---
 title: "What Does 'side questing' Mean? (side questing 是什么意思？)"
 slug: "what-does-side-questing-mean"
-date: 2025-12-13
+date: 2025-12-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Side Questing (传统中文): 边做边忙
-**Explanation:**
-- **英语**: Sidequesting is a context where a person performs secondary activities or tasks alongside their primary objective, often for self-improvement, additional rewards, or just to keep busy.
-- **中文**: 边做边忙指的是一个人在完成主要目标的同时，进行一些辅助活动或任务。这些任务可能是为了自我提升、获取额外奖励或者只是让自己保持忙碌。
-**Example Usage:**
-- **英语**: Whenever I take a break from my main project, I like to sidequest by reading articles or participating in online forums to improve my knowledge and stay engaged.
-- **中文**: 每当我暂时放下主要项目时，我喜欢通过阅读文章或参与在线论坛来进行边做边忙，提高自己的知识水平并保持参与感。
-```
-```markdown
-## Side Questing (现代中文): 零活搭戏
-**Explanation:**
-- **英语**: Sidequesting is a context where a person performs secondary activities or tasks alongside their primary objective, often for self-improvement, additional rewards, or just to keep busy.
-- **中文**: 零活搭戏是一种在完成主要目标的同时，进行一些额外活动或任务的方式。这些任务可能有助于自我提升、获得额外奖励，或者只是为了让生活更加充实。
-**Example Usage:**
-- **英语**: During my lunch break, I like to sidequest by doing some quick exercise or learning a new skill to keep my mind active.
-- **中文**: 在我的午餐时间，我喜欢通过做一些快速锻炼或学习新技能来进行零活搭戏，让自己的大脑保持活跃。
+# Side Questing
+## English Explanation
+"Side Questing" is a term often used in the context of video games, referring to taking on optional side missions or activities that are not necessary to complete the main storyline. These quests usually offer additional rewards such as experience points, currency, or items. Players engage in side questing for extra content, rewards, or just for fun.
+## Chinese Explanation
+“侧翼任务”（Side Questing）这个词常常用于形容在玩视频游戏时完成非主线剧情的可选任务。这些任务通常提供额外的奖励，比如经验值、货币或物品。玩家进行侧翼任务主要是为了获取额外的内容和奖励，或是单纯地享受游戏的乐趣。
+### 下划线解释
+侧翼任务是指在玩游戏时不会影响主线剧情但可以额外奖励的任务。玩家做这些任务一般是期待额外的收获或是觉得有意思。
 ```

@@ -1,28 +1,15 @@
 ---
 title: "What Does 'ong' Mean? (ong 是什么意思？)"
 slug: "what-does-ong-mean"
-date: 2025-12-13
+date: 2025-12-14
 tags:
 - slang
 - internet
 - tiktok
 ---
-Certainly! Here’s a bilingual explanation for the slang term "ong" in Markdown format:
 ```markdown
-# Ong
-**English Explanation:**
-Ong is a term commonly used in Singaporean and Malaysian Hokkien communities, often as a term of endearment for someone who is male. It is similar to other terms like "buddy" or "dude" in English but carries a more casual and affectionate connotation.
-**Chinese Explanation:**
-“Ong” 是新加坡和马来西亚福建社群中常用的俚语词汇，通常用于指代男性朋友，带有更多的亲昵和随意的情感。类似于英语中的“buddy”或“dude”，但更加亲昵和随意。
----
-## Example Usage:
-- In English: "Ong, how was your day at work?" 
-- In Chinese: “Ong，你今天 work 怎么样？”
-- In English: "Ong, let's grab a bite to eat after work."
-- In Chinese: “Ong，下班我们一起吃个饭吧。”
-- In English: "Ong, you're a real good listener!"
-- In Chinese: “Ong，你真的是个好听众！”
----
-This term can vary in usage and formality depending on the context and relationship between the speakers.
+### 胖 (Pán)
+**Description:** "胖" is a common Chinese character often used to refer to someone or something being fat or plump.
+**Slang Explanation (Chinese):** 在网络用语中，“胖”有时用来形容人或事物注重内在品质，不在乎外表。例如，“胖都能盖一座楼”，意思是外表可能不完美，但内在素质优秀。
+**Slang Explanation (English):** In internet slang, "胖" sometimes means someone or something focuses more on inner qualities rather than appearance. For example, "胖都能盖一座楼" could be translated as "Fat can build a skyscraper," implying that even someone who may not look perfect outwardly can possess great internal qualities.
 ```
-This markdown provides a concise explanation of the term "ong" in both English and Chinese, along with example usages in context.

@@ -1,18 +1,18 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2025-12-13
+date: 2025-12-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Sigma (σ)
+# Sigma (Σ or σ)
 ## English
-- **Meaning**: In a statistical or mathematical context, **Sigma** (σ) often represents the standard deviation or a sum. However, in slang, it can sometimes refer to "sigma level" in quality control, which indicates the number of defects per million opportunities.
-- **Usage**: "This process has a sigma level of 4, which is quite good."
-## 中文
-- **含义**：在统计或数学上下文中，**Sigma** (σ) 经常代表标准差或总和。而在网络语言中，“sigma”有时指“西格玛水平”（sigma level）在质量管理中的术语，用以表示百万机会中的缺陷数。
-- **用法**："这个过程的西格玛水平为4，还不错。"
+**Meaning:** In mathematics, sigma (Σ or σ) is the 19th letter of the Greek alphabet. It is commonly used as a symbol for summation in calculations. In statistics, sigma (σ) represents the standard deviation of a data set, indicating the spread of values.
+**Slang Explanation:** When someone refers to someone or something as "Sigma," it usually means they are highlighting a significant detail or factor that could impact the overall situation significantly. This is derived from the summation aspect of sigma, suggesting that any given element can add up to be crucial.
+## Chinese
+**含义:** 在数学中，sigma (Σ或σ) 是希腊字母的第19个字母。它通常用作求和符号，用于计算中。在统计学中，sigma (σ) 代表数据集的标准差，表明数值的分布范围。
+**俚语解释:** 当有人把某人或某事称作“Sigma”时，通常是指他们强调的是一个对整体情况有重大影响的细节或因素。这来源于sigma的求和特性，意味着任何一个给定的元素都可能变得至关重要。
 ```
