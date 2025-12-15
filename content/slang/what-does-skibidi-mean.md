@@ -1,25 +1,16 @@
 ---
 title: "What Does 'skibidi' Mean? (skibidi 是什么意思？)"
 slug: "what-does-skibidi-mean"
-date: 2025-12-14
+date: 2025-12-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Skibidi: A Multilingual Slang Explanation
-## English
-**Skibidi** is a made-up or meme phrase that gained popularity through the "Skibidi" dance meme. It is often used in casual conversations, mostly among younger people, and can express a variety of emotions or states.
-### Usage Example:
-- "Wow, that party was skibidi awesome!"
-## Chinese (Simplified)
-**Skibidi** 是一个流行于网络的一种口号或者舞曲的一部分，源自于“Skibidi”舞蹈梗。这个词通常在非正式的交流中使用，尤其是年轻人间，它可以表达多种情绪或状态。
-### 使用示例：
-- 这个派对简直skibidi牛逼！
-## Chinese (Traditional)
-**Skibidi** 是一個流行於網路上的一種口號或者舞曲的一部分，源自於“Skibidi”舞蹈梗。這個詞通常在非正式的交流中使用，尤其是年輕人間，它可以表達多種情緒或狀態。
-### 使用示例：
-- 这个派對簡直skibidi厲害！
+## Skibidi
+**English:** 
+Skibidi is a popular internet dance challenge and meme that gained traction in 2018. The phrase itself is a nonsensical word, often ad-libbed or taunted in the course of the dance. The dance involves a series of arm movements and a taunting or taunted gesture, usually done to the tune of different music tracks. 
+**Chinese:**
+Skibidi 是一个在 2018 年流行的网络舞蹈挑战和梗。这个词本身是一个无意义的词，通常会在舞蹈过程中即兴喊出或嘲笑。舞蹈主要涉及一系列的手臂动作和嘲笑或被嘲笑的动作，通常伴随着不同歌曲的旋律。
 ```
-This markdown includes bilingual explanations for the word "skibidi" for both simplified and traditional Chinese, along with English for clarity.

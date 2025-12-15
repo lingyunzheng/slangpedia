@@ -1,23 +1,22 @@
 ---
 title: "What Does 'spill the tea' Mean? (spill the tea 是什么意思？)"
 slug: "what-does-spill-the-tea-mean"
-date: 2025-12-14
+date: 2025-12-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Spill the Tea
-**English:**  
-To reveal gossip or insider information that has not been made public yet. Often used when someone is sharing secrets or details that should remain confidential.
-**Simplified Chinese:**  
-透露八卦或内部信息，这些信息还未公开。通常用来形容某人分享一些应该保密的秘密或细节。
-**Example Usage in a Sentence:**
-- English: "She finally spilled the tea about why she broke up with her boyfriend."
-- 中文：她终于透露了她与男朋友分手的原因。
-**Pronunciation:**  
-/spɪl �私たち großei/
-**Etymology:**  
-The phrase likely originated from the act of pouring a tea filter, symbolizing the release of information "out of the filter."
+## Spill the tea
+**English Meaning:** To reveal or share confidential or private information, often in a gossiping manner.
+**Bilingual Slang Explanation:**
+- **English:** To reveal or share confidential or private information, often in a gossiping manner.
+- **Chinese (Simplified):** 公布或分享机密或私人信息，通常带着八卦性质。
+- **Chinese (Traditional):** 公布或分享機密或私人信息，通常帶著八卦性質。
+**Usage Example:**
+In English: "She finally spilled the tea about who the new CEO is."
+中文翻译：她終於揭發了新CEO的人選。
+In Chinese: "她終於把新CEO的人選給 leaking 了出去。"
+英文翻译：She finally spilled the tea about who the new CEO is.
 ```

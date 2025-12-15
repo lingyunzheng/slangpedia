@@ -1,20 +1,18 @@
 ---
 title: "What Does 'deadass' Mean? (deadass 是什么意思？)"
 slug: "what-does-deadass-mean"
-date: 2025-12-14
+date: 2025-12-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English: Deadass
-### Definition
-The phrase "deadass" is used to describe someone who is extremely serious, focused, or intense, often to the point of being overly solemn or completely absorbed in what they are doing.
-### Usage Example
-- English: "She was deadass focused on her presentation and didn't even notice I forgot her coffee."
-- Chinese: "她对演讲极其专注，连我忘了给她拿咖啡都浑然不觉。"
-### Bilingual Explanation
-- **英语解释**: "deadass"描述的是一个人极其认真、专注或投入，有时甚至显得过于庄重或完全沉浸在所做的事情中。
-- **中文解释**: "deadass"用来描述一个人极其认真、专注或投入，有时甚至显得过于庄重或完全沉浸在所做的事情中。
+# Deadass
+## English
+**Deadass**: This term is used to describe something or someone extremely intensely, to the max. It could be used when expressing that something is really, really good, bad, or to an extreme degree. It's a slang term that emphasizes enthusiasm and emphasis.
+*Example*: "This pizza is deadass delicious!"
+## Chinese
+**死真**: 这个词用来描述某事或某人极其强烈或到极致的程度。可以用来说某物真的很棒、很差，或者极端到极点。它是一个强化语气的俚语，表达强烈的热情和强调。
+*例句*: "这份披萨真是死真美味！"
 ```

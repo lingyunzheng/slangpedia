@@ -1,16 +1,16 @@
 ---
 title: "What Does 'slaps' Mean? (slaps 是什么意思？)"
 slug: "what-does-slaps-mean"
-date: 2025-12-14
+date: 2025-12-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Slaps (slap)
-### English Explanation:
-**Slaps:** In informal conversation, particularly in online communities, "slaps" is often used as a playful way to signify a direct and pointed criticism or to express disappointment. It can be used in a light-hearted manner, similar to giving someone a metaphorical handshake, or more seriously to show annoyance or disagreement. The use of "slaps" can make the criticism sound more approachable and less harsh, turning a potentially negative interaction into a more casual one.
-### Chinese Explanation:
-**Slaps:** 在非正式的交流中，特别是在网络社群里，“slaps”常用来表示一种直接而尖锐的批评，或是表达失望的情绪。它可以是一种轻松的方式，类似于给对方送上一个友好的击掌，也可以更严肃地表现出不满或不同意。使用“slaps”可以使批评听起来更为轻松、不那么尖锐，将潜在的负面交流转变为更随意的对话。
+## Slaps (英：Slaps)
+### English
+**Slaps** in English slang can refer to a physical gesture involving striking someone with an open hand. It can also be used in internet or texting contexts to show emphasis or distress, similar to typing "SMH" (Shaking My Head) with an added physical gesture.
+### 中文
+在英语 slang 中，“Slaps” 既可以指用手掌打击某人的动作，也可以用来表示在网上或发信息时对某事的强烈情绪反应，类似于在“SMH”（Shaking My Head）后面加一个物理动作来增强这种情绪。
 ```
