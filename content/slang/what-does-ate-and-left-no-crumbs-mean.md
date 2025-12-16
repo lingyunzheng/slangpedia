@@ -1,19 +1,18 @@
 ---
 title: "What Does 'ate and left no crumbs' Mean? (ate and left no crumbs 是什么意思？)"
 slug: "what-does-ate-and-left-no-crumbs-mean"
-date: 2025-12-14
+date: 2025-12-16
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Ate and Left No Crumbs (English)
-This phrase means that someone ate or took everything available, leaving nothing behind. It's often used in contexts where someone has completely depleted a resource or finished a job thoroughly.
-Example:
-- "After the party, Tom ate and left no crumbs, clearing the table of every last cookie and snack."
-### Ate and Left No Crumbs (Chinese)
-这个短语的意思是某人把所有的东西都吃光了或者拿走了，连一点残渣都没有留下。通常用来形容某人彻底消耗完资源或把工作干得十分彻底。
-例子：
-- "聚会结束后，汤姆把所有的小吃都吃光了，连一点残渣都没留下，桌子上的零食都被他清理干净了。"
+### Eaten and Left No Crumbs (English)
+**Meaning:** To have completely consumed something without leaving any residue or leftovers. It can also describe someone who leaves nothing after taking everything they can get.
+**Example Usage:** After the meeting, I realized that John ate and left no crumbs, having eaten all the snacks and not offering any to anyone else.
+### 吃干抹净 (Chī gān mā jǐn) (Chinese)
+**Meaning:** To have thoroughly consumed something, leaving no trace or leftovers. It can also describe someone who takes all they can from a situation, leaving nothing for others.
+**Example Usage:** 在聚会上，John 吃干抹净 了所有的零食，结果没有人再有东西可以吃。 (At the party, John ate all the snacks, leaving no one with anything to eat.)
+**Translation:** John ate clean and left no crumbs, leaving everyone without any snacks to enjoy.
 ```

@@ -1,16 +1,16 @@
 ---
 title: "What Does 'stan' Mean? (stan 是什么意思？)"
 slug: "what-does-stan-mean"
-date: 2025-12-15
+date: 2025-12-16
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Stan (英汉双解俚语)
-### English Explanation
-**Stan** (also spelled "stans" in plural form) is a slang term that refers to a dedicated and often obsessive fan or supporter of a particular person, group, or concept. The term originated from the British slang "stannum," meaning "stupid and excessive." However, in modern usage, it is more generally associated with dedicated fanaticism.
-### Chinese Explanation
-**Stan**（“斯坦”或“斯坦们”）是指对某个人、团体或概念极度关注和支持的狂热粉丝。这个词起源于英国俚语“stannum”，意为“愚蠢和过度”。但在现代用法中，“斯坦”更多地与极度的狂热和支持相关联。
+# Stan
+## English
+Stan is a term that gained popularity in internet slang, often used to describe an obsessively devoted fan or supporter of someone or something. The term derived from the provocative tweets about an individual or their work, though in recent times, it has broadened to describe anyone who has an intense and possibly unhealthy fandom.
+## Chinese
+斯坦 (Stan) 是互联网俚语中流行的一个词，通常用来描述对某人或某事物极其热衷或支持的粉丝。该词源自对某人或其作品发布的挑逗性推文，但近年来，它已经扩展到用来形容任何对某事物有极度且可能带有不健康倾向的粉丝群体。
 ```
