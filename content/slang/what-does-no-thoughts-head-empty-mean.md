@@ -1,20 +1,18 @@
 ---
 title: "What Does 'no thoughts head empty' Mean? (no thoughts head empty 是什么意思？)"
 slug: "what-does-no-thoughts-head-empty-mean"
-date: 2025-12-16
+date: 2025-12-17
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 中文 slang explanation: 头空 (tóukōng)
-- **Meaning**: 表示大脑完全没有想法，非常迷茫或困惑，相当于“头空空如也”。
-- **Example**: 我昨晚没睡好，今天会议进展得让我头空。
-- **English equivalent**: "feeling braindead" or "blank-minded"
-## English slang explanation: braindead
-- **Meaning**: Used to describe a state of complete mental dullness or lack of awareness, often due to tiredness, boredom, or confusion.
-- **Example**: I stayed up all night studying, I'm braindead in class today.
-- **Chinese equivalent**: 头空 (tóukōng) 或者 一片空白
+## Bilingual Slang Explanation: "No Thoughts, Head Empty"
+**English:**
+- **Meaning:** Describes someone who is completely uninterested, bored, or disengaged in a conversation or situation. It can also imply a lack of ideas or creativity.
+- **Example Usage:** "Dude, we're trying to figure out a game plan, but all you can do is sit there with no thoughts, head empty. Can you contribute something?"
+**Chinese:**
+- **意思:** 形容某人完全没兴趣、无聊或在对话或情况下完全不参与。也可以表达缺乏想法或创造力。
+- **用例示例:** "兄弟，我们正试图制定一个计划，但你只能坐在那里没有任何想法，头是空的。你能贡献点什么想法吗？"
 ```
-This markdown format provides clear translations and accompanying examples for both the Chinese and English phrases.

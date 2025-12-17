@@ -1,22 +1,18 @@
 ---
 title: "What Does 'seethe' Mean? (seethe 是什么意思？)"
 slug: "what-does-seethe-mean"
-date: 2025-12-15
+date: 2025-12-17
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Seethe (verb)
-### English Explanation
-- **Meaning**: To be extremely annoyed or angry, typically to a point where one feels like they might explode or burst with rage.
-- **Example**: "Ever since he lost his job, he's been seething at everyone."
-### Slang Explanation
-- **Chinese (口语表达)**: 气疯了（qì fēng le）/ 气到快爆炸（qì dào kuài zhà xiào）
-- **Meaning**: These phrases both mean to be extremely angry to the point where one feels ready to explode with rage.
-- **Example**: "自从他失业后，他气疯了 / 气到快爆炸，对每个人都生气。"
-### Usage Tips
-- This slang is commonly used to describe someone's intense anger in everyday situations.
-- It can be followed by "with" or "because of" to indicate what triggered the anger, e.g., "他气疯了因为他被解雇了" (He's so angry because he was fired).
+## Seethe
+### English
+**Seethe:** To be extremely angry or irritated, often expressing this anger through an imitated rumbling or grumbling sound, like a pot of water about to boil over. 
+*Example:* "Ever since he lost the game, John has been seething with frustration."
+### 汉语
+** seethe (沸腾):** 极度生气或烦躁，常常通过发出拟声词（例如：咕嘟咕嘟冒泡的声音）来表达这种愤怒或烦躁的情绪，就像一锅即将沸溢的水。
+*例句:* "自从输掉比赛以来，约翰一直因为愤怒而像一锅即将开锅的水一样沸腾。"
 ```
