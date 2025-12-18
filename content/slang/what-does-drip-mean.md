@@ -1,17 +1,16 @@
 ---
 title: "What Does 'drip' Mean? (drip 是什么意思？)"
 slug: "what-does-drip-mean"
-date: 2025-12-14
+date: 2025-12-18
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Drip (英语)
-**Explanation:** Drip is a slang term that can be used in different contexts, often describing something in a continuous or steady flow, or even implying a level of coolness or style. 
-- **Usage Example:** "He's a real drip, always talking about himself and expecting everyone to listen." Here, "drip" is being used to describe someone in a negative sense, suggesting that the person is annoying or self-centered.
-## 滴 (汉语)
-**解释:** "滴" 作为一个俚语，在不同的语境中使用，常常用来形容某种连续或稳定的流，甚至有时用来表示一种酷或时髦的感觉。
-- **用例举例:** "他真是个老滴，总是在那里讲自己，还指望每个人都能听他的。“ 这里，“滴”用来贬义描述某人，暗示这个人令人讨厌或自大。
+## Drip (英语: Drip)
+### English Explanation
+"Drip" is a slang term used in various contexts, often to describe something that is seen as impressive, cool, or on-trend. It can also be used to point out someone who is perceived as arrogant or stuck-up, akin to the idea of their success "flowing" from them in a self-satisfied or boastful manner. For example, "He's such a drip, always bragging about his new car."
+### 中文解释
+"Drip" 是俚语，在不同的语境中使用，通常用来形容某人或某事被认为是令人印象深刻、很酷或是潮流的。有时这个词也被用来指出那些被视作傲慢或自我优越的人，就像他们成功带来的是一种自满或夸耀的状态一样。例如，“他真是个自命不凡的drip，一直在炫耀他新买的车。”
 ```

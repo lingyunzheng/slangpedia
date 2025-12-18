@@ -1,7 +1,7 @@
 ---
 title: "What Does 'slaps' Mean? (slaps 是什么意思？)"
 slug: "what-does-slaps-mean"
-date: 2025-12-17
+date: 2025-12-18
 tags:
 - slang
 - internet
@@ -10,7 +10,6 @@ tags:
 ```markdown
 ## Slaps
 ### English
-**Slaps**: A playful or mocking act of hitting someone's backside or buttocks, often in a friendly or teasing manner. It's a visualization of a slap that is mostly used in text or online contexts to convey playful or sarcastic disapproval.
-### 翻译
-**Slaps**: 在英语中，"slaps" 是指用手掌拍打别人的臀部或后背的一种温和或嘲讽的行为，通常是友好的或开玩笑的方式。它通常在文字或在线交流中用来传达戏谑或讽刺的不满。
-```
+**Slaps**: When someone delivers a hit to another person's face with an open hand, typically as a form of physical discipline, retribution, or to express annoyance or frustration.
+### Chinese
+**Slaps**: 拍巴掌或者用手掌打脸，通常作为一种身体上的惩罚、报复，或者表达不满或烦躁的方式。在一些情境下，它也可以作为一种戏谑的肢体语言。

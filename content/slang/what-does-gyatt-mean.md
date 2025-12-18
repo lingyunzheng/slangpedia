@@ -1,20 +1,16 @@
 ---
 title: "What Does 'gyatt' Mean? (gyatt 是什么意思？)"
 slug: "what-does-gyatt-mean"
-date: 2025-12-14
+date: 2025-12-18
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Gyatt (_Generic Slang Word Definition)
-## English
-**Meaning**: A trendy term often used to describe something as ridiculous, absurd, or just plain crazy.
-**Example**: 
-- "That logic was gyatt, did you see how they argued?"
-## Chinese
-**含义**: 这个词是一种流行用语，常用来形容某事物是荒谬的、疯狂的，或者完全是无稽之谈。
-**例句**:
-- "他们的逻辑完全是一派胡言，你看到了他们怎么争论的吗？"
+# Gyatt (粤语 slang)
+## 汉语解释
+“gyatt”是粤语中的一种常见俚语，它的含义会根据上下文有所不同。最常见的意思是“喜欢到不行”或“超爱”。
+## 英语解释
+"Gyatt" is a common Cantonese slang term, and its meaning can vary depending on the context. Most commonly, it means "super duper like" or "absolutely love."
 ```

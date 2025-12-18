@@ -1,23 +1,18 @@
 ---
 title: "What Does 'cringe' Mean? (cringe 是什么意思？)"
 slug: "what-does-cringe-mean"
-date: 2025-12-14
+date: 2025-12-18
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Cringe (英式/美式)
-### English Explanation
-**Cringe:** A situation or behavior that is so embarrassing or awkward it makes someone want to physically cringe or hide. Often used to describe something that is perceived as extremely uncool or embarrassing.
-### Example Usage
-- "His attempt at a dance move was so bad, it was pure cringe."
-- "She posted a picture of herself in a sweater so big it looked like she was wearing a blanket. Major cringe!"
-### Chinese Explanation
-**崩瓷 (Bēngcí):** 一个让人大跌眼镜、非常尴尬的情况或行为。通常用来形容某人做某事非常丢脸或不酷。
-### 例句
-- “他的舞蹈动作完全崩瓷，简直太尴尬了。”
-- “她发了一张穿得像裹毯子一样的毛衣照片，真是崩瓷。”
+### English: Cringe
+**Definition:** A feeling of embarrassment or disgust when someone or something is so bad, awkward, or embarrassing that it's uncomfortable to watch or hear about.
+**Example:** "That meme you posted was so cringe, I had to delete it."
+**Bilingual Slang Explanation:**
+- **English:** If something or someone is cringe, it means it's really embarrassing or awkward.
+- **Chinese (Pop Culture Reference):** 比如说你在社交媒体上发了一张照片，结果表情和背景完全不搭，那么你那张照片就是“油腻的”（cringe），让人感到尴尬不舒服。
 ```
-This markdown format includes both the English and Chinese slang terms, providing context and examples for each.
+In this explanation, the term "油腻的" (oily) is used to convey the sense of awkwardness or embarrassment in a way that might be more relatable to Chinese speakers.
