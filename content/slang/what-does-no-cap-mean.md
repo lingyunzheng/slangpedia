@@ -1,20 +1,18 @@
 ---
 title: "What Does 'no cap' Mean? (no cap 是什么意思？)"
 slug: "what-does-no-cap-mean"
-date: 2025-12-14
+date: 2025-12-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## "No Cap"
-**English:**  
-"Don't take me seriously; I'm not being literal or serious."  
-Example:  
-Someone says, "I ran a marathon yesterday," and to clarify, they add, "No cap, just saying I went for a long run."
-**中文:**  
-“不要当真；我不是在开玩笑或认真说的。”  
-例句：  
-有人说到“我昨天跑了一次马拉松”，为了澄清，他们会说，“No cap，只不过是说了一下自己跑了很长一段路。”
+# "No Cap"
+## English
+**Meaning:** To state something without over-exaggeration or putting on a facade. 
+**Example:** "No cap, I ran 5 miles this morning." - This means the person is not exaggerating and truly ran 5 miles.
+## Chinese
+**意思:** 表示所说的话没有夸大其词或伪装。
+**例句:** “你跑5英里了？”“No cap, 把我今天早上跑了5英里的事告诉别人。” — 这表示说话人没有夸大，确实跑了5英里。
 ```

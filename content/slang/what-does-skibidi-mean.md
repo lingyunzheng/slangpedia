@@ -1,24 +1,16 @@
 ---
 title: "What Does 'skibidi' Mean? (skibidi 是什么意思？)"
 slug: "what-does-skibidi-mean"
-date: 2025-12-16
+date: 2025-12-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Skibidi (英/中)
-### English
-**Skibidi** is a slang term used humorously to express disbelief or to emphasize something as unbelievable or absurd. It can also be used as a comedic expression of shock. Often, the term is accompanied by exaggerated facial expressions or miming of knocking on a door, similar to the gesture from a certain character in a popular internet meme.
+## Skibidi (俚语解释)
 ### 中文
-**Skibidi** 是一个 informal 词汇，用来表示吃惊或强调某事是难以置信或荒谬的。这个词通常用来开玩笑或加强某种情感表达。这个词常伴随着夸张的表情或模仿敲门的动作，类似于某个流行网络 meme 中的角色。
-## Example Usage
-### English
-- "I can't believe she ate all that cake! Skibidi, she's going to be super full!"
-- "That's the worst movie I've ever seen. Skibidi!"
-### 中文
-- “我简直不敢相信她把那个蛋糕全吃完了！Skibidi，她肯定会超级饱的！”
-- “这是我见过的最糟糕的电影！Skibidi！”
+“斯基บ迪波（Skibidi波）”是一种源自网络的趣味表达，通常用作一种无特定含义的欢呼或感叹词，常常伴随着夸张的语气或情绪表达。当人们在某事上感到非常兴奋或觉得某个事物极其有趣时，就会使用这个词来表达自己的态度。
+### 英文
+"Skibidi" is a catchy term used in online language, generally as an enthusiastic exclamation or cheer with no specific meaning. It's often accompanied by exaggerated expressions of emotion. When someone is extremely excited about something or finds something extremely amusing, they might use "Skibidi" to convey their excitement.
 ```
-This markdown format provides a clear and concise explanation of the term and its usage in both languages.

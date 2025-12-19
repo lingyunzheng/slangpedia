@@ -1,19 +1,24 @@
 ---
 title: "What Does 'mid' Mean? (mid 是什么意思？)"
 slug: "what-does-mid-mean"
-date: 2025-12-17
+date: 2025-12-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang: Mid
-## Chinese (中文): 迷
-- **Meaning**: This slang term generally refers to someone who is indecisive, uncertain, or lost, struggling to find direction or purpose.
-- **Example**: 他现在真是迷了，连方向感都失去了。 (He's really mid now, even his sense of direction is lost.)
-## English: Mid
-- **Meaning**: This slang is used to describe someone or something that is indecisive, lost, or struggling to find their way.
-- **Example**: She's so mid right now, I have no idea what she wants to do next.
+# 中文 (“mid” 的中文俚语解释)
+## 中途 (Zhōngchu)
+形容事情进行到一半、关键时刻或者转折点时的状态。类似于英语中的 "mid".
+**例句**:
+- 事到中途就出岔子了, 真是坏事齐来!
+- The situation went downhill in the middle of the deal.
+---
+# English ("mid" in English Slang)
+## Mid
+Used to describe a stage where something is occurring in the middle or key part of it. Similar to "中途" in Chinese.
+**Example**:
+- The deal went south in the middle of negotiations.
+- Things started to fall apart during the middle of the show.
 ```
-Feel free to use or modify this markdown as needed!
