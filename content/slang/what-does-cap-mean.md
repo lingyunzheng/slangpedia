@@ -1,21 +1,22 @@
 ---
 title: "What Does 'cap' Mean? (cap 是什么意思？)"
 slug: "what-does-cap-mean"
-date: 2025-12-14
+date: 2025-12-20
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Cap (英/美俚语)
-### English
-**Cap:**
-- **Meaning:** Originating from the phrase "cap and carry," it implies robbing a store. More commonly, it can also refer to suppressing or stopping the rise of something, like "cap inflation" to control price increases.
-- **Example Usage:** "The government is trying to cap the wage increases for the next fiscal year."
-### 中文
-**帽儿 (Mào'ěr):**
-- **含义:** 源自“帽儿和捎儿”，意指抢劫商店。更常见的是，它也用来表示抑制或阻止某事物的上涨，比如“抑制通货膨胀”。
-- **用例示例:** “政府正在努力控制下一年财政年度的工资增长。”
+# Cap (English/Chinese)
+## English
+**Cap** is a common slang term that can have multiple meanings depending on the context. It can refer to:
+- **Overstating or Exaggerating:** "You're cap for saying you finished the whole chocolate cake by yourself!"
+- **Ruby MPs (sometimes used as a compliment):** "You're cap, man! That speech was amazing!"
+- **A Hat or Beanie:** "I need to cap up, it's chilly outside."
+## Chinese
+**帽 (Mào)** 或 **帽子 (Màohen)** 一词在不同语境下也可以有很大的含义：
+- **夸奖或夸张:** "你这话说得有点帽了，一个人怎么可能吃完整块巧克力蛋糕？"
+- **Ruby M&Ps（有时是一种赞美）:** "你帽了，那篇演讲真的很棒！"
+- **帽子或帽子衫:** "天有点冷，我得帽一下了。"
 ```
-This markdown format provides a clear and concise explanation of the slang term "cap" in both English and its equivalent in Chinese with relevant examples.

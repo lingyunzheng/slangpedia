@@ -1,19 +1,20 @@
 ---
 title: "What Does 'based' Mean? (based 是什么意思？)"
 slug: "what-does-based-mean"
-date: 2025-12-19
+date: 2025-12-20
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Bilingual Slang Explanation for "Based"
+# "Based" - A Bilingual Slang Explanation
 ## English
-**Based**: This term originates from the early 2000s and gained widespread use in the social media era. Originally, "based" was used to describe someone's behavior, choices, or situation as super cool, on point, or intense. Now, it's often used more broadly to praise someone for something they've done or to express excitement about a situation. 
-**Example**: "That freestyle rap was based!" / "That's based, bro!"
-## Spanish
-**Based**: Esta palabra surge en la primera década del 2000 y se popularizó en época de redes sociales. Originalmente, "based" se utilizaba para describir el comportamiento, las elecciones o la situación de alguien como muy cool, en punto o intenso. Ahora, se usa de manera más amplia para expresar satisfacción sobre algo que alguien ha hecho o para expresar emoción por una situación.
-**Ejemplo**: "¡Ese rap freestyle fue very based!" / "¡Eso fue muy based, amigo!"
+**Based:** This slang term is commonly used to describe someone or something that is intense, confident, or impressive. It often implies that the person or action is so good or on-point that they deserve praise or acknowledgment.
+### Example
+- "Man, those dancers are based!" - This means the dancers are extremely skilled or impressive.
+## 中文
+**基于：** 这个俚语常用来形容某人或某事物特别有力量、自信或有吸引力。它通常意味着这个人或行为非常好或做得非常到位，值得称赞或认可。
+### 例句
+- “天哪，这些舞者真是基于！” - 这意味着舞者们非常有才华或令人印象深刻。
 ```
-Note: The term "based" has evolved in usage, so the span of the Spanish translation is more generalized to reflect modern usage patterns in both languages.

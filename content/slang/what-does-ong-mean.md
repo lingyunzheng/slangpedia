@@ -1,20 +1,16 @@
 ---
 title: "What Does 'ong' Mean? (ong 是什么意思？)"
 slug: "what-does-ong-mean"
-date: 2025-12-16
+date: 2025-12-20
 tags:
 - slang
 - internet
 - tiktok
 ---
-Certainly! Here's the markdown for the bilingual slang explanation of "ong":
 ```markdown
 ## Ong
-**English:**
-- **Meaning:** A slang term often used as a substitute for "homie" or "buddy." It conveys a casual and friendly relationship between speakers.
-- **Usage Example:** "Hey, Ong, how's it going?"
-**Chinese:**
-- **意思:** 一个俚语词汇，常用来代替“兄弟”或“朋友”。它传达了说话双方之间的 casual 和友好关系。
-- **使用例句:** “嘿，Ong，你咋样？”
+### Chinese (中文)
+“Ong” （ɔŋ）通常用在粤语或闽南语中，是一个模糊表达或随意称呼的词汇，类似于英文中的“ah”或“oh”。它常常用于吸引注意，表示惊讶，或者在对话中作为一种轻松的填充词。
+### English
+“Ong” (ɔŋ) is commonly used in Cantonese or Min Nan dialects, serving as a vague expression or casual address, similar to the English "ah" or "oh." It is often used to draw attention, express surprise, or as a light filler word in conversations.
 ```
-Feel free to let me know if you need any more information or another slang term!
