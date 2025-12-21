@@ -1,29 +1,22 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2025-12-19
+date: 2025-12-21
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Bruh (Br-ingh) 🇺🇸
-**English Slang:**
-- **Definition:** An interjection used to express disbelief, surprise, or exasperation. It is often used when agreeing or sympathizing.
-- **Usage Example:** "I spent the whole night studying, but still got a bad grade. BRUH, what's up with that?"
-**Chinese Slang:**
-- **定义:** 用于表达惊讶、不解或烦躁的一个感叹词。常常用来表示赞同或同情。
-- **使用示例:** "我整晚都在复习，但成绩还是很差。哇塞，这是怎么回事？"
+# Bruh (美式英语)
+**中文解释**: 哇塞，表示惊讶或感叹，经常用于模仿一种迷惑或不知所措的表情。
+*Example:*  
+- 美式: "Bro, that escalated quickly! Bruh!"  
+- 中文: "Bro，那事迅速升级了！哇塞！"
 ```
-### Bruh (Br-ingh) 🇨🇳
-```markdown
-定义:
-- **用于表达惊讶、不解或烦躁的一个感叹词。常常用来表示赞同或同情。**
-- **使用示例:** "我整晚都在复习，但成绩还是很差。哇塞，这是怎么回事？"
-```
-### Bruh (Br-ingh) 🌍
-```markdown
-- **Definition:** An interjection used to express disbelief, surprise, or exasperation. It is often used when agreeing or sympathizing.
-- **Usage Example:** "I spent the whole night studying, but still got a bad grade. BRUH, what's up with that?"
+# Bruh (英式英语)
+**中文解释**: 路易（类似用法于美式英语），通常用来表达惊讶，困惑或强调某事。
+*Example:*  
+- 英式: "Bruh, have you seen the latest TikTok trends?"  
+- 中文: "路易，你看到最新的TikTok流行趋势了吗？"
 ```

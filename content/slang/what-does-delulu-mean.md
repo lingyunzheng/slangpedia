@@ -1,23 +1,17 @@
 ---
 title: "What Does 'delulu' Mean? (delulu 是什么意思？)"
 slug: "what-does-delulu-mean"
-date: 2025-12-16
+date: 2025-12-21
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Delulu (汉语)
-- **Meaning in Chinese**: 
-- "得意部部" (dé yì bù bù): This is a playful and informal way to say "dely dely", which can be translated as "very happy" or "very satisfied". 
-- **Explanation in Chinese**:
-- 这个词汇 "得意部部" 是一种 playful 和非正式的说法，源于 "dely dely"，用来表示非常满意或非常开心的状态。
----
 ## Delulu (English)
-- **Meaning in English**:
-- "Dely Dely": An informal and playful slang term used to express extreme happiness or being very satisfied.
-- **Explanation in English**:
-- This slang term is commonly used to convey a feeling of immense satisfaction or happiness. It’s often used in casual conversation to emphasize how pleased one is with a situation or outcome.
+**Meaning**: A casual term used to refer to someone in a teasing or affectionate manner, often implying they are acting goofy or silly.
+**Example Usage**: "Delulu just told the funniest joke ever, and now everyone is laughing."
+## Delulu (Chinese)
+**Meaning**: 一个用来戏虐或亲昵地称呼某人的话，常暗示对方表现出傻里傻气或不正经的行为。
+**Example Usage**: "Delulu 刚刚讲了一个最有趣的笑话，现在大家都笑了。"
 ```
-This markdown provides both the Chinese and English explanations for the slang term "Delulu".

@@ -1,17 +1,15 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2025-12-16
+date: 2025-12-21
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Copium (俚语解释)
-### 中文解释
-"copium" 这个词通常不会直接在中文中使用。如果你指的是类似"copium"这个词在俚语中的使用，可能是受到某种网络流行语或文化现象的影响。在中文中，类似于的说法可能会有所变化。
-### 英文解释
-"Copium" is not a standard English word. It seems that you may be referring to a coinage or slang term. Usually, such terms are created for specific contexts or memes. If "copium" you refer to is a form of slang, it could be related to the blend of "cop" (police officer) and "plutonium," thus creating something that sounds unique and possibly mocking.
-This term might be used in a context where it's humorous or in a meme. It's important to note that slang can be highly context-dependent and often evolves through social media and internet interactions.
-```
+# Copium
+## English
+Copium is a playful or informal term that often refers to a perception or a feeling of being under the influence of law enforcement in a lighthearted or humorous context. It can be used to describe situations where someone feels they are being scrutinized or monitored by the police, often with a tone of teasing or joking. For instance, when you see a police car drive by and everyone seems to straighten up, you might joke about them being "under copium."
+## 中文
+Copium 是一个娱乐性或非正式的词汇，通常用来形容在轻松或幽默的语境下，人们感觉到自己处于执法部门影响之下的一种状态。它可以用来自指在某种情况下，感觉被警察监视或审查的情形，常常是带有戏谑或玩笑的语气。比如，当看到警车经过，所有人都挺直了身体，你可以开玩笑说他们“中了 copium”。
