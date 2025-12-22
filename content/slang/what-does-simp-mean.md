@@ -1,16 +1,16 @@
 ---
 title: "What Does 'simp' Mean? (simp 是什么意思？)"
 slug: "what-does-simp-mean"
-date: 2025-12-21
+date: 2025-12-22
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Simp (简体中文/English)
-**中文解释：**
-“ simp” 是网络用语，源自英语，现在广泛流行于中文互联网上。该词原本在英语中的意思是“ 简单、纯真”，但后来演变成了一种贬义词，用来形容那些痴迷于偶像或喜欢无脑追捧某人的“舔狗”或“马速（马斯巴西）”。例如：“他变成了一名simper，每天只关注她的一举一动。”
-**English Explanation:**
-"Simp" is a slang term originating from English and has widely spread in the Chinese internet. Originally meaning "simple" or "innocent" in English, the term has evolved into a derogatory term that describes someone who is infatuated with an idol or perpetually praises and adores someone without much critical thought, such as a "舔狗" (tian gou – literally "lap dog") or "马速" (masu – a term derived from "mas bowed" meaning submissive). For example, "He became a simp, only paying attention to every move she makes."
+# Slang Term: "Simp"
+## English
+**Definition:** A "simp" is someone who idealizes and strongly admires or pursues a particular person, often to an excessive degree. This term often carries a connotation of being infatuated or overly smitten in a flattering or possibly creepy way, with a focus on admiration or sexual attraction towards someone who is usually perceived as being out of their league.
+## Chinese
+**定义:** "Simp" 是指对某人有特别敬慕或追求的人，通常表现出过度沉浸或喜欢的程度。这个词汇常带有被仰慕或可能有些令人不安的过于迷恋的方式，特别关注于对某人的倾慕或性吸引力，尤其是当对方被视为超出其应付范围时。
 ```

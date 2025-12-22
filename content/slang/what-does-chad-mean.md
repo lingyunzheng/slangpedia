@@ -1,21 +1,24 @@
 ---
 title: "What Does 'chad' Mean? (chad 是什么意思？)"
 slug: "what-does-chad-mean"
-date: 2025-12-20
+date: 2025-12-22
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Chad
-### English: 
-A slang term often used to describe someone who is overly muscular, demonstrating a physique that is exaggeratedly impressive. It can also be used to describe someone who is inexperienced or a 'square' but is trying too hard to be cool or edgy, often in a mockingly condescending way.
-### Chinese: 
-一个常用的俚语，用来形容那些体型过于健硕、表现出强烈肌肉感的人。也常用来形容那些没有经验或被认为是“方正”但又试图显得很酷或前卫的人，通常是带有讽刺意味的贬义。
-**Example Usage:**
-- English: "Tom is really chad with his over-the-top Ab muscles."
-- Chinese: " Tom 真的是肌肉过度发达，简直是“查德”。"
-- English: "John is so chad trying to act tough, but he just looks silly."
-- Chinese: "John 绝了，想装酷但看着实在有点傻。"
+# Slang Term: Chad
+## English:
+A term often used to describe a person, typically a man, who is overly eager, lacking in coolness, or somewhat awkward in social situations. It can also describe someone who is trying too hard to fit into a certain image, often regarded as dorky or uncool.
+## Chinese:
+一个通常用来形容人，特别是指男性，过于热心、缺乏酷感或在社交场合有点尴尬的人。这个词也可以描述一个试图塑造某种形象的人，但却显得有点呆气或不酷。
+---
+Example Usage:
+In English:
+- "That new guy at the office is such a chad; he's always trying to make small talk but comes off as weird."
+- "Avoid buying from that 'chad' brand; their packaging is basic and unremarkable."
+In Chinese:
+- "这个办公室的新男同事真是个‘查德’；他总是试图聊天，但却显得很奇怪。"
+- "避免买那个‘查德’品牌的商品；他们的包装太基础，没有吸引力。"
 ```

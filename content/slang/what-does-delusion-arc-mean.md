@@ -1,16 +1,16 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2025-12-19
+date: 2025-12-22
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Delusion Arc (幻觉弧线)
-## English Explanation
-**Delusion Arc** is a term that often pops up in niche online communities, particularly those centered around gaming, anime, and pop culture. It typically refers to a specific sequence of events or visions that a player or viewer might experience, which they believe to be part of the game or show, but which actually do not exist. These delusions can range from visual delusions where the player sees non-existent elements in the game, to narrative delusions where the player misinterprets the storyline. It's essentially when your imagination runs wild and you start to believe in something that isn't actually there.
-## Chinese Explanation
-**幻觉弧线（Delusion Arc）** 通常出现在以游戏、动漫和流行文化为核心的小众网络社区中。这个词用来描述玩家或观众在体验游戏或观看节目时经历的一系列事件或幻觉，这些幻觉让他们感觉到这些事件是游戏或剧情的一部分，但实际上并不存在。这些幻觉可以是视觉上的，比如玩家会在游戏中看到不存在的元素；也可以是叙事性的，比如玩家错误地解读了剧情。简而言之，当你的想象力过于丰富，以至于开始相信某些实际上不存在的事情时，这就是“幻觉弧线”。
+## Delusion Arc
+**English:**  
+A "delusion arc" refers to a storyline or plot progression in a narrative (often in anime, manga, or video games) that is intended to mislead or confuse the audience with false information or a misleading storyline. This arc might involve red herrings, setups that lead to dead ends, or false culprits. Essentially, it's a series of events and clues that trick the viewers or players into believing a certain narrative path is correct when it's actually a distractor.
+**汉语:**  
+“delusion arc” 是指故事线或剧情进展（尤其是在动画、漫画或视频游戏中），目的是误导或迷惑观众，提供虚假信息或误导性的故事线索。这种弧线可能包括误导信息、引导至死胡同或假嫌疑人。简而言之，就是一系列事件和线索，让观众或玩家相信某个叙事路径是正确的，而实际上这是个扰乱视听的设计。
 ```

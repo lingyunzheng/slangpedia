@@ -1,15 +1,15 @@
 ---
 title: "What Does 'gymcel' Mean? (gymcel 是什么意思？)"
 slug: "what-does-gymcel-mean"
-date: 2025-12-21
+date: 2025-12-22
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Gymcel
-**English:** A person who excessively uses the gym, often aiming for a body transformation or maintaining a fitness routine. Sometimes humorously used to describe someone who spends too much time in the gym, possibly at the expense of other aspects of their life.
-**Chinese:** 健身狂 (jiàn shēn kuáng) - 用来形容那些过度去健身房的人，通常是为了塑形或维持健身习惯。有时带有点讽刺意味，指一个人花太多时间在健身房上，可能忽略了生活中的其他方面。
-Additional Note: "Gymcel" is a portmanteau of "gym" and "cel," where "cel" might be used here to emphasize the cell-like confinement or fixation of the individual to the gym environment.
-```
+# Gymcel: A Slang Explanation
+## English Explanation
+**Gymcel**: A slang term that combines "gym" and "cell." It's used to describe a person who spends a lot of time at the gym, often to the point of isolation or at the expense of other social activities. Think of it as someone who is so focused on their fitness routine that they become like a prisoner (cell) of their own health regimen.
+## Chinese Explanation
+**Gymcel**：这个词是由“健身房”（gym）和“囚室”（cell）组合而成的。用来形容那些花费大量时间在健身房，甚至影响到其他社交活动的人。简单来说，就是如此专注于健身，成为了自己健康计划的“囚徒”。

@@ -1,7 +1,7 @@
 ---
 title: "What Does 'demon time' Mean? (demon time 是什么意思？)"
 slug: "what-does-demon-time-mean"
-date: 2025-12-14
+date: 2025-12-22
 tags:
 - slang
 - internet
@@ -9,8 +9,8 @@ tags:
 ---
 ```markdown
 ## Demon Time
-### 中文解释：
-"Demon Time" 是一种充满活力、热情高昂的状态，通常用来形容一个人在进行自己特别擅长或热爱的事情时，表现出超常的爆发力和创造力。
-### 英文 Explanation:
-"Demon Time" refers to an energetic and passionate state where a person demonstrates an extraordinary burst of energy and creativity when engaged in something they excel at or are particularly passionate about. It's often used to describe moments of intense focus and high performance.
+**English:**  
+"Demon Time" is a slang expression often used to describe a period of time where someone is extremely productive or focused, working well beyond the point of regular efficiency or comfort. It can also refer to the late hours of the night, especially when working on something that requires devotion and concentration.
+**中文：**  
+"Demon Time" 是一个俚语表达，用来形容一个人在某一时间段内表现出极高的生产力或专注力，工作到了超出正常效率或舒适度的程度。这个词还可以指深夜工作，尤其是在做一些需要投入和专注的事情时。
 ```
