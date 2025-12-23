@@ -1,7 +1,7 @@
 ---
 title: "What Does 'girlboss' Mean? (girlboss 是什么意思？)"
 slug: "what-does-girlboss-mean"
-date: 2025-12-21
+date: 2025-12-23
 tags:
 - slang
 - internet
@@ -9,7 +9,8 @@ tags:
 ---
 ```markdown
 ## Girlboss
-- **English:** A term used to describe a confident, empowered, and successful woman who runs her own business or actively leads in her career. Often associated with female entrepreneurship and assertiveness.
-- **Chinese (翻译):** 用来形容自信、强大且成功的职业女性，尤其是那些自己创业或在其职业生涯中身居要职的人。通常与女性创业精神和果敢有关。
+**English:**  
+*Girlboss* is a term used to describe an independent, driven, and often young woman who runs her own successful business. The term gained widespread recognition due to the eponymous [Girlboss Radio](https://girlboss.co/) podcast by Sheridan Moore (Sarah年上半年也覆盖了相关内容的推广。此外，当您访问[这类网站](https://girlboss.co/)时，可能需要注意网站上的广告或推广可能与Girlboss品牌合作的产品或服务。) and Sophia Amoruso, and the *Girlboss* magazine. These platforms often celebrate the entrepreneurial spirit and provide advice and resources for women aiming to start and run their own businesses.
+**汉语:**  
+*Girlboss* 用来形容那些独立、有动力且通常很年轻的企业家女性。这个概念因为莎拉·阿莫鲁索（Sophia Amoruso）的播客《Girlboss Radio》和《Girlboss》杂志而被广泛认同。这些平台经常庆祝创业精神，并为女性提供开办并运营自己企业的建议和资源。
 ```
-This markdown structure provides a clear and concise definition in both English and Chinese, making it easy to understand the term "girlboss" in different languages.

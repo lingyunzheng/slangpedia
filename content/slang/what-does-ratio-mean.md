@@ -1,20 +1,18 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2025-12-22
+date: 2025-12-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Ratio (中美双解)
-## English
-**Ratio**: Often used in the context of social media or online gaming, "ratio" refers to the comparison of positive or supportive comments to negative or critical ones. It can also be used to describe someone's willingness to engage in an argument or conflict, with a "high ratio" indicating a tendency to engage frequently and a "low ratio" suggesting they avoid or ignore such situations.
-Example:
-- "He's got a ratio of 10:1 because everyone loves his posts."
-## 中文
-**比例/ Ratio**: 经常在社交媒体或在线游戏中使用，"ratio" 用来指正面或支持性评论与负面或批评性评论之间的对比。这个词也可以用来描述某人在多大的程度上愿意参与争论或冲突，"高比例" 表明他们经常参与到这种情况下，而"低比例"则表明他们倾向于避免或忽视这些情况。
-示例：
-- "他有10:1的比例，因为每个人都很喜欢他的帖子。"
+## Ratio (Ratio)
+### English
+**Meaning:** A measure of comparing two things, often quantifying the "disparity" or "inequality" between them, especially in terms of good vs. bad, success vs. failure, or any contrast where one side is perceived as far superior.
+**Example:** "You just got waylaid by the delivery guy, he’s really bad with directions, good for traffic though. It’s a 5:1 ratio of bad to good."
+### 中文
+**含义:** 一种衡量两种事物的方式，通常量化“差距”或“不平等”，尤其是在好事与坏事、成功与失败之间的对比中更为明显。人们常常用“比例”来表达这种对比，其中的一方被视为明显更优秀。
+**例句:** "你让送货员送了一个小时才送到，他的方向感差极了，不过还好堵车了。这就是坏的和好的之间的5:1的比例。"
 ```

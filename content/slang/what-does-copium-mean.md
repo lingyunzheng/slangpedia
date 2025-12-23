@@ -1,15 +1,18 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2025-12-21
+date: 2025-12-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Copium
-## English
-Copium is a playful or informal term that often refers to a perception or a feeling of being under the influence of law enforcement in a lighthearted or humorous context. It can be used to describe situations where someone feels they are being scrutinized or monitored by the police, often with a tone of teasing or joking. For instance, when you see a police car drive by and everyone seems to straighten up, you might joke about them being "under copium."
-## 中文
-Copium 是一个娱乐性或非正式的词汇，通常用来形容在轻松或幽默的语境下，人们感觉到自己处于执法部门影响之下的一种状态。它可以用来自指在某种情况下，感觉被警察监视或审查的情形，常常是带有戏谑或玩笑的语气。比如，当看到警车经过，所有人都挺直了身体，你可以开玩笑说他们“中了 copium”。
+## Copium (English)
+**Definition:** Copium is a playful and informal term for caffeine, often used in casual conversations or among friends. It has a humorous undertone and is sometimes used to indicate a feeling of temporary energy or wakefulness.
+**Example Usage:** "I needed a shot of copium to stay awake through the webinar!"
+---
+## Copium (Chinese)
+**定义:** Copium 是一种玩味且非正式的术语，指代咖啡因，常用于轻松的对话或朋友之间。它带有幽默的意味，有时用来表示短暂的活力或清醒感。
+**例句:** "我需要一杯 copium 才能在网络研讨会时保持清醒！"
+```

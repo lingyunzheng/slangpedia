@@ -1,18 +1,17 @@
 ---
 title: "What Does 'skibidi' Mean? (skibidi 是什么意思？)"
 slug: "what-does-skibidi-mean"
-date: 2025-12-22
+date: 2025-12-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Skibidi
-## English
-**Meaning:** A virtual currency or a form of digital compensation used in some online games or communities. It's often used to describe a virtual tip or reward given to others, similar to tipping in the online world.
-**Example Usage:** "Thanks for that funny video, I’ll give you some Skibidi!"
-## 中文
-**含义:** 一种虚拟货币或在线游戏或社区中的虚拟补偿形式。通常用来描述给予他人的虚拟小费或奖励，类似于在线世界的打赏。
-**使用示例:** "谢谢你的搞笑视频，我给你点 Skibidi!"
+## Skibidi (English)
+**Meaning:** A playful, often nonsensical term that is used as a filler word or inside joke, frequently employed for emphasis or as a way to fill silence. It's commonly used in a jovial or lighthearted context.
+**Example:** "Alright, skibidi, let's get moving!"
+## Skibidi (Chinese)
+**意义:** 一个充满趣味性且通常没有明确含义的词汇，经常用作填充词或内行笑话，常用来强调或填补沉默。它通常在轻松愉快的环境下使用。
+**例句:** “好的，skibidi，我们出发吧！”
 ```

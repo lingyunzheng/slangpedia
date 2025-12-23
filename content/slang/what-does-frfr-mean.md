@@ -1,23 +1,30 @@
 ---
 title: "What Does 'frfr' Mean? (frfr 是什么意思？)"
 slug: "what-does-frfr-mean"
-date: 2025-12-19
+date: 2025-12-23
 tags:
 - slang
 - internet
 - tiktok
 ---
-Here's a markdown format with bilingual slang explanations for "frfr":
+Here is a markdown format with bilingual slang explanations for French slang (frfr):
 ```markdown
-# Slang Term: frfr
-### French-English Explanation
-- **frfr**: short for "from France to France" in English, used to describe something or someone as extremely French or quintessentially French. It's also used to highlight strong French accents or cultural traits.
-### French-English Examples
-1. **En ville, les patrons sont frfr!**
-- In the city, the bosses are absolutely French!
-2. **Elle chante en frfr, il est si franc de sa voix!**
-- She sings in a truly French accent, her voice is so French!
-3. **C'est un café frfr, pas comme ceux d'Amérique !**
-- It's a truly French café, not like those in America!
+# French Slang Explained
+## Bisous
+- **French:** Bisous
+- **English:** Kissing cheeks or cheeks (a polite way to greet people)
+- **Explanation:** This term is primarily used as a greeting or farewell, similar to "kiss" in English. It can be used between friends, family, or even in more formal settings when addressing someone kindly.
+## T'as pas tort
+- **French:** T'as pas tort
+- **English:** You're not wrong
+- **Explanation:** A phrase used to acknowledge someone's point of view without fully agreeing with them. It's a way of giving someone credit for their input or opinion.
+## Chaîne
+- **French:** Chaîne
+- **English:** Chain
+- **Explanation:** Used to refer to a well-known media company such as "M6" or "FR3" that broadcasts a wide variety of content. In casual conversation, when someone says "la chaîne est passée à côté," it means the show was on that channel but missed by the viewer.
+## Y'a pas photo
+- **French:** Y'a pas photo
+- **English:** There's no photo
+- **Explanation:** This phrase literally means "there is no picture" but idiomatically means "there is no comparison," emphasizing that something is incomparably good or better.
 ```
-This markdown format provides clear translations and uses examples to illustrate the slang term's meaning and usage in both languages.
+If you'd like more slang terms or additional context for these, just let me know!

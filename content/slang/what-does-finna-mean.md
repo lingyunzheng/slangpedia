@@ -1,22 +1,19 @@
 ---
 title: "What Does 'finna' Mean? (finna 是什么意思？)"
 slug: "what-does-finna-mean"
-date: 2025-12-22
+date: 2025-12-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Finna
+## Finna (英译: Finna)
 ### English Explanation
-"Finna" is a casual slang term, primarily used in the Southern United States, meaning "about to" or "gonna." It's often used in informal conversations to indicate imminent action or future plans.
-### Example Usage
-- "I'm finna go get some pizza after work."
-- "She's finna surprise everyone with a party this weekend."
-### Spanish Explanation
-"Finna" se traduce casualmente como "a punto de" o "voy a" en español, y es主要用于南方美国的一种非正式俚语。常用于非正式对话中，表示即将采取的行动或未来的计划。
-### Ejemplo de Uso
-- "Voy a punto de ir a por una pizza después del trabajo."
-- "Ella va a punto de sorprender a todos con una fiesta este fin de semana."
+"Finna" is a casual slang term often used when someone is about to do something or is in the process of doing something. It's a combination of "fixin' to" (as in Southern or Appalachian English) and "about to." For example, if someone is getting ready to go somewhere, they might say, "I'm finna go to the store."
+### Chinese Explanation
+“Finna” 是一种俚语，用来表示某人即将做某事或正在做某事。这个词结合了“fixin' to”（美南或阿巴拉契亚英语中的说法）和“about to”。例如，如果有人正要去某个地方，可能会说：“I'm finna go to the store.”（我要去商店。）
+### Usage Example
+- English: "I just got a call from my boss, he said he wants to talk to me in his office as soon as I'm done with this meeting. Finna head over there now!"
+- Chinese: "我刚刚接到老板的电话，他说我一忙完这个会议就去找他。我现在就去那边！"
 ```
