@@ -1,22 +1,21 @@
 ---
 title: "What Does 'cap' Mean? (cap 是什么意思？)"
 slug: "what-does-cap-mean"
-date: 2025-12-20
+date: 2025-12-24
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Cap (English/Chinese)
-## English
-**Cap** is a common slang term that can have multiple meanings depending on the context. It can refer to:
-- **Overstating or Exaggerating:** "You're cap for saying you finished the whole chocolate cake by yourself!"
-- **Ruby MPs (sometimes used as a compliment):** "You're cap, man! That speech was amazing!"
-- **A Hat or Beanie:** "I need to cap up, it's chilly outside."
-## Chinese
-**帽 (Mào)** 或 **帽子 (Màohen)** 一词在不同语境下也可以有很大的含义：
-- **夸奖或夸张:** "你这话说得有点帽了，一个人怎么可能吃完整块巧克力蛋糕？"
-- **Ruby M&Ps（有时是一种赞美）:** "你帽了，那篇演讲真的很棒！"
-- **帽子或帽子衫:** "天有点冷，我得帽一下了。"
+# Cap (英/美 slang)
+## English Slang Explanation
+**Cap**: This slang is mostly used in the form "caping" or "get capped." It primarily means to outdo, to one-up, or to express disbelief or frustration. For example, when someone does something particularly impressive, another person might say, "You just capped that." This indicates that what the person did was so good it left the speaker speechless or amazed.
+### Example Sentence
+- English: "She solved the problem in one line of code; you just capped it."
+- Translation: "她用一行代码就解决了问题，你直接给整（给震）蒙（蒙了）了。"
+## 中文俚语解释
+**帽（cap）**: 这个俚语通常以"capping" 或"get capped"的形式出现，主要表示超越、碾压或表达震惊或烦躁的情绪。比如，当有人做得非常出色的情况下，另一个可能会说，“你直接 cap 了”，表示对方做得如此之好以至于令发言者感到无言以对或深受震撼。
+### 示例句子
+- 中文：她用一行代码就解决了问题，你直接给整（给震）蒙（蒙了）了。
 ```

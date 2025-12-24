@@ -1,18 +1,19 @@
 ---
 title: "What Does 'cooked' Mean? (cooked 是什么意思？)"
 slug: "what-does-cooked-mean"
-date: 2025-12-23
+date: 2025-12-24
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 英语解释: "Cooked"
-- **Definition**: When something is "cooked," it often means it is perfect, flawless, or completely satisfactory.
-- **Example**: "The exam results were cooked; everyone passed!"
-- **Bilingual Explanation**: 当某事被认为是“cooked”时，意味着它是完美无瑕或完全令人满意的状态。例如：“考试成绩非常好，每个人都通过了！”
-## 繁体中文解釋: "煮熟"
-- **定義**：當某事被稱為“煮熟”時，通常表示它是非常好、無可挑剔或完全令人滿意的。
-- **例句**：「考試成績煮熟了，每個人都過了！」
+## English
+**Cooked**  
+- **Meaning**: Used to describe a situation where someone is caught or the plans have failed.  
+- *Example*: "It looks like the plan got cooked when the security team found out about the fake IDs."
+## 中文
+**Cooked**  
+- **释义**: 用于描述某人被抓现行或计划失败的情况。  
+- *例句*: "看起来当安保团队发现假证件时，那计划就已经泡汤了。"
 ```

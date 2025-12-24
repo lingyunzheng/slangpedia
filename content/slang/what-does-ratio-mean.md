@@ -1,18 +1,16 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2025-12-23
+date: 2025-12-24
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Ratio (Ratio)
-### English
-**Meaning:** A measure of comparing two things, often quantifying the "disparity" or "inequality" between them, especially in terms of good vs. bad, success vs. failure, or any contrast where one side is perceived as far superior.
-**Example:** "You just got waylaid by the delivery guy, he’s really bad with directions, good for traffic though. It’s a 5:1 ratio of bad to good."
-### 中文
-**含义:** 一种衡量两种事物的方式，通常量化“差距”或“不平等”，尤其是在好事与坏事、成功与失败之间的对比中更为明显。人们常常用“比例”来表达这种对比，其中的一方被视为明显更优秀。
-**例句:** "你让送货员送了一个小时才送到，他的方向感差极了，不过还好堵车了。这就是坏的和好的之间的5:1的比例。"
+## Ratio (英 / 美)
+**英:** Ratio - A confrontation or comparison between individuals, typically measuring who is more attractive, successful, or popular.
+**美:** Ratio - 一种对抗或对比，通常用来衡量谁更有吸引力、更成功或更受欢迎。
+在美式英语中，这个词常用于社交媒体上，一个人可能会说“我需要提升我的ratio”意味着他们想要变得比别人更有魅力或更成功。而在其他地方，这个词也可能被用于描述任何类型的竞赛或对比。
 ```
+This markdown format provides clear and concise definitions for the term "ratio" in both English and Chinese, along with a brief explanation of its usage in American slang.

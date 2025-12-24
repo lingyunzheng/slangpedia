@@ -1,19 +1,16 @@
 ---
 title: "What Does 'bussin' Mean? (bussin 是什么意思？)"
 slug: "what-does-bussin-mean"
-date: 2025-12-18
+date: 2025-12-24
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Bilingual Explanation: Bussin'
-**English Slang: Bussin'**
-- **Definition:** Engaging in a very profitable, exciting, or successful activity or venture. It can also imply that someone is being flashy or showing off.
-- **Usage Example:** "Lately, she’s been bussin' and making a ton of money with her new online business."
-**Chinese Slang: 火 （huǒ）**
-- **Definition:** 表示某项业务、活动或状态非常火爆、赚钱或令人振奋。也可以用来形容某人表现得非常张扬或炫耀。
-- **Usage Example:** “最近，她那个新在线生意可火了（huǒ），赚了不少钱。”
+## Bussin' (Doing Business)
+### English
+**Bussin'** is slang commonly used to describe someone who is very successful, busy, or active. It can also be used to depict someone or something that is high-energy or on the go. The term often implies that the person is making a lot of money or has an active and exciting lifestyle.
+### Chinese
+**Bussin'** 横着来的在中文中通常用来形容某人非常成功、忙碌或活跃。这个词也可以用来形容一个人或某物非常有活力或在不断奔波。这个词通常暗示这个人赚了很多钱，或者有着充满活力和兴奋的生活方式。
 ```
-Note: The Chinese slang "火 (huǒ)" is used to translate "bussin'" as it captures both the meaning of something being profitable and exciting, which are similar to the connotations of being "bussin'." However, it may not be exact as "huǒ" also has additional nuances, but it provides a good representation in the given context.
