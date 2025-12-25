@@ -1,7 +1,7 @@
 ---
 title: "What Does 'valid' Mean? (valid 是什么意思？)"
 slug: "what-does-valid-mean"
-date: 2025-12-24
+date: 2025-12-25
 tags:
 - slang
 - internet
@@ -9,9 +9,10 @@ tags:
 ---
 ```markdown
 ## Valid
-**English:** 
-- "Totally legitimate; genuine; real." Often used to affirm the authenticity or correctness of something.
-**Chinese:** 
-- "完全合法的；真实的；正确的。" 通常用于肯定某物的合法性、真实性或正确性。
+### English
+- **Meaning:** Something that is true, correct, or accurate.
+- **Example:** "You got a valid point there."
+### Chinese
+- **含义:** 真实的，正确的，准确的。
+- **例句:** "你提了一个有道理的意见。"
 ```
-This markdown format provides clear and concise translations and explanations for the slang word "valid" in both English and Chinese.

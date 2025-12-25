@@ -1,7 +1,7 @@
 ---
 title: "What Does 'bussin' Mean? (bussin 是什么意思？)"
 slug: "what-does-bussin-mean"
-date: 2025-12-24
+date: 2025-12-25
 tags:
 - slang
 - internet
@@ -9,8 +9,11 @@ tags:
 ---
 ```markdown
 ## Bussin' (Doing Business)
-### English
-**Bussin'** is slang commonly used to describe someone who is very successful, busy, or active. It can also be used to depict someone or something that is high-energy or on the go. The term often implies that the person is making a lot of money or has an active and exciting lifestyle.
-### Chinese
-**Bussin'** 横着来的在中文中通常用来形容某人非常成功、忙碌或活跃。这个词也可以用来形容一个人或某物非常有活力或在不断奔波。这个词通常暗示这个人赚了很多钱，或者有着充满活力和兴奋的生活方式。
+**English Explanation:**
+"Bussin' " is a slang term often used in urban contexts, particularly in the United States, to describe someone who is doing something with great energy, enthusiasm, or effort. It can also refer to a person who is making money or being very successful in their line of work.
+**Chinese Explanation:**
+“Bussin’” 是一种俚语，尤其是在美国的都市环境中广泛使用，用来形容某人非常投入、充满活力地做某事，或者表示某人在他们的工作或业务中赚了很多钱，非常成功。
+例句：
+- English: He’s bussin’ hard on his new business venture.
+- Chinese: 他在他的新商业冒险中非常努力地干着。
 ```
