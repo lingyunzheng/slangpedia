@@ -1,30 +1,21 @@
 ---
 title: "What Does 'cap' Mean? (cap 是什么意思？)"
 slug: "what-does-cap-mean"
-date: 2025-12-25
+date: 2025-12-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Cap (英语：Cap)
-## English Meaning
-- **To put a lid on something**: To stop or limit something, often abruptly.
-- **A cover-up**: Used to describe an attempt to hide or cover up a mistake or situation.
-## Example Usage
-- *"He tried to cap the whole story by just deleting the photos."* 
-## Related Expressions
-- **Cap it off**: To make the end of something final or conclusive.
-- **Cap off a winning season**: To conclude a successful season with a notable achievement.
-# Cap (汉语：帽儿)
-## 汉语含义
-- **封顶**: 指某事被限制或停止，常常是突然间。
-- **遮盖**: 用来描述试图掩盖错误或情况的行为。
-## 示例用法
-- *"他想通过删掉照片来封住所有故事的口。"*
-## 相关表达
-- **封口**: 使某事最后完成或象征着结束。
-- **封存一个成功的赛季**: 以重要的成就结束一个成功的季节。
+## Cap (English)
+### Explanation
+Cap is slang used to indicate the action of misleading or fooling someone, often in a slightly playful or innocent way, especially among friends. It can also imply that something is unreal or fake, or is being exaggerated or understated. 
+### Example
+- "You're cap, man. I know you've been studying all night for the test."
+## Cap (Chinese)
+### 解释
+Cap 是俚语，用来表示愚弄或欺骗某人，通常是在朋友之间以一种稍微有趣或无辜的方式进行。它还可以表示某事是不真实的或假的，或者被夸大或低估了。
+### 示例
+- "你果然是cap，我知道你为了考试整个晚上都在学习。"
 ```
-This markdown format provides a clear, bilingual explanation of the slang term "cap" and its usage.

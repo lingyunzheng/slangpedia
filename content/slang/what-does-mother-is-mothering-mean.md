@@ -1,18 +1,16 @@
 ---
 title: "What Does 'mother is mothering' Mean? (mother is mothering 是什么意思？)"
 slug: "what-does-mother-is-mothering-mean"
-date: 2025-12-24
+date: 2025-12-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Mother is Mothering
-**English Slang Explanation:**
-- **Meaning:** When someone is "mothering" someone else, they are being extremely nurturing, caring, and protective towards them. It's as if they are taking on a motherly role, often for someone who is younger or less experienced.
-- **Usage Example:** "After realizing his friend was having a rough time, Tom started mothering him, cooking meals, doing laundry, and even accompanying him to doctor's appointments."
-**Chinese 脏话 解释:**
-- **意思:** 当某人对另一个人进行“母性照顾”时，他们表现得非常体贴、关怀和保护。就好像他们承担起了母亲的角色，这种行为对象可能是一个年幼或经验不足的人。
-- **用法示例:** “当发现朋友过得很艰难后，汤姆开始了母性照顾，给他做饭、洗衣服，甚至陪同去看医生。”
+## "Mother is mothering"
+### 中文解释
+“母亲正在母鸡式养育”：这里的“母鸡式”是一种形象的说法，意味着母亲非常仔细、严谨，甚至有些过分保护。比如，担心孩子与小伙伴玩得太疯，怕他们受伤，或是事无巨细地安排孩子的活动和饮食。
+### 英文解释
+"Mother is mothering": This phrase uses the term "mothering" in the sense of a very attentive and protective manner, often a bit overbearing. For example, she might be overly concerned about her child playing too rough with friends, worried about possible injuries, or meticulously planning all of the child's activities and meals.
 ```

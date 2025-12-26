@@ -1,16 +1,23 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2025-12-22
+date: 2025-12-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Delusion Arc
-**English:**  
-A "delusion arc" refers to a storyline or plot progression in a narrative (often in anime, manga, or video games) that is intended to mislead or confuse the audience with false information or a misleading storyline. This arc might involve red herrings, setups that lead to dead ends, or false culprits. Essentially, it's a series of events and clues that trick the viewers or players into believing a certain narrative path is correct when it's actually a distractor.
-**汉语:**  
-“delusion arc” 是指故事线或剧情进展（尤其是在动画、漫画或视频游戏中），目的是误导或迷惑观众，提供虚假信息或误导性的故事线索。这种弧线可能包括误导信息、引导至死胡同或假嫌疑人。简而言之，就是一系列事件和线索，让观众或玩家相信某个叙事路径是正确的，而实际上这是个扰乱视听的设计。
+## Delusion Arc (幻觉弧线 / 幻想弧)
+### Chinese Explanation
+**幻觉弧线 (huànjué húxiàn) / 幻想弧线 (huànyǎng húxiàn)**  
+- **释义**: 幻觉弧线就是指一个人在幻想中构建的一种自我感觉非常好的世界，通常这种世界的设定充满了美好和理想化，但并不符合现实。幻觉弧线可以是心理上的，也可以是通过媒体、网络等途径构建的。
+- **用法**: 他一直活在自己的幻觉弧线上，完全忽略了外面的世界。
+### English Explanation
+**Delusion Arc**  
+- **Definition**: A delusion arc refers to an individual's construction of an idealized world in their imagination, where everything is perfect and idealized but doesn't align with reality. This arc can be purely psychological or created through media, the internet, etc.
+- **Usage**: He always lives in his delusion arc, completely ignoring the outside world.
+---
+幻觉弧线 (huànjué húxiàn) / 幻想弧线 (huànyǎng húxiàn): A term used to describe an individual's introspective or external imagination where they reside in a world of pure idealism and positive fantasies, often not in alignment with reality. It can manifest from inner thoughts or from external influences such as media and digital content.
+Delusion Arc: This phrase is used to describe an individual's state or mindset where they exist in an idealized world of fantasy and positive illusions, often ignoring reality. It can be internal or influenced by external factors like media or the internet.
 ```

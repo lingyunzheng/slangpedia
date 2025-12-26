@@ -1,16 +1,20 @@
 ---
 title: "What Does 'demon time' Mean? (demon time 是什么意思？)"
 slug: "what-does-demon-time-mean"
-date: 2025-12-22
+date: 2025-12-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Demon Time
-**English:**  
-"Demon Time" is a slang expression often used to describe a period of time where someone is extremely productive or focused, working well beyond the point of regular efficiency or comfort. It can also refer to the late hours of the night, especially when working on something that requires devotion and concentration.
-**中文：**  
-"Demon Time" 是一个俚语表达，用来形容一个人在某一时间段内表现出极高的生产力或专注力，工作到了超出正常效率或舒适度的程度。这个词还可以指深夜工作，尤其是在做一些需要投入和专注的事情时。
+# Demon Time (恶魔时间)
+## English Explanation
+"Demo time" is a slang term often used in video games or competitive settings when a player or team is experiencing a period where they perform exceptionally well. It's as if the player or team is accessing a special "demon" mode that enhances their skills and abilities, making them near-unstoppable.
+Example:
+> "Wow, that player is on a demon time tonight! He’s making every shot!"
+## Chinese Explanation
+“恶魔时间”是一个网络流行语，常用于描述玩家或团队在游戏或比赛中表现出色的时期。就像这些玩家或团队进入了一个特殊的“恶魔模式”，能够大幅提升他们的技能和能力，让他们变得近乎无敌。
+示例：
+> 看那个玩家今晚恶魔时间有多足，他简直就是每一次投篮都准！
 ```
