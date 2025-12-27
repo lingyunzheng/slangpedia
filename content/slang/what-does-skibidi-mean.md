@@ -1,18 +1,17 @@
 ---
 title: "What Does 'skibidi' Mean? (skibidi 是什么意思？)"
 slug: "what-does-skibidi-mean"
-date: 2025-12-25
+date: 2025-12-27
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Skibidi
-### English
-**Meaning:** A fun and playful term, often used to express excitement, astonishment, or as a nonsensical filler word.
-**Usage Example:** "The new rollercoaster at the amusement park is sick, skibidi!"
-### Chinese
-**含义:** 一个欢快、随意的词汇，常用来表示兴奋、惊讶，或者作为无关紧要的填充词。
-**使用示例:** "这个游乐场的新过山车真的非常刺激，skibidi！"
+## Skibidi (English)
+**Definition**: Skibidi is a made-up sound or phrase often used for emphasis or in playful contexts, similar to "yeet" or "aw yeah" in American slang.
+**Usage Example**: "Skibidi, that's the best day of my life!"
+## скбибиди (Chinese)
+**定义**：斯克比迪（Skibidi）是一个由发音组成的词汇，常用于表达强调或开玩笑的语境下，类似于美式俚语中的“yeet”或“aw yeah”。
+**使用示例**：斯克比迪（Skibidi），这是我人生中最棒的一天！
 ```

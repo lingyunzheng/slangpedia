@@ -1,20 +1,20 @@
 ---
 title: "What Does 'simp' Mean? (simp 是什么意思？)"
 slug: "what-does-simp-mean"
-date: 2025-12-26
+date: 2025-12-27
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Slang: Simp
-### English Explanation
-A "simp" is someone who is overly or obsessively infatuated with a person, usually a celebrity or someone they admire, often to the point of being overly flattering or幼稚地(cheerfully but foolishly) pursuing them. The term often carries a connotation of being immature, inconsiderate, or fluttery.
-### Chinese Explanation
-“ simp” 是指对某人（通常是名人或他们所仰慕的人）有过度或痴迷的迷恋的人，经常是极度奉承或幼稚地追求他们。这个词通常带有不成熟、不体谅或喋喋不休的意味。
-### Example Usage
-- **English:** He's such a simp for his favorite actress. He sends her tons of flowers and can't stop talking about her.
-- **Chinese:** 他对最喜欢的女演员是个大“ simp”，给她寄了很多花，一直在谈论她。
+# Slang Word: Simp
+## English
+**Definition:** A simp is someone who has an unhealthy admiration or infatuation with a woman, often behaving in a way that is considered overly flattering, and typically with the hope of mating. Simps tend to neglect their own life and interests to chase after a romantic interest, often to the point of being laughed at or treated as a joke.
+### Example:
+- "Jack is such a simp for Lucy; he's always trying to win her approval by doing nice things for her."
+## 中文
+**定义：** 暹是一种对女性有着不健康的仰慕或坠入情网的行为，通常表现为过度讨好对方，带有求偶的动机。暹会忽视自己的生活和兴趣，为追求一个浪漫的伴侣而努力，有时会显得非常滑稽或被人嘲笑。
+### 例句：
+- "杰克对露西就是一个十足的暹，总是千方百计试图得到她的认可，做一些美好的事情。”
 ```
-This markdown format allows for easy reading and quick reference of both the English and Chinese explanations of the slang term "simp".

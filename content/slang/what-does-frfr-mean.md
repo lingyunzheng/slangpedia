@@ -1,33 +1,36 @@
 ---
 title: "What Does 'frfr' Mean? (frfr 是什么意思？)"
 slug: "what-does-frfr-mean"
-date: 2025-12-26
+date: 2025-12-27
 tags:
 - slang
 - internet
 - tiktok
 ---
+Sure, let's start with some French slang and provide English explanations in a markdown format:
 ```markdown
-# French Slang Explained
-## Franglais
-**Franglais** (Frenchn+English) - It's the mix of French and English words commonly used in modern French conversation. You might hear "j'aime chdir ma chambre" to mean "Je aime chercher ma chambre" (I love finding my room).
+# French Slang and Explanations
+## 1. **Chiotte**
+- **French**: Chiotte
+- **English**: Toilet, bathroom, or more colloquially, a poor excuse for a toilet (a dump)
+- **Usage Example**: "J'ai trop besoin de chiotte, on peut y aller maintenant?" (I really need to use the bathroom, can we go now?)
+## 2. **Fada**
+- **French**: Fada
+- **English**: Loony, crazy, or completely ridiculous
+- **Usage Example**: "C'est super fada ce qu'il raconte!" (That's super crazy what he's saying!)
+## 3. **Choupette**
+- **French**: Choupette
+- **English**: Sweetheart, darling, or a term of affection, used for someone cute or endearing
+- **Usage Example**: "Je suis tanto, dis-moi ce que tu veux, ma choupette!" (I'm so in love, tell me what you want, my sweetheart!)
+## 4. **Merde**
+- **French**: Merde
+- **English**: Shit, used as a general expletive for various negative situations
+- **Usage Example**: "On a pas la bonne couleur, putain de merde!" (We don't have the right color, damn it!)
+## 5. **Zinzine**
+- **French**: Zinzine
+- **English**: Funky, cool, or stylish, used to describe something that is trendy or interesting
+- **Usage Example**: "Ce t-shirt est tout zinzine!" (This t-shirt is totally zinzine!)
 ---
-## Boum
-**Boum** - A party, typically an informal social gathering. For example, "On va à la boum ce soir" means "We are going to a party tonight."
----
-## Pute
-**Pute** - This is a vulgar term meaning "prostitute." It's often used casually among friends, but it's still quite offensive. Beware of using it in formal or professional contexts.
----
-## Connard (femme)
-- **Connard** (connarde) - This translates to "guy" (cunk-ar) or "guy" (cunk-ar-uh) and is used to refer to a buddy but can also have a strong negative connotation similar to "idiot" or "moron". For a woman, the same term is used, just sometimes altered in pronunciation. "Il est connard" means "He is an idiot."
----
-## Cracra (Cherchez Cracra)
-- **Cracra** (Cherchez Cracra) - This is a playful way of saying someone is acting silly or crazy. "Il fait du cracra" means "He is acting silly." It's often used among friends but can also be used in a teasing way.
----
-## Paradis
-- **Paradis** - This just means "heaven" but can be used in a context to mean "paradise" or something really great. For example, "C'est mon paradis" could mean "This is my heaven" or "This is my favorite place."
----
-## Vomi
-- **Vomi** - This is a shortened form of "vomir," which means "to vomit." It's used to express disgust or to emphasize something is not liked. "Je n'aime pas les légumes, ils sont vomi" means "I don't like vegetables, they are vomi." It's quite informal and can be considered rude depending on the context.
+Feel free to ask if you need more examples or explanations!
 ```
-Would you like to add more slang expressions?
+If you need more slang terms or any specific contexts, let me know!

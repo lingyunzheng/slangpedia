@@ -1,17 +1,21 @@
 ---
 title: "What Does 'cringe' Mean? (cringe 是什么意思？)"
 slug: "what-does-cringe-mean"
-date: 2025-12-25
+date: 2025-12-27
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Cringe (中文: 尼玛）
-- **Definition**: When something is so awkward, embarrassing, or just plain awful that it evokes a strong negative reaction.
-- **Usage Example**: In English: "Their attempt at a dance routine was so bad, it was cringe worthy." 
-- **中文解释**: 当某事如此尴尬、羞辱或just plain awful，以至于会引起强烈的负面反应时，这就是“cringe”。
-- **Example in Chinese**: 他们在台上跳的舞 so bad，真的让人觉得 cringe。
+# Cringe (中文: 脆弱)
+In English, "cringe" is often used to describe an awkward, embarrassing, or off-putting situation or action. It can also refer to the feeling of discomfort one experiences when encountering these kinds of situations. The term is sometimes used to describe someone's behavior or appearance that is so bad it makes others squirm or feel uncomfortable.
+In Chinese, "脆弱 (cuì ruò)" can be used in a similar context, often describing a situation or behavior that is embarrassing or makes you feel uncomfortable. However, note that "脆弱" more literally means "fragile," so it can also be used in a broader sense, like when something is easily broken or damaged.
+Example usage:
+- In English: "His dad's dance move at the retirement party was so cringe, I couldn't look!"
+- In Chinese: "他爸爸在退休派对上的舞蹈动作真是太脆弱了，我都看不下去了！"
+```markdown
+他爸爸在退休派对上的舞蹈动作真是太脆弱了，我都看不下去了！
 ```
-This markdown format helps to visually distinguish the definitions and examples for both languages, making it easier to understand and compare the slang term "cringe" in English and its Chinese equivalent.
+(Translation: "His dad's dance moves at the retirement party were really fragile, I couldn't bear to watch!")
+```
