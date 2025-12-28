@@ -1,19 +1,18 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2025-12-26
+date: 2025-12-28
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Bruh (Brugh)
+## Bruh (Brutha, Broom) - A Multi-Faceted Slang Term
 ### English
-**Definition:** A versatile interjection used to express emotions such as exasperation, disbelief, surprise, or to add emphasis.
-- **Example Usage:** "Oh bruh, this is how you set up the printer? This is clunk!"
+**Meaning:** An interjection used to express disbelief, frustration, shock, or amusement. It can also be used as a way to join in a conversation or when responding to something absurd or exceptional.
+**Example:** "I just missed the last bus to the city. _Bruh_, now I have to walk all the way!"
 ### Chinese
-**释义：** 一个可以用来表达烦躁、不可置信、惊讶等情绪的语气词，也可以加强语气。
-- **使用示例：** "噢布鲁，这是你设置打印机的方法？这也太土了吧！"
+**含义：** 一个间插词，用来表达惊讶、挫败、震惊或幽默。它也可以用来参与到对话中，或者在对某件荒谬或不同寻常的事物做出反应时使用。
+**例句：** "我刚刚错过了最后一班去城市的公交。_布鲁（Brutha，Broom）_，现在我要走很长一段路！"
 ```
-In both English and Chinese, "bruh" is used flexibly to convey various emotions or to emphasize a point.

@@ -1,7 +1,7 @@
 ---
 title: "What Does 'cooked' Mean? (cooked 是什么意思？)"
 slug: "what-does-cooked-mean"
-date: 2025-12-24
+date: 2025-12-28
 tags:
 - slang
 - internet
@@ -9,11 +9,11 @@ tags:
 ---
 ```markdown
 ## English
-**Cooked**  
-- **Meaning**: Used to describe a situation where someone is caught or the plans have failed.  
-- *Example*: "It looks like the plan got cooked when the security team found out about the fake IDs."
+**Cooked**
+- Meaning: Something or someone is in a bad situation, often due to previous actions leading to trouble.
+- Example: "The company is cooked; they mishandled that contract."
 ## 中文
-**Cooked**  
-- **释义**: 用于描述某人被抓现行或计划失败的情况。  
-- *例句*: "看起来当安保团队发现假证件时，那计划就已经泡汤了。"
+**煮熟了（Cooked）**
+- 含义：某人或某事物处于一种糟糕的情况中，通常是由于之前的错误行为导致了麻烦。
+- 例句：公司煮熟了，他们把那份合同弄砸了。
 ```

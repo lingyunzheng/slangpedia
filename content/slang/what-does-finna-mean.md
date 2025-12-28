@@ -1,23 +1,16 @@
 ---
 title: "What Does 'finna' Mean? (finna 是什么意思？)"
 slug: "what-does-finna-mean"
-date: 2025-12-26
+date: 2025-12-28
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# "Finna" Slang Explanation
-## English
-**Definition:** "Finna" is a contraction of "fixin' to," which is primarily used in Southern American English. 
-**Usage:** People use "finna" to talk about what they are about to do or intend to do in the near future. For example, saying "I finna go to the store" means the person is about to go to the store.
-**Example Sentence:**
-- "I finna hit the gym after work."
-## Spanish
-**Definición:** "Finna" es una contracción de "fijándome en" o "fijándome a," que se utiliza principalmente en el inglés Sureste Americano.
-**Uso:** Se utiliza para hablar de lo que alguien está a punto de hacer o planea hacer pronto. Por ejemplo, diciendo "Yo finna voy al gimnasio después del trabajo" significa que la persona está a punto de ir al gimnasio.
-**Ejemplo de Frase:**
-- "Yo finna voy al gimnasio después del trabajo."
+# Slang Term: "finna"
+## English Explanation:
+"Finna" is a colloquial contraction of "fixin' to," which is a regional expression primarily used in the southern United States. It's often used to indicate that someone is about to do something or is preparing to do something soon. For example, "He's finna go to the store" means he is in the process of preparing to go to the store or is about to go to the store.
+## Chinese Explanation:
+"Finna" 是一种俚语表达，源自美国南部地区常用的词汇“fixin' to”。它的意思是某人即将去做某事或正准备去做某事。例如，“He's finna go to the store” 可以翻译为“他正准备去商店”，表示他即将去商店或正在做去商店的准备。
 ```
-This markdown format provides a clear and concise explanation of the slang term "finna" in both English and Spanish, complete with usage examples.
