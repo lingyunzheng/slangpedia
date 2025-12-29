@@ -1,18 +1,20 @@
 ---
 title: "What Does 'grindset' Mean? (grindset 是什么意思？)"
 slug: "what-does-grindset-mean"
-date: 2025-12-25
+date: 2025-12-29
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Grindset (English)
-**Definition:** A mindset or lifestyle characterized by a relentless and often excessive dedication to work, productivity, and achievement. This term is often used in contexts where people are pushing themselves to their limits in pursuit of success or a desired outcome.
-**Example:** "John has a real grindset; he's working 24/7 to climb the corporate ladder."
----
-# Grindset (中文)
-**定义：** 一种致力于不懈努力、高产与追求成功的思维方式或生活方式。通常用于描述人们为了达到成功或特定目标而不断自我挑战的情境。
-**例句：** "约翰真的有一套磨砺的心态，他24小时不停地工作，为了向上爬到职业阶梯上。"
+# Grindset (俚语释义)
+## 英文解释
+**Grindset** is a term used to describe a mindset or lifestyle centered around a relentless effort to achieve one's goals, often through hard work and dedication. It emphasizes the importance of persistence and productivity.
+**Example:**
+- *He has a strong grindset and never misses a workout.*
+## 中文解释
+**Grindset**指的是那种以不懈努力实现目标为中心的心态或生活方式。它强调坚持和高效率的重要性。通常这个词用于形容那些通过勤奋和专注来追求目标的人。
+**例句:**
+- *他有着很强的grindset，从不缺席健身。*
 ```
