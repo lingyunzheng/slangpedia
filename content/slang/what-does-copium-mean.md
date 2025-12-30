@@ -1,7 +1,7 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2025-12-29
+date: 2025-12-30
 tags:
 - slang
 - internet
@@ -9,15 +9,14 @@ tags:
 ---
 ```markdown
 ## Copium (English)
-### Explanation:
-"Copium" is a humorous slang that combines the words "cop" and "mopium," which is a playful portmanteau of "marijuana" and "mop." It's typically used to describe a police officer who may be more inclined to clean up a scene than to make an arrest. The term humorously suggests that the officer's primary role is to clean up after someone else's "sloppy" behavior, rather than enforcing the law.
-### Usage:
-- "It looks like we have a copium tonight. The officer spent more time mopping the floor than making an arrest."
-- "Man, this neighborhood really needs a copium! Seriously, they clean up more than they catch criminals."
+### Definition
+A playful and informal term used in certain circles to refer to a healthier, energizing, or more socially-beneficial alternative to traditional stimulants like caffeine or drugs. "Copium" can mean activities or substances that inspire creativity, improve mood, and promote well-being.
+### Example Usage
+- "I got some copium from a morning yoga session and a green smoothie," Sarah explained, "and I feel great all day!"
 ## Copium (中文)
-### 解释：
-“Copium”是一种幽默的俚语，它将“cop”（警察）和“mopium”（将“marijuana”（大麻）与“mop”（拖把）结合而成的词）组合在一起。通常用来形容一个更倾向于清理现场而不是作出逮捕的警察。这个词幽默地暗示警察的主要职责是清理别人留下的“污迹”，而不是执行法律。
-### 使用示例：
-- “今晚看来我们有了一位 copium。这位警官花在擦地上的时间比抓人还多。”
-- “天哪，这个地区真的需要一位 copium！认真地说，他们更多是在清理垃圾而不是抓罪犯。”
+### 定义
+“copium”是一个用于某些圈子中，指更健康、更能提神或者更有社会益处的替代传统刺激剂（如咖啡因或药物）的轻松而非正式的术语。“copium”可以指那些能激发创造力、改善心情并促进健康的活动或物质。
+### 示例用法
+- “我从早上的瑜伽课程和绿色的果汁中获得了一些copium，”莎拉解释说，“所以我一整天都感觉很好！”
 ```
+This markdown provides examples of how "copium" might be used in both English and Chinese, giving a contextual understanding of its meaning and usage.

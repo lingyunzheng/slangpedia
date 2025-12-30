@@ -1,21 +1,19 @@
 ---
 title: "What Does 'simp' Mean? (simp 是什么意思？)"
 slug: "what-does-simp-mean"
-date: 2025-12-28
+date: 2025-12-30
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Term: simp
-## English Explanation
-A simp is someone who is excessively eager to be seen as attractive to a specific person, often a woman, and who behaves in a flimsy, undesirable, or obsequious way in pursuit of romantic or sexual attention. They are often seen as foolish or delusional in their pursuit of this attention.
-## Mandarin Explanation
-“傻屌”（“傻”意思是愚蠢，“屌”在这里是一个贬义词，带有侮辱意味，类似英语中的“idiot”或“foolish”）指一个人过分渴望被特定的人认为有魅力，尤其是被女性，他们在追求浪漫或性关注时表现出软弱、不受欢迎或曲意逢迎的行为。他们通常被认为在追求这种关注时是愚蠢的或 delusional 的。
-## Usage Example
-- **English:** "He's such a simp for her, always trying to impress her with expensive gifts."
-- **Mandarin:** "他对她太痴心了，总是试图用昂贵的礼物来给她留下好印象。"
-## Note
-The translation of "屌" (diao) in this context is quite strong and vulgar, and it is best to avoid its use in formal or professional contexts, as it is considered offensive.
+## Slang: simp
+**中文释义**：小 dbContext （注意，这不是“简单”的对应，而是一个谐音梗）
+**英文释义**：A person who is overly infatuated with another, often to the point of being overly supportive or blind to the other's flaws.
+**解释**：来源于英文单词“simper”，通常指那些爱慕虚荣、献媚讨好的人，多用于形容对某人过度迷恋且对其缺点视而不见的人。“Simp”在网络语境中用来调侃那些被某个对象（通常是异性）深深吸引，明知对方有缺点但仍情感投入非常大的人。想象一下一个_criteria_（标准）很低且行动上只关注爱慕对象的人，他们的行为举止表现出一种极度的谄媚，这样的形象就被称作“simp”。
+例子：
+- 中文：他超级喜欢那位女神，简直就是个小 dbContext。
+- 英文：He’s such a simp for her; he’s already addicted to her aura and overlooks her flaws.
+```
 ```

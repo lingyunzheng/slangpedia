@@ -1,17 +1,17 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2025-12-29
+date: 2025-12-30
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Delusion Arc
-## English
-**Definition:** A delusion arc typically refers to a narrative or sequence of events that revolves around a character or group holding a false or unrealistic belief, which drives the plot forward despite evidence to the contrary.
-**Example:** In the anime "Attack on Titan," the arc where the main characters discover that their society's perceived "defensive safety" is actually a delusion is a classic delusion arc.
-## 中文
-**定义:** "Delusion Arc" 通常是指剧情围绕一个角色或群体持有错误或不切实际的信念展开的叙述或情节发展，在这些情节中，尽管有相反的证据，这一虚假信念依然推动着剧情前进。
-**示例:** 在动画《进击的巨人》中，当主要角色发现他们社会所认为的“防御安全”实际上是一种错觉的弧线就是一个经典的“Delusion Arc”。
+## Delusion Arc (deluérn qǔ)
+**中文解释：**
+“ delusion arc”是一个网络流行语，“妄想曲”，指的是一个人在妄想或者自我卷入某种想象中的情节中无法自拔，就像是沉浸在自己的曲子里一样。这种状态可以用“妄想曲”来形容一个人的精神状态或者说是精神上的自我陶醉。
+**English Explanation:**
+"Delusion arc" is a internet slang term, often translated as "delusion arc" or "妄想曲", which refers to someone who is deeply engrossed in a delusional or self-created narrative and cannot pull themselves out of it. It's as if they are trapped in their own musical composition. This term can be used to describe a person's mental state or their self-immersion in a fantasy world.
+```
+This markdown structure provides clear translations and explanations for the term "delusion arc" in both Chinese and English.
