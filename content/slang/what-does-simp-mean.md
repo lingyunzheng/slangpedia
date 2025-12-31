@@ -1,7 +1,7 @@
 ---
 title: "What Does 'simp' Mean? (simp 是什么意思？)"
 slug: "what-does-simp-mean"
-date: 2025-12-30
+date: 2025-12-31
 tags:
 - slang
 - internet
@@ -9,11 +9,8 @@ tags:
 ---
 ```markdown
 ## Slang: simp
-**中文释义**：小 dbContext （注意，这不是“简单”的对应，而是一个谐音梗）
-**英文释义**：A person who is overly infatuated with another, often to the point of being overly supportive or blind to the other's flaws.
-**解释**：来源于英文单词“simper”，通常指那些爱慕虚荣、献媚讨好的人，多用于形容对某人过度迷恋且对其缺点视而不见的人。“Simp”在网络语境中用来调侃那些被某个对象（通常是异性）深深吸引，明知对方有缺点但仍情感投入非常大的人。想象一下一个_criteria_（标准）很低且行动上只关注爱慕对象的人，他们的行为举止表现出一种极度的谄媚，这样的形象就被称作“simp”。
-例子：
-- 中文：他超级喜欢那位女神，简直就是个小 dbContext。
-- 英文：He’s such a simp for her; he’s already addicted to her aura and overlooks her flaws.
-```
+### English
+**Definition:** A simp is someone who is excessively and obsessively infatuated with or devoted to someone, often with romantic feelings. This person might show unwavering support and admiration, to the point of being oblivious to the other person's flaws or being unable to recognize that their feelings are not reciprocated.
+### Chinese
+**定义：** simp 指的是一个过度且痴迷地迷恋或崇拜某人的家伙，常常带有浪漫的情感。此类人可能会表现出无条件的支持和仰慕，直到无视对方的缺点，或者无法认识到对方的爱意是不被回应的。
 ```

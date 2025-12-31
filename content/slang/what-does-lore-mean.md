@@ -1,19 +1,23 @@
 ---
 title: "What Does 'lore' Mean? (lore 是什么意思？)"
 slug: "what-does-lore-mean"
-date: 2025-12-30
+date: 2025-12-31
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Lore (English)
-**DEFINITION:** The traditional stories or legends of a community, often passed down through generations and considered to be the history and beliefs of the group.
-**SLANG EXPLANATION:** In casual or street language, "lore" can be used to describe insider knowledge or information that's not common knowledge. It's like having a secret sauce—nobody else knows about it except for the people who are in the know.
-**EXAMPLE:** "He's got real lore on that new video game, even the developers didn't know all the hidden secrets he found."
-# 谱系 (Chinese)
-**定义:** 社区的传统故事或传说，通常一代又一代地流传下来，被视为该群体的历史和信仰。
-**Slang 解释:** 在非正式或街头语言中，“lore”可以用来形容内幕知识或不是常识的信息。就像有独门秘方一样——除了知道这个秘密的人，其他人都不知道。
-**例句:** “他对那款新游戏有深厚的了解，连开发者都不知道如此多的隐藏秘密。”
+## Lore (English)
+**Meaning:**  
+Lore refers to a collection of traditional stories, histories, or knowledge that are passed down through generations. It can also be used to describe a collective set of information, especially within a specific community or culture.
+**Bilingual Slang Explanation:**
+- **英语解释:** 神话、传统和知识的宝库；在特定群体或文化中的广泛信息集合。
+- **俚语解释:** 在某个圈子里流传的经典梗或背后的故事，有点像是“内循环”的知识或段子。
+## 謠言 (中文)
+**Meaning:**  
+Lore is often used in a broader sense to describe unverified stories or knowledge, which can sometimes be exaggerated or mythological in nature.
+**Bilingual Slang Explanation:**
+- **英语解释:** A term used for stories or knowledge that may or may not be true, often passed down through generations but not necessarily verified.
+- **俚语解释:** 在某个群体里广为流传但未经证实的故事或知识，可能被夸大或带有神话色彩。
 ```

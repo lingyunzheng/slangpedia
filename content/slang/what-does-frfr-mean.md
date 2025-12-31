@@ -1,7 +1,7 @@
 ---
 title: "What Does 'frfr' Mean? (frfr 是什么意思？)"
 slug: "what-does-frfr-mean"
-date: 2025-12-29
+date: 2025-12-31
 tags:
 - slang
 - internet
@@ -9,22 +9,25 @@ tags:
 ---
 ```markdown
 # French Slang Explained
-## "Merde"
-**English Equivalent:** Sh*t  
-**Explanation:** A versatile expletive used to express frustration, disappointment, or to emphasize a point. It is equivalent to saying "screw that" or "crap" in English.
-## "Chiotte"
-**English Equivalent:** Bathroom / Sh*t (slang)  
-**Explanation:** Literally translates to "puppy" but is used as slang for the toilet or bathroom. Often used humorously or in a casual context.
-## "C'est la vie"
-**English Equivalent:** Such is life / That's life  
-**Explanation:** An expression used to accept a situation as it is, often when things are not going as planned. Similar to "that's life" or "mea culpa" in English.
-## "Poulet"
-**English Equivalent:** Chicken (slang) - "Poulet con" means "chicken d**k"  
-**Explanation:** "Poulet" literally means "chicken," but "poulet con" is a derogatory term for a foolish or stupid person, literally meaning "chicken d**k."
-## "Foutre"
-**English Equivalent:** To waste / To f*** (slang)  
-**Explanation:** Used as a verb to mean "to waste" or "to f***," often referring to wasting time or resources. It’s a versatile word with multiple meanings depending on context.
-## "ospace"
-**Note:** This term does not exist in French slang as is and appears to be a typo or non-existent word. Please clarify or provide a specific word for a proper explanation.
+## Petit Cochon de Suarez
+**Meaning:** Little Su's Piglet (Referring to Luis Suarez, a famous Uruguayan footballer known for his controversial bite)
+- **French:** Petit Cochon de Suarez
+- **English:** Little Su's Piglet
+This term is used to refer to Luis Suarez, often with a touch of irony or humor.
+## Chou Chou
+**Meaning:** Dumpling (Used affectionately for someone you care about, similar to "honey" or "babies" in English)
+- **French:** Chou Chou
+- **English:** Dumpling
+It’s a term of endearment used to affectionately address someone, often a partner or close friend.
+## piger
+**Meaning:** To understand (Often used in a negative sense to say “to not get it” or “to not care”)
+- **French:** piger
+- **English:** to understand/not get it/to not care
+When someone says they "ne pigent pas" (don't get it), it can mean they do not understand or they are not interested.
+## la看好你 (li ài kàn nǐ)
+**Meaning:** I love looking at you (A romance term used to say "I love you", originated from Chinese but used in French context)
+- **French:** la看好你 (li ài kàn nǐ)
+- **English:** I love looking at you/I love you
+A romantic term used to express affection for another person.
 ```
-If you would like to add more terms or correct any existing ones, feel free to provide more information!
+Would you like to add more French slang or any other languages?

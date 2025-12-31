@@ -1,18 +1,20 @@
 ---
 title: "What Does 'shook' Mean? (shook 是什么意思？)"
 slug: "what-does-shook-mean"
-date: 2025-12-30
+date: 2025-12-31
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# English: Shook
-## Chinese: 震感 (zhèn gǎn)
-**Explanation:** 
-"Shook" is a slang term used to describe someone who is extremely surprised or shaken by something they've just experienced. It can also imply that someone has been deeply affected emotionally, often in a way that's hard to describe. For example, if you see a friend getting an unexpected surprise, you might say, "They were totally shook by the news."
-**Example Usage:**
-- English: "She was shook by the sudden breakup."
-- Chinese: 她得知突然的分手之后，感觉有点儿震感。
+# Slang Term: Shook
+## English
+**Meaning:** 
+- **Feeling Intensely Emotional or Vibration:** The term is often used to describe a strong emotional reaction, such as shock, fear, or euphoria. When someone says they are "shook," it means they are feeling a powerful emotion, usually after something significant has happened. 
+- **Literally Shaken Up:** It can also be used in a physical sense, meaning someone or something has been shaken so hard that it caused a strong, visceral reaction.
+## Chinese (简体)
+**含义：**
+- **强烈的情感反应或震动：** 这个词通常用来描述强烈的感情反应，比如震惊、恐惧或狂喜。当人们说他们“shook”时，指的是他们经历了强烈的情感波动，通常是因为发生了重大的事情。
+- **真正被摇晃：** 也可以用于物理层面，表示某人或某物被摇晃得非常厉害，引起了强烈的身体反应。
 ```

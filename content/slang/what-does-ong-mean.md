@@ -1,16 +1,19 @@
 ---
 title: "What Does 'ong' Mean? (ong 是什么意思？)"
 slug: "what-does-ong-mean"
-date: 2025-12-30
+date: 2025-12-31
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Ong
-### English Slang Explanation
-"Ong" is a playful and joking term often used to refer to an older or more experienced person, similar to "grandpa" or "elder". It can also be used mockingly, depending on the context and tone.
-### Chinese Slang Explanation
-"昂" (áng) 是一个轻松幽默的词，用来指称年纪较大或更有经验的人，类似于“爷爷”或“长辈”。它在不同的情境下可以带有模仿或讽刺的意味。
+# Ong
+## Chinese
+**含义**: Ong 是网络用语，源自粤语中的“梗”，常用于描述一种在网络文化中被频繁讨论或引用的段子、梗或者流行内容。
+** usage example**: 这个视频里讲的那些 Ong 真的是很$args$搞笑。
+## English
+**Meaning**: "Ong" is internet slang originating from Cantonese "geng", used to describe a type of content, a joke, or a trend that is frequently discussed and referenced in internet culture.
+**Example usage**: The jokes in this video are really *filler* funny.
 ```
+Please replace `*filler*` and `*args$` with the appropriate slang term or word that fits the context of humor in Chinese and English slang respectively.
