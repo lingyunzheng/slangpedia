@@ -1,18 +1,18 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2025-12-28
+date: 2026-01-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Sigma (Σ)
-## English
-**Meaning**: In mathematics, sigma (Σ) commonly represents the sum of a series of numbers. Slang-wise, it can mean someone (usually in a negative context) who engages in frequent, repetitive complaining or expressing grievances.
-**Example**: "Joe's been sigma about the WiFi all night. I swear he got a new job as a complainer at a tech support call center."
-## 中文
-**含义**: 在数学中，sigma (Σ) 通常表示一系列数字之和。俚语中，它通常指的是一个（通常是负面语境下）频繁抱怨或表达不满的人。
-**例句**: "乔整晚都在sigma关于WiFi的事情，我都怀疑他是不是在技术支持呼叫中心找了一份新工作专门来抱怨的。"
+## Sigma (σ)
+### English Slang Explanation
+- **Meaning**: Often used to describe someone or something that is consistently reliable or performs well every time, similar to how the Greek letter sigma in statistics represents standard deviation, implying a stable and predictable performance.
+- **Example**: "He's a sigma player in the team — always delivers when it matters."
+### Chinese Slang Explanation
+- **含义**: 经常用来形容一个人或某事始终可靠、表现稳定，就像在统计中用希腊字母sigma表示标准差，意味着稳定且可预测的表现。
+- **例句**: "他是个sigma级别的选手，在关键时刻总是能稳定发挥。"
 ```

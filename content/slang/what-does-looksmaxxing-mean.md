@@ -1,16 +1,18 @@
 ---
 title: "What Does 'looksmaxxing' Mean? (looksmaxxing 是什么意思？)"
 slug: "what-does-looksmaxxing-mean"
-date: 2025-12-31
+date: 2026-01-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# looksmaxxing
-**English:**  
-"looksmaxxing" is a portmanteau that combines "look" and "maxxing," which is a slang abbreviation for "maxing out" (often used in contexts of ability or potential being fully utilized). When someone is described as "looksmaxxing," they are putting extreme effort into making themselves look as aesthetically appealing as possible. This can involve anything from makeup and hair styling to exercise and diet, all with the intention of maximizing one's physical appearance.
-**Chinese:**  
-"looksmaxxing" 是一个由 "look" 和 "maxxing" 拼凑而成的词语，其中 "maxxing" 是 "maxing out" 的缩写，意指最大限度地发挥某方面的潜力或能力。当有人被形容为 "looksmaxxing" 时，意味着他们在极力地让自己看起来尽可能地漂亮。这可以涉及化妆、发型打理，甚至是锻炼和饮食，所有这一切都旨在最大限度地提升个人的外在形象。
+# "looksmaxxing" Bilingual Slang Explanation
+## English
+- **Meaning**: Describes someone or something that is extremely attractive or beautiful, often to the point of being unrealistic or overly perfect. The term "looksmaxxing" is a fun play on words, combining "looks" and "maxxing," which in other contexts can mean pushing something to its maximum capacity.
+- **Usage Example**: "That girl with the long, flowing hair and killer smile is literally looksmaxxing. It’s so over the top it’s almost fake!"
+## Chinese
+- **含义**：用来形容极其漂亮或帅气的人或事物，以至于显得不切实际或过于完美。"looksmaxxing" 这个词是通过对 "looks" 和 "maxxing"（在其他语境中可以表示推至最大）进行戏谑式组合而来的。
+- **用法示例**："那个留着长曳曳秀发、笑起来心头一动的女孩，简直就是looksmaxxing。美得几乎不真实了！"
 ```
