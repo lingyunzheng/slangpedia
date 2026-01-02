@@ -1,16 +1,16 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2025-12-31
+date: 2026-01-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Brokie (中文：破膝盖)
-**English:** - A slang term that describes someone who is known for constantly breaking things, taking unnecessary risks, or making careless mistakes. It's often used humorously but can also have a hint of exasperation or criticism.
-**中文解释：破膝盖 (Pò Xiétái)**  
-- 这个词语是用来形容那些经常不小心把东西弄坏、总爱冒险或做出随意决定的人。它通常是带有戏谑的语气，但在某些情况下也可能带着一些厌烦或批评的情绪。
+## Brokie (网络用语)
+### 中文解释
+“Brokie”是一个网络用语，起源于中国社交媒体和互联网社区，通常用于形容那些虽然外表光鲜，但实际上生活状态糟糕、有心机、表面光鲜却不接地气的人。这个词在中文里被广泛用于调侃和讽刺那些不愿意展示真实自我的人。
+### 英文解释
+"Brokie" is a slang term originating from Chinese social media and internet communities, used to describe individuals who, despite appearing outwardly successful or attractive, actually lead a poor or furtive lifestyle. This term is frequently used to mock and criticize people who are not willing to show their true selves.
 ```
-This explanation captures the essence of the term "brokie" in a bilingual format suitable for a markdown document.

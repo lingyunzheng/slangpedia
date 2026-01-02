@@ -1,18 +1,24 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2025-12-28
+date: 2026-01-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Bruh (Brutha, Broom) - A Multi-Faceted Slang Term
-### English
-**Meaning:** An interjection used to express disbelief, frustration, shock, or amusement. It can also be used as a way to join in a conversation or when responding to something absurd or exceptional.
-**Example:** "I just missed the last bus to the city. _Bruh_, now I have to walk all the way!"
-### Chinese
-**含义：** 一个间插词，用来表达惊讶、挫败、震惊或幽默。它也可以用来参与到对话中，或者在对某件荒谬或不同寻常的事物做出反应时使用。
-**例句：** "我刚刚错过了最后一班去城市的公交。_布鲁（Brutha，Broom）_，现在我要走很长一段路！"
+## Bruh (英语: Broh)
+- **定义**: "Brother" 的简称，通常用于非正式或口语化的沟通中。
+- **用法**: 用来表示对同伴的亲密关系或情感共鸣。在某些情况下，也可以用来表示惊讶、无奈或轻蔑。
+- **例子**:
+- **英文**: Are you seriously doing this? Bruh, you're nuts!
+- **中文**: 你在认真这么做吗？老兄，你疯了！
+## 哈Sele (英语: Brosie)
+- **定义**: 另一个非正式的称谓形式，通常用在朋友或亲近的人之间。
+- **用法**: 表达亲近或开玩笑时使用，通常带有幽默成分。
+- **例子**:
+- **英文**: I just don't get it,哈Sel.
+- **中文**: 我真不懂，老兄。
 ```
+This markdown allows for easy reading and comparison of the slang terms "bruh" and "哈Sele" in both languages.
