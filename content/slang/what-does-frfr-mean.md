@@ -1,33 +1,41 @@
 ---
 title: "What Does 'frfr' Mean? (frfr 是什么意思？)"
 slug: "what-does-frfr-mean"
-date: 2025-12-31
+date: 2026-01-03
 tags:
 - slang
 - internet
 - tiktok
 ---
+Certainly! Below are some French slang terms and their explanations in markdown format:
 ```markdown
-# French Slang Explained
-## Petit Cochon de Suarez
-**Meaning:** Little Su's Piglet (Referring to Luis Suarez, a famous Uruguayan footballer known for his controversial bite)
-- **French:** Petit Cochon de Suarez
-- **English:** Little Su's Piglet
-This term is used to refer to Luis Suarez, often with a touch of irony or humor.
-## Chou Chou
-**Meaning:** Dumpling (Used affectionately for someone you care about, similar to "honey" or "babies" in English)
-- **French:** Chou Chou
-- **English:** Dumpling
-It’s a term of endearment used to affectionately address someone, often a partner or close friend.
-## piger
-**Meaning:** To understand (Often used in a negative sense to say “to not get it” or “to not care”)
-- **French:** piger
-- **English:** to understand/not get it/to not care
-When someone says they "ne pigent pas" (don't get it), it can mean they do not understand or they are not interested.
-## la看好你 (li ài kàn nǐ)
-**Meaning:** I love looking at you (A romance term used to say "I love you", originated from Chinese but used in French context)
-- **French:** la看好你 (li ài kàn nǐ)
-- **English:** I love looking at you/I love you
-A romantic term used to express affection for another person.
+# French Slang
+## Tutoyer
+- **Definition**: To use informal "tu" instead of formal "vous".
+- **Example**: "Ça va bien, tu as fini ton travail?" (How are you going? Have you finished your work?)
+## Le Couscous (la cousinette)
+- **Definition**: A playful term for referencing a male friend in a familiar manner.
+- Example: "Bah, le cousin, c'est toujours en retard!" (Oh, my pal, you're always late!)
+## Marseille
+- **Definition**: An expression of anger or frustration, often used to express disbelief or shock.
+- Example: "Marseille, c'est bien ton pays?" (You're kidding! That's your homeland?)
+## Toi-多元文化
+- **Definition**: An expression meaning "you too" or "that's all of you".
+- Example: "Tu veux une part de gâteau ? Toi-多元文化, moi aussi!" (Do you want a piece of cake? So do I!)
+## C'est la vie
+- **Definition**: Meaning "that's life," used to express acceptance of an undesirable but inevitable situation.
+- Example: "C'est parti, on se voit dimanche, c'est la vie." (Let's go, we'll see you on Sunday, that's life.)
+## MBL
+- **Definition**: Internet slang, short for "mon barillet, la bible" (my bolt, the Bible), often used to refer to a valuable resource or information.
+- Example: "J'ai trouvé l'info sur ton projet, MBL!" (I found the info on your project, Bible!)
+## L'instant T
+- **Definition**: Term used to describe a critical moment or decisive point.
+- Example: "On va y aller, c'est l'instant T." (We're going, it's the decisive moment.)
+## Boulouris
+- **Definition**: A term of endearment, often used by grandparents or older relatives, meaning "apple of my eye".
+- Example: "Je vais chercher les boulouris, ils doivent être contents." (I'll go get the grandchildren, they'll be happy.)
+## Classe
+- **Definition**: An expression of approval or admiration, similar to saying "cool" or "awesome".
+- Example: "C'est classe de réussir à jouer les deux rôles." (It's awesome to have succeeded in playing two roles.)
 ```
-Would you like to add more French slang or any other languages?
+These entries provide a brief explanation of each term and an example of how they might be used in a sentence.

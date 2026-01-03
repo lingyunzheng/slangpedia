@@ -1,18 +1,22 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2025-12-29
+date: 2026-01-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Ratio
-## English:
-**Ratio**: A tongue-in-cheek term often used to describe the comparison of two things, typically in a negative or teasing manner. When someone says "he's got great ratio," it usually means they are implying that someone or something has a lot of positive attributes or a situation is unfair. It's derived from social media platforms where discussions about comparing assets or qualities often arise.
-Example: "Wow, he's got great ratio, that's why all the girls are after him!"
-## 中文:
-**ratio**: 这个词通常是带玩笑性质的，用来描述两个事物之间的比较，通常是指负面或开玩笑的说法。当有人说“他有很棒的ratio”时，通常意味着某人或某些事物有很多积极的特质，或者某种情况是不公平的。这个词来自于社交媒体平台，人们在讨论资产或品质的比较时常常会用到。
-例句：“哇，他有很棒的ratio，所以所有的女生都追他了！”
+### Ratio (English)
+**Explanation:**
+"Ratio" in slang among internet users and gamers often refers to a way of comparing the positive interactions, like praises or likes, to negative ones, like complaints or toxic comments. It's a way to measure the quality of interactions or content based on the balance between positive and negative feedback. 
+**Example Usage:**
+- "This post has a good ratio if most people are giving it positive feedback."
+### 比率 (Ratio, Chinese)
+**解释:**
+“比率”在网络用语和游戏玩家中常常用来指衡量正面互动（如赞扬或点赞）与负面互动（如投诉或毒舌评论）的比例，以此衡量内容或互动的质量。
+**使用示例:**
+- “这个帖子的比率很好，因为大部分人都给出了正面反馈。”
 ```
+This markdown format provides a clear and concise explanation of the slang term "ratio" in both English and Chinese, along with an example usage in context.

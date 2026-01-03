@@ -1,19 +1,14 @@
 ---
 title: "What Does 'sus' Mean? (sus 是什么意思？)"
 slug: "what-does-sus-mean"
-date: 2026-01-01
+date: 2026-01-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-#鱿鱼酱 (Yóuyísàng / Sus)
-**English:** Sus
-_Sus_ is a term often used on the internet to accuse someone or something of being suspicious or unreliable. It can be used in a playful or serious context. When someone is called "Sus," it means they are being scrutinized or accused of having ulterior motives.
-Example:
-- **在社交媒体上:** "她借钱不还，大家都说她是 Sus。"
-- **Translation:** "She didn't repay the money she borrowed, so everyone says she's sus."
-- **日常对话:** "You left your backpack, someone might have taken your phone, you're so sus!"
-- **Translation:** "你忘了带包，可能有人拿了你的手机，你真sus！"
+## "sus" (Us and Them / Suspicious)
+- **English**: "Sus" is a term that originates from Sonic the Hedgehog video games, used to describe something or someone as suspicious or undeserving of trust. It has evolved into internet slang to express doubt or hesitation about someone or something.
+- **Chinese**: "Sus" (疑Sus疑) 是源自《索尼克》（Sonic the Hedgehog）游戏的术语，用来形容某人或某事可疑或不值得信任。它已经发展成为网络俚语，用来表达对某人或某事的怀疑或犹豫。
 ```
