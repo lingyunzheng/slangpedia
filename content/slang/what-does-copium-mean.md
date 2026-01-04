@@ -1,22 +1,18 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2025-12-31
+date: 2026-01-04
 tags:
 - slang
 - internet
 - tiktok
 ---
-Certainly! Here is a bilingual explanation in Markdown format:
 ```markdown
-# Copium (俚语)
-## 中文解释
-" Copium "是"咖啡因"（英语：Caffeine）的一个有趣俚语变形。这个词通常用于指代能够使人感到提神、兴奋或增加能量的物质或活动。在某些语境中，它可能被用来描述某种让人上瘾或令人激动的东西。
-### 例句
-- 他昨晚连续熬夜复习，喝了一整晚的咖啡，真是个喝 copium 的人。
-## English Explanation
-"Copium" is an amusing slang term derived from "caffeine." It is used to refer to substances or activities that make people feel energized, excited, or more alert. In certain contexts, it could also describe something that is addictive or exciting.
-### Example Sentence
-- He stayed up all night reviewing his notes last night and drank coffee the entire time, truly a copium person.
+## Copium (English)
+**Definition**: Copium is a playful, informal slang term often shortened from "coffee creamer," but it can also refer to a non-traditional substance or something that gives a similar high or stimulant effect, such as energy drinks or other concoctions. It's commonly used among friends or in casual settings to describe something that quickens thoughts or spirits.
+**Usage Example**: "Man, that copium helped me power through the afternoon meeting."
+---
+## Copium (Chinese)
+**定义**: Copium 是一个playful（轻松的）非正式俚语，通常缩写自“咖啡伴侣”，但也可能指的是其他非传统物质或能产生类似兴奋或刺激效果的东西，如功能饮料或其他混合物。它常在朋友之间或非正式环境中使用，用来形容能提振思维或精神的东西。
+**使用示例**: “那copium真管用，帮我撑过了下午的会议。”
 ```
-This format provides both the Chinese and English explanations with clear examples.

@@ -1,20 +1,22 @@
 ---
 title: "What Does 'goated' Mean? (goated 是什么意思？)"
 slug: "what-does-goated-mean"
-date: 2025-12-31
+date: 2026-01-04
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Goated
-## English
-"Goated" is a slang term used to describe something or someone that is exceptional, the best, or top-notch. It can be used to express admiration or to highlight that something has surpassed expectations. For example:
-- "That was a goated performance in the game."
-- "She's goated at baking; her cakes are the best baked goods in town."
-## 中文
-"goated" 是一个网络俚语，用来形容某人或某事非常出色、顶级的。它可以用来表达赞美，或者表明某事超出了预期。例如：
-- “这是他参加比赛的goated表现。”
-- “她在烘焙方面的水平很高，做出的蛋糕是镇上最好的糕点。”
+# Goated (English to Chinese)
+**English:** Goated
+**Chinese (Simplified):** 山羊（羊了个羊）
+**Explanation:**
+Original slang term "goated" is derived from the phrase "roasting" with a twist, often used to describe someone who is praised or admired in a very enthusiastic or exaggerated way, almost to the point of hyperbole. The term has been popularized in several contexts, including social media challenges and internet culture.
+In Chinese-speaking circles, the term is often replaced or humorously parodied with "羊了个羊" (sheep in a sheep), which is a cultural reference to a popular mobile game. This game involves a sheep trying to find its way out of a maze with another sheep. The term "sheep in a sheep" humorously mocks the excessive praise by comparing it to the repetitive and somewhat monotonous gameplay of the "sheep in a sheep" game.
+---
+Example usage in English:
+- "He was so good at the competition, everyone was goated."
+Example usage in Chinese:
+- "他在比赛中表现得太好了，简直可以用‘羊了个羊’来形容他的受欢迎程度了。"
 ```

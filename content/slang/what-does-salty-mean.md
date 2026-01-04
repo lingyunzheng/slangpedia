@@ -1,21 +1,19 @@
 ---
 title: "What Does 'salty' Mean? (salty 是什么意思？)"
 slug: "what-does-salty-mean"
-date: 2026-01-02
+date: 2026-01-04
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English: Salty
-### Meaning
-Describes a situation where someone is feeling bitter, jealous, or upset, often because they perceived a situation as unfair or because they were outperformed or outshined by someone else.
-### Example
-- "Eliza lost in the game and kept complaining about the unfair rules, she's totally salty."
-## 中文: 咸鱼
-### 含义
-形容某人感到沮丧、嫉妒或不满，通常是因为觉得自己遭遇不公或者被他人超越或比下去。
-### 例句
-- "艾丽莎在游戏中输了，还一直在抱怨规则不公平，她真是典型的咸鱼心态。"
+# Salty (中文：咸鱼)
+**English:** *Salty*
+When someone is described as "salty," it usually means they are feeling a strong sense of frustration, disappointment, or jealousy. This term can be used in various contexts, from being upset about a situation to feeling envious of others.
+- **Example Usage in Chinese:** 他考试没考好，但是看到别人的成绩都很好，他就觉得特别咸鱼。
+- Translation: He didn't do well in the exam, but seeing everyone else's scores were so good, he felt really salty.
+- **Example Usage in English:** She felt salty when she saw her colleague get the promotion she was expecting.
+- Translation: 她看到她的同事得到了她预期的晋升时，感到很咸鱼。
+**Note:** The term "咸鱼" (salty fish) is often used metaphorically to describe someone who feels bitter or helpless about a situation.
 ```

@@ -1,16 +1,17 @@
 ---
 title: "What Does 'fit check' Mean? (fit check 是什么意思？)"
 slug: "what-does-fit-check-mean"
-date: 2026-01-02
+date: 2026-01-04
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## fit check (中美双语俚语解释)
-**中文解释：**
-fit check 通常用来表示一种检查服饰是否合身的行为，或是为了验证某件衣物或鞋子是否真的如描述中那么好。也可以比喻地用于形容为了验证某件事情的真实性或结果合不合适而进行的检查或测试。
-**英文解释:**
-A "fit check" is typically used to describe the act of checking if clothing fits properly, or to test if something, like a garment or shoe, lives up to its claimed quality. It can also be metaphorically used to describe a process of verifying if something is as good or suitable as it is described.
+# fit check
+## English
+**fit check**: A casual term often used on social media or in online communities, especially in fashion and lifestyle contexts. It refers to someone posting a picture or video of themselves trying on or showing off a new piece of clothing or accessory. The term emphasizes the importance of how well the outfit or item fits the person, making it a popular term among fashion enthusiasts and influencers.
+---
+## 中文
+**fit check**: 一个常用于社交媒体或在线社区中的流行词汇，尤其是在时尚和生活方式的语境下。这个词指的是某人上传自己试穿或展示新衣服或配饰的照片或视频，强调这件衣服或饰品是否合身。这个词汇在时尚爱好者和博主之间非常流行。
 ```
