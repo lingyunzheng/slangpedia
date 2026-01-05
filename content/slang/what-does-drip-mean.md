@@ -1,21 +1,19 @@
 ---
 title: "What Does 'drip' Mean? (drip 是什么意思？)"
 slug: "what-does-drip-mean"
-date: 2026-01-03
+date: 2026-01-05
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Drip (英语)
-### English Explanation
-"Drip" in slang is often used to describe a situation or a person who behaves in a way that is perceived as highly annoying or embarrassing. It can also refer to someone who is showing off or trying too hard to impress others. In short, it describes something that is perceived as very off-putting or inconsiderate.
-### Bilingual Example
-- **Drip** (散热器/水龙头): For example, if someone is constantly checking their phone and showing off their expensive new gadget, you might say, "This guy is such a drip. He's trying too hard to show off." (这个人真是个散热器，故意炫耀他的新潮手机。)
-## Drip (中文)
-### 中文解释
-“滴”在网上的俚语中常用来形容一个人或一种行为方式，让人觉得非常烦人或让人难堪。也可以形容有人在炫耀或试图过度让自己被他人关注。简单来说，就是指被认为让人排斥或不考虑他人感受的事或人。
-### 双语例句
-- **Drip** (散热器/水龙头): 比如，如果有人总是忙着看手机并炫耀他们的昂贵新设备，你可能会说，“这人真是个滴，故意炫富。” (这个人真是个散热器，故意炫耀他的新潮手机。)
+## Drip (English)
+In English slang, "drip" can refer to someone or something that is extremely cool, stylish, or dope. It's often used to describe someone who exudes a certain vibe that makes them stand out as particularly attractive or impressive.
+Example: "That new sneaker is a total drip!"
+---
+## Dripper (Chinese)
+在中文网络用语中，“dripper”用来形容某人或某物极其酷、时尚或帅气。它通常用来形容某人或某物散发着独特的魅力，看上去特别吸引人或令人印象深刻。
+例句：这个新鞋款真是绝了！（意指新鞋非常酷、时尚）
 ```
+Note: It's worth mentioning that in Chinese, "dripper" is not a direct translation but a transliteration of the English term into a form that fits Chinese slang culture.

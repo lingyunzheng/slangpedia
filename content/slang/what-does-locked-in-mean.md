@@ -1,18 +1,17 @@
 ---
 title: "What Does 'locked in' Mean? (locked in 是什么意思？)"
 slug: "what-does-locked-in-mean"
-date: 2026-01-01
+date: 2026-01-05
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# "Locked In" in Mandarin and English
-## English
-- **Definition:** To be committed to a particular choice or state with no option to change later.
-- **Example:** "I'm locked into this job schedule for the next month, so I can't make any other plans."
-## 汉语
-- **定义:** 指已经被某种选择或状态束缚，无法改变。
-- **示例:** “我这一个月的工作时间表已经确定了，所以没法再有别的计划了。”
+### English: Locked In
+- **Definition**: When a decision is made and there is no going back, or when someone is committed to a situation with no escape.
+- **Example**: "I'm locked in for the beach vacation in July. I've already booked the tickets and hotel."
+### 中文: 被锁住了
+- **定义**：当一个决定已经被做出，无法更改，或者当一个人陷入了某种情况无法脱身。
+- **例句**："我已经订好了七月的海滩度假，买好了机票和酒店，这就算是‘被锁住了’。"
 ```
