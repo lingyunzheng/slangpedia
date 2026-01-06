@@ -1,19 +1,16 @@
 ---
 title: "What Does 'no cap' Mean? (no cap 是什么意思？)"
 slug: "what-does-no-cap-mean"
-date: 2026-01-01
+date: 2026-01-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## No Cap (无帽子)
-**English Explanation:**
-"No cap" is a slang phrase used to assure someone that what you are saying is factual and that you are not exaggerating or pulling their leg. It is often used to show sincerity or to emphasize the truth of a statement.
-**Chinese Explanation:**
-“无帽子”是一个俚语表达，用来保证你说的话是真实的，不是夸大其词或在开玩笑。它常用来表明你说的话是认真的或强调事情的真实性。
-Example Usage:
-- **English:** "I really got a promotion last week. No cap!"
-- **Chinese:** “我上星期真的升职了。无帽子！”
+## "no cap"
+**English:**  
+This phrase is a casual way of saying "I'm not lying" or "That's the truth." It's often used to emphasize that what someone is saying is genuine and not an exaggeration.
+**Chinese:**  
+这个短语表示“我没有撒谎”或“那就是事实”。它经常用来强调所说的话是真实的，并没有夸大其词。
 ```

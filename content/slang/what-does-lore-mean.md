@@ -1,20 +1,16 @@
 ---
 title: "What Does 'lore' Mean? (lore 是什么意思？)"
 slug: "what-does-lore-mean"
-date: 2026-01-05
+date: 2026-01-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Explanation for "lore"
+# Lore
 ## English
-**Lore:** Generic term for traditional knowledge or beliefs passed down through generations. It can also refer to a body of literature or knowledge, often related to a particular subject or culture.
-Example:
-- "The village elders have the _lore_ of the local legends and spirits."
+**Lore:** A term that typically refers to myths, stories, or legends that are passed down through generations. In a more casual context, it can also mean general knowledge or insider information, often used in gaming and internet culture to describe in-depth knowledge of a game's history or mechanics.
 ## Chinese
-**lore:** 传统知识或信念通过世代口耳相传而积累起来的总称。这个词也可以指与特定主题或文化相关的文献或知识。
-例句：
-- “村里的老人们拥有关于当地传说和精灵的 _lore_。”
+**lore:** 原文通常指代通过代际口耳相传的传说、故事或传说。在更随意的语境中，它也可以指一般的知识或内部信息，在游戏和网络文化中，通常用来描述对该游戏历史或机制的深入了解。
 ```

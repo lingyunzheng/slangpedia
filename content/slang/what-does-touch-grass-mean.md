@@ -1,20 +1,18 @@
 ---
 title: "What Does 'touch grass' Mean? (touch grass 是什么意思？)"
 slug: "what-does-touch-grass-mean"
-date: 2026-01-02
+date: 2026-01-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# "Touch grass" - 苦大仇
-## English Explanation
-**Touch grass** is a slang phrase used to express a strong feeling of regret, disappointment, or sometimes even embarrassment. It is often used to describe a situation where the speaker deeply regrets an action or decision they made. The phrase can be used to communicate a sense of shame or regret.
-### Example:
-- "I can't believe I ate the whole cake last night; I really touched grass for that one."
-## Chinese Explanation
-**苦大仇**（Kǔ Dà Qiú）是一种常用的网络用语，用来表达强烈的悔意、失望或者有时候甚至是尴尬的情绪。它通常用来描述说话者对自己所做行为或决定的深深后悔。这个表达可以用来传达一种羞愧或后悔的感觉。
-### 示例：
-- "我昨晚把整个蛋糕都吃掉了，真是苦大仇一个！"
+# "Touch Grass"
+## English
+- **Definition**: A folksy and informal way to admit you made a major mistake or are feeling extremely stupid, often in reference to a childhood phase. It's a way to apologize in a very genuine and humble manner.
+- **Example Usage**: "I spent all my savings on that useless gadget? I really need to touch grass and reassess my priorities."
+## 中文
+- **定义**：一种乡村风格且非正式的说法，用于承认自己犯了严重错误或感到非常愚蠢，通常指的是某个童年时期。这是一种非常真诚和谦逊地道歉的方式。
+- **使用示例**："我把所有的积蓄都花在了那个没用的玩意儿上？我真的很需要‘触碰草地’，重新评估一下我的优先事项。"
 ```

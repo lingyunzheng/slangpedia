@@ -1,19 +1,17 @@
 ---
 title: "What Does 'highkey' Mean? (highkey 是什么意思？)"
 slug: "what-does-highkey-mean"
-date: 2026-01-05
+date: 2026-01-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Highkey
-## English Explanation
-**Highkey** is an adverb often used to emphasize the importance or obviousness of something. It's a less direct way of saying "really" or "definitely," and it's typically used in informal, casual conversations. For example:
-- "I'm highkey going to the party tonight!" — This means "I am definitely going to the party tonight!"
-## Chinese Explanation
-**高key (Gāo key)** 是一个常用在非正式对话中的强调词，类似于英语中的"really"或"definitely"。它用来强调某事的重要性或明显性。例如：
-- "我高key今晚去参加派对！" — 这意味着“我一定会今晚去参加派对！”
+## Highkey (High Key)
+- **English:** Extremely, very, definitely.
+- **Chinese:** 高key（Gāo kéy）——表示某事非常重要、非常明显或非常强烈。
+**Examples:**
+- **English:** I'm highkey loving this album!
+- **中文:** 我超级爱这张专辑！
 ```
-This markdown format provides clear and concise bilingual explanations for the slang term "highkey."

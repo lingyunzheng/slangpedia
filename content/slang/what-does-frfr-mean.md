@@ -1,41 +1,50 @@
 ---
 title: "What Does 'frfr' Mean? (frfr 是什么意思？)"
 slug: "what-does-frfr-mean"
-date: 2026-01-03
+date: 2026-01-06
 tags:
 - slang
 - internet
 - tiktok
 ---
-Certainly! Below are some French slang terms and their explanations in markdown format:
+Sure, here are some French slang terms with their explanations in French and English:
 ```markdown
-# French Slang
-## Tutoyer
-- **Definition**: To use informal "tu" instead of formal "vous".
-- **Example**: "Ça va bien, tu as fini ton travail?" (How are you going? Have you finished your work?)
-## Le Couscous (la cousinette)
-- **Definition**: A playful term for referencing a male friend in a familiar manner.
-- Example: "Bah, le cousin, c'est toujours en retard!" (Oh, my pal, you're always late!)
-## Marseille
-- **Definition**: An expression of anger or frustration, often used to express disbelief or shock.
-- Example: "Marseille, c'est bien ton pays?" (You're kidding! That's your homeland?)
-## Toi-多元文化
-- **Definition**: An expression meaning "you too" or "that's all of you".
-- Example: "Tu veux une part de gâteau ? Toi-多元文化, moi aussi!" (Do you want a piece of cake? So do I!)
-## C'est la vie
-- **Definition**: Meaning "that's life," used to express acceptance of an undesirable but inevitable situation.
-- Example: "C'est parti, on se voit dimanche, c'est la vie." (Let's go, we'll see you on Sunday, that's life.)
-## MBL
-- **Definition**: Internet slang, short for "mon barillet, la bible" (my bolt, the Bible), often used to refer to a valuable resource or information.
-- Example: "J'ai trouvé l'info sur ton projet, MBL!" (I found the info on your project, Bible!)
-## L'instant T
-- **Definition**: Term used to describe a critical moment or decisive point.
-- Example: "On va y aller, c'est l'instant T." (We're going, it's the decisive moment.)
-## Boulouris
-- **Definition**: A term of endearment, often used by grandparents or older relatives, meaning "apple of my eye".
-- Example: "Je vais chercher les boulouris, ils doivent être contents." (I'll go get the grandchildren, they'll be happy.)
-## Classe
-- **Definition**: An expression of approval or admiration, similar to saying "cool" or "awesome".
-- Example: "C'est classe de réussir à jouer les deux rôles." (It's awesome to have succeeded in playing two roles.)
+# French Slang Explained
+## 1. **Pute**
+- **French**: Irving (informel)
+- **English**: Sweetheart (informal)
+- **Explanation**: Used affectionately by men to address female friends or partners in a very friendly and tender way, similar to how "sweetheart" or "honey" might be used in English.
+## 2. **Con**
+- **French**: Con (informel)
+- **English**: Jerk (informal)
+- **Explanation**: A general term of insult, similar to "jerk" or "dude" in English. Used to express annoyance or disappointment.
+## 3. **Chuche**
+- **French**: Chuche (informel)
+- **English**: Shush (informal)
+- **Explanation**: Used to silence someone, similar to "shush" in English. It's a casual way to ask for silence or to stop talking.
+## 4. **Faux-Givré**
+- **French**: Faux-Givré (informel)
+- **English**: Poser (informal)
+- **Explanation**: Used to describe someone who appears to be out of touch or clueless, similar to "poser" (as in "race car") when used informally to mean someone is acting clueless or is out of touch with reality.
+## 5. **Cul**
+- **French**: Cul (informel)
+- **English**: Arse/Bum (informal)
+- **Explanation**: A crude term for the buttocks, equivalent to "arse" or "bum" in English. Frowned upon in formal contexts but very common in everyday, informal speech.
+## 6. **Merde**
+- **French**: Merde (informel)
+- **English**: Sh*t (informal)
+- **Explanation**: A strong term to express frustration or disappointment, similar to "sh*t" in English. Used in many contexts when something has gone wrong or for general frustration.
+## 7. **Tordu(e)**
+- **French**: Tordu(e) (informel)
+- **English**: Twisted (informal)
+- **Explanation**: Used to describe something or someone that is weird, twisted, or bizarre, similar to "twisted" in English.
+## 8. **Pute**
+- **French**: Pute (informel)
+- **English**: Whore (informal)
+- **Explanation**: Though derogatory, also used in a casual or street context. This term can be very offensive and should be used carefully.
+## 9. **G’s**
+- **French**: G’s (informel - street slang)
+- **English**: Bucks/Dough (informal - street slang)
+- **Explanation**: Used to refer to money, similar to "bucks" or "dough" in English. Common in street slang.
 ```
-These entries provide a brief explanation of each term and an example of how they might be used in a sentence.
+Feel free to explore how these terms are used in different contexts!

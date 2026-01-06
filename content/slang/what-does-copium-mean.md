@@ -1,18 +1,19 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2026-01-04
+date: 2026-01-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Copium (English)
-**Definition**: Copium is a playful, informal slang term often shortened from "coffee creamer," but it can also refer to a non-traditional substance or something that gives a similar high or stimulant effect, such as energy drinks or other concoctions. It's commonly used among friends or in casual settings to describe something that quickens thoughts or spirits.
-**Usage Example**: "Man, that copium helped me power through the afternoon meeting."
----
-## Copium (Chinese)
-**定义**: Copium 是一个playful（轻松的）非正式俚语，通常缩写自“咖啡伴侣”，但也可能指的是其他非传统物质或能产生类似兴奋或刺激效果的东西，如功能饮料或其他混合物。它常在朋友之间或非正式环境中使用，用来形容能提振思维或精神的东西。
-**使用示例**: “那copium真管用，帮我撑过了下午的会议。”
+# Copium (English)
+Copium is a slang term often used humorously or affectionately to refer to police officers. It's a playful twist on the word "cop," which is a common slang term for a police officer.
+## Example Usage
+- "Hey, didn't you see Copium on the corner? They have a new motorcycle this week!"
+# Copium (中文)
+Copium 是一个玩笑式的俚语，用来指代警察，是对常用俚语“cop”的戏谑。"cop" 是警察的常见俚语。
+## 示例用法
+- "嘿，你没看见今天的Copium在街角吗？他们这周换了一辆新摩托车！"
 ```

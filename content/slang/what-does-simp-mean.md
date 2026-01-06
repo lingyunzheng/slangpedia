@@ -1,18 +1,22 @@
 ---
 title: "What Does 'simp' Mean? (simp 是什么意思？)"
 slug: "what-does-simp-mean"
-date: 2026-01-04
+date: 2026-01-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Term: Simp
-## English Explanation
-**Simp**: A term often used in online communities or casual conversation to describe a man who is overly eager or excessive in his admiration or infatuation with women, to the point of being seen as undignified or uncool. A simp is often associated with showing inappropriate or excessive affection towards others, especially in romantic or social contexts.
-Example: "That guy is such a simp, always trying to impress girls with his material things and giving out his number too easily."
-## Chinese Explanation
-**西飘 (Xīpāo)**: 一个常用于网络社区或日常对话中的术语，用来形容一个过于热衷或过度迷恋女性的男人，以至于被视为不酷或不体面。西飘通常与表现出不适当或过度的亲昵有关，特别是在浪漫或社交场合。
-例句：这家伙真是个西飘，总是试图用他的物质财富来吸引女生，并且很容易就给人联系方式。
-```
+## Slang: Simp
+### English Explanation:
+A simp is someone who is overly obsessed with or infatuated with a specific person, especially someone admired for their physical appearance. Sims are often very starry-eyed and are willing to do almost anything to win the affection of their crush, ranging from buying them gifts to performing small but seemingly exaggerated gestures of affection. 
+Usage Example:
+- "Tom is such a simp for Lisa, he brings her flowers every single day just because she's his crush."
+### Chinese Explanation:
+“Simp” 是指对某个人（尤其是外貌吸引人的对象）有过度痴迷或单恋心态的人。Sims 对自己的 crush 有着非常浪漫的想法，愿意为了博取对方的喜欢而做许多事情，这些行为往往是夸张且表面化的。
+使用示例：
+- “Tom 对 Lisa 是一个典型的小蜜，每天都给她带鲜花只因为她是他的心仪对象。”
+---
+### Notes:
+Both definitions highlight the often one-sided and sometimes superficial nature of the relationship.

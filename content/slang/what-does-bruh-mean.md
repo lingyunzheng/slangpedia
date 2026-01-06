@@ -1,24 +1,22 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2026-01-05
+date: 2026-01-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Bruh (俚语解释)
-### 中文释义
-布鲁 (布鲁)
-### 英文释义
-Bro (Bro) 或者是用于强调惊讶、困惑、好奇等情感的一种表达方式，类似于中文中表达惊讶或无奈时使用的语气词。
-### 使用场景
-当某件事让人感到非常震惊、愚蠢或令人难以置信时，可以使用“bruh”来表达这种情感。
-例如：
-- 中文：这太离谱了，真是布鲁！
-- 英文：That's nuts, bruh!
-### 例句
-中文：小明把作业落在家里了，真是布鲁！
-英文：Xiao Ming forgot his homework at home, bruh!
+## Bruh
+### English
+**"Bruh"** is a versatile interjection often used as a substitute for "bro" or "man." It is commonly used to express a range of emotions such as agreement, surprise, or to lighten the mood. It can be used in both positive and negative contexts and is quite popular in casual, especially younger, communities.
+Example:
+- **"That movie was so bad, bruh!"**
+- This sentence conveys disappointment or even disbelief with the movie's quality.
+### 中文
+**“Bruh”** 是一个多功能的插入语，常用来代替“bro”或“man”。它被广泛用来表达同意、惊讶，或使气氛更轻松，适用于多种情感语境，并且特别在年轻人中非常流行。
+示例：
+- **“那部电影太烂了， Bruh！”**
+- 这句话表达了对这部电影质量的失望或惊讶。
 ```

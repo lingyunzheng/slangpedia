@@ -1,18 +1,21 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2026-01-02
+date: 2026-01-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Delusion Arc (Delusion 弧线)
-## English Explanation
-**Delusion Arc**: Often used in online gaming communities, especially in role-playing games or MOBAs, to describe an arc or path where a player believes they can consistently dominate or win, but in reality, they are making a wrong assumption. It can also refer to a sequence of actions a player takes that they believe will lead to a favorable outcome, but in reality, it's a trap or a false belief.
-Example: "Despite the newbie feeling he has an unfair advantage, his delusion arc of always winning kept him from adapting to the game's deeper mechanics."
-## Traditional Chinese Explanation
-**Delusion 弧线**: 常-used 在網Games 社群中，特別是在角色扮演Games或MOBA中，指玩家認為他們可以一路上都佔上風或獲勝，但事實上這是他們的錯覺或誤解。也可以指玩家所進行的一系列動作，他認為會帶給他有利的結果，但實際上這是個陷阱或一個虛假的臆測。
-例句：「雖然這個新玩家感覺自己有著不公平的優勢，但他行為上的delusion弧線— 始終相信自己會贏下去，使他未能適應遊戲的更深層機制。」
+## Delusion Arc 🌟
+**中文解释：**
+“delusion arc”是网络语言中的一个幽默表达，主要用于描述一个人虽然明知一件事情是错的或不可能的，但仍固执地坚持自己的看法，就像在弧度上的一个闭合错误，无论如何也无法回到正确的认知路径。
+**英文解释：**
+"Delusion arc" is a humorous internet slang often used to describe a situation where someone stubbornly holds onto an incorrect or impossible belief, akin to an arc that can't close itself as a metaphor for an unstoppable delusion. It refers to the persistence of false or irrational beliefs despite evidence to the contrary, with the "arc" symbolizing the path that remains perpetually incorrect.
+---
+Example Usage:
+- 中文例句：他屡次失败还是相信会有奇迹出现，这简直就是一个验证“delusion arc”概念的完美例子。
+- 英文例句：Despite multiple failures, he still believes in a miracle, making him a perfect example of a "delusion arc."
 ```
+This markdown format provides a clear and concise explanation of the slang term and includes examples of how it might be used in both Chinese and English contexts.

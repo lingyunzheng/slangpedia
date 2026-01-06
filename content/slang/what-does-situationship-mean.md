@@ -1,16 +1,17 @@
 ---
 title: "What Does 'situationship' Mean? (situationship 是什么意思？)"
 slug: "what-does-situationship-mean"
-date: 2026-01-04
+date: 2026-01-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Situationship (Situation + Relationship)
-**中文解释:**
-“situationship” 是一种网络流行语，用来形容两个在这方面或者那方面有关系，但是又不太明确，或者介于朋友和情侣之间的关系。这种关系可能是由于某种具体情况导致的，但并没有明确的发展方向。
-**English Explanation:**
-"Situationship" is a internet slang term used to describe a type of relationship that's not entirely clear or defined. It's typically between friends or acquaintances who have some form of romantic interest in one another, but the nature of their relationship is ambiguous. This term is often used to describe a scenario where the relationship's status is not clearly defined, such as when two people are drawn to each other but haven't fully committed to a romantic relationship.
+## 英文释义：Situationship
+**Definition:** A term primarily used in casual and online circles to describe a complicated relationship dynamic that’s somewhere between a romantic relationship and friendship. It’s characterized by feelings and actions that are neither fully committed nor completely platonic.
+**Example:** "Jessie and Alex started seeing each other, but it’s more of a situationship since they’re still unsure if they want to be exclusive or just friends with benefits."
+## 中文释义：situationship
+**定义：** 通常用于非正式和在线交流中，描述一种既非完全浪漫关系又非纯粹友谊的复杂关系动态。这种关系中往往有人与人之间存在的未明确表述的情感和行为。
+**示例：** “杰西和亚历克斯开始在一起了，但更像是一个 situationship，因为他们还在不确定是想要开始一段专一的关系还是继续保持朋友之间的利益关系。”
 ```
