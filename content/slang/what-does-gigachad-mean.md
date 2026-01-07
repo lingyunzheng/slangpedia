@@ -1,7 +1,7 @@
 ---
 title: "What Does 'gigachad' Mean? (gigachad 是什么意思？)"
 slug: "what-does-gigachad-mean"
-date: 2026-01-05
+date: 2026-01-07
 tags:
 - slang
 - internet
@@ -9,10 +9,11 @@ tags:
 ---
 ```markdown
 ## Gigachad
-**English:**  
-"**Gigachad**" is a term used to describe an extremely attractive, well-built, and idealized version of a male character. The word combines "giga" (meaning extremely large or vast) and "Chad," which is a slang term originating from the 2000s referring to an average, boring, and socially inept man. When you hear someone describe a guy as "gigachad," they are saying he is far from average and is the epitome of what one might consider extremely handsome or fit.
-**中文:**  
-"**Gigachad**" 是用来形容极其健美、非常吸引人且理想化了的男性角色的术语。这个词结合了"giga"（意味着极其庞大或广阔）和"Chad"，这个短语起源于2000年代，用来指代一个普通、无聊且社交能力不足的人。当有人说某个人是“gigachad”时，他们是在说这个人远超普通标准，是极其英俊或健美的人。
-> 示例：Jeremy definitely has the looks of a gigachad in the picture!
-> 示例：杰瑞米在照片里的确看起来像是个顶A的男人！
+### English
+"Gigachad" is a blended term combining "giga" (meaning extremely large or massive) and "Chad," which refers to a person known for having a particularly attractive, chiseled, and muscular physique. Originally used in internet culture, especially on Reddit, this term is often used to describe a person—usually male—who has an exceptionally high level of physical attractiveness and is perceived to exude confidence and masculinity.
+### Chinese
+"吉加恰德"（Gigachad）是 "giga"（表示非常大或非常惊人）和“Chad”（一个以特别吸引人、线条分明、肌肉发达的身材闻名的人）两个词的结合体。最初起源于互联网文化，尤其是在Reddit上。这个词汇通常用来描述一个非常有魅力、身材极佳、并且被认为充满自信和阳刚之气的人，尤其是男性。
+**例句**
+- **English:** He’s so fit, I swear I could reset Google Images with his profile.
+- **Chinese:** 他太有型了，我都怀疑可以用他的图片重置谷歌图片。
 ```

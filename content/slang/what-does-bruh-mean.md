@@ -1,22 +1,18 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2026-01-06
+date: 2026-01-07
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Bruh
-### English
-**"Bruh"** is a versatile interjection often used as a substitute for "bro" or "man." It is commonly used to express a range of emotions such as agreement, surprise, or to lighten the mood. It can be used in both positive and negative contexts and is quite popular in casual, especially younger, communities.
-Example:
-- **"That movie was so bad, bruh!"**
-- This sentence conveys disappointment or even disbelief with the movie's quality.
-### 中文
-**“Bruh”** 是一个多功能的插入语，常用来代替“bro”或“man”。它被广泛用来表达同意、惊讶，或使气氛更轻松，适用于多种情感语境，并且特别在年轻人中非常流行。
-示例：
-- **“那部电影太烂了， Bruh！”**
-- 这句话表达了对这部电影质量的失望或惊讶。
-```
+## Bruh (Brüü /  بربر )
+### English Explanation:
+"Brüü" is an Internet slang term often used to express surprise, frustration, or disbelief. It's similar to saying "Oh my God" or "What the heck!" It's often pronounced with a drawn-out "oo" sound, almost like "Brüü."
+### Example Usage:
+- "Brüü, that's a really cool shirt you got there!"
+- "Brüü, did you really eat the last cookie?"
+### Arabic Explanation:
+"بربر" (brübr) هو عدد من المصطلحات الإلكترونية التي تن Türkiye له صدى مع تحويل "bruh" إلى محاكاة لهجة издثر tiếng أمريكية. يستخدم غالبًا للتعبير عن الصدمة أو удивة أو OUTER安定状态

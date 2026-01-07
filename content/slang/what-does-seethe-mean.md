@@ -1,19 +1,21 @@
 ---
 title: "What Does 'seethe' Mean? (seethe 是什么意思？)"
 slug: "what-does-seethe-mean"
-date: 2026-01-06
+date: 2026-01-07
 tags:
 - slang
 - internet
 - tiktok
 ---
-Here's a markdown format with bilingual slang explanations for the term "seethe":
 ```markdown
-## Seethe
-### English
-**Meaning**: To seethe means to be resentful, angry, or annoyed, especially over a period of time. Often used when someone is feeling strong emotions internally and shows it through body language or continues to grumble.
-**Example**: "Ever since you lost the game, you've been seething at your teammate."
-### 芝麻糊 (zhī má hu)
-**Meaning**: 芝麻糊 (zhī má hu) is a slang term in Chinese that literally translates to "sesame paste." In the context of emotion, it's used to describe a person who is extremely angry or boiling with rage. It implies that the person is so angry that they are like hot sesame paste, which is warm and prone to leaking out.
-**Example**: "自从你输掉比赛后，你就像一锅芝麻糊，一直在家里闷着，生气得不行。" (Zhème zìrómín shì nǐ shù tuō bǐsài hòu, nǐ xiàng yì guō zhī má hu, zài yì jìngǐ mén zhe, āngsì dé bù xíng.)
+## 英文释义：Seethe
+**英文含义：**
+- To seethe means to be extremely annoyed or angry, often showing this anger by being silent or grim. It's like when you have a lot of boiling, unspoken anger inside you.
+**中文释义：**
+- " seethe " 意为"闷闷不乐地怨愤" 或 "愤怒得愠怒不已"。它形容你心里藏着许多无法宣之于口的愤怒，就像是心中有一股不断翻腾的怒火。
+**例句：**
+- **英文：** He was seething with anger when he left the office.
+- **中文：** 当他离开办公室时，怒气在他心中翻滚不已。
+- **英文：** She seethed quietly with frustration when no one listened to her.
+- **中文：** 当没人听她说话时，她低声闷闷地怨愤着。
 ```
