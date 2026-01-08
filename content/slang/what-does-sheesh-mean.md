@@ -1,27 +1,23 @@
 ---
 title: "What Does 'sheesh' Mean? (sheesh 是什么意思？)"
 slug: "what-does-sheesh-mean"
-date: 2026-01-06
+date: 2026-01-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Sheesh (English)
-**Definition:** An interjection expressing exasperation, disbelief, or disappointment.
-**Example Usage:** "Sheesh, this traffic is going nowhere fast!"
-**Bilingual Slang Explanation:**
-- **English:** An expression used when you’re frustrated or surprised.
-- **Simplified Chinese:** 哦哟 (ō yo) - 用于表达挫败感、惊讶或失望。
-**Chinese Context Example:**
-- **Original:** Sheesh, this traffic is going nowhere fast!
-- **Translation:** 哦哟，这交通简直慢得像蜗牛！
-** nghih (Malay)**
-- **Bilingual Slang Explanation:**
-- **English:** Similar to "sheesh," it can be used to express frustration or disbelief.
-- **Malay:** Seinga - Peribahasa atau ungkapan yang digunakan untuk mengekspresikan kemarahan atau ketakutan.
-**Malay Context Example:**
-- **Original:** Sheesh, this traffic is going nowhere fast!
-- **Translation:** Seinga, macam tu traffic rata-rata jalan aja!
+## Sheesh (English)
+### Explanation
+"Sheesh" is an interjection used to express dismay, disbelief, or annoyance. It's often used to convey that something is frustrating, ridiculous, or not to one's liking. 
+### Bilingual Example
+- English: "Sheesh, what's taking them so long?"
+- 中文: "唉，他们怎么还没来？"
+## 唉 (中文)
+### Explanation
+"唉" 是一个感叹词，用来表达失望、无奈或不耐烦。它通常用来表示某事令人沮丧，荒谬，或者不符合期望。
+### Bilingual Example
+- English: "Sheesh, what's taking them so long?"
+- 中文: "唉，他们怎么还没来？"
 ```

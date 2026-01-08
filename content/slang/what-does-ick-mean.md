@@ -1,16 +1,18 @@
 ---
 title: "What Does 'ick' Mean? (ick 是什么意思？)"
 slug: "what-does-ick-mean"
-date: 2026-01-04
+date: 2026-01-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### ick (英) / 呕 (中)
-**English Explanation:**
-"Ick" is a slang term used to express disgust or a sense of icky, unpleasant feeling. It can describe anything that makes you feel unclean, yucky, or gross. For example, when you see or experience something creepy, moldy, or simply not your preference, you might say "ick" to convey your unpleasant reaction.
-**Chinese Explanation:**
-"呕"（ōu）是一个俚语，用来表达厌恶或觉得不舒服的感觉。它可以用来形容任何让你感到不干净、恶心或不悦的东西。例如，当你看到或经历一些令人毛骨悚然、发霉的情况，或者只是你不喜欢的东西时，你可以用“呕”来表达你不舒服或反感的感受。
+## ick (ICK)
+### English
+**Definition:** A casual term used to express strong aversion or disgust, often in response to something physically unpleasant or morally objectionable.
+**Usage Example:** "The melting cheese on this pizza is just ick!"
+### 中文
+**释义:** 一个用来表达强烈厌恶或反感的俏皮用语，通常是对一些令人不适或道德上难以接受的事物作出反应时使用。
+**使用示例:** "这块披萨上融化的奶酪真是太让人觉得icky了！"
 ```

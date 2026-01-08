@@ -1,26 +1,30 @@
 ---
 title: "What Does 'slay' Mean? (slay 是什么意思？)"
 slug: "what-does-slay-mean"
-date: 2026-01-04
+date: 2026-01-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Slay (English)
-### Meaning
-To perform exceptionally well or impressively, often in a competitive or exciting situation. 
-### Usage Example
-- **English:** She totally slayed her presentation in front of the whole company.
-- **Bilingual:** 她在公司全体面前做的报告简直完美，完全slay了。（她完完全全地slay了她的报告。）
----
-## 咸鱼翻身 (Chinese)
-### Meaning
-Literally translates to "turning over as a dried fish," but is used to describe someone who, despite seemingly being in a bad situation, manages to make a turnaround or improvement.
-### Explanation
-This term is derived from the image of a dried fish (咸鱼) that has been out of the water and is practically lifeless. However, when it is properly prepared and returned to the water, it can still "turn over" and continue to live.
-### Usage Example
-- **Chinese:** 他从破产的边缘咸鱼翻身，重新开了一家成功的公司。
-- **Bilingual:** 他从破产边缘咸鱼翻身，重新开了一家成功的公司。（他从破产边缘成功翻身，重新开了一家成功的公司。）
+## Slay (英语)
+### English Explanation
+**Slay** is a slang term that is used to describe someone who is exceptionally good at something, usually implying they are dominating or impressively performing a task. It can also mean to kill or destroy, but in a violent context, it is often used humorously or to exaggerate the impact.
+### Chinese Explanation
+**Slay** 是一个俚语，用来描述某人在某件事情上表现得极其出色，通常意味着他们在这个任务上表现得非常出色或占优势。这个词也可以用来表示消灭或摧毁，在暴力的语境中，它通常被幽默地使用或用来夸大其影响。
+Example Usage:
+- She really **slayed** in the dance competition!
+- 她在舞蹈比赛中表现得简直太出色了！
+```
+```markdown
+## Slay (中文)
+### Chinese Explanation
+**Slay** 是一个俚语，用来描述某人在某件事情上表现得极其出色，通常意味着他们在这个任务上表现得非常出色或占优势。这个词也可以用来表示消灭或摧毁，在暴力的语境中，它通常被幽默地使用或用来夸大其影响。
+### English Explanation
+Slay is a slang term that is used to describe someone who is exceptionally good at something, usually implying they are dominating or impressively performing a task. It can also mean to kill or destroy, but in a violent context, it is often used humorously or to exaggerate the impact.
+Example Usage:
+- He really **slayed** in that speech!
+- 他在那个演讲中表现得简直太出色了！
+```
 ```

@@ -1,18 +1,16 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2026-01-01
+date: 2026-01-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sigma (σ)
-### English Slang Explanation
-- **Meaning**: Often used to describe someone or something that is consistently reliable or performs well every time, similar to how the Greek letter sigma in statistics represents standard deviation, implying a stable and predictable performance.
-- **Example**: "He's a sigma player in the team — always delivers when it matters."
-### Chinese Slang Explanation
-- **含义**: 经常用来形容一个人或某事始终可靠、表现稳定，就像在统计中用希腊字母sigma表示标准差，意味着稳定且可预测的表现。
-- **例句**: "他是个sigma级别的选手，在关键时刻总是能稳定发挥。"
+# Slang Explanation: Sigma
+## English
+**Sigma**: This term is often used in a technical context or among gamers and enthusiasts. Sigma can refer to the 19th letter of the Greek alphabet, but when used as a slang term, it usually refers to someone or something that is **dialed up** or **maxed out**. For instance, if someone says a gaming build or setup is "sigma," they mean it's fully optimized and performing at peak efficiency.
+## 中文
+** sigma**: 这个词通常用于技术或游戏爱好者等群体中。sigma 通常指希腊字母表中的第十八个字母，但在作为俚语时，它通常指的是某人或某事物已经被 **调校到极致** 或 **性能最优** 的状态。例如，如果有人说一个游戏设置或构建是“sigma”，那么他们意味着它已经被完全优化，性能达到最佳。
 ```

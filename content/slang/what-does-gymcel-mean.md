@@ -1,7 +1,7 @@
 ---
 title: "What Does 'gymcel' Mean? (gymcel 是什么意思？)"
 slug: "what-does-gymcel-mean"
-date: 2026-01-07
+date: 2026-01-08
 tags:
 - slang
 - internet
@@ -9,6 +9,12 @@ tags:
 ---
 ```markdown
 # Gymcel
-**English:** A gymcel is a descriptive term for someone who is overly obsessed with or preoccupied with working out at the gym, often to the point where it impacts their daily life and relationships. This term is a blend of "gym" and "zombie," highlighting the intense and sometimes mindless or zombie-like behavior of this individual. Gymcels often boast about their workout routines, constantly monitor their fitness progress, and prioritize physical fitness above other aspects of life. Their behavior can range from slightly obsessive to outright compulsive.
-**中文:** “gymcel” 是一个用来形容那些过度沉迷于健身房锻炼的人的描述性词，这种人可能会因为过于关注健身而影响到日常生活和人际关系。这个词汇结合了“健身房”和“僵尸”的意思，强调了这种人在行为上常常显得非常投入甚至有些木讷或“僵尸化”。gymcel 们常常炫耀自己的锻炼计划，不断监控自己的健身进展，并且把身体锻炼置于生活的其他方面之上。他们的行为可以从轻微的痴迷到完全的强迫症不等。
+## English
+**Gymcel**: A slang term often used to describe someone who exercises excessively, sometimes to the point of obsession. These individuals might spend an inordinate amount of time at the gym, neglecting other aspects of their life like work, social life, or personal relationships. They often adhere to strict workout regimens and meticulously track their progress. 
+Example:
+> "Since he started working out, John has become a real gymcel, always hitting the gym early in the morning and staying long after closing."
+## 中文
+**Gymcel**: 一个常用的网络俚语，用来形容那些过度锻炼的人，有时甚至到了痴迷的程度。这些人可能会花费大量时间在健身房，忽视了工作、社交或是个人关系。他们通常会严格遵守锻炼计划，仔细记录自己的进度。
+例句：
+> 自从开始锻炼，约翰就成了典型的gymcel，总是早上很早就去健身房，然后下班后还待得很晚。
 ```

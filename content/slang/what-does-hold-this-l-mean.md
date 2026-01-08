@@ -1,16 +1,19 @@
 ---
 title: "What Does 'hold this L' Mean? (hold this L 是什么意思？)"
 slug: "what-does-hold-this-l-mean"
-date: 2026-01-05
+date: 2026-01-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## "Hold this L"
-### English
-"Hold this L" is a slang phrase typically used to express frustration or sarcasm. It can be used in situations ranging from retail where the customer is annoyed by poor service, to gossip or conversation where someone is irritated by a situation or statement. It can also be used in a more playful or casual tone to emphasize disagreement or disappointment.
-### Chinese
-"Hold this L" 是一种俚语表达，通常用来表示沮丧或讽刺。它可以用于从零售业中顾客对服务不满意的场合，到话题或对话中对某个情况或陈述感到不满的各种场合。此外，它也可以在更轻松或随意的语气中使用，强调不同意或失望。
+# "Hold this L" (保持住，L)
+**English:**  
+"Hold this L" is an internet slang phrase that originated from gaming communities, most notably in video games like Call of Duty. It is often used when a player is requesting their teammates to hold their position or continue maintaining their current location, especially when facing an enemy line. The "L" in "L" is not related to the letter but rather a symbolic reference to a popular emote, which is usually a downward-facing palm gesture, similar to an "L" shape with the thumbs pointing down.  
+**Chinese (简体):**  
+"保持住，L" 是起源于游戏社区的一句网络流行语，最常见的是在像《使命召唤》这类游戏中。当玩家请求队友坚守当前位置或继续原地待命，尤其是在面对敌人时，会用到这句表达。这里的“L”并非字母，而是指向一种流行的打招呼姿势，类似于手掌向下形成一个“L”形，大拇指向下指。
+**Usage Examples:**  
+- English: "Just hold this line, guys. I'm rounding the corner."
+- Chinese (简体): "保持住当前的位置，兄弟们，我在拐角处埋伏。"
 ```

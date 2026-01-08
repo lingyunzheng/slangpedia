@@ -1,21 +1,16 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2026-01-06
+date: 2026-01-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Delusion Arc 🌟
-**中文解释：**
-“delusion arc”是网络语言中的一个幽默表达，主要用于描述一个人虽然明知一件事情是错的或不可能的，但仍固执地坚持自己的看法，就像在弧度上的一个闭合错误，无论如何也无法回到正确的认知路径。
-**英文解释：**
-"Delusion arc" is a humorous internet slang often used to describe a situation where someone stubbornly holds onto an incorrect or impossible belief, akin to an arc that can't close itself as a metaphor for an unstoppable delusion. It refers to the persistence of false or irrational beliefs despite evidence to the contrary, with the "arc" symbolizing the path that remains perpetually incorrect.
----
-Example Usage:
-- 中文例句：他屡次失败还是相信会有奇迹出现，这简直就是一个验证“delusion arc”概念的完美例子。
-- 英文例句：Despite multiple failures, he still believes in a miracle, making him a perfect example of a "delusion arc."
+## Delusion Arc - 幻想弧度 (Huàn xiǎng hú dù)
+### English:
+**Delusion arc** is a phrase often used to describe a period of time where a person is trapped in a false reality or self-deception. It implies a situation where someone is so deeply invested in an unrealistic or irrational belief system that they have difficulty distinguishing fact from fiction. This term can be applied to personal relationships, personal projects, or even larger societal contexts.
+### Chinese:
+**幻想弧度 (Huàn xiǎng hú dù)** 指的是一个人被某种虚假现实或自欺欺人的想法所困的时期。它暗示一个人深陷于不现实或不合理的信念体系中，以至于很难区分事实与幻想。这个词可以用于个人关系、个人项目，甚至是社会层面的大背景中。
 ```
-This markdown format provides a clear and concise explanation of the slang term and includes examples of how it might be used in both Chinese and English contexts.

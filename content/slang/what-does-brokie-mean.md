@@ -1,16 +1,18 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2026-01-06
+date: 2026-01-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Brookie (Slang)
-### English Explanation
-"Brookie" is a playful and informal term, often used as a playful nickname for someone named Brock, Brooke, or similar-sounding names. It's a way to add a friendly, casual touch to addressing or referring to a person.
-### Chinese Explanation
-"Brookie" 是一个轻松且非正式的称呼，常用来称呼名字为布鲁克（Brock）或布鲁克（Brooke）等类似发音的名字的人。它是一种友好的、随意的方式来称呼或提及某人。
+# Brokie
+## English
+"Brokie" is a casual and slightly mocking term often used to describe a man who is overly concerned with fashion, grooming, or appearance. It often connotes a level of shallowness or inadequacy in more serious contexts. Think of it as a more cutting version of "metrosexual" but with a stronger sense of mockery.
+Example Usage: "That guy is so brokie, always talking about the latest trends and how to style his hair perfectly."
+## 中文
+"Brokie" 是一个非正式且略带讽刺的术语，用于形容那些对个人时尚、美容或外表格外在意的男性。这个词在严肃的语境中通常带有不切实际或不够男子气概的意思。可以将其视为“metrosexual”（都会型男）的加强版讽刺版本。
+例句：那家伙真 brokie，总是谈论最新的时尚趋势和如何完美打理发型。
 ```
