@@ -1,20 +1,18 @@
 ---
 title: "What Does 'no cap' Mean? (no cap 是什么意思？)"
 slug: "what-does-no-cap-mean"
-date: 2026-01-08
+date: 2026-01-09
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## "No Cap" 📚
-### English 🇺🇸
-"No cap" is a slang phrase often used to assure someone that you are not exaggerating or lying. It means "I am telling the truth" or "You can trust me." 
-**Example:**  
-"I ate twelve donuts in one sitting no cap."
-### Chinese 🇨🇳
-“no cap” 是一个俚语短语，常用来保证你没有夸大或撒谎。它的意思是“我在说实话”或“你可以相信我”。 
-**例句：**  
-“我一口气吃了十二个甜甜圈no cap。”
+## "No Cap"
+### English
+- **Meaning**: To emphasize that something is true and genuine; to declare that one is not exaggerating or lying.
+- **Example**: "I actually won the lottery! No cap."
+### 中文
+- **含义**: 用来强调某事的真实性，表示自己没有夸张或撒谎。
+- **例句**：我中了彩票！No cap。（直译为中文：“我中了彩票！真的没夸张。”）
 ```

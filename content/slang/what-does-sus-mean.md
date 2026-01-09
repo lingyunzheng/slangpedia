@@ -1,27 +1,21 @@
 ---
 title: "What Does 'sus' Mean? (sus 是什么意思？)"
 slug: "what-does-sus-mean"
-date: 2026-01-08
+date: 2026-01-09
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## sus ( lệnh bài, literally "suspect" in English)
+## "Sus" in English and Chinese
 ### English
-**Meaning:** 
--疑神疑鬼 (Yíshén yíguǐ) - To doubt or suspect everyone or everything.
-- Suspicious behavior or someone who is not trustworthy.
-**Usage Example:**
-- "That guy at the party is sus. I don't know what he's up to."
-- "Her behavior has been so sus lately, I'm starting to get worried."
+**"Sus"** is a versatile slang term used mainly in internet forums, gaming communities, or social media platforms. It can mean several things:
+- **Doubtful/Suspicious**: When someone is being "sus" (suspicious), people are unsure or doubtful about their intentions.
+- **Funny**: Sometimes, the term is used in a lighthearted way to highlight something or someone that seems a bit off or quirky.
 ### Chinese
-**含义:** 
-- 疑神疑鬼 (疑神疑鬼, yíshén yíguǐ) - 怀疑一切或所有人。
-- 表示行为可疑或不值得信任的人。
-**使用示例:**
-- “派对上的那个家伙挺sus的，不知道他要做什么。”
-- “她最近的行为有点sus，我开始担心了。”
+"**Sus**"（可疑的）是一个主要在互联网论坛、游戏社区或社交媒体平台使用的俚语。它可以表示多个含义：
+- **可疑的**: 当某人被认为是"sus"（可疑的）时，人们对其意图表示怀疑或不确定。
+- **有趣的**: 有时，这个词以一种轻松的方式使用，用来突出一些看起来有点不合常理或滑稽的人或事。
 ```
-This explanation covers both the English and Chinese meanings and usages of "sus" or "嫌疑" (suspect). It also includes a referenced Chinese phrase to illustrate the concept.
+This markdown allows for a clear and easy-to-read comparison between the definitions of "sus" in both English and Chinese.

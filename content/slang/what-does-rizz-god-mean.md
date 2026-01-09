@@ -1,17 +1,20 @@
 ---
 title: "What Does 'rizz god' Mean? (rizz god 是什么意思？)"
 slug: "what-does-rizz-god-mean"
-date: 2026-01-04
+date: 2026-01-09
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Rizz God (英语: Rizz God)
-## Explanation:
-**中文解释:**
-"Rizz God" 是网络用语，"rizz" 源自于英语口语中表示“酷”或“社会地位高”的词汇，较为俚俗。"Rizz God" 可以翻译成“酷霸”或“炫酷之神”，形容一个人极其帅气、酷炫或具有一定社会地位和影响力的人物。通常用于称赞某个在特定场合或网络上具有极高吸引力、热衷于炫耀自己的人。
-**English Explanation:**
-"Rizz God" is internet slang derived from the English spoken language, where "rizz" means "cool" or "high social status," often considered more colloquial. "Rizz God" can be translated as "CoolKing" or "The God of Show," referring to someone who is exceptionally stylish, cool, or has a certain level of social influence and power. It is often used to praise someone who is extremely attractive or tends to show off in a particular setting or on the internet.
+# "Rizz God" - Bilingual Slang Explanation
+## English Explanation
+**Rizz God**: This term is often used to describe someone who exudes an effortless and confident air. The word "rizz" typically refers to a sense of swagger or coolness, and when combined with "god," it creates a compliment for someone who is so good-looking or cool that they seem almost divine or untouchable.
+## Chinese Explanation
+**Rizz God**: 这个词用来形容某个人散发着一种不易察觉的自信和酷感。"Rizz" 指的是一种 swagger 或酷劲，加上 "god" 则是对某人如此帅气或酷到几乎神一般的感觉的赞美。
+---
+Example Usage:
+- **English**: "He's a true rizz god, always walking with a confident and cool attitude."
+- **Chinese**: "他真是个 rizz god，总是带着自信且酷的态度行走。"
 ```

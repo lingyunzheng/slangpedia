@@ -1,19 +1,22 @@
 ---
 title: "What Does 'locked in' Mean? (locked in 是什么意思？)"
 slug: "what-does-locked-in-mean"
-date: 2026-01-07
+date: 2026-01-09
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English: Locked In
-### Chinese: 陷入其中 / 被套牢
-**Explanation:**
-- **English:** "Locked In" is a slang term often used to describe a situation where someone is trapped or committed to a course of action or a situation, usually unwillingly or ineffectively. It can refer to being unable to leave or exit a position, like being "locked in a box," or metaphorically being committed to a decision or situation without a way out.
-- **Chinese:** "陷入其中"或"被套牢"通常指的是一个人被某种情况或决定套牢，无法退出或改变。这个短语可以字面上指被困在一个地方，比如“被锁在一个盒子里”，也可以比喻性地指被某种决定或局面束缚，无法摆脱。
-### Examples:
-- **English:** "I got locked in this job because I have all my savings invested in the company stock. I can't just quit now."
-- **Chinese:** "我陷入了这份工作，因为我所有的积蓄都投资在这家公司的股票里。我现在不能随便辞职。”
+# Slang Term: "Locked In"
+## English
+**Meaning:** 
+To be firmly committed to a decision, plan, or situation from which it is difficult, if not impossible, to withdraw or change.
+**Example:**
+- "We're locked in with the new contract, so we can't back out now."
+## Chinese
+**含意:**
+指已经坚定地做出了决定、计划或陷入了某种状况，从中撤出或改变变得非常困难，甚至不可能。
+**例句:**
+- "我们签订了新合同，现在已经无法退出了。"
 ```

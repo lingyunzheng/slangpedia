@@ -1,7 +1,7 @@
 ---
 title: "What Does 'spill the tea' Mean? (spill the tea 是什么意思？)"
 slug: "what-does-spill-the-tea-mean"
-date: 2026-01-08
+date: 2026-01-09
 tags:
 - slang
 - internet
@@ -9,9 +9,8 @@ tags:
 ---
 ```markdown
 ## Spill the Tea
-**English:** To reveal insider information or gossip.
-** chinese slang:** 泄露_inside的秘密_ (xiè lù _-selector_.miào de)
-- **Explanation:** 当有人“泄露内幕信息”或八卦时，就像不小心“泄了茶”的味道一样，信息就被不小心透露出去了。这种表达通常用于描述无意中透露了不应该公开的秘密或私密信息。
-- **Example Usage:** "昨天她不小心把新产品的秘密泄露出去了，真是‘泄了茶’！"
-- 昨天她不小心把新产品的秘密泄露出去了，真是“泄露内幕信息”！
+### 中文解释
+“倒茶”通常指的是分享秘密或八卦信息，是一种比较口语化的表达方式，通常是私下里分享一些只有你知道的内部消息或个人动态。
+### 英文解释
+"Spill the tea" means to share secrets or gossip, which is a colloquial way of saying you're revealing insider information or personal updates that others might not be aware of. It's often used in a casual or informal setting.
 ```

@@ -1,20 +1,20 @@
 ---
 title: "What Does 'touch grass' Mean? (touch grass 是什么意思？)"
 slug: "what-does-touch-grass-mean"
-date: 2026-01-08
+date: 2026-01-09
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## "Touch Grass" 拾起草
-**English Slang Explanation:**
-"Touch grass" is an informal and often offensive phrase used to describe someone who has done something stupid or illegal, usually related to food poisoning or being hospitalized. It's commonly used when someone has made a poor decision, taken drugs, or got into some kind of mess that landed them in a hospital. 
-**Example Sentence:**
-"Remember that night at the party? Yeah, I touched grass big time. I don't know how I walked home."
-**Bilingual Chinese Explanation:**
-“Touch grass” 是一个非正式且通常带有冒犯性的俚语，用来形容一个人做了什么愚蠢或违法的事情，通常与食物中毒或入院有关。当某人做了糟糕的决定、服用毒品或陷入某种困境而需要住院时，就可能会说这句话。
-**例句：**
-记不记得那天晚上的派对？是的，我大举触了草。我不知道我是怎么走回家的。
+# "Touch grass" in English and Chinese
+## English: "Touch grass"
+- **Meaning:** When someone says "touch grass," it is a semi-formal idiomatic expression used to indicate that a person may need some time off from their current situation. It suggests that the person is contemplating quitting a job or drastically changing their life. This phrase is often used in a joking or semi-serious manner.
+**Example:**
+- "I'm so frustrated with my job, I'm thinking about touching grass. Maybe it's time for a change."
+## 中文: "触草"
+- **意思:** 当某人说“touch grass”时，这是一个半正式的短语，用来表示一个人可能需要从当前情况中抽身一些时间。这表示这个人正在考虑辞职或彻底改变自己的生活。通常这种说法是带玩笑性质或是半认真地说的。
+**例句:**
+- "我对我的工作感到如此沮丧，我正在考虑触草。也许是时候有所改变了。"
 ```
