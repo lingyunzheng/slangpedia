@@ -1,16 +1,19 @@
 ---
 title: "What Does 'chad' Mean? (chad 是什么意思？)"
 slug: "what-does-chad-mean"
-date: 2026-01-03
+date: 2026-01-10
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Chad (英汉双解俚语)
-**English:** Chad - This term is often used to describe a person who is seen as traditional, square, or uncool. It's frequently used in contexts where someone is considered out of touch with popular culture or fashion.
-**汉语:** chad - 这个词通常用来形容一个显得传统、方正或不酷的人。它经常用于描述那些被认为与流行文化或时尚脱节的人。
-Example Usage:
-- "I thought that Taylor was just a chad back in high school, but now look at him!" - “我以为泰勒高中时只是一个传统的人，但现在看看他吧！”
+# Chad
+**English:**  
+A term used to describe someone who is predictable, boring, or has a certain level of competence that is considered disappointing, especially in a context where someone is expected to be more attractive, talented, or stylish. It's often used to poke fun at someone who is too conservative or mainstream.
+**Simplified Chinese:**  
+一种用来形容某人无聊、乏味、或者在某个领域（尤其是时尚、技术等方面）表现平庸，令人失望的表达方式。通常用于嘲讽那些过于保守或跟风的人。
+**Traditional Chinese:**  
+一種用來形容某人無趣、乏味、或者在某個領域（特別是時尚、科技等方面）表現平庸，讓人失望的詞彙。通常用於嘲諷那些過於保守或跟風的人。
 ```
+This explanation provides a clear understanding of the term "chad" and its Chinese equivalent, along with context and usage.

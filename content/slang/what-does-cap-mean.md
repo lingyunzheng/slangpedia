@@ -1,20 +1,16 @@
 ---
 title: "What Does 'cap' Mean? (cap 是什么意思？)"
 slug: "what-does-cap-mean"
-date: 2025-12-29
+date: 2026-01-10
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Cap (英汉双解俚语)
-### English
-**Cap**: To lie or exaggerate in a way that is seen as intentionally over-the-top or not meant to be taken seriously. 
-Example: 
-- "He totally capped when he said he ran a mile in under 5 minutes."
-### 中文
-**Cap**: 一种故意夸张的说法或谎言，通常被认为不是认真地说的。
-例句：
-- “他完全是在拿大顶，说他一分钟内跑了英里远。”
+# Cap
+## English
+To cap something means to completely stop or limit it, often abruptly. For example, "The party was capped once the cops arrived." This term can also refer to making something the maximum amount or capacity, like "He really cap that joke, maxed out the laugh potential."
+## Chinese
+"Cap" 指的是完全停止或限制某事，通常是突然间。例如：“警察来了之后，派对就被叫停了。”这个词还可以表示使某事达到最大值或容量，比如：“他把那个笑话开到顶，达到了最大的笑点。”
 ```

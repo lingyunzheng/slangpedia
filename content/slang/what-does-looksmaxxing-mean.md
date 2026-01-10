@@ -1,16 +1,21 @@
 ---
 title: "What Does 'looksmaxxing' Mean? (looksmaxxing 是什么意思？)"
 slug: "what-does-looksmaxxing-mean"
-date: 2026-01-03
+date: 2026-01-10
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### 英文：looksmaxxing  
-#### 中文：颜值内卷  
-**Explanation:**  
-Looksmaxxing refers to the intense competition or conflict among individuals to appear more attractive or desirable, often seen on social media platforms. Participants go to great lengths to present themselves in the best possible light, enhancing their appearance through various means like makeup, photoshopping, or other cosmetic techniques. In the context of "颜值内卷" (zh задачa nijuan), it describes a situation where the pressure to increase attractiveness reaches a point where individuals are constantly trying to outdo each other, much like an internal competition. This term highlights the dynamic where social media users are competing to look their best, often leading to a cycle of increasing standards and efforts.
-In essence, looksmaxxing/颜值内卷 is about the constant striving to look better, often driven by the desire to stand out and be the most attractive in online and real-life social environments.
+# looksmaxxing
+## English
+"Looksmaxxing" is a blend of the words "looks" and "maxxing," which comes from the internet slang "maxxing" meaning to display something to its extreme or best form. When someone is "looksmaxxing," they are intentionally trying to present or highlight their appearance to the fullest extent, often in a way that emphasizes physical attractiveness. This could involve华丽的服饰 (luxurious clothing), 造作的姿态 (affected poses), or simply showing off one's looks in social media posts or in person.
+### Example
+- "She was so focused on looksmaxxing that she didn't even make eye contact with anyone in the room."
+## 中文
+"looksmaxxing" 是将“looks”（外观）和“maxxing”（最大化或展示到极致）这两个词结合在一起形成的网络用语。当某人“looksmaxxing”时，他们故意试图以最好的形式展示或凸显自己的外表，通常是为了突出自身的物理吸引力。这可能涉及华丽的服饰、做作的姿态，或者只是在社交媒体帖子或在现实生活中展示自己的外表。
+### 示例
+- “她如此专注于最大化自己的外表，以至于在房间里没有与任何人进行眼神交流。”
 ```
+This markdown format includes both English and Chinese explanations with examples.

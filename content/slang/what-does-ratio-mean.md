@@ -1,19 +1,24 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2026-01-08
+date: 2026-01-10
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Ratio (English-Chinese Slang)
-### English
-**Ratio**: This term is often used in social media contexts to express the comparison of something desirable (like beauty, wealth, or success) between two or more people. It's a playful way to make a slight at someone.
-**Example**: "The ratio on TikTok tonight is off the charts with Kim's dance skills to Jane's."
-### 中文
-**比基**: 这个词汇通常用于社交媒体中，用来描述两个或多个人之间某种令人羡慕的东西（如美貌、财富或成就）之间的对比情况。这是一种以一种轻松的方式对某人进行调侃。
-**示例**: "今晚的比基在网上达到了顶点，Kim 的舞蹈技能和Jane的相比简直差了一大截。"
+# Ratio (英中双语俚语解释)
+**English:** Ratio
+- **Definition:** A comparison of sizes or amounts.
+- **Bilingual Slang Explanation:**
+- 在说比拼、较量时使用的词。类似于比较两个事物之间的强弱对比或互动情况。
+- 例句：That guy always tries to bring up the ratio whenever we argue, he's such a toxic influence.
+- 译句：每当两人争吵时，这家伙总是提起这个“比拼”，他简直就是一剂毒药。
+**中文: 比率**
+- **定义：** 比较大小或数量。
+- **双语俚语解释：**
+- 常用来形容比拼、较量的词，类似于比较两个事物之间的强弱对比或互动情况。
+- 例句：每当两人争吵时，这家伙总是提起这个“比率”，他简直就是一剂毒药。
 ```
-Note: In the Chinese explanation, "比基" is the direct translation of "ratio" in this context. The term "比基" is used as a placeholder and should be further contextualized in Chinese-speaking culture for better understanding. The example sentence is provided to illustrate the usage in a social media context.
+In the above explanations, the term "ratio" is expanded to mean "比率" (bǐlǜ) in Chinese, and examples are given to illustrate its use in both English and Chinese contexts.
