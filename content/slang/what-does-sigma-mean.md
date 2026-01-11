@@ -1,16 +1,20 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2026-01-08
+date: 2026-01-11
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Explanation: Sigma
+# Sigma (σ)
 ## English
-**Sigma**: This term is often used in a technical context or among gamers and enthusiasts. Sigma can refer to the 19th letter of the Greek alphabet, but when used as a slang term, it usually refers to someone or something that is **dialed up** or **maxed out**. For instance, if someone says a gaming build or setup is "sigma," they mean it's fully optimized and performing at peak efficiency.
+**Definition:** Sigma often refers to a level of quality or performance, typically derived from the Greek letter σ (sigma) used in statistical process control.
+**Explanation:** In a broader context, especially in tech or gaming communities, "sigma" can be used to describe a player's or content creator's dedication and skill level, similar to how "ace" or "elite" might be used. 
+- **Example:** "She's a sigma player" – meaning she is exceptionally skilled.
 ## 中文
-** sigma**: 这个词通常用于技术或游戏爱好者等群体中。sigma 通常指希腊字母表中的第十八个字母，但在作为俚语时，它通常指的是某人或某事物已经被 **调校到极致** 或 **性能最优** 的状态。例如，如果有人说一个游戏设置或构建是“sigma”，那么他们意味着它已经被完全优化，性能达到最佳。
+**定义:** 西格玛（Sigma，σ）通常用来指代质量或性能水平，它来源于统计过程控制中使用的希腊字母 σ。
+**解释:** 在更广泛的语境下，特别是在科技或游戏社区中，“sigma”常常用来形容玩家或内容创作者的投入度和技能水平，类似于说“高手”或“精英”一样。
+- **例句:** "她是sigma级别的玩家" – 意味着她非常有才能。
 ```

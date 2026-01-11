@@ -1,21 +1,15 @@
 ---
 title: "What Does 'side questing' Mean? (side questing 是什么意思？)"
 slug: "what-does-side-questing-mean"
-date: 2026-01-04
+date: 2026-01-11
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Side Questing 🗺️📚
-**English:**  
-- _Side questing_ refers to taking on additional tasks or activities outside the main goals or objectives of a game, project, or work. These tasks are often optional and can help players or employees earn rewards, experience, or advancements beyond what the primary goals would offer.
-**Simplified Explanation:**  
-- It's like taking on extra chores or missions that aren't strictly required, but can help you gain more points or rewards.
-**Chinese:**  
-- "边角料任务" (biān jiǎo liào rèn wù) 指的是在游戏、项目或工作中完成额外的任务或活动。这些任务往往是可选的，可以让你在游戏中或工作中除了主要目标外，还能获得更多的奖励、经验和进步。
-**简化解释：**  
-- 就好像在你做主要工作之外，还多做了些额外的小任务，虽然不是必须的，但能让你获得更多的奖励或成就。
+## Side Questing
+- **中文解释**: 外传任务、边角料任务。通常指在游戏中除了主线任务之外，探索其他支线任务的行为。这些任务往往给玩家带来额外的奖励，如经验值、稀有装备等。
+- **英文化解**: Side questing refers to undertaking tasks or missions that are not part of the main storyline in games. These additional quests provide players with extra rewards such as experience points, rare gear, and other benefits. Side quests are often undertaken to fully explore the game world and enhance the player's in-game experience.
+Side questing can also extend beyond the gaming context, referring to pursuing smaller, secondary goals or activities that complement a larger project or main goal.
 ```
-This provides a clear and concise definition of "side questing" in both English and Chinese, alongside optional simplified explanations for better understanding.

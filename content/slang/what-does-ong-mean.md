@@ -1,20 +1,17 @@
 ---
 title: "What Does 'ong' Mean? (ong 是什么意思？)"
 slug: "what-does-ong-mean"
-date: 2026-01-07
+date: 2026-01-11
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Ong (Chinese: 哼 / 英文: Hum)
-**Chinese: 哼 (hěng)**  
-- **Explanation:** This term can be used to express annoyance, dislike, or disagreement. It's often said when someone doesn't want to give a proper response or is disapproving. It can be used both in spoken and written contexts, usually with a scoff or a nasal sound to emphasize the feeling.
-- **Example Usage in Chinese:** "你这想法太糟糕了，哼！" (Nǐ zhè xiǎngfǎ tài zhuāngcāo le, hěng!) — "Your idea is too terrible, hum!"
-**English: Hum**  
-- **Explanation:** In a similar context, "hum" can be used to convey a similar sentiment of disagreement, irritation, or a slight dismissal. It can be used to express that one is not impressed or simply does not want to engage further in a discussion.
-- **Example Usage in English:** "You think that's a good idea? Hum..." — "You think that's a good idea? Hum..."
----
-Both "ong" and "hum" are casual and informal ways to express irritation or disagreement, often shown through a sound or a brief phrase.
+# Ong (Chinese: 哥, pinyin: Gē)
+## English Slang Explanation
+- **Gentleman of the Street**: A term often used to refer to a charismatic and influential figure in a community or among a group of friends, especially in hip-hop文化圈子。这类人通常具备很高的个人魅力，并在自己的小圈子里具有很大的影响力。
+## Chinese Slang Explanation
+- **大哥 (Dà Gē)**: 在中文流行文化中，这个词汇通常用来指代一个具有领导能力和影响力的人。这些人往往在各自的小圈子中扮演着重要的角色，能够影响其他人的决策和行为。例如，在某些情况下，它用来形容在社交媒体或网络社区中具有较高影响力的人。
 ```
+This markdown format provides a clear and concise breakdown of the term "ong" or "哥" (Dà Gē) in both English and Chinese, with a brief explanation of its meaning and usage.
