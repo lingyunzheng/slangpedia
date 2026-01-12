@@ -1,22 +1,20 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2026-01-11
+date: 2026-01-12
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Ratio (English-Chinese Slang Explanation)
+# Slang Term: Ratio
 ## English
-**Ratio** is often used in online and social media contexts, particularly in gaming communities. It can refer to a form of public shaming where one user criticizes another in a way that emphasizes the negative aspects of the criticized person's actions or appearance. The phrase "good ratio" might mean someone is attractive or well-groomed, while "bad ratio" indicates the opposite.
-### Examples
-- "I saw their latest stream, and man, his ratio is through the roof today!"
-- "You look great in your new outfit! Your ratio is perfect."
+- **Meaning**: A comparison of something to another thing, often used to juxtapose good or bad behaviors or situations.
+- **Example**: "Did you see that vacay days message? Pure ratio, bro."
+- **Usage**: Typically used in social media discussions, often on platforms like TikTok, Instagram, and Reddit, to compare the number of supporters or reactions of something (like a post) to those of another.
 ## 中文
-**Ratio** 在网络和社交媒体的语境中，尤其是在游戏社区中常用。通常指一种公开羞辱的方式，通过强调被批评人行为或外貌的负面方面来进行批评。"好 ratio" 意味着某人很吸引人或打扮得很好，而 "坏 ratio" 则相反。
-### 例子
-- "我刚看了他们的直播，他的 ratio 今天可真是飙升了！"
-- "你穿新衣服的样子真帅，ratio 完美！"
+- **含义**: 一种对比，通常用于对比好与坏的行为或情况。
+- **例句**: "你看那条假期天数的消息，完全是来比较（炫耀）的，大哥。"
+- **用法**: 常见于社交平台上的讨论，如抖音、-instagram和reddit，用来比较某件事（如帖子）得到的支持或反应的数量与另一件事的数量之比。
 ```
