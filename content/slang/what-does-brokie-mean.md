@@ -1,18 +1,24 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2026-01-08
+date: 2026-01-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Brokie
-## English
-"Brokie" is a casual and slightly mocking term often used to describe a man who is overly concerned with fashion, grooming, or appearance. It often connotes a level of shallowness or inadequacy in more serious contexts. Think of it as a more cutting version of "metrosexual" but with a stronger sense of mockery.
-Example Usage: "That guy is so brokie, always talking about the latest trends and how to style his hair perfectly."
-## 中文
-"Brokie" 是一个非正式且略带讽刺的术语，用于形容那些对个人时尚、美容或外表格外在意的男性。这个词在严肃的语境中通常带有不切实际或不够男子气概的意思。可以将其视为“metrosexual”（都会型男）的加强版讽刺版本。
-例句：那家伙真 brokie，总是谈论最新的时尚趋势和如何完美打理发型。
+## Brokie (英语)
+### Explanation:
+"Brokie" is a slang term that combines "bro" (a casual, usually male friend) and "geek," often used to describe someone who is both a social peer and a tech-enthusiast or internet-savvy individual. This term is typically used in a positive light when referring to someone who is knowledgeable in科技领域，并且在社交媒体上活跃。例如：
+- 在中文语境中，"果子"（拼音：guǒzi）就是“brokie”的一种形象表达，意指那些既有社交手腕又对科技热衷的“果粉”或“极客”。
+### Example Usage:
+- In English: "That brokie over there has the best tech reviews on YouTube."
+- 在中文：那边那个“果子”在YouTube上的科技评测最好了。
+## Brokie (中文)
+### 解释：
+"Brokie" 是一个结合了 "bro"（一个通常是男性的朋友）和 "geek" 的俚语，通常用来描述那些既是社会上的同龄人又是对科技热心肠或互联网上有影响力的个人。这个词汇通常在描述那些在科技领域内富有知识且活跃在社交媒体上的朋友时使用。
+### 用例示例：
+- 在英文：“That brokie over there has the best tech reviews on YouTube.”
+- 在中文：“那边那个“果子”在YouTube上的科技评测最好了。”
 ```

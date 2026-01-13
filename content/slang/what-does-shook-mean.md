@@ -1,26 +1,22 @@
 ---
 title: "What Does 'shook' Mean? (shook 是什么意思？)"
 slug: "what-does-shook-mean"
-date: 2026-01-11
+date: 2026-01-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English: Shook
-### Definition
-- **Meaning**: Very upset or extremely impressed by something.
-- **Example**: "Man, when she announced she got engaged to her high school crush, I was totally shook!"
-- **Bilingual Explanation**: 砸了吧 / shakou le ba (Meaning: Completely shocked or emotionally upset, often in a good way when something unexpected and impressive happens)
-## English: Shook
-### Definition
-- **Meaning**: To make someone feel very upset or surprised.
-- **Example**: "When he found out he'd failed the test, his friend shook him up by confessing he knew the answers all along."
-- **Bilingual Explanation**: 让某人感到震惊或惊讶 / ràng mǒra rén gǎndào jīngzhēng huò gāoxìng jiào / shakou
-## English: Shook My World
-### Definition
-- **Meaning**: Something that has a big impact on someone, causing them to rethink their beliefs or world view.
-- **Example**: "Winning the lottery was literally shook my world, and now I'm thinking about quitting my job to travel the world."
-- **Bilingual Explanation**: 彻底改变我的世界观 / tèdī biāngǎi wǒ de shìjièguānzhāng / chetudi beigeng wode shijieguanzheng
+## Shook
+### English Explanation
+"Shook" is a slang term that emerged from Southern American English, and it is often used to express being deeply shaken up or shocked by something. It can convey a range of feelings, from shock to awe, excitement, or even a feeling of being scared or overwhelmed.
+### Example Usage
+- "I just heard about the earthquake; I'm totally shook!"
+- "She did an incredible performance, I'm shook!"
+### Chinese Explanation
+“Shook” 是一种源于美国南部英语的俚语，通常用来表示被某种事情深深震动或震惊，可以表达从震惊到惊叹、激动，甚至是害怕或惶恐等各种感受。
+### 例句
+- “我刚听说发生地震了，我都被震得getApplicationStatus(“shook”)了！”
+- “她的表演真是太棒了，我都震了getApplicationStatus(“shook”)！”
 ```

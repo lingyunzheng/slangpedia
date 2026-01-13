@@ -1,20 +1,16 @@
 ---
 title: "What Does 'deadass' Mean? (deadass 是什么意思？)"
 slug: "what-does-deadass-mean"
-date: 2026-01-09
+date: 2026-01-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## deadass
-**English:** cực đà oder dead-ass  
-**汉语:** 死板的、完全没有生气的
-用于形容某人或某事极其僵硬、毫无创意或非常单调、毫无趣味。也可以用来形容极度认真，以至于有点死板的感觉。
-Example:
-- English: He was deadass serious about winning the game.
-- 汉语: 他在赢得比赛这件事上极其认真，可以说是非常死板。
-- English: The party was as deadass boring as expected.
-- 汉语: 这个聚会如预期的那样毫无趣味，极其单调。
+# "Deadass" in English & Chinese
+## English
+**Deadass:** This is a slang term used to describe something that is completely real, genuine, or intense. It can also be used to emphasize the seriousness or directness of a situation. For example, "This party is deadass fun!" or "She is a deadass perfectionist."
+## 中文
+**死认真:** 这是一个俚语，用来表示某事物是完全真实、真诚或强烈的。它还可以用来强调情况的严肃性或直接性。例如，“派对非常死认真有趣！”或“她是个死认真追求完美的。”
 ```

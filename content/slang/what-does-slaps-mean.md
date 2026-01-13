@@ -1,19 +1,20 @@
 ---
 title: "What Does 'slaps' Mean? (slaps 是什么意思？)"
 slug: "what-does-slaps-mean"
-date: 2026-01-08
+date: 2026-01-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### **slaps**
-#### **English:**
-- **Meaning:** A quick striking motion with an open hand, often used as a form of discipline or as an expression of anger, disappointment, or annoyance.
-- **Example Sentence:** "Dude, you just got slapped for being so rude!"
-#### **Bilingual Slang Explanation:**
-- **英语含义:** 手掌快速击打的动作，通常用作惩戒手段或表达愤怒、失望或不满。
-- **例句:** "哥们儿，你刚才因为太粗鲁被扇了一个耳光！"
-- **注释:** 在中文里，“扇耳光”是表示用巴掌拍打脸的动作，通常作为负面情绪宣泄的一种方式。
+## 英文 slang: slaps / slappin' 
+### 中文 slang: 拍砖 / 抽风
+**Explanation:**
+- **slaps (slappin')**:
+In English, "slaps" or "slappin'" is often used to describe someone who is showing off or rubbing one's own success in others' faces in a boastful manner. This can be seen as someone who is flaunting their wealth, success, or achievements to impress or irritate others.
+- **拍砖 (pāi zhuān) / 抽风 (chōu fēng)**:
+- **拍砖 (pāi zhuān)**: Literally translates to "slap bricks." This term is used to describe someone who excessively praises or boasts about themselves, often in a self-centered and arrogant way. The phrase alludes to building a wall of praise for oneself, which is perceived as excessive or gratuitous.
+- **抽风 (chōu fēng)**: Literally means "having taken something cooling" or "going mad." In slang, it refers to someone who is being overly dramatic, exaggerated, or behaving in an erratic and inappropriate manner, similar to how one might "slap bricks" in English slang.
+Both slang terms convey a sense of excessive boasting or behavior that is seen as showy or annoying to others.
 ```

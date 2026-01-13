@@ -1,26 +1,20 @@
 ---
 title: "What Does 'based' Mean? (based 是什么意思？)"
 slug: "what-does-based-mean"
-date: 2026-01-12
+date: 2026-01-13
 tags:
 - slang
 - internet
 - tiktok
 ---
-Sure, here are bilingual slang explanations for the term "based" in Markdown format:
 ```markdown
-## Based
-- **English**: A slang term often used to describe someone or something that is very capable, adept, or admirable in a particular context.
-- **Simplified Chinese**: 一个常用的俚语，用来形容某人在特定情境下非常能干、熟练或值得称赞。
-- **Example Usage**:
-- **English**: She aced her exams – she's really based!
-- **Simplified Chinese**: 她考试得满分 – 她真的很能干！
----
-## 另一种用法
-- **English**: Sometimes, it can also mean that someone is engaging in behavior or activities that are seen as overly dramatic or out of touch with reality.
-- **Simplified Chinese**: 有时，这个词语也可以用来形容某人进行着过度戏剧化或脱离现实的行为或活动。
-- **Example Usage**:
-- **English**: Don't be so based about this small mistake.
-- **Simplified Chinese**: 对于这个小错误，别太入戏了。
+### Based (美国英语)
+- **含义**: 表示某人或某事非常酷、有才华或自信。
+- **Example**: He totally aced the interview and is so based!
+- **译为中文**: 真的面试表现得很有水准，真是太火了！或真有才！
+### 基莎（简体中文）
+- **含义**: 这个词在中文网络用语中用来表示某人非常有自信或者有优越感，有点类似于英文的 "arrogant"。
+- **Example**: 她真的好基莎，一看就是有点傲娇。
+- **译为英文**: She's really arrogant, it's clear she's a bit of a diva.
 ```
-This Markdown format allows for easy reading and formatting of the explanations.
+This markdown provides a bilingual explanation of the slang term "based" and its Chinese equivalent "基莎".

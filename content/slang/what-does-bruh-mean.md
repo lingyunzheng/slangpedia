@@ -1,20 +1,16 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2026-01-11
+date: 2026-01-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Bruh
-## English
-**Bruh**: An interjection used to express surprise, frustration, disbelief, or exasperation. It's often used casually and can be regarded as a more laid-back alternative to 'wow' or 'dude'.
-Example:
-- "Bruh, have you seen the traffic today? This is ridiculous!"
-## Chinese
-**布卢 (Bù lú)**: 用于表达惊讶、沮丧、难以置信或烦躁等情绪的感叹词。它通常是口语化的，可以被视为“哇”或“伙子”等词的非正式替代。
-例句：
-- "布卢，你今天看到的交通状况了吗？这简直让人受不了！"
+## Bruh (俚语解释)
+### 中文
+“Bruh”通常是用来表示惊讶、困惑或不满的情绪。它本是男性之间的俚语表达，但现已广泛使用，可以指任何人。
+### 英文
+"Bruh" is commonly used to express surprise, confusion, or dissatisfaction. Originally a term used among males, it is now widely used to refer to anyone, reflecting a casual and inclusive language style.
 ```

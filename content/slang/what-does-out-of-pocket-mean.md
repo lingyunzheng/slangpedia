@@ -1,18 +1,16 @@
 ---
 title: "What Does 'out of pocket' Mean? (out of pocket 是什么意思？)"
 slug: "what-does-out-of-pocket-mean"
-date: 2026-01-09
+date: 2026-01-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Out of Pocket
-## English
-**Out of Pocket**: This phrase is often used to describe expenses that you have to pay for yourself, rather than a company or another party covering the cost. It can be used in many contexts, such as fitness, travel, or simply any personal expenditure.
-*Example*: "If we want to go to that fancy restaurant, it's probably going to be out of pocket for me since we're not on a company expense account."
-## 中文
-**出 pocket**：这个短语通常用来描述你自己需要支付的费用，而不是公司或其他人来承担。它可以用于许多情境，比如健身、旅行或任何个人开销。
-*例句*：如果我们想去那家高档餐厅，恐怕得我自己出 pocket，因为我们不是在公款消费。
+## Out of Pocket
+### English
+**Out of Pocket:** This phrase is commonly used when something costs money that comes directly from your own pocket. It means you have to pay for something yourself. For example, if you buy coffee at a café and don’t have a student card discount, you might say, "I paid out of pocket."
+### 中文
+**出Pocket:** 这个词组常用于指某样东西需要你直接从自己的口袋里掏钱付。也就是说你需要自己掏腰包。例如，如果你在咖啡馆买咖啡而没有学生卡的优惠，你可能会说：“我花的是自己的钱，没有出Pocket给店家折扣。”
 ```
