@@ -1,21 +1,20 @@
 ---
 title: "What Does 'lowkey' Mean? (lowkey 是什么意思？)"
 slug: "what-does-lowkey-mean"
-date: 2026-01-13
+date: 2026-01-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Bilingual Slang Explanation: "Lowkey"
+## lowkey
 **English:**  
-- **Definition:** "Lowkey" is an informal term used to indicate that something is only marginally or moderately true, often specified in a secretive or hushed tone.
-- **Usage Example:** "Lowkey, that party was pretty boring."
-- **Simplified Explanation:** "Sort of" or "Kind of," implying something is slightly but not strongly true.
-**Chinese:**
-- **定义:** “Lowkey” 是一个非正式用语，用于表示某事只是稍微或中等程度上为真，通常是以秘密或低语的语气来说明。
-- **使用示例:** “Lowkey，那个派对挺无聊的。”
-- **简化解释:** “有点”或“大约”，意味着某事只是稍微但不强烈地为真。
+"Lowkey" is an informal adjective used to describe something or someone in a subtle or understated way. It's often used to talk about something that isn't the primary focus or is being done discreetly. For example, you might say, "She was lowkeycerying some cookies," meaning she was baking cookies in a quiet, unobtrusive way.
+**Simplified Chinese & Pinyin:**  
+"低key" (dī key)  
+"低key"用来描述某事或某人以微妙或低调的方式。它常用于谈论一些不是主要焦点的事情，或者以一种不引人注意的方式进行。例如，你可能会说："她低key地在烤饼干。"意思是非常安静、不引人注目地烤饼干。
+**Traditional Chinese & Pinyin:**  
+"低key" (dī key)  
+"低key"用來描述某事或某人以微妙或低调的方式。它常用于談論一些不是主要焦點的東西，或者以一種不引人注意的方式進行。例如，你可能會說："她低key地在烤餅乾。"意思是非常安靜、不引人注目地烤餅乾。
 ```
-This markdown format includes both the English and Chinese explanations for "lowkey," providing a clear and concise definition along with examples for each language.

@@ -1,21 +1,18 @@
 ---
 title: "What Does 'bet' Mean? (bet 是什么意思？)"
 slug: "what-does-bet-mean"
-date: 2026-01-12
+date: 2026-01-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Bet
-**English:** A wager or gamble, often made on the outcome of an event.
-**Chinese (Pinyin):** Dădān (dah-dahn)
-**Explanation:**
-In casual conversations, "bet" can be translated as "dădān." It is used when talking about making a verbal or written agreement to stake something of value (like money or a favor) on the outcome of a contest, game, or uncertain event. For example, if two friends are debating the outcome of a sports game, they might make a bet on who gets more details right about the game.
-Example:
-- English: "I bet you we win this game!"
-- Chinese: "我打赌我们会赢这场比赛！" (Wǒ dădān wǒ hái huì yíng zhè bǐ ji蔷 وبين的比赛！)
-**Note:** In some contexts, "bet" can also be used in a more colloquial sense, especially among younger people, to express something that is very sure or confident. For example, "I bet you're right!" can be expressed as "我肯定你对！" (Wǒ kěn dìng nǐ duì!).
+# Bet
+## English
+**Bet**: A wager or a stake in a contest or event. It can also mean to have confidence in a particular outcome, often colloquially meaning to assume or guess without being sure.
+Example: "I'm betting on team A to win the match."
+## 中文
+**Bet**: 一种赌博或在赛事中下注。也可以指对某个结果有十足把握，常常口语中表示猜测或假设。
+例句：我对A队赢得比赛很有信心。
 ```
-This markdown format provides a clear, structured explanation with commentary on usage and equivalent Chinese meaning.

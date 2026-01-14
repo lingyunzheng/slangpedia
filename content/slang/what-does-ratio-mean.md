@@ -1,19 +1,16 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2026-01-13
+date: 2026-01-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Ratio
-**English:**  
-Roughly equivalent to "balance" or "justice," "ratio" is often used to express satisfaction with a situation where one thing is deemed to be worth another. It's a way of saying "it's fair" or "that was a good trade."
-**Chinese:**  
-"Ratio"一词在非正式语境中常用来表达一种"公平"或者"值得"的感觉，类似于"平衡"或"正义"的概念。它通常用来表示“公平”或“这笔交易不错”。例如，如果某人赢得了比预期更多的报酬，朋友们可能会称赞说：“这很有ratio。”
-> Example:  
-> English: The new car is totally worth the money.  
-> Chinese: 这辆车完全值这个价，很有Ratio。
+## Ratio (English-Chinese Slang)
+- **Ratio (English)**: A measure used to compare the sizes or amounts of two things. Often used in social media contexts to express the feeling of injustice, competitiveness, or the comparison of personal attributes (e.g., looks, possessions) in a way that highlights a perceived superiority.
+- **中文解释 (Chinese Explanation)**: 比率，通常在网络用语中用来形容某人或某事与另一个某人或某事之间的一种比較。这种詞使用時常常帶有嫉妒、競爭或炫耀的意思，突出一方所具有的優越性。例如，在社交媒体上讨论谁更有优势时，会说我赢了你一整天，这就是在说你的某一方面不如我，以此来表明自己的优越感。
+- **Example in English**: "That new car he bought is just a way to show off his ratio."
+- **例句在中文**: "他买的新车只是用来炫耀他有多优越的一种方式。"
 ```

@@ -1,19 +1,18 @@
 ---
 title: "What Does 'lore' Mean? (lore 是什么意思？)"
 slug: "what-does-lore-mean"
-date: 2026-01-13
+date: 2026-01-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Lore (汉语：迷之背景)
-### English: Lore
-**Explanation:** *Lore* is a term used in gaming, fantasy, and sci-fi communities to refer to the backstory or deep background details that make up the mythology or history of a fictional world. It includes all the mythological, historical, and cultural elements that enrich the narrative and provide context to the characters and events within the story. Essentially, it’s the 'real' story that lies behind the perceived reality in a fictional universe.
-### 汉语解释：
-“迷之背景”是用来形容游戏、幻想和科幻社区中的虚构世界背后的故事情节和丰富背景。它涵盖了那些充实了叙述并为故事中的角色和事件提供了背景的文化、神话和历史元素。简而言之，这就是虚构宇宙里“真实”的故事，它隐藏在我们所感知的现实背后。
-### Example Usage:
-In the world of fantasy games, understanding *lore* helps players appreciate the intricacies of the game’s universe and engage more deeply with the stories and characters.
-在这个幻想游戏的世界里，理解“迷之背景”有助于玩家更好地欣赏游戏宇宙的细腻之处，并更深入地与故事情节和角色互动。
+## Lore (英 / 翻译)
+### English
+**Lore:**
+- _In essence, it's the collective knowledge or wisdom passed down within a community, group, or culture. It can refer to any type of information that has been accumulated over time, often tales, myths, historical events, or personal experiences. In a modern context, it can also refer to technical knowledge or insider information within a specific field or community._
+### 翻译
+**lore:**
+- _实质上，它是指在一个社群、团体或文化中流传下来的共同知识或智慧。它可以指在时间中积累起来的任何类型的信息，很多时候指的是传说、神话、历史事件或个人经历。在现代语境下，它也可以指特定领域或社群中的技术知识或内部信息._
 ```

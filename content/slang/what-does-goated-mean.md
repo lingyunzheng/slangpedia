@@ -1,19 +1,25 @@
 ---
 title: "What Does 'goated' Mean? (goated 是什么意思？)"
 slug: "what-does-goated-mean"
-date: 2026-01-13
+date: 2026-01-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Goated
-**English:**  
-"Goated" is a slang term that originated in hip-hop culture to describe something or someone as being CMON (crazy, monstrous, own, and noticeable). It implies that whatever is being referred to is at the top of its game, particularly impressive, and has a strong and undeniable presence.
-**Chinese:**  
-"goated" 这个网络俚语起源于嘻哈文化，用来描述某物或某人是极其出色、令人印象深刻的，通常带有‘壮观’、‘卓越’的含义。它暗示所指的事物处于顶尖水平，表现尤其惊人，并具有强烈的存在感。
-例句：  
-- English: She plays the guitar like she’s goated.
-- Chinese: 她弹吉他弹得像极了怪兽，棒极了。 (她弹吉他弹得如同"goated"一样出色。)
+## Goated (美式英语)
+### Chinese Explanation
+“Goated”是源自嘻哈文化中的俚语，用来形容某人或某事物在某个方面非常高超或卓越。这种表达方式通常用于形容一个人在特定领域的技能或表现极为出色，远超常人。
+### Example Sentences
+- 她在口才上的表现真是“goated”，每次演讲都能吸引很多人注意。（Her skills in public speaking are truly “goated,” and she can always attract a lot of attention with her speeches.）
+- 这支舞蹈团队的舞技真的是“goated”，太棒了！（This dance team's skills are truly “goated”! It's amazing!）
+---
+## 羊头（中式英语）
+### English Explanation
+“Goated” can be translated as "goat" in this context, which is a slang term used to describe someone or something that is considered to be the best or dominant in a particular area. This term originated in hip-hop culture and is often used to highlight an extraordinary level of skill or performance.
+### Example Sentences
+- She has "goated" in public speaking; every speech she gives is captivating. (She really "goated" in public speaking; every speech she gives is captivating.)
+- This dance team is "goated" in their performances; they are truly fantastic! (This dance team is "goated" in their performances; they are truly fantastic!)
 ```
+This markdown format provides a clear and concise breakdown of the slang term "goated" and its Chinese equivalent, including explanations and example sentences.
