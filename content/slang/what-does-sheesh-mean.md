@@ -1,17 +1,21 @@
 ---
 title: "What Does 'sheesh' Mean? (sheesh 是什么意思？)"
 slug: "what-does-sheesh-mean"
-date: 2026-01-14
+date: 2026-01-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sheesh (English)
-**Meaning:** An expression used to express disappointment, disgust, or frustration.
-**Usage Example:** "Sheesh, the traffic is so bad today!" - indicating frustration with the traffic conditions.
-## 哦我的戈 (Pinyin: Oh Wǒ De Gē, Chinese)
-**Meaning:** A colloquial expression used to convey disappointment, disgust, or mild frustration, similar to "sheesh."
-**Usage Example:** "哦我的戈，今天天气真糟糕！" (Oh Wǒ De Gē, jīntiān tiānqì zhēn zāobāo!) - indicating disappointment with the weather.
+## Sheesh (英式英语)
+### Explanation
+- **Meaning**: An exclamation that expresses disbelief, disappointment, or impatience.
+- **Usage**: Used when something is frustrating, unexpected, or of questionable quality.
+- **Example**: "Sheesh, this traffic is moving as slowly as a snail!"
+## Sheesh (美式英语)
+### Explanation
+- **Meaning**: Similar to "gosh" or "oh wow," it conveys a range of emotions from surprise to disgust.
+- **Usage**: Often used to express frustration, exasperation, or to indicate that something is absurd.
+- **Example**: "Sheesh, did you see the price of gas today? It's through the roof!"
 ```
