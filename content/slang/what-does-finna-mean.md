@@ -1,18 +1,20 @@
 ---
 title: "What Does 'finna' Mean? (finna 是什么意思？)"
 slug: "what-does-finna-mean"
-date: 2026-01-15
+date: 2026-01-16
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# "Finna" Explained in Bilingual Slang
-## English
-- **Definition**: A contraction of "fixin' to" or "fixin' to be", often used to indicate that something is about to happen or that someone is about to do something.
-- **Usage**: "I'm finna go to the store" (I am about to go to the store).
-## Spanish
-- **Definición**: Una contracción de "fixin' to" o "fisin' a ser", a menudo utilizada para indicar que algo está a punto de suceder o que alguien está a punto de hacer algo.
-- **Uso**: "Voy finna ir al mercado" (Estoy a punto de ir al mercado).
+## Finna
+### English
+**Finna**: An informal contraction of "fixin' to" which is used to indicate that someone is about to do something. Often used in Southern American English. 
+Example:
+- She's finna leave in five minutes. (She is about to leave in five minutes.)
+### 中文
+**Finna**: 一个非正式的缩略词，来源于“fixin’ to”，用来表示某人即将做某事，常用于美国南部的英语中。
+例句：
+- 她 finna 五分钟内离开。（她五分钟内就要离开了。）
 ```

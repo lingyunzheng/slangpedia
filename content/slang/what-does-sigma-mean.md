@@ -1,18 +1,16 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2026-01-13
+date: 2026-01-16
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sigma (σ)
+## Sigma
 ### English
-**Definition**: Sigma is often used colloquially, especially in tech circles and academia, to refer to a person who is highly skilled or knowledgeable in a specific field or area. It’s akin to saying someone is a "professional" or "expert" in their domain.
-**Example**: "He's a real sigma when it comes to quantum computing knowledge."
+**Sigma**: A term often used in computer science and mathematics, but in slang, it can refer to someone who likes to nitpick or find minor faults. It comes from the Greek letter σ, which is commonly used in statistics as a measure of variability. In the context of internet culture, it's often used to describe someone who is overly critical or who enjoys pointing out little errors.
 ### 中文
-**定义**: "sigma"在俚语中通常用来形容某人在某个特定领域非常熟练或具有深厚的知识，类似于称某人为“专家”或“专业人士”。
-**例句**: "他对于量子计算的了解真是个sigma级的水平。"
+**Sigma**: 常用于计算机科学和数学领域，但在网络用语中，它通常指喜欢挑毛病或关注细节的人。这个词汇来源于希腊字母σ，在统计学中常用来表示变异性。在互联网文化中，通常用来形容那些过于挑剔或者喜欢指出小错误的人。
 ```

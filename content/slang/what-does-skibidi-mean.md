@@ -1,15 +1,20 @@
 ---
 title: "What Does 'skibidi' Mean? (skibidi 是什么意思？)"
 slug: "what-does-skibidi-mean"
-date: 2026-01-15
+date: 2026-01-16
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Skibidi: A Bilingual Slang Explanation
-## In English
-**Skibidi**: A trendy onomatopoeic word that mimics the sound of something shaking or vibrating. Originated in pop culture, it's often used to describe a feeling of excitement or to exaggerate the intensity of an experience. For example, "I was skibidi hardcore at the party last night!"
-## En français
-**Skibidi**: Un mot onomatopée de mode qui imite le son de quelque chose qui tremble ou vibre. Originaire de la culture pop, il est souvent utilisé pour décrire un sentiment d'excitation ou pour exagérer l'intensité d'une expérience. Par exemple, "J'étais skibidi hardcore à la fête hier soir !"
+# Skibidi
+## English
+- **Meaning**: A high-energy and playful phrase that often accompanies a dance move or improvisational sequence, especially in club scenes or social settings.
+- **Origin**: The exact origin is debatable, but it has gained popularity in social media and dance contexts.
+- **Usage Example**: "Let's do the skibidi dance together!"
+## 中文
+- **意思**：这个词通常用来形容一种充满活力和趣味的词语或动作，尤其是在俱乐部或社交场合中用来伴随舞蹈动作或即兴表演。
+- **来源**：确切来源不明，但在社交媒体和舞蹈行业中广泛使用。
+- **用法示例**： "我们一起来跳skibidi舞蹈吧！"
+```
