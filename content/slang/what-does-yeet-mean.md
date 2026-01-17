@@ -1,18 +1,16 @@
 ---
 title: "What Does 'yeet' Mean? (yeet 是什么意思？)"
 slug: "what-does-yeet-mean"
-date: 2026-01-16
+date: 2026-01-17
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Yeet (英/American English | 中文/普通话)
-### 英/American English
-**Definition:** To throw something, often in a forceful or dismissive manner, or to metaphorically get rid of something. It can also be used to express satisfaction or excitement.
-**Example:** "I yeet this old phone and got a new one!"
-### 中文/普通话
-**释义：** 抛掷某物，常带有用力或断然的意思，也可以用来表达满足或兴奋。还可以用来形容果断抛弃某物。
-**例句：** "我yeet掉了这部旧手机，换了个新的！"
+# Yeet
+## English
+**Yeet**: This slang term typically conveys an action of throwing or dismissing something with force. It can be used to describe a literal act of physically throwing something away or a metaphorical act of rejecting or dismissing an idea or concept. It's often used on platforms like Reddit, Twitter, and in gaming communities to express a sense of enthusiasm or relief, especially when something undesirable is discarded.
+## 中文
+**Yeet**: 这个俚语通常用来形容用力扔或抛弃某物。它既可以指实际的物理行为（比如把某物扔掉），也可以比喻地表示拒绝或抛弃某个想法或概念。这个词常被用来表达一种兴奋或轻松的情绪，特别是在处理不想要的事物时。
 ```

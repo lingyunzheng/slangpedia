@@ -1,17 +1,17 @@
 ---
 title: "What Does 'troll' Mean? (troll 是什么意思？)"
 slug: "what-does-troll-mean"
-date: 2026-01-16
+date: 2026-01-17
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Troll
-**English:** A troll is a person who posts inflammatory, offensive, or irrelevant comments with the intent of provoking negative emotional responses and disrupting discussions. They often post comments that are often funny but with a twist that can be hurtful or misleading.
-**Bilingual Slang Explanation:**
-- **中文解释:** 恶搞者。指那些发布刺激负面情绪、引发争吵或扰乱讨论的人。他们常常发布的评论看似有趣却含有刺痛或误导的信息。
-- **例句:** Stop trolling in the comments; we're trying to have a serious discussion.  
-- **中文例句:** 别在评论里搞笑了，我们正在试图进行严肃的讨论。
+## Troll (.DrawString("龙套", "Troll"))
+In online gaming and social media, a **troll** is a person who deliberately posts inflammatory, rude, or off-topic messages in an Internet discussion group (chat room, forum, online game, etc.) with the intent of provoking other people into an emotional (and usually angry) response, or alternatively, of swimming upstream to find challenging situations to elevate their own mood from being in a bad one.
+### Chinese Explanation
+**龙套 (Lóngtào)**: 在网络游戏中和社会媒体论坛中，**龙套**是指那些故意发布具有挑衅性、粗鲁或无关主题的帖子在互联网讨论组（聊天室、论坛、在线游戏等）中的人。他们的目的是激怒其他用户产生情绪化的反应，或者找到具有挑战性的情境来提升他们自己的情绪。
+- In English: 
+- "A person who purposely posts inflammatory, rude, or off-topic messages in an Internet discussion group to provoke emotional responses or to engage in challenging scenarios to boost their mood."
 ```

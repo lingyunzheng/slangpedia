@@ -1,20 +1,20 @@
 ---
 title: "What Does 'lowkey' Mean? (lowkey 是什么意思？)"
 slug: "what-does-lowkey-mean"
-date: 2026-01-14
+date: 2026-01-17
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## lowkey
-**English:**  
-"Lowkey" is an informal adjective used to describe something or someone in a subtle or understated way. It's often used to talk about something that isn't the primary focus or is being done discreetly. For example, you might say, "She was lowkeycerying some cookies," meaning she was baking cookies in a quiet, unobtrusive way.
-**Simplified Chinese & Pinyin:**  
-"低key" (dī key)  
-"低key"用来描述某事或某人以微妙或低调的方式。它常用于谈论一些不是主要焦点的事情，或者以一种不引人注意的方式进行。例如，你可能会说："她低key地在烤饼干。"意思是非常安静、不引人注目地烤饼干。
-**Traditional Chinese & Pinyin:**  
-"低key" (dī key)  
-"低key"用來描述某事或某人以微妙或低调的方式。它常用于談論一些不是主要焦點的東西，或者以一種不引人注意的方式進行。例如，你可能會說："她低key地在烤餅乾。"意思是非常安靜、不引人注目地烤餅乾。
+#低key (Lowkey)
+**英语:** Lowkey
+**解释:** This slang term is often used to describe something that is done or said in a subtle or quiet way. It can also imply that something is not a big deal, or that it's something you might only briefly think or discuss.
+**例句:** 
+- 英语: I was lowkey impressed by how much they knew about the subject.
+- 中文: 我低key被他们的知识水平给震撼到了。
+- 英语: He lowkey dropped some knowledge during the conversation.
+- 中文: 他低key在聊天时分享了一些知识。
 ```
+In this context, "lowkey" in both English and Chinese indicates a subtle or understated action or statement.

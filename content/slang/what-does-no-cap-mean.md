@@ -1,21 +1,18 @@
 ---
 title: "What Does 'no cap' Mean? (no cap 是什么意思？)"
 slug: "what-does-no-cap-mean"
-date: 2026-01-16
+date: 2026-01-17
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Bilingual Slang Explanation: "No Cap"
-**English:**  
-"No cap" is an internet slang phrase used to denote that what is being said is true or is not exaggerated. It functions as a way to emphasize the authenticity of a statement. For example, if someone says, "I just won a million dollars!" and another responds with "No cap," they are affirming that the statement is genuine and not exaggerated.
-**Chinese:**  
-"没有开玩刷"（Mò yǒu kāi wánshuā）是指某人说的话是真实的，并且不是夸张的说法。它用于强调某事的真实性。例如，如果有人说：“我刚刚赢得了100万！”另一个人回复：“没有开玩刷”，他们是在确认这个说法是真实的，而不是在夸张。
-**Usage Example:**
-- English: "I just ran 10 miles in the marathon and got first place!"
-- Chinese: "我在马拉松中跑了10英里并且获得了第一名！"
-- English response: "No cap."
-- Chinese response: "没有开玩刷。"
+## No Cap 🎟️
+### English Explanation:
+"No cap" is a slang phrase commonly used to indicate that something is genuine or true. It suggests that the speaker is not exaggerating or lying about what they are saying. Essentially, it means "don't take me for granted" or "believe me." For example:
+- **Usage Example:** "I ran a mile in under 5 minutes." "No cap, I did it."
+### Chinese Explanation:
+"No cap" 没罩（méi zhao）通常用来说明某事是真实的或认真的，表示说话者没有夸大或撒谎。它相当于说“别装”或“相信我”。例如：
+- **使用示例：** “我用不到5分钟跑了一英里。”“没罩，我做到了。”
 ```
