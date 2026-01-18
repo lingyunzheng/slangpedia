@@ -1,21 +1,16 @@
 ---
 title: "What Does 'side questing' Mean? (side questing 是什么意思？)"
 slug: "what-does-side-questing-mean"
-date: 2026-01-15
+date: 2026-01-18
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Chinese Slang Explanation: 偏门任务 (Piān mén rèn wù)
-### English Slang Explanation: Side Questing
-**Definition:**
-- **Side Questing**: Refers to the collection of small, often optional or supplementary tasks in games, which are separate from the main storyline but can offer additional experience points, items, or story content.
-**Usage Example in Chinese:**
-- 在《巫师3：狂猎》中，玩家可以接受各种偏门任务，这些任务解锁了更多的背景故事和角色发展机会。
-- Translation: In *The Witcher 3: Wild Hunt*, you can take on all sorts of side quests, which unlock more background stories and character development opportunities.
-**Context:**
-- Similar to "side quests," the Chinese term 偏门任务 is often used in the context of video games, where it conveys the idea of exploring additional content that is not part of the main game narrative but can enhance the overall experience.
+# Side Questing
+## English Explanation
+"Side questing" refers to engaging in tasks or activities that are not the main objective or storyline, but rather additional missions or undertakings. This is most commonly used in the context of video games where players take on extra challenges for rewards. The term reflects a more casual and flexible approach to gameplay, allowing for deeper immersion and additional content exploration.
+## 中文解释
+"侧翼任务" 或 "支线任务" 指的是一些不属于主要剧情或目标的任务或活动。这个词最常见于视频游戏的语境中，指的是玩家在主任务之外接受额外的所有任务以获得奖励。这个词反映了游戏玩法上更加轻松和灵活的态度，不仅能让玩家沉浸在游戏世界中，还能探索更多的游戏内容。
 ```
-This markdown provides a clear explanation of the term "side questing" and its Chinese analogy, complete with an example and context.

@@ -1,18 +1,20 @@
 ---
 title: "What Does 'touch grass' Mean? (touch grass 是什么意思？)"
 slug: "what-does-touch-grass-mean"
-date: 2026-01-11
+date: 2026-01-18
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Touch Grass
-### English
-- **Definition**: An expression typically used to encourage someone to reconsider their stance or opinion, often implying that their current thoughts are misguided or foolish.
-- **Example**: "You're going to donate all your money to that charity? Touch grass, buddy. You need to do your research."
-### 中文
-- **释义**：通常用来鼓励某人重新考虑他们的立场或观点，往往意味着他们当前的想法是错误的或愚蠢的。
-- **例句**："你要把所有的钱都捐给那个慈善机构？去碰草吧，兄弟，你需要做一下调查。"
+## English: Touch Grass
+### Bilingual Explanation:
+**触草 (Chù Cǎo)**
+- **Definition:** A phrase used as a euphemism to express that someone has died. It often implies that the person is no longer around, similar to "touching grass" meaning they are dead.
+- **Usage Example:** 
+- English: "I heard John touched grass last week. He won't be coming back to work."
+- 中文：我听说约翰上周触草了，他不会再来上班了。
+- **Context:** This slang is typically used in informal settings, especially among younger people or within subcultures, and should be used carefully as it can be insensitive to some people.
 ```
+This markdown structure provides a clear and concise bilingual explanation of the slang phrase "touch grass" and its equivalent in Chinese.
