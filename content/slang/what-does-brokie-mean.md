@@ -1,15 +1,16 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2026-01-17
+date: 2026-01-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Brokie (English)
-**Brokie** is a slang term derived from "broken" and "pride." It describes someone who is full of themselves or overly confident to the point of being unpleasant or arrogant. It can also refer to someone who thinks they are better than others, often without justification.
-### 中文释义
-**Brokie** 这个网络用语来源于“broken”（破掉）和“pride”（傲慢）。它用来形容自视甚高或过分自信到令人感到不悦或傲慢的人。有时也指自以为比他人更优秀，但这种优越感往往是没有理由的。
+## Brokie (Slang)
+### English
+**Brokie:** A term used to describe a male who is seen as quite basic or not having very many interesting personality traits or social skills. Someone who is considered unexciting, ordinary, or non-confrontational in a social environment.
+### Chinese
+**Brokie (直男):** 用来形容一个男性缺乏有趣的个性特征或社交技巧，被认为很普通、无趣或者在社交环境中不具挑战性。即直男，指行为和思维较为传统、单一，在社交场合中可能显得不太有趣或缺乏吸引力的男性。
 ```

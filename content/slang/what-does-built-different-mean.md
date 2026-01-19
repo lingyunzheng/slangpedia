@@ -1,21 +1,18 @@
 ---
 title: "What Does 'built different' Mean? (built different 是什么意思？)"
 slug: "what-does-built-different-mean"
-date: 2026-01-15
+date: 2026-01-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Built Different
-**English:**  
-"Built different" is a slang phrase often used to describe someone who is perceived as having a unique or unconventional physical appearance or personality. This implies that the person stands out from the crowd in a noticeable way, perhaps in a way that draws attention or admiration.
-**Chinese (翻译):**  
-"built different" 是一种俚语表达，常用来形容某人被认为具有独特的或不具常规性的外貌或性格。这表示这个人从众不同，通常以一种引人注目或令人佩服的方式脱颖而出。
-**Example:**
-- "He's built different, with a shaved head and piercings everywhere."  
-- "他剃了个光头，满身穿的都是穿孔，完全是built different的样子。"
-**中文示例：**
-- "他剃了个光头，满身都是穿孔，真是built different。"
+# "Built Different" (Bilingual Slang Explanation)
+## English Explanation
+- **Meaning**: Refers to someone or something that is unique, unconventional, or stands out from the norm. It highlights qualities like a distinctive personality, different physical attributes, or distinct life experiences that make someone special or original.
+- **Example Usage**: "He's built different, with his colorful tattooed skin and piercings, he just looks like no one else I've seen."
+## Chinese Explanation
+- **意思**: 指某人或某物是独一无二的、不循常规的，或者与众不同的。这突出了独特的个性、与众不同的外貌特征或不同的人生经历，让人显得特别或是独一无二。
+- **例句**: "他的身上有五颜六色的文身，带着一些穿孔，看起来完全是一个与众不同的家伙。"
 ```
