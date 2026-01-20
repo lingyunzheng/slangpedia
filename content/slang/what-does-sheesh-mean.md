@@ -1,17 +1,17 @@
 ---
 title: "What Does 'sheesh' Mean? (sheesh 是什么意思？)"
 slug: "what-does-sheesh-mean"
-date: 2026-01-17
+date: 2026-01-20
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Sheesh (英): 
-**Meaning:** Used to express disappointment, frustration, or exasperation.
-- **Example:** "Sheesh, why did you do that again?"
-# 哦我的天 (中): 
-**Meaning:** 用于表达失望、沮丧或烦躁的情绪，类似于“哎呀”、“我的天”。
-- **Example:** "哦我的天，你又那样做了！"
+# Sheesh (英 / 美)
+**English:** An interjection used to express feelings like annoyance, disappointment, or disbelief. It can also express mild frustration or exasperation.
+**美:** 一个感叹词，用来表达不满、失望或难以置信等情绪。也可以表示轻微的挫败或无奈。
+例句:
+- English: "Sheesh, why did he do that?" (哎呀，他竟然这样做了！)
+- 美: "她esh，他竟然这样做了！"
 ```

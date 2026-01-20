@@ -1,18 +1,16 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2026-01-13
+date: 2026-01-20
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Copium ( slang, English )
-**Definition:** A made-up term, likely a combination of "coffee" and "amp," which suggests a highly energizing or intoxicating effect similar to a strong caffeine boost.
-**Example Usage:** "Man, that copium really picked me up this morning before the big meeting. I couldn't believe how much energy I had!"
----
-## Copium ( slang, Chinese )
-**定义：** 一个虚构的词，可能是“咖啡”和“药剂”（“amp”）的组合，暗示一种强烈的提神或令人上瘾的效果，类似于强烈的咖啡因刺激。
-**示例用法：** “天啊，早上喝那个copium真的让我在重要的会议前活力满满。我简直不敢相信自己有了这么多能量！”
+# Copium (俚语解释)
+**英语解释：**
+"Copium" is a humorous slang term that combines "cop" (short for "police officer") and "potion." It's used to jokingly describe a magical or chemically altered substance that makes a cop more efficient, powerful, or invincible. In essence, it's a fictional substance that enhances a cop's abilities beyond human limits in a whimsical or comedic context.
+**中文解释：**
+"Copium" 是一个幽默的俚语，融合了"cop"（警察）和"potion"（药剂）的意思。通常用来开玩笑地说某种神奇或化学合成的物质，可以让警察变得更有效率、更强大或无敌。本质上，这是一种虚构的物质，在超现实或幽默的情境下能够超越人类极限，增强警察的能力。
 ```

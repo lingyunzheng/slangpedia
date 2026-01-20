@@ -1,22 +1,18 @@
 ---
 title: "What Does 'grindset' Mean? (grindset 是什么意思？)"
 slug: "what-does-grindset-mean"
-date: 2026-01-18
+date: 2026-01-20
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Grindset (English/Chinese)
-**Definition:**
-- **English:** A mindset or lifestyle characterized by a strong focus on working hard, often at the expense of leisure, to achieve a goal or maintain a competitive edge.
-- **Chinese:** 专注努力的生活方式或心态，通常指的是为了达到目标或保持竞争地位而勤奋工作，甚至牺牲休闲时间。
-**Examples:**
-- **English:** "Ever since she started her tech startup, she's been in a full grindset, working tirelessly to make her vision a reality."
-- **Chinese:** "自从她开始创业以来，她一直处在满负荷工作的状态，为了实现自己的愿景而夜以继日地努力。”
-**Usage Tips:**
-- When you're deeply committed to a project or goal, and you're continuously working to improve and succeed, you're in a grindset.
-- It's often used in contexts where there's a high demand for time and energy, such as in startups, sports, or creative industries.
+# Grindset ( Grinder )
+## English
+**Grindset**: A mindset or approach focused on consistently putting in hard work and effort, usually to achieve a specific goal. People with a strong grindset are often dedicated and willing to sacrifice their free time for their ambitions.
+*Example*: "John has a serious grindset when it comes to his startup. He never takes a day off and is always looking for new ways to advance his business."
+## Chinese
+**Grindset**: 强烈的奋斗心态或努力方式，通常是指为了达到某个具体目标而持续投入大量时间和精力。拥有强烈 grindset 的人往往很有决心，愿意为了自己的抱负牺牲闲暇时间。
+*例句*: "约翰对自己的初创企业有着强烈的奋斗心态。他从不休息，总是在寻找新的方法来推动他的事业进步。"
 ```
-This markdown format makes it easy to read and understand the meaning and usage of the term "grindset" in both English and Chinese.
