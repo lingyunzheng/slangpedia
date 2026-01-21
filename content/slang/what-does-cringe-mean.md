@@ -1,21 +1,18 @@
 ---
 title: "What Does 'cringe' Mean? (cringe 是什么意思？)"
 slug: "what-does-cringe-mean"
-date: 2026-01-18
+date: 2026-01-21
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Cringe (English-Spanish)
-**Cringe (English):** An adjective or verb used to express a strong sense of embarrassment, awkwardness, or a situation that is so bad that it is almost amusing because of its ridiculousness.
-** Versions in Spanish:**
-- **"Fleca" (Colombia, Argentina, Uruguay, Bolivia, Chile):** Used similarly to "cringe" in English, to describe something or someone that is embarrassing or ridiculous.
-- **"Mierda" (General Spanish):** While more blunt, it can be used to express that something is cringe-worthy, especially when in a dramatic context.
-- **"Ligote" (Spain):** Another term that can be used in a similar manner to "cringe," particularly in social media contexts.
-**Example Usage:**
-- _English:_ That joke was so bad, it was cringe.
-- _Spanish (Colombia):_ ¡Ese chiste fue tan malo, que fue una fleca!
-- _Spanish (Spain):_ ¡Ese chiste fue tan malo, que fue un ligote!
+## Cringe (英) vs 作呕 (中)
+**Cringe (英):**
+- **Definition:** A term used to describe something or someone that is extremely awkward, embarrassing, or conspicuous. It often implies that the subject is so bad or offensively bad that the observer feels physical discomfort or an urge to recoil.
+- **Example Sentence:** "The way he danced to that song was so cringe, I couldn't look."
+**作呕 (中):**
+- **Definition:** 用于描述让人感到极其尴尬、尴尬到想呕吐或者是极其不合适的言语或行为。这个词经常用来表示某件事或某人的表现如此糟糕或如此糟糕到令人发指，以至于观众会感到不适或想要避开。
+- **例句:** "他跳的那种舞真是作呕，我都快看不下去了。"
 ```

@@ -1,22 +1,16 @@
 ---
 title: "What Does 'gyatt' Mean? (gyatt 是什么意思？)"
 slug: "what-does-gyatt-mean"
-date: 2026-01-19
+date: 2026-01-21
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Gyatt (马来西亚-中文双语街头俚语解释)
-**马来西亚:** 老哥，兄弟
-**中文:** 老哥，兄弟
-**解释:**
-- **Gyatt**: 是马来西亚尤其是吉隆坡和槟城地区年轻人常用的俚语，常用来表示“老哥”、“兄弟”。在街头聊天或网络交流中，使用这个词语可以显得更加亲切和随意。
-例如：
-- **马来西亚**: Che gyatt, kita ke mana hari ni?
-- **中文**: 老哥，今天去哪儿玩？
-- **马来西亚**: Hee, gyatt, sayang ni.
-- **中文**: 哦，老哥，你真好。
+## Gyatt (拼音: guay4)
+### 中文解释
+“gyatt” 是一套源自网络的广东话网络流行语，通常是用于形容某事物非常差、糟糕透顶的意思。这个词一般是轻松幽默地用来批评或是开玩笑的。在具体语境中，可以翻译为“垃圾”、“很烂”等。
+### 英文解释
+"Gyatt" is a term from internet Cantonese slang, used to describe something extremely bad or terrible. This term is generally used in a lighthearted or playful manner, either to criticize or to joke around. In specific contexts, it can be translated as "trash," "terrible," or "very poor quality."
 ```
-This provides the phonetic translation and a simple explanation of the term in both languages, alongside sample usage to help understand how the term is used in context.

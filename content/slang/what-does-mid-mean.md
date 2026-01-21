@@ -1,18 +1,15 @@
 ---
 title: "What Does 'mid' Mean? (mid 是什么意思？)"
 slug: "what-does-mid-mean"
-date: 2026-01-18
+date: 2026-01-21
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## mid (英 /mid/ 美 /mɪd/)
-### English
-**Meaning:** Middle or middle part. Often used in video games or streaming contexts to refer to players or content in the middle tier.
-**Example:** "He's really a mid player, not top but still gets the job done."
-### 中文
-**含义:** 中间或中间部分。常用于游戏或直播上下文，指表现处于中游级别的玩家或内容。
-**示例:** "他算是个 mid 玩家，不算顶级但也够用了。"
+## 中文解释
+mid：这里指的是“middle”的缩写，常用于竞技游戏或娱乐场合，指代游戏中的中单位置或角色。比如在《英雄联盟》游戏中，中单位置的英雄通常具有高伤害和中等的防御能力。
+## 英文 Explanation
+mid: Short for "middle", commonly used in gaming or entertainment contexts to refer to the middle position or role in a game. For example, in the game League of Legends, the middle lane role typically features heroes with high damage output and moderate defensive capabilities.
 ```

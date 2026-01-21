@@ -1,7 +1,7 @@
 ---
 title: "What Does 'chad' Mean? (chad 是什么意思？)"
 slug: "what-does-chad-mean"
-date: 2026-01-16
+date: 2026-01-21
 tags:
 - slang
 - internet
@@ -9,8 +9,11 @@ tags:
 ---
 ```markdown
 ## Chad
-### English
-**Chad**: This slang term is often used as a compliment, primarily to describe a man who is perceived as muscular, confident, and often successful. It can also imply a slightly awkward or overenthusiastic demeanor, sometimes in a teasing way.
-### 中文
-**朱德**: 这个俚语通常用作称赞男性，主要是形容他肌肉发达、信心满满，有时也给人一种略显笨拙或过于热情的印象，偶尔带有点戏谑的意味。
+**English Slang Explanation:**
+Chad is a term often used to describe someone who is studly, cool, or attractive, especially in a macho or confident way. It is frequently employed in a casual context to praise someone’s appearance, personality, or abilities.
+**Spanish Explicación Ecoléctica:**
+El término "chad" se usa para describir a alguien que es cool, sexy, o atractivo, especialmente de una manera machista o confiada. Se utiliza frecuentemente de manera casual para alabar el aspecto, personalidad, o habilidades de alguien.
+**Example Usage:**
+- English: That new guy in the office is such a chad!
+- Spanish: El nuevo chico de la oficina es tan chad!
 ```
