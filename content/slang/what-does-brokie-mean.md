@@ -1,16 +1,16 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2026-01-19
+date: 2026-01-22
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Brokie (Slang)
-### English
-**Brokie:** A term used to describe a male who is seen as quite basic or not having very many interesting personality traits or social skills. Someone who is considered unexciting, ordinary, or non-confrontational in a social environment.
-### Chinese
-**Brokie (直男):** 用来形容一个男性缺乏有趣的个性特征或社交技巧，被认为很普通、无趣或者在社交环境中不具挑战性。即直男，指行为和思维较为传统、单一，在社交场合中可能显得不太有趣或缺乏吸引力的男性。
+## Brokie (互联网/英文)
+### 中文释义
+"Brokie" 是一个词汇的混缩，指的是那些在网上花言巧语、夸夸其谈，但实际行动寥寥无几的人。这些人善于在社交媒体或网络论坛上制造话题或吸引眼球，但实际上缺乏实质性的贡献或行动。
+### 英文解释
+"Brokie" is a term that combines two words to describe someone who is eloquent and talkative on the internet or social media, but doesn't actually follow through with many actions. These individuals are skilled at generating attention or starting discussions online but are often lacking in substantial contributions or follow-through.
 ```

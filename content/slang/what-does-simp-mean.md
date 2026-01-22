@@ -1,19 +1,17 @@
 ---
 title: "What Does 'simp' Mean? (simp 是什么意思？)"
 slug: "what-does-simp-mean"
-date: 2026-01-18
+date: 2026-01-22
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Explanation: Simp
+# Slang Term: Simp
 ## English
-**Simp** - A term that originated from internet culture, typically referring to a man who is overly eager or obsessed with trying to impress and gain the approval of a woman, often to the point of being seen as foolish or incompetent by others. The behavior often includes excessive flattery, giving gifts, or playing into roles dreamed up by the woman. 
+**Simp**: Typically refers to a man who has a strong infatuation with or displays extreme admiration for a woman, often without reciprocation. This term has become more widely used and is sometimes used affectionately, but can also carry a negative connotation.
 ---
 ## Chinese
-**傻屌 (shǎ diǎo)** - 这个词通常用来形容一个男人，他非常渴望向一个女人展示自己，甚至到了让人觉得有点傻的地步。他的行为可能包括过.split 过分奉承、赠送礼物，以及在游戏中扮演女人想象的角色。这个词汇在中文网络文化中非常常见的，常用于嘲笑那些行为看起来非常愚蠢或不自然的人。
-注：由于“傻屌”中有侮辱性和低俗的含义，我们在正式或公共场合使用时应避免使用。
+**西谱 (Xī pǔ)**: 通常用来形容对某位女性有强烈心仪或表现出极强仰慕之情的男人，这种应激往往单方面存在。这个词语现在使用更为广泛，有时听起来较为亲密，但有时也会带有负面含义。
 ```
-This markdown format provides a clear and concise explanation of the term "simp" in both English and Chinese.

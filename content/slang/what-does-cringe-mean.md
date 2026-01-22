@@ -1,18 +1,18 @@
 ---
 title: "What Does 'cringe' Mean? (cringe 是什么意思？)"
 slug: "what-does-cringe-mean"
-date: 2026-01-21
+date: 2026-01-22
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Cringe (英) vs 作呕 (中)
-**Cringe (英):**
-- **Definition:** A term used to describe something or someone that is extremely awkward, embarrassing, or conspicuous. It often implies that the subject is so bad or offensively bad that the observer feels physical discomfort or an urge to recoil.
-- **Example Sentence:** "The way he danced to that song was so cringe, I couldn't look."
-**作呕 (中):**
-- **Definition:** 用于描述让人感到极其尴尬、尴尬到想呕吐或者是极其不合适的言语或行为。这个词经常用来表示某件事或某人的表现如此糟糕或如此糟糕到令人发指，以至于观众会感到不适或想要避开。
-- **例句:** "他跳的那种舞真是作呕，我都快看不下去了。"
+## Cringe (English)
+**Definition:** An experience or situation that is extremely uncomfortable or embarrassing, often to the point of being hilarious in its awkwardness.
+**Example Sentence:** The moment when your pet falls and makes an absurdly funny face—cringe!
+## 起鸡皮疙瘩 (Cringe, Chinese)
+**Definition:** 某种经历或情境让人感到极度的尴尬或尴尬到滑稽，常常因其荒谬而产生一种难以忍受的感觉。
+**例句:** 当你的宠物摔倒做出一个极其好笑的表情时—起鸡皮疙瘩！
 ```
+Note: "起鸡皮疙瘩" is a concise way to express "cringe" in Chinese, directly translating the idea of feeling very uncomfortable or awkward. In more casual speech or writing, Chinese speakers might also use phrases like "特别尴尬" (espèciè gāngà) or "太尴尬了" (tài gāngà le), which roughly mean "extremely awkward" or "too awkward."

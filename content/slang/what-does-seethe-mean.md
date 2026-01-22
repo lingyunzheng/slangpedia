@@ -1,18 +1,18 @@
 ---
 title: "What Does 'seethe' Mean? (seethe 是什么意思？)"
 slug: "what-does-seethe-mean"
-date: 2026-01-18
+date: 2026-01-22
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 英文 Slang Explanation: Seethe
-**Meaning:** To seethe means to be extremely annoyed or furious, often to the point where it seems you might explode with anger. It's like a slow, simmering boil of rage.
-**Example Sentence:** "After finding out he was hours late without an excuse, John seethed at his coworker in the meeting."
-**中文俚语解释: 噪**
-**含义:** 噪的意思是极度生气或者愤怒，愤怒到了好像要爆发的程度。就像是心中积压已久的愤怒在慢慢烧开。
-**例句:** "得知对方迟到好几个小时而且还找借口后，在会议上约翰对同事非常愤怒。"
+## 英文 slang: seethe
+### 中文 slang: **冒泡/沸腾**
+- **英文:** To seethe means to be extremely angry or frustrated, often causing you to express your anger in a loud or aggressive way.
+- **中文:** “冒泡/沸腾”形容一个人极度生气或受到极大的刺激，以至于想要大声或粗暴地表达出来。就像是锅里的水快开的时候，水面上的小泡越来越多，很快就会沸腾起来。
+### Example Usage:
+- **英文:** She was seething with anger after the meeting.
+- **中文:** 会议结束后，她满心怒火，简直要“冒泡”了。
 ```
-Note: The slang term "seethe" doesn't have a direct one-to-one equivalent in Chinese slang, so "噪" (zào) is used as a metaphorical representation for the feeling of extreme anger.
