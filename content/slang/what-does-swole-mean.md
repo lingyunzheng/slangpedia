@@ -1,17 +1,16 @@
 ---
 title: "What Does 'swole' Mean? (swole 是什么意思？)"
 slug: "what-does-swole-mean"
-date: 2026-01-22
+date: 2026-01-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Swole
-### English
-Swole is a slang term used to describe someone or something that has significantly developed or grown in size, especially in a muscular or bulky manner. It's often used to compliment massive muscle growth, typically in bodybuilding or intense fitness regimens.
-### Chinese
-"肿泡"（zhǒng pào）  
-“肿泡”是一个俚语表达，用来形容某人或某物在已经相当大的基础上变得更加大，特别是在肌肉或体形上变得更大更壮。这个词语通常用来赞美经过高强度健身训练后肌肉的显著增长。
+# Swole (肌肉发达的)
+## 中文解释
+"肌肉发达的"，用来形容一个人或动物的肌肉非常饱满、发达，通常带有羡慕或赞美的意味。有时也用于描述健身后的状态，强调肌肉的体积和紧实度。
+## 英文解释
+"Swole" is used to describe someone, usually a person, who has very developed and full muscles, often with a tone of envy or admiration. It can also refer to the post-workout state of having larger and more defined muscles.
 ```
