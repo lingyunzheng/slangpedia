@@ -1,7 +1,7 @@
 ---
 title: "What Does 'skibidi' Mean? (skibidi 是什么意思？)"
 slug: "what-does-skibidi-mean"
-date: 2026-01-16
+date: 2026-01-24
 tags:
 - slang
 - internet
@@ -10,11 +10,11 @@ tags:
 ```markdown
 # Skibidi
 ## English
-- **Meaning**: A high-energy and playful phrase that often accompanies a dance move or improvisational sequence, especially in club scenes or social settings.
-- **Origin**: The exact origin is debatable, but it has gained popularity in social media and dance contexts.
-- **Usage Example**: "Let's do the skibidi dance together!"
-## 中文
-- **意思**：这个词通常用来形容一种充满活力和趣味的词语或动作，尤其是在俱乐部或社交场合中用来伴随舞蹈动作或即兴表演。
-- **来源**：确切来源不明，但在社交媒体和舞蹈行业中广泛使用。
-- **用法示例**： "我们一起来跳skibidi舞蹈吧！"
+**Definition:** A filler word or phrase often used for comedic or ironic effect, similar to "like" or "you know."
+**Example:** "I need to get to the store, skibidi!" 
+This can be used to add emphasis, humor, or to give a pause in a conversation.
+## Chinese
+**解释:** 一个用于喜剧或讽刺效果的填充词或短语，类似于"like"或"you know"。
+**示例:** "我得去超市一趟，skibidi！" 
+它可以用来增加强调、幽默，或者在对话中给一个暂停。
 ```
