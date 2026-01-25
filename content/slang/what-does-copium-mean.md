@@ -1,16 +1,18 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2026-01-24
+date: 2026-01-25
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Copium
-## English Explanation
-"Copium" is a playful and humorous slang term, often used as a typo or intentional misspelling of "coffee." It pops up in casual conversation or online contexts to add a light-hearted or lofi vibe. People might use it to describe a comforting or energizing drink, particularly coffee, but with a fun twist.
-## Chinese Explanation
-"Copium" 是一种玩味的网络俚语，通常是作为一种打字错误或故意拼写错误的“咖啡”而出现。它多用于日常对话或在线交流中，通过添加轻松或慵懒的氛围来表达对咖啡的喜爱。人们可能会用这个词来形容让人感到温暖或提神的饮品，尤其是咖啡，但带有一种轻松有趣的感觉。
+## Copium (Noun)
+### English
+- **Definition**: A playful and informal term for caffeine, often used in a comedic or internet slang context.
+- **Usage**: "I had to drink a cup of copium to stay awake during the late-night webinar."
+### 中文
+- **定义**: 一种 playful（随意的）且非正式的术语，用于指代咖啡因，经常在喜剧或网络俚语中被使用。
+- **用法**: "为了熬夜参加网课，我不得不喝了杯copium。"
 ```

@@ -1,16 +1,16 @@
 ---
 title: "What Does 'drip' Mean? (drip 是什么意思？)"
 slug: "what-does-drip-mean"
-date: 2026-01-22
+date: 2026-01-25
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Drip (英汉双解俚语)
-### English
-- **Drip**: Originally from music jargon, "drip" refers to a slow, steady stream of beats, often used to describe a particularly catchy or stylish beat in music. It can also be used more generally to describe something that is slow and incessant, like "dripping" water.
-### Chinese
-- **滴滴**: 最初源自音乐领域的术语，“drip”指的是节奏缓慢而充满节奏感的流，常用来形容音乐中的特别动听或时尚的节奏。这个词也可以更广泛地用于描述某个东西是缓慢而又不断滴落的样子，如“滴滴答答”的水声。
+# Drip
+## English
+**Drip**: This term is often used to describe someone or something that is regarded as being cool, trendy, or superior. It's used to express admiration or envy towards someone who displays an aura of sophistication or flair. For example, "That new fashion line is dripping!"
+## 中文
+**滴血 (dī xuè)**: 这个词常用来形容某人或某物被视作酷、时尚或超凡脱俗。用来表达对某人展示出来的优雅或风度的钦佩或嫉妒。例如，“那家新潮时尚品牌真是滴血了！”
 ```

@@ -1,18 +1,19 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2026-01-23
+date: 2026-01-25
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Bruh
-### English
-**Definition:** "Bruh" is a common slang term used as a greeting, expression of surprise or agreement, or to emphasize a statement in casual conversations.
-**Usage Example:** "Bruh, this place is totally crowded tonight!" 
-### 中文
-**释义:** "Bruh" 是一种常见俚语，在打招呼、表示惊讶或同意，或者强化某种说法时使用，多见于非正式对话中。
-**用例示例:** "Bruh, 今晚这个地方真是一片人海！"
-```
+## Bruh (American English / British English)
+### American English
+**Definition:** A versatile interjection used to express a range of emotions, such as disbelief, exasperation, or even just standing in for “bro” (a shorter form of “brother” often used as a casual address or among friends). It can be used alone or as part of a phrase to emphasize a point.
+**Example:** "Bruh, you seriously ate the whole pizza by yourself? That's intense!"
+### British English
+**Definition:** The term "bruh" is less common in British slang but can be adopted from American English. It is similarly used as an interjection to express a sense of disbelief, amazement, or exasperation. It can also be used similarly to "bro" and other similar terms to address friends or be part of a casual conversation.
+**Example:** "Bruh, you actually bought all that junk? You're positively cringey!"
+---
+Both versions use "bruh" to convey casual, relaxed, or even humorous reactions to situations.

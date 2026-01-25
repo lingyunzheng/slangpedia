@@ -1,25 +1,28 @@
 ---
 title: "What Does 'NPC' Mean? (NPC 是什么意思？)"
 slug: "what-does-npc-mean"
-date: 2026-01-24
+date: 2026-01-25
 tags:
 - slang
 - internet
 - tiktok
 ---
+Certainly! Below is a markdown format for the bilingual explanation of the slang term "NPC" (Non-Player Character).
 ```markdown
-# NPC
-**English**: NPC  
-**Chinese**: NPC
-## Explanation
-**English**: NPC stands for **Non-Player Character**. In gaming, an NPC is a character that is controlled by the game itself, as opposed to a player-controlled character. NPCs can have various roles such as providing quests, selling items, or simply walking around the game world.
-**Chinese**: NPC 是“非玩家角色”的缩写（Non-Player Character）。在游戏中，NPC 是由游戏控制的角色，而不是玩家自身控制的角色。NPC 可以扮演提供任务、出售物品或仅仅在游戏世界中走动等多种角色。
----
-Examples:
-- **English**: The quest can only be accepted from the old man in the village; he is an NPC.
-- **Chinese**: 任务只能从村庄里的老人才能接取；他是 NPC。
+## NPC (Non-Player Character)
+### English Explanation
+A character in a video game, role-playing game, or other interactive medium that is controlled by the game itself rather than by a human player.
+### Chinese Explanation
+在电子游戏、角色扮演游戏或其他互动媒介中的由游戏本身控制而不是由人类玩家控制的角色。
+### Context Examples
+- **In Video Games:**
+- 英文：In many role-playing games, you will encounter various NPCs who provide quests or sell items.
+- 中文：在许多角色扮演游戏里，你会遇到各种提供任务或售卖物品的NPC。
+- **In Online Communities:**
+- 英文：Saying someone is an "NPC" in a community can mean they are uninvolving or just go through the motions without much personal effort.
+- 中文：在社区中称某人为NPC，常常是指他们不活跃或只是形式上参与，不大投入个人努力。
+- **In Anime and Manga:**
+- 英文：In anime and manga, certain characters might be designated as NPCs, serving as background characters or purely to move the plot along.
+- 中文：在动漫中，某些角色可能会被指定为NPC，作为背景角色或仅仅推动剧情发展。
 ```
-```markdown
-**Note**: NPC is a commonly used term in gaming communities and can sometimes appear in other context like literature or casual conversations where characters who are not central to the plot are referred to as NPCs.
-```
-```
+This markdown format provides a clear, structured way to understand the term "NPC" in both English and Chinese contexts.
