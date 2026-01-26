@@ -1,16 +1,16 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2026-01-22
+date: 2026-01-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Brokie (互联网/英文)
-### 中文释义
-"Brokie" 是一个词汇的混缩，指的是那些在网上花言巧语、夸夸其谈，但实际行动寥寥无几的人。这些人善于在社交媒体或网络论坛上制造话题或吸引眼球，但实际上缺乏实质性的贡献或行动。
-### 英文解释
-"Brokie" is a term that combines two words to describe someone who is eloquent and talkative on the internet or social media, but doesn't actually follow through with many actions. These individuals are skilled at generating attention or starting discussions online but are often lacking in substantial contributions or follow-through.
+## Brokie 中英文 slang 释义
+**中文释义：**
+"brokie" 是网络用语，源自英文 "bro"（哥哥、兄弟）和 "pie"（派、比），拼凑成 "brokie"，用来形容那些像小孩一样幼稚、行为像个“光源zeichnet”(直男)的人。这类人往往自私自利，缺乏社交技巧，不能在群体中发挥积极作用，反而带坏整个氛围。
+**英文释义：**
+"Brokie" is a colloquial term derived from the combination of "bro" (brother, meaning brother or buddy) and "pie" (pie or being immature), forming "brokie." It refers to individuals who exhibit highly immature behavior and are often self-centered and lacking in social skills. Such people tend to have a negative impact on group dynamics, dragging down the overall atmosphere with their unsociable and childish actions.
 ```

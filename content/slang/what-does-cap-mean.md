@@ -1,16 +1,21 @@
 ---
 title: "What Does 'cap' Mean? (cap 是什么意思？)"
 slug: "what-does-cap-mean"
-date: 2026-01-25
+date: 2026-01-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Cap
-## English
-To cap something means to end it or put a limit on it, often humorously or in a playful manner. For example, "We decided to cap our party at midnight to make sure everyone gets enough sleep."
-## Chinese
-“帽儿”（读作 "mào ér"），意指结束某事或对某事设限，常常带有幽默或轻松的语气。例如，“我们决定把聚会时间定在午夜，这样大家都有足够的休息时间。”
+# Cap (English)
+## Meaning
+- To stop or limit something abruptly.
+## Example
+- "He tried to talk about politics, but his friend capped him right away."
+# Cap (中文)
+## 含义
+- 突然中断或限制某事。
+## 示例
+- "他试图谈论政治，但他的朋友立刻就打断了他。"
 ```

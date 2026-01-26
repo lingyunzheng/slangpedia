@@ -1,23 +1,31 @@
 ---
 title: "What Does 'cope' Mean? (cope 是什么意思？)"
 slug: "what-does-cope-mean"
-date: 2026-01-25
+date: 2026-01-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Cope (英) - 克服 (中)
-## English Explanation
-**To cope** means to handle or deal with a difficult situation. It often implies a sense of struggling and finding a way to manage or adapt to challenging circumstances.
-## Chinese Explanation
-**克（kè）服** 指的是处理或应对困难的情况，通常意味着挣扎着找到应对或适应困境的方法。
-## Example Usage
-- **English:** "She had to cope with the loss of her job."  
-- **Chinese:** "她不得不应对失业的打击。"
-## Related Slangs
-- **English:** Cop a feel - Get a grip - Take it easy  
-- **Chinese:** 乱摸 - 镇静一下 - 别紧张了
+## Cope (English)
+### Explanation
+To cope means to deal with or manage a difficult situation or stress. It's like when you have a lot on your plate and you need to handle it, maybe by finding ways to reduce the pressure or just by pushing through.
+### Bilingual Slang Explanation
+**英语释义**  
+cope - 指处理或应对压力较大的情况。当你的生活或工作面临很多挑战时，你可能需要找到方法来减轻这些压力，或者干脆坚持下来。
+**Example**
+- *English Example:* She needs to cope with her overloaded schedule.
+- *Bilingual Example:* 她需要应对她的过于繁忙的日程。（她需要处理她过于繁忙的日程。）
 ```
-This markdown provides a straightforward explanation of the term "cope," along with a direct translation into Chinese and example usage. Related slangs give additional context and alternative phrases that convey similar meanings.
+```markdown
+## Cope (中文)
+### 解释
+“ cope ”的意思是处理或应对压力较大的情况。当你面临很多挑战，不论是生活上的还是工作上的，你可能需要找到方法来减轻这些压力，或者勇敢地面对。
+### 双语俚语解释
+**英语释义**  
+cope - 指处理或应对压力较大的情况。当你面临很大的压力时，你可能需要找到方法来减轻这些压力，或者努力克服。
+**例句**
+- *English Example:* She needs to cope with her overloaded schedule.
+- *Bilingual Example:* 她需要应对她的过于繁忙的日程。（她需要处理她过于繁忙的日程。）
+```

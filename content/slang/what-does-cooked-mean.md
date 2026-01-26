@@ -1,7 +1,7 @@
 ---
 title: "What Does 'cooked' Mean? (cooked 是什么意思？)"
 slug: "what-does-cooked-mean"
-date: 2026-01-24
+date: 2026-01-26
 tags:
 - slang
 - internet
@@ -9,13 +9,15 @@ tags:
 ---
 ```markdown
 ## English: Cooked
-### Chinese: 腌臜（ā zā） or 拌汤（bàn tāng）
-#### Explanation:
-- **English**: "Cooked" is slang used to describe someone or something that is in a very bad, unfair, or overwhelming state. It often implies that a person or situation has been "cooked" or manipulated in a way that is not to their benefit.
-- **Chinese**: "腌臜（ā zā）" or "拌汤（bàn tāng）" are slang terms used to describe a situation or person that is very messy, unfair, or in a bad condition. "腌臜" literally means "pickled and stale" and is often used to describe someone or something that is dirty or unpleasant. "拌汤" literally means "stirred soup," which metaphorically suggests a situation that is mixed with problematic elements.
-### Example Uses:
-- **English**: "His chance of winning the competition is cooked."
-- **Chinese**: "他比赛赢的机会已经腌臜（ā zā）了。" (Tā bǐsài yíng de huàjī jīdāng yǐjīng māntāng (ā zā) le.)
-- **English**: "The deal we signed was cooked; they dissembled all our interests."
-- **Chinese**: "我们签的合同是拌汤（bàn tāng）的；他们都蒙骗了我们的利益。（wǒmen qiānde hétóng shì bàn tāng (bàn tāng) de；tā dōu d orden mēngmiǎn le wǒmen de yìlì。）
+### Chinese: 炒鱿鱼 (Chǎo yóu yú)
+**Meaning:**
+- In English, "cooked" when used colloquially to describe someone's job or situation, often means that someone has been fired or their status or condition is in trouble.
+- In Chinese, "炒鱿鱼 (chǎo yóu yú)" literally translates to "fired by stir-frying squid," a metaphorical expression meaning someone has been fired from their job. It's a harsh way to describe失业 (shěnghē, unemployed) or being dismissed.
+**Usage Example:**
+- English: "He got cooked at his job because they found out he was embezzling funds."
+- Chinese: "他在公司里因为贪污资金被炒鱿鱼了。" (Tā zài gōngsī lǐ yǐwéi tānqū jīzī bèi chǎo yóu yú le.)
+**Notes:**
+- The term is more informal and carries a strong negative connotation.
+- In Chinese, it's a vivid and colloquial term often reserved for more serious situations.
 ```
+This markdown format helps in clearly explaining the term and its usage in both languages.
