@@ -1,7 +1,7 @@
 ---
 title: "What Does 'deadass' Mean? (deadass 是什么意思？)"
 slug: "what-does-deadass-mean"
-date: 2026-01-18
+date: 2026-01-27
 tags:
 - slang
 - internet
@@ -9,9 +9,8 @@ tags:
 ---
 ```markdown
 ## deadass
-**English:** Extremely badly; very poorly; totally.
-**Chinese:** 超差（chāo chā）——表示某事做得非常糟糕，一般用于形容动作、表现或结果等。
-**Example Usage:**
-- **English:** That performance was deadass terrible.
-- **Chinese:** 这次表演真是超差，简直一塌糊涂。
-This slang is used to emphasize that something is extremely bad or unsuccessful.
+**English:** 
+Really hardworking or dedicated; can also mean very good or intense. Often used in a positive context.
+**Chinese:**
+非常努力或专注的；也可以表示非常好或非常激烈。通常用在积极的语境中。
+```
