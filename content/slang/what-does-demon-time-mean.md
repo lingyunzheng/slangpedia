@@ -1,7 +1,7 @@
 ---
 title: "What Does 'demon time' Mean? (demon time 是什么意思？)"
 slug: "what-does-demon-time-mean"
-date: 2026-01-25
+date: 2026-01-28
 tags:
 - slang
 - internet
@@ -9,7 +9,8 @@ tags:
 ---
 ```markdown
 ## Demon Time
-**中文解释：** 给鬼用的时间，意指非常短促的时间，通常是在最后期限临近时出现的一种时间错觉，觉得时间突然变得极其短暂。
-**英文解释：** "Devil's Time" refers to an extremely short period of time, often experienced when a deadline is approaching. It's a feeling of time compressing into a very brief moment, where everything happens in a blink of an eye.
+**English Explanation:** "Demon Time" is a term often used to describe a period of time where someone is extremely focused, particularly on playing video games or engaging in any activity they are really into. It's as if their energy and attention are controlled by a demon, making them hyper-productive yet somewhat unresponsive to other people or tasks.
+**Simplified:** When you're 100% immersed and dedicated to something, that's "Demon Time."
+**Chinese Explanation:** "恶魔时间"（Démó Shíjiān）通常用来形容一个人在某个时间段内极度专注于某事，特别是玩视频游戏或从事任何他们非常感兴趣的活动。这段时间就像被恶魔控制了一样，他们会变得超有动力，但可能忽略周围的人和事。
+**简化版:** 当你全身心投入到某件事中，那就是"恶魔时间"。
 ```
-This markdown format provides a clear and concise explanation of the term "Demon Time" in both Chinese and English, with a brief translation to help understand the context and usage of the phrase.

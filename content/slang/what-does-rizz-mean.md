@@ -1,19 +1,16 @@
 ---
 title: "What Does 'rizz' Mean? (rizz 是什么意思？)"
 slug: "what-does-rizz-mean"
-date: 2026-01-26
+date: 2026-01-28
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Rizz (英文：Razz / 简体字：评委 / 繁体字：評委)
-### English Slang Explanation
-**Razz** - Often used in contexts involving a rating or judgment by multiple people, such as a panel of judges giving scores. This term can also imply a form of criticism or evaluation, particularly in competitive or evaluative settings.
-### Chinese Slang Explanation
-**评委** - 通常用来指一群人对某件事情进行评判或打分，比如在比赛中的一群裁判。这个词还可能带有批评或者评估的意味，特别是在竞赛或评估的场合。
-### Example Usage
-- **English**: "The panel of judges, or razz, will soon start evaluating the performances."
-- **Chinese**: "评委将很快开始对这些表演进行评分和评估。"
+## Rizz (俚语解释)
+### 中文解释
+“Rizz”是指的一种自信、酷炫或者帅气的表现方式，通常用于描述一个人通过姿态、动作或者言行展现出的一种独特魅力。在中文网络用语中，类似于形容某人非常有型、有范儿的状态。
+### 英文解释
+“Rizz” refers to a confident, cool, or dashing way of presenting oneself, often used to describe someone who exudes a distinctive charm through posture, movements, or actions. In English slang, it can be akin to describing someone as extremely stylish or fashionable.
 ```

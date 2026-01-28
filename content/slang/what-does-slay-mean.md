@@ -1,20 +1,21 @@
 ---
 title: "What Does 'slay' Mean? (slay 是什么意思？)"
 slug: "what-does-slay-mean"
-date: 2026-01-26
+date: 2026-01-28
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Slay (英语)
-### Explanation
-**Slay** is a slang term that has gained popularity in recent years, often used to describe someone who is extremely good at something, impressive, or dominating in a particular area. It can also mean to defeat or destroy someone or something, but in a playful or enthusiastic way.
-**Example:**
-- "That dancer really slayed the choreography during the performance!" (那个舞者在表演中极为出色地完成了舞蹈编排！)
-### 中文解释
-**slay** 是一个近年来流行的俚语，常用来形容某人在某个领域做得非常出色、令人印象深刻或主导一切。它也可以表示击败或摧毁某人或某物，但是一种富有乐趣或充满热情的方式。
-**例句：**
-- "那个舞者在表演中极为出色地完成了舞蹈编排！" (That dancer really slayed the choreography during the performance!)
+## Slay (英) / 狠操 (汉)
+### **Slay (英)**
+- **Definition**: To totally dominate or crush an opponent, usually in a game, sport, or competition. Can also be used to describe someone who performs exceptionally well.
+- **Example**: "She slayed the competition in the dance off, leaving everyone in awe."
+- **Context**: Commonly used in social media and gaming communities.
+### **狠操 (汉)**
+- **Definition**: 完美地胜出或打败对手，常用于游戏、体育或比赛中的情况。也可以用来形容某人表现特别出色。
+- **Example**: “她在舞蹈决斗中狠操了对手，令所有人都惊叹不已。”
+- **Context**: 常用于游戏、体育等讨论中。
 ```
+This markdown format provides clear definitions and examples for both English and Chinese slang terms.

@@ -1,30 +1,20 @@
 ---
 title: "What Does 'out of pocket' Mean? (out of pocket 是什么意思？)"
 slug: "what-does-out-of-pocket-mean"
-date: 2026-01-22
+date: 2026-01-28
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Out of Pocket (英语)
-### 意思
-- **原义:** 在某些消费情况下，个人需要承担实际的费用。
-- **流行用法:** 用于形容个人承担的额外费用，尤其是在双方约定或习惯性由一方承担费用的前提下。
-### 例句
-- 原义: "Please pay for the meal yourself; I will not reimburse you out of pocket."
-- 流行用法: "Please pay for the meal yourself; I can't afford to go out of pocket for this."
-- 原义: "He had to pay out of pocket for the emergency surgery."
-- 流行用法: "He had to pay out of pocket for the emergency surgery because his insurance didn't cover it."
-## 出口袋 (中文)
-### 意思
-- **原义:** 亲自支付某种费用。
-- **流行用法:** 指个人在应该由另一方支付的情况下，还得自己承担费用，常用来形容不划算或不公平的情况。
-### 例句
-- 原义: 他不得不自己出口袋为紧急手术付费。
-- 流行用法: 他不得不自己出口袋为紧急手术付费，因为保险没有涵盖。
-- 原义: 请自己付这次饭钱，我拿不出来这么多钱出口袋。
-- 流行用法: 请自己付这次饭钱，我拿不出来这么多钱出口袋。
+## Out of Pocket (俚语解释)
+### English
+**Out of Pocket:**
+- **Definition:** When you personally pay for expenses that would normally be covered by someone else, such as when you pay for lunch or a taxi fare.
+- **Example:** "I had to pay out of pocket for the cable bill because my roommate couldn't contribute this month."
+### 中文
+**出Pocket (出腰包):**
+- **释义:** 当你个人支付通常由他人承担的费用时，比如你支付了午餐费或出租车费用。
+- **例句:** "因为这月室友不掏钱，所以我只能自己出Pocket付上网线费了。"
 ```
-This markdown format includes explanations for both the original and popular uses of "out of pocket" in English, along with corresponding example sentences in Chinese.
