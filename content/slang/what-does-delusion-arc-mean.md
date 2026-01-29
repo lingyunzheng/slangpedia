@@ -1,21 +1,20 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2026-01-25
+date: 2026-01-29
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Delusion Arc (Delusion Arc)
-## English Slang Explanation
-A delusion arc is a phrase often used in internet culture, especially on platforms like Twitter or Reddit. It typically refers to a prolonged period where a person or group maintains a deeply held but ultimately false belief or conspiracy theory, despite overwhelming evidence to the contrary. This can be seen as a comedic or mock attempt to highlight the absurdity of such beliefs.
-### Example Usage
-"I followed this guy on Twitter for the whole delusion arc of believing the moon landing was fake. It's like watching someone watch paint dry, but slower."
-## 中文释义
-“ delusion arc” 是一种流行于互联网文化中的俚语，尤其是在 Twitter 或 Reddit 这样的平台上。它通常用来形容一个人或一群人在面对大量反面证据的情况下，依然坚持一种根本虚假的信念或阴谋论的漫长过程。这种说法常常是用来幽默地讽刺这些荒谬的信念。
-### 示例用法
-“我跟这个人一直到最后的‘阴谋论’弧线，他一直认为月球着陆是假的。就像看一些人看干掉的油漆，但速度更慢。”
+# Delusion Arc: 谬论之弧
+## English Explanation
+**Delusion Arc**: This term is often used in online communities or among friends to describe a prolonged or intense period where someone is consistently stuck in a pattern of irrational or false beliefs. It's like being in the middle of a "self-induced rut of nonsense" and unable to see through it.
+**Example Usage**:  
+- "John has been in his delusion arc ever since he lost his job. He believes the company owes him millions and refuses to acknowledge that he was fired for underperforming."
+## 中文解释
+**谬论之弧 (Miao lun zhi hu)**: 这个术语常用于网络社区或朋友间，用来形容一个人长时间陷入一种持续而强烈的不理智或虚假的信念中。就像是处于一种“自我制造的无知状态”并且无法从中走出来。
+**使用示例**：  
+- "自从John失业后，他就陷入了谬论之弧。他坚信公司欠他数百万，完全不承认自己是因为表现不佳而被解雇。"
 ```
-This markdown format provides clear, easy-to-read explanations and examples for both the English and Chinese interpretations of "delusion arc."

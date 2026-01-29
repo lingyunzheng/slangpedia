@@ -1,21 +1,23 @@
 ---
 title: "What Does 'ate' Mean? (ate 是什么意思？)"
 slug: "what-does-ate-mean"
-date: 2026-01-28
+date: 2026-01-29
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Ate (Chinese: 起**(camera recording emoji)**!)
-**English:**  
-"Eat" loosely translated, often used to mean "totally" or "completely." It's a way to emphasize how something has happened or is true to an extreme degree.
-**Example Usage:**  
-- "She ate the meal" -> "She totally cleaned the plate!"
-**Chinese:**
-“吃**！ (chī! )” 形容事情发生或属实的程度非常高，类似于“完全”或“彻底”。常用来强调某件事的完成度或真实性。
-**例句:**  
-- "她吃了一顿饭" -> "她完全把盘子都吃光了！"
+# Ate (汉语)
+## English Explanation
+**Cooked:** Informal, colloquial way to say "cooked" or "prepared," often used humorously or sarcastically to describe how something has been handled or dealt with. For example, "You really cooked this up a good story."
+## 汉语解释
+**炒过的 (chǎo guò de):** 简单来说就是“处理过”或“准备好”的意思，通常是一种幽默或讽刺的说法，用来描述某件事情是如何被处理或描述出来的。例如，“你真是把这事儿炒成个好故事了。”
+## Example Usage
+**English:**
+- "That new resume you sent is really cooked up!"
+- "He's a master at cooking up excuses."
+**汉语:**
+- “你发的那个新简历真是炒过的！”
+- “他擅长把理由炒得很充分。”
 ```
-Note: The `**camera recording emoji**` was placed between asterisks to represent the pepper spray or similar emoji used in some slang contexts, but since no standard emoji for this exists, the description provides the concept in the example usage.

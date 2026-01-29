@@ -1,24 +1,21 @@
 ---
 title: "What Does 'sus' Mean? (sus 是什么意思？)"
 slug: "what-does-sus-mean"
-date: 2026-01-24
+date: 2026-01-29
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Term: "sus"
-## English
-**Definition:** 
-SUS is an acronym that stands for "suspicious." It is often used in online spaces to express doubt or suspicion about someone or something. It can be a shorthand for saying that one finds something or someone questionable or strange.
-**Example Usage:**
-- "I think that new user is sus with all those typos in their messages."
-- "That person selling cheap iPhones on Facebook is probably sus."
-## Chinese
-**释义:** 
-"SUS" 是一个缩略语，全称为“可疑”（suspicious）。它常用于在线空间中，表达对某人或某事的怀疑或不解。可以简短地表达怀疑或者觉得某人或某事可疑或奇怪。
-**使用示例:**
-- "我觉得那个新用户很可疑，所有信息里都是错别字。"
-- "在Facebook上卖很便宜的iPhone那个人可能很可疑。"
+## "sus" in English
+"sus" is an informal abbreviation of "suspect." It's commonly used to express doubt, suspicion, or to question the reliability or motives of someone or something. If someone says "That's sus," they are saying that they don't quite trust or believe something.
+### Example:
+- English: "I heard Alex got the promotion, but that's sus."
+- Chinese: 我听说亚历克斯得到了晋升，但这事儿有点可疑。
+## "sus" in Chinese
+在中文中，“sus”是一个非正式的缩写，用来表示怀疑、不信任或者对某人或某事物的动机表示质疑。如果有人说“那很 sus”，意思是认为某事不可信或有问题。
+### 例句：
+- 中文: 我听说亚历克斯得到了晋升，但这事儿有点可疑。
+- Translation: I heard Alex got the promotion, but that's sus.
 ```

@@ -1,20 +1,20 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2026-01-27
+date: 2026-01-29
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Bruh (English to Chinese)
-**English Definition:**  
-An interjection used to express disbelief, frustration, or mild annoyance. Often used in place of "man" or "dude" to soften or emphasize the tone of the statement.
-**Chinese Explanation:**  
-"布鲁"（ bruh ）通常用于表达惊讶、挫败或轻微的生气。它可以代替“(man)” 或 “(dude)”来软化或强调说话的语气。
-**Example Usage:**
-- **English:** "Bro, have you seen the price of gas these days? Bruh, it's crazy!"
-- **Chinese:** "兄弟，你看过最近汽油的价格吗？ 布鲁，这太疯狂了！"
+## Bruh - 布鲁 guy
+**英语含义:**
+Bros, sister, dude. An informal term used as a prefix to address friends, often when adding emphasis or expressing surprise, frustration, or amusement.
+**中文解释:**
+布鲁 guy，姐妹，大哥，兄弟。这是一个非正式的称呼用语，用作前缀来称呼朋友们，经常用来加着重号，表示惊讶、沮丧或乐子。
+Example in Sentence:
+- "BROOOOучer, I just got a promotion at work!" - 布鲁 guy，我刚刚在工作上得到了升职！
+- "Bruh, did you see the score of that game last night? I swear it was impossible!" - 布鲁 guy，你能相信昨晚游戏的比分吗？我发誓这不可能！
+Note: "Bruh" can also be used on its own to express a feelings of exasperation, surprise, or amusement.
 ```
-This markdown format provides a clear and structured way to explain the usage and meaning of the slang term "bruh" in both Chinese and English.

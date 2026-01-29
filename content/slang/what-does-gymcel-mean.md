@@ -1,23 +1,20 @@
 ---
 title: "What Does 'gymcel' Mean? (gymcel 是什么意思？)"
 slug: "what-does-gymcel-mean"
-date: 2026-01-26
+date: 2026-01-29
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## gymcel
-**English:** gymcel  
-**Chinese:** 健身达人，健身房死忠  
-*Definition:* A person obsessed with going to the gym and maintaining an ideal physique. This individual is often dedicated to their workout routine and might be known for their overly enthusiastic attitude towards fitness.
-**Explanation:**
-- **Eng:** "Gymcel" refers to someone who is really into the gym scene. They might be obsessed with their workout routines, often posting photos of their gym sessions on social media, and are very vocal about their fitness goals.
-- **Chn:** “健身达人”和“健身房死忠”指的是对健身特别热衷的人。他们可能沉迷于健身计划，经常在社交媒体上分享自己的健身照片，并且非常积极地讨论他们的健身目标。这类人通常对自己的体形和线条有着严格的要求，可能会显得有些过于上心。
-**Example Sentence:**
-- **Eng:** "Since breaking up with her ex, she's become more of a gymcel and spends most of her days in the gym."
-- **Chn:** “自从和前任分手后，她变得更注重健身，大部分时间都在健身房度过。”
----
-This slang term captures the essence of someone deeply committed to their fitness regimen and can be used humorously or more seriously depending on the context.
+## Gymcel
+**中文释义**：健身房老鼠
+**英文释义**：Gym Rat
+**解释**：
+- **中文**：这是一个非常形象的说法，意指那些热衷于去健身房锻炼的人，通常非常注重健康、身材和生活方式。这些人可能过于迷恋健康锻炼，甚至达到疯狂的程度。
+- **英文**：This term similarly refers to people who are extremely dedicated and obsessed with fitness and exercise, often frequents the gym to the point of being a bit of a obsessive.
+**例句**：
+- **中文**：他最近变成了个健身房老鼠，每天傍晚都去跑步。
+- **英文**：He's become a gym rat lately, going for runs every evening.
 ```
