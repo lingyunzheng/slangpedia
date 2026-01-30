@@ -1,15 +1,19 @@
 ---
 title: "What Does 'mid' Mean? (mid 是什么意思？)"
 slug: "what-does-mid-mean"
-date: 2026-01-24
+date: 2026-01-30
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 中文 (Chinese)
-**mid**: 网络用语，原本是指赌博中的"明"（即摊牌后的比大小），后来在网络文化中被引申为比比谁更高明、谁对事情更了解的意思。
+## 中文 (Simplified Chinese)
+### mid
+- **解释**: 中间，通常用于描述某种状态或位置处于中间阶段。例如：“比赛进行到 mid 阶段了”意味着比赛进行到了一半或中间部分。
+- **例句**: 比赛已经进行到 mid 阶段了，大家都非常谨慎。
 ## English
-**mid**: Slang term originally used in gambling to refer to "明", which means showing your cards during a game. It was later expanded in internet culture to describe the act of outsmarting or out-knowing others, essentially showing who has better insight or skills.
+### mid
+- **Explanation**: Middle or mid-range, commonly used to describe a state or position at an intermediate stage. For example, "The game is in the mid stage" means the game is halfway through or in the middle part.
+- **Example Sentence**: The match is already in the mid stage, and everyone is being very cautious.
 ```

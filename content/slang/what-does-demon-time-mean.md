@@ -1,16 +1,18 @@
 ---
 title: "What Does 'demon time' Mean? (demon time 是什么意思？)"
 slug: "what-does-demon-time-mean"
-date: 2026-01-29
+date: 2026-01-30
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Demon Time (恶魔时光)
-## English Explanation
-**Demon Time** is a term often used in internet slang to refer to a period of feeling overwhelmed, stressed, or frustrated, usually due to a particular situation or a series of unfortunate events. It can also be used to describe a specific moment where one feels like they are in an endless loop of stress or bad luck.
-## Chinese Explanation
-“** demon时间**”是一个网络用语，用来形容一个人在某一特定时期感到压力巨大、烦躁或受挫，通常是由于某种特定情况或一系列不幸事件造成的。这个词也可以用来描述一个人感觉仿佛在无尽的压力循环或坏运气中时的那个瞬间。
+## Demon Time (Demonómico / 撒旦时间)
+**English Explanation:**
+"Demon Time" is a slang term that often refers to a situation where someone is feeling extremely relaxed or happy to the point where they might overlook important details or make poor decisions. It's also sometimes used to describe a prolonged period of enjoying oneself so much that one doesn't feel the passage of time.
+**Spanish Explanation:**
+"Demon Time" es un término de slang que se usa para describir una situación en la que una persona se siente extremadamente relajada o feliz, llegando incluso a ignorar detalles importantes o tomar decisiones malas. También se usa a veces para describir un período prolongado de disfrute tal que uno no se da cuenta del paso del tiempo.
+**Chinese Explanation:**
+"撒旦时间"（dǎàndàn shíjiān）是一个网络流行语，用来形容一个人感到极度放松或快乐的状态，可能忽视了重要的细节或做出了糟糕的决定。有时也用来描述长时间地享受自己，以至于完全不察觉时间的流逝。
 ```

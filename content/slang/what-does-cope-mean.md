@@ -1,20 +1,21 @@
 ---
 title: "What Does 'cope' Mean? (cope 是什么意思？)"
 slug: "what-does-cope-mean"
-date: 2026-01-29
+date: 2026-01-30
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-##cope (英) vs 挺住 (中) 
-**cope** (英) - *to deal with or handle a difficult or bad situation; to manage to survive or function despite problems*
-**挺住 (中) - 欺苦咽气 (平白受苦)**
-- **Explanation**: 简单来说，当遇到困难或挫折，对你来说就像是挺着胸膛不倒下。 挺住是一个非常实用和广泛使用的表达，比如你在工作、学习或生活中遇到不顺心的情况时，你的朋友会鼓励你说：“挺住！” 意思是保持坚强和坚持下去。 
-- **Example**: 她最近工作压力很大，但同事们鼓励她说：“挺住，一切都会好起来的！”
-- **English**: She was under a lot of work pressure recently, but her colleagues encouraged her by saying, "Cope with it, things will get better!"
-**Usage Notes**:
-- "挺住" 的用法非常生动形象，通常表达一种面对困难时的积极态度。
-- "Cope" 可以用于正式或非正式的语境中，是一种更正式的表达。
+## Cope (英汉俚语解释)
+### English
+**Cope**: 
+- To deal with or manage a difficult situation. It means to handle or adjust to a stressful or challenging circumstance.
+- Example: I'm really struggling with this project, but I need to cope somehow.
+### 汉语
+**cope**:
+- 指处理或应对困难的情况。意为应对或适应压力大的或有挑战的事情。
+- 示例：我的这个项目真的很难，但我也得应付过去。
 ```
+If you need more examples or further explanations, feel free to ask!
