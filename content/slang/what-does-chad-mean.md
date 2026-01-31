@@ -1,16 +1,18 @@
 ---
 title: "What Does 'chad' Mean? (chad 是什么意思？)"
 slug: "what-does-chad-mean"
-date: 2026-01-30
+date: 2026-01-31
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Chad
-**English:**  
-"Chad" is a slang term used to describe someone who is perceived as strong, athletic, and, often, somewhat stiff or overly serious. It can be used in a positive or negative context, depending on the situation. For example, someone might be called "chad" for having a strong build and good physical fitness, but also for being a bit boring or outdated in style.
-**Chinese:**  
-"Chad" 是一个俚语，用来形容那些被认为是强壮、运动能力强的人，有时还会带上一点严肃或刻板的印象。这个词语在积极的或消极的情境中都可以使用。例如，可以用来形容某人肌肉发达、身体健康等正面特质，但也可能带有某种陈旧或无趣的意味，形容其在风格上显得过时且呆板。
+# Chad
+## English
+- **Definition**: An adjective or noun used to describe someone who is extremely competent, often in an exaggerated or ironic way. It's typically used to praise someone's hard work or physical attractiveness.
+- **Example**: "He's such a chad at fixing computers; no one can touch him!"
+## Mandarin
+- **定义**: 用来形容某人极其能干或非常吸引人的一种形容词或名词，通常带有夸张或讽刺的意味来赞美某人的工作能力或外貌。
+- **例句**: "他修电脑的技术简直是个杠杠的 chad；没人能比得上他！"
 ```

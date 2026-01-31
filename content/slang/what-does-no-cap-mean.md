@@ -1,7 +1,7 @@
 ---
 title: "What Does 'no cap' Mean? (no cap 是什么意思？)"
 slug: "what-does-no-cap-mean"
-date: 2026-01-30
+date: 2026-01-31
 tags:
 - slang
 - internet
@@ -9,12 +9,11 @@ tags:
 ---
 ```markdown
 ## "No Cap"
-### English Explanation
-"No cap" is a popular slang term often used to express that what someone is saying is completely true and genuine. It also indicates that the speaker is not exaggerating or lying.
-### Bilingual Explanation
-- **English**: "No cap" means that what you're saying is true and real, not an exaggeration.
-- **Chinese**: “No cap” 意味着你所说的是真实和可信的，而不是夸大其词。
-### Example Usage
-- **English**: "I ate 10 hotdogs in one sitting, no cap."
-- **Chinese**: “我一口气吃了10个热狗，No cap。”
+### English
+A phrase used to indicate that something is true or accurate, often in a way that implies no exaggeration. It's used to show that the speaker is not bluffing or lying about the statement they are making.
+### Chinese
+一个用来表明某件事情是真的或准确的说法，通常以不夸张的方式表示说话者没有撒谎或夸大其词。它用于表明说话人所说的话是真的，不含水分。
+Example Usage:
+- **English:** "I ran 10 miles today, no cap."
+- **Chinese:** "我今天跑了10英里，真的，没吹牛。"
 ```
