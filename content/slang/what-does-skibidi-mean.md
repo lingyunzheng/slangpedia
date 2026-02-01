@@ -1,16 +1,21 @@
 ---
 title: "What Does 'skibidi' Mean? (skibidi 是什么意思？)"
 slug: "what-does-skibidi-mean"
-date: 2026-01-29
+date: 2026-02-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Skibidi
-### English Explanation
-"Skibidi" is a term derived from the song "Skibidi" by The Black Eyed Peas, which became popular in the UK in 2007. It often refers to a quick, perfunctory, or slightly comical action or event. It can be used to describe something that's a bit silly or lacks substance. It can also be used to express mild surprise or to imply that something happened very quickly.
-### Chinese Explanation
-“Skibidi” 是由黑眼豆豆乐队（The Black Eyed Peas）在2007年推出的一首歌曲，这首歌在英国非常流行。“Skibidi”这个词常用来形容一种快速的、不重要的、有点滑稽的动作或事件。它还可以用来表示轻微的惊讶，或者暗示某事发生得非常快。
+## Skibidi (English - Chinese)
+**Definition:**
+- **English:** Skibidi is a dance move that became popular in recent years, characterized by lifting one leg up and down in a rhythmic motion, often accompanied by a specific快手 (KuaiShou) dance challenge. It’s also used informally to express excitement or enthusiasm.
+- **Chinese:** Skibidi 是一种近年来流行的舞蹈动作，特征是上下摆动一条腿，通常伴随着快手挑战。它还被非正式地用于表达兴奋或热情。
+**Example Usage:**
+- **English:** "Look at her dance, she totally does the skibidi move!"
+- **Chinese:** “看她的舞蹈，她完全跳的是 skibidi 动作！”
+**Origin:**
+- **English:** The exact origin of the term "skibidi" is unclear, but it gained popularity through various online dance challenges.
+- **Chinese:** “skibidi”这个术语的确切起源不明，但它通过各种在线舞蹈挑战而走红。
 ```
