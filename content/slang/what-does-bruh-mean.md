@@ -1,20 +1,22 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2026-01-29
+date: 2026-02-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Bruh - 布鲁 guy
-**英语含义:**
-Bros, sister, dude. An informal term used as a prefix to address friends, often when adding emphasis or expressing surprise, frustration, or amusement.
-**中文解释:**
-布鲁 guy，姐妹，大哥，兄弟。这是一个非正式的称呼用语，用作前缀来称呼朋友们，经常用来加着重号，表示惊讶、沮丧或乐子。
-Example in Sentence:
-- "BROOOOучer, I just got a promotion at work!" - 布鲁 guy，我刚刚在工作上得到了升职！
-- "Bruh, did you see the score of that game last night? I swear it was impossible!" - 布鲁 guy，你能相信昨晚游戏的比分吗？我发誓这不可能！
-Note: "Bruh" can also be used on its own to express a feelings of exasperation, surprise, or amusement.
+# "Bruh" - A Comprehensive Bilingual Slang Explanation
+## English
+**Definition**: "Bruh" is a versatile interjection used in casual conversation to express a range of emotions, such as irritation, surprise, endorsement, or even to create a casual, laid-back atmosphere.
+**Usage**: It can be used as a response to something unexpected or surprising, as a substitute for "bro" when referring to someone as a peer, or to add emphasis to a statement.
+**Example**: 
+- "Man, it's been raining nonstop for days, bro!" → "Bruh, it's been raining nonstop for days!"
+## 中文
+**释义**：“Bruh”是一个多功能的感叹词，在非正式对话中用来表达各种情绪，如不满、惊讶、赞同，或是为了营造轻松随意的氛围。
+**用法**：它可以用来回应令人惊讶的事情，可以代替“bro”来指称平辈的朋友，或者用来强调某个陈述。
+**例句**：
+- "天都下个不停已经好多天了，兄弟！" → "Bruh, 天都下个不停已经好多天了！"
 ```

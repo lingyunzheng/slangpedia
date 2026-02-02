@@ -1,16 +1,18 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2026-01-30
+date: 2026-02-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Delusion Arc (Delusion 弧)
-### English Explanation
-"Delusion Arc" is a slang term originating from **Weibo** (微博), a popular social media platform in China. The term is often used to describe a series of posts, tweets, or replies where someone becomes increasingly hazier or more confusing in their statements, drifting further away from reality. It is essentially a way to label posts or conversations that become more and more nonsensical or absurd as they progress.
-### Chinese Explanation
-"Delusion 弧" 是微博（中国的社交媒体平台）上流行的一句 slang 话。这个词常用来形容一系列帖子、推文或回复，在这些帖子或回复中，某人的陈述变得越来越模糊或不对劲，越说越偏离现实。简单来说，它是用来描述一段对话或帖子随着对话的深入变得越来越荒谬、缺乏逻辑。
+## Delusion Arc
+**English:** A prolonged period where someone believes in an unrealistic or impossible scenario, often maintained despite evidence to the contrary. It's as if they are stuck in a loop (an "arc") of their own fabricated reality.
+**中文:** 一个长时间的时期，某人坚信着不切实际或不可能的情况，即使有反驳的证据也无法改变这一看法。就像是他们被自己的幻想包围，形成了一个自编自导的“弧线”。
+**Example Usage in Sentence:**
+- English: She was living in a delusion arc, believing she could become a world-famous singer without any talent or training.
+- 中文：她正处在一种幻觉的弧线中，认为自己不用任何才华和训练就能成为世界著名的歌手。
+## Delusion Arc
 ```

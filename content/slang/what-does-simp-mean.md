@@ -1,17 +1,22 @@
 ---
 title: "What Does 'simp' Mean? (simp 是什么意思？)"
 slug: "what-does-simp-mean"
-date: 2026-02-01
+date: 2026-02-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Simp (中文：屌丝；英文：Simp)
-### 中文解释
-屌丝是一种形象化的说法，用来指那些不太有能力、不够魅力，或者没啥突出优点，但是又喜欢花时间、精力去追求比自己优秀的人的人。这些人通常期望通过不懈的努力可以得到心仪对象的注意和爱上自己。
-### 英文解释
-A simp is someone who is characterized by their admiration and obsession with someone they perceive as more attractive or successful than themselves, despite often lacking the social or physical attributes themselves. They typically devote a great deal of time and energy into impressing or winning the affection of their romantic interest, often to the point of being seen as a parody of a stereotypical admirer.
+# Slang Term: Simp
+## English Explanation:
+A "simp" is a slang term often used to describe a man who is overly enamored with or excessively fond of a woman, often to the point of being seen as ridiculous or pathological. They are typically characterized by their obsessive, often one-sided, admiration for a woman, and may seek to flatter, impress, or seek approval from her at all costs.
+## Chinese Explanation:
+“Simp” 是一个俚语，用来形容一个对女性过度倾心或极度喜爱的男人，通常被看作是可笑或病态的。这种人通常会对女性表现出过度的迷恋和仰慕，对他们来说，奉承、打动或者博取女性的好感几乎是生活的全部。
+## Examples:
+1. English: He's such a simp for her!
+Chinese: 他对她真是个典型的"逮"！
+2. English: He's always trying to impress her, doesn't care about anything else.
+Chinese: 他总是试图博得她的欢心，一点也不关心其他事情。
 ```
-This markdown format provides a clear distinction between the Chinese and English formations of "simp," along with explanations of the terms.
+Note: The term "逮" (dǎi) from the Chinese explanation is a colloquial term used in some parts of China to denote a "simp," though it may not be universally understood, and its usage can vary.
