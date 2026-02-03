@@ -1,20 +1,18 @@
 ---
 title: "What Does 'out of pocket' Mean? (out of pocket 是什么意思？)"
 slug: "what-does-out-of-pocket-mean"
-date: 2026-01-28
+date: 2026-02-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Out of Pocket (俚语解释)
-### English
-**Out of Pocket:**
-- **Definition:** When you personally pay for expenses that would normally be covered by someone else, such as when you pay for lunch or a taxi fare.
-- **Example:** "I had to pay out of pocket for the cable bill because my roommate couldn't contribute this month."
-### 中文
-**出Pocket (出腰包):**
-- **释义:** 当你个人支付通常由他人承担的费用时，比如你支付了午餐费或出租车费用。
-- **例句:** "因为这月室友不掏钱，所以我只能自己出Pocket付上网线费了。"
+# Out of Pocket (English/Chinese)
+## English
+- **Definition**: When something costs money that you have to pay for yourself, usually because the person or company doesn't cover the expense.
+- **Example**: "If we want to see that movie, it's out of pocket. The cinema isn't included in the event." → 如果我们想看电影，得自己花钱。影城不包含在此次活动里。
+## 中文
+- **释义**: 当某件事情需要你自己掏腰包支付费用时，通常是因为对方不承担这笔开销。
+- **例句**: "如果我们要看电影，得自己出钱。电影院不在活动包含的范围内。" → 如果我们想看电影，得自己花钱。影城不包含在此次活动里。
 ```

@@ -1,22 +1,18 @@
 ---
 title: "What Does 'slay' Mean? (slay 是什么意思？)"
 slug: "what-does-slay-mean"
-date: 2026-01-29
+date: 2026-02-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Slay (英 vs 中)
+## Slay (English/Chinese)
 ### English
-**Slay** (verb): To completely dominate or excel in something; to perform exceptionally well, usually with a high level of confidence and style.
-*Example:* "She slayed her math test with flying colors."
+**Slay:** To excel or perform exceptionally well in something. It's often used to describe someone who can totally own a situation, crush it, or make it easy, leaving others in awe.
+- *Example:* "She slayed her audition and got the lead role in the school play."
 ### Chinese
-**圈粉** (quan fen) - To attract a lot of fans or followers, often through impressive performances or actions.
-**吊炸天** (diào zà tiān) - Means outstanding, impressive, or extremely good. Often used to describe something that is exceptionally amazing.
-*Example:* "她吊炸天地通过了数学考试。" (Tā diào zà tiān dì tōngguò le shùxué kǎoshì.) - She passed the math exam in an outstanding manner.
-**虐死** (nuè sǐ) - Also can mean to kill someone with joy or excitement, usually in a positive way. When something is so great that it induces extreme happiness or satisfaction.
-*Example:* "这个视频虐死我了！" (Zhège shìpín nuè sǐ wǒ le!) - This video is so amazing that it kills me with joy!
+**slay (宰):** 表示表现得极其出色或在某个场合表现得非常棒，通常用来形容某人能够轻松应对并出色完成任务，让旁观者印象深刻。
+- *例句:* "她在试镜中表现得太出色了，成功获得了学校戏剧的主角角色。"
 ```
-This markdown format provides a clear and concise explanation of the slang term "slay" with its meanings and use in both English and Chinese, including example sentences to illustrate the usage.

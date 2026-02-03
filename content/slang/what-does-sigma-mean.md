@@ -1,28 +1,21 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2026-01-27
+date: 2026-02-03
 tags:
 - slang
 - internet
 - tiktok
 ---
-Sure, here's a markdown format with bilingual slang explanations for "sigma":
 ```markdown
-# Sigma (σ)
-## English
-**Sigma (σ):** In math, it's a symbol used to denote a summation. In slang, it's often used to refer to:
-- A summation of problems or issues, indicating a complex or multifaceted situation.
-- A general indicator of something being "a lot" or "a big deal."
-Example:
-- "The sigma issues from the project didn't help our timeline much."
-- "When there's sigma stress, it's a sign things are getting intense."
-## 中文
-**sigma (σ):** 在数学中，sigma 是一个用来表示求和的符号。在网络用语中，它通常指的是：
-- 一系列问题或问题的总和，表明情况是复杂或多方面的。
-- 通常用来表示“很多”或“大事”的一般指标。
-例子：
-- "项目中的sigma问题很大程度上影响了我们的进度。"
-- "当出现sigma压力时，就意味着情况变得非常紧张。"
+## Sigma (σ) - 苏米 (Sūmǐ)
+**English Explanation:** 
+Sigma, often used in math to represent the sum of a series, has been co-opted by internet slang to mean "sum" or "all." It's used when someone wants to emphasize that a particular action or situation involves the entire group or all components.
+**例句:** 
+- "We need to involve everyone in this project, sigma!" - 我们需要让所有人参与这个项目，苏米！
+**Chinese Explanation:** 
+苏米，在网络用语中，原本指的是数学中表示系列总和的符号。引申为“全”或“所有”的意思，用以强调某种行为或状况涉及到整个团体或所有组成部分。
+**例句：**
+- “我们需要让所有人参与这个项目，苏米！” - 我们需要让所有人参与这个项目，sigma！
 ```
-Feel free to adjust or expand these explanations as needed!
+This explanation provides both the original mathematical meaning of sigma and its colloquial usage in English and Chinese internet slang.

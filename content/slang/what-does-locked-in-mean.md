@@ -1,20 +1,25 @@
 ---
 title: "What Does 'locked in' Mean? (locked in 是什么意思？)"
 slug: "what-does-locked-in-mean"
-date: 2026-01-30
+date: 2026-02-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English: Locked In
-**Definition:**  
-- Being firmly committed to a decision, situation, or course of action, often to the point of not being able to change it easily.
-**Slang Explanation:**  
-- You're "locked in" when you're hella commited to something and ain't gonna back out. It's like you're stuck with your choice, and there's no reversing the decision. Imagine your phone got stuck on a picture you took, you can't swipe left or right to skip it — that's locked in!
-## 中文: 锁定 (Lào dìng)
-**定义：**  
-- 指对某个决定、情况或行动路线进行了坚定承诺，以至于很难轻松改变。
-**俚语解释：**  
-- 当你说自己或某人“锁定”在某个决定或状况中时，意味着这个决定或状况已经确定下来，难以改变。就想手机屏幕被锁在一个你拍的照片上，无论如何滑屏都无法切换到其他照片——这就是“锁定”。
+## English Slang: Locked in
+### Definition
+When something is "locked in," it means that a decision, plan, or situation is finalized and cannot be changed or reversed. It can also refer to a state where someone is fully committed to an idea or a set of circumstances.
+### Example
+- *"I already signed the agreement, so I'm locked in until the contract ends."*
+- *"After settling on the date, the team is locked in to that schedule for the next few months."*
+## Bilingual Slang: 锁定了
+### Definition
+"锁定了" (suò lìng le) is a slang term often used in Chinese to describe a situation where a decision, plan, or condition has been finalized and is no longer open to change. It can also indicate that someone is fully committed to a particular idea or situation.
+### Example
+- *"合同已经签了，接下来就锁定了。(Hetong jingyi qianle, xialia jiu suò lìng le.)*"  
+Translation: "The contract has already been signed, so we're locked in now."
+- *"会议的时间已经确定，我们就锁定了。（Huiyi de shijian jingyi dìngqu le, men jiu suò lìng le.)*"  
+Translation: "The meeting time has been determined, so we're locked in."
+```
