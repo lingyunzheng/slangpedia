@@ -1,24 +1,14 @@
 ---
 title: "What Does 'rizz god' Mean? (rizz god 是什么意思？)"
 slug: "what-does-rizz-god-mean"
-date: 2026-02-03
+date: 2026-02-04
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# "Rizz God" in English and Chinese Slang
-## English
-**Rizz God**:
-- In some internet slang, "rizz" is derived from the term "rezz," originally from the virtual world "Snow Crash" by Neal Stephenson. In this context, "rizz" refers to a unique style, flair, or swag.
-- "God" in this term is a way to elevate someone to an almost divine status.
-- **Example**: "Wow, that person has insane rizz god; you can tell just by looking at them!"
-## Chinese (Pinyin and Translation)
-- **Rizz God** (rì zi gōng):
-- **Rizz (rì zi)**: 在某些网络用语中, "rizz" 来源于Neal Stephenson的小说《雪崩》中的术语“rezz”。在这里，“rizz”指独特的风格、气场或酷炫。
-- **God (gōng)**: 在这个词语中，将某人拔高到近乎神一般的存在。
-- **Example**: “哇，那个人的 rizz god 真的非同凡响，光看一眼就能感觉到独特之处！”
-- **释义**:
-- “Rizz God”表示一个人具有独特的风格或气场，能够让人一眼就认出其非凡之处。
+## Rizz God (滑水神)
+**En:** Rizz God is slang used to describe someone who is exceptionally good at performing in a particular activity, especially skateboarding, surfing, or any other extreme sports. The term "rizz" is derived from "rigz," which is a playful misspelling of "skills" or "grinding." A "Rizz God" is like a deity in that field, mastering the ridiculously impressive tricks and moves that others can only dream of.
+**Zh:** "滑水神"是用来形容某人在特定活动中的表现极其出色，特别是滑板、冲浪或其他极限运动中的佼佼者。“rizz”来源于“rigz”，是对“技能”或“碾压”的一种戏谑式拼写。"Rizz God"就像领域中的神明，掌握着别人只能梦想的超凡技巧和动作。
 ```

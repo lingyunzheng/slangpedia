@@ -1,20 +1,22 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2026-02-02
+date: 2026-02-04
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Ratio (Slang)
+# Ratio
 ## English
-**Ratio** is often used in online communities, especially on social media platforms like Twitter, TikTok, and Reddit. It refers to a form of confrontation where one person engages another in a contest to see whose life (usually social status or perceived success) is more impressive. It's a way to assert dominance or superiority by highlighting one's perceived superiority in various aspects of life, such as wealth, success, or popularity.
-**Example:**
-"Last night, I saw a huge ratio between my old school friends. They were bragging about their high-paying jobs and fancy cars."
+### Meaning
+"Ratio" in slang is often used to describe the quality or competitiveness of someone or something. It essentially asks, "What is the quality of the thing being compared to another?" For example, if someone is described as having "good ratio," it means they are considered attractive or desirable in a particular context, often due to their physical appearance or social status.
+### Example Usage
+- "That guy has some serious ratio."
 ## 中文
-**Ratio** 在线上社区，特别是在社交媒体平台如推特(Twitter)、抖音(TikTok)和Reddit中非常常见。它指的是一种对峙形式，一个人向另一个人挑战，目的是看看谁的生活（通常是指社交地位或受认可的成功）更优越。通过这种方式，人们通过强调自己在生活各个方面的优越感来宣称自己的主导地位或优越性，比如财富、成功或受欢迎程度。
-**例子:**
-"昨晚，我发现我以前的同学之间进行了一场巨大的ratio。他们都在炫耀自己的高薪工作和豪华汽车。"
+### 含义
+“Ratio”在俚语中通常用来描述某人或某事的质量或竞争力。它实际上是在问，“相比其他事物，这个事物的质量如何？”例如，如果有人说某人的“ratio”很好，那就意味着这个人被认为在某个特定的环境下具有吸引力或有吸引力，通常是因为他们的外貌或社会地位。
+### 例句
+- “那个家伙的ratio真不错。”
 ```

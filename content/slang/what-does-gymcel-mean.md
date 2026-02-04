@@ -1,20 +1,18 @@
 ---
 title: "What Does 'gymcel' Mean? (gymcel 是什么意思？)"
 slug: "what-does-gymcel-mean"
-date: 2026-01-29
+date: 2026-02-04
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Gymcel
-**中文释义**：健身房老鼠
-**英文释义**：Gym Rat
-**解释**：
-- **中文**：这是一个非常形象的说法，意指那些热衷于去健身房锻炼的人，通常非常注重健康、身材和生活方式。这些人可能过于迷恋健康锻炼，甚至达到疯狂的程度。
-- **英文**：This term similarly refers to people who are extremely dedicated and obsessed with fitness and exercise, often frequents the gym to the point of being a bit of a obsessive.
-**例句**：
-- **中文**：他最近变成了个健身房老鼠，每天傍晚都去跑步。
-- **英文**：He's become a gym rat lately, going for runs every evening.
+## Gymcel (健身细胞 / 健身细胞)
+- **English**: "Gymcel" is a playful portmanteau combining "gym" and "cell," implying an urge or desire to go to the gym, similar to how a cell might have a biological drive.
+- **Chinese**: "健身细胞" (jiàn shēn sè bāo) 意思是指一种追求健身的强烈欲望，就好像细胞有自我再生或活跃的冲动一样。这个表达通常用于形容那些非常喜欢健身的人，或者是那些渴望健身、为健身而生的人。
+例子：
+- "Jenny is a gymcel, she hits the gym every day even when she’s tired." 
+- "李华是个健身细胞，即使累了一天，也要去健身房锻炼。"
 ```
+This markdown format helps to clearly present the slang term with direct translations and cultural context.

@@ -1,15 +1,25 @@
 ---
 title: "What Does 'mother is mothering' Mean? (mother is mothering 是什么意思？)"
 slug: "what-does-mother-is-mothering-mean"
-date: 2026-02-01
+date: 2026-02-04
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## "Mother is Mothering" (单双杠)
-- **English Slang Explanation:** In this case, "'Mother is mothering' translates to 'The mother is being a mother.' It describes a situation where a woman is taking on the traditionally nurturing and caring role of a mother, often to someone who is not her biological child. This could be auntie-like, where an aunt is looking after her niece or nephew, or simply referring to someone who acts nurturing towards their friends, coworkers, or community."
-- **Chinese Slang Explanation:** "Mother is mothering" (单双杠) 形容一个女性在扮演着母亲的角色，通常是对不是自己亲生的孩子进行照顾和抚养。这个词组可以构成两种情境：一是在没有血缘关系的情况下扮演娘家人的角色，像对待自己的亲侄儿或侄女一样照顾他们；二是指扮演着照顾者和养育者的角色对待自己的朋友、同事或社区成员。
+## "Mother is Mothering" (English and Simplified Chinese)
+### English
+- **Meaning**: When an adult is acting in a nurturing or caring way, typically towards someone younger or less experienced.
+- **Slang Explanation**: "Mothering up" means taking on a protective and caring role, much like a mother would. It can describe someone who is being overly attentive or showing a lot of care.
+### 繁體中文版
+- **意思**：當成年人對某人（通常是較年輕或經驗較少的人）表現出撫養和關心的行為時。
+- **俚語解釋**："母 يا" 意思是承擔保護和支持的角色，就像母親所做的那樣。這可以描述某人非常關注或表現出很多關心。
+### Example Sentences
+**English**:
+- "After her friend broke her heart, she really needed someone to mother her, and her sister was more than happy to mother her up."
+- "Somehow, the CEO decided to mother her staff, and they appreciated it."
+**中文例句**：
+- "當她的朋友心碎時，她急需有人可以母iya，她的姐姐非常樂意母iya她一下。"
+- "不知何故，CEO 决定向她的員工示範母iya的角色，他們非常感激。"
 ```
-In this markdown, I used the term "单双杠" (tān shuāng gàng) as a creative and non-literal translation of "mother is mothering" to keep the format consistent with the instruction, even though it’s not a real Chinese idiom. The explanation clearly breaks down the meaning both in English and Chinese.

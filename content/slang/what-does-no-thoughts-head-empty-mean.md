@@ -1,22 +1,19 @@
 ---
 title: "What Does 'no thoughts head empty' Mean? (no thoughts head empty 是什么意思？)"
 slug: "what-does-no-thoughts-head-empty-mean"
-date: 2026-02-03
+date: 2026-02-04
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 中文：脑袋空空如也
-### 英文：Brain Dead
-**释义：**
-- 中文：脑袋空空如也形容一个人大脑一片空白，完全没有想法或者思路。
-- 英文："Brain Dead" is used to describe someone who is mentally blank or who has no thoughts or ideas.
-**用法示例：**
-- 中文：上课时他完全没听进去，脑袋空空如也。
-- 英文：He didn't listen to the lecture at all; his brain was dead.
-- 中文：他突然间脑袋空空如也，也不知道该怎么办。
-- 英文：All of a sudden, he was brain dead and didn't know what to do.
+## No Thoughts Head Empty
+### English Slang Explanation
+"No thoughts, head empty" is a casual way to describe someone who is feeling extremely bored, uninterested, or as if their mind is completely blank. It can also be used to express a state of confusion or disarray.
+### Chinese Slang Explanation
+“脑袋空空，没想法”用来形容一个人非常无聊、毫无兴趣，或者感觉自己大脑一片空白。也可以表示感到迷茫或一团糟的状态。
+例句：
+- **English:** She has been watching the same movie for hours and her mind is just no thoughts head empty.
+- **Chinese:** 她看了几个小时同一只电影，脑袋空空，没想法。
 ```
-This provides a concise explanation and usage example for the slang phrase "脑袋空空如也" in both Chinese and English.
