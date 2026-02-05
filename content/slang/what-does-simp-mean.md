@@ -1,17 +1,18 @@
 ---
 title: "What Does 'simp' Mean? (simp 是什么意思？)"
 slug: "what-does-simp-mean"
-date: 2026-02-03
+date: 2026-02-05
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Slang: Simp
-**English:**
-A "simp" is a term often used to describe a man who is overly admiring or infatuated with women, often to the point of being seen as silly or foolish. Sepsis is a condition that, in slang, refers to someone who is too smitten to function normally in social situations.
-**Chinese:**
-"损" (sīn) 是一个通常用来形容对女性过度仰慕或迷恋的男性，这种人可能会被视为愚蠢或傻气。损主要是指一个人过于痴迷，以至于在社交场合中无法正常功能。
+## Slang: Sempai (日语:  sempai)
+**English:** Sempai
+**Japanese:** 先輩 (せんぱい, sempai)
+**Explanation:**
+Simp is a close cousin to "sempai," but in different contexts. "Sempai" is a Japanese term used to address someone senior in a company, school, or club. In the English-speaking world, "simp" is a slang term, used almost interchangeably with "stalker," to describe someone who is obsessively or overly interested in someone romantically, often to an extent that it is seen as creepy or mocking. However, the term "sempai" brings a playful and sometimes endearing connotation that "simp" lacks, as it's meant to reflect a mentor-like relationship rather than obsession.
+In essence, while both terms describe a level of interest or admiration, "sempai" usually carries a sense of respect and hierarchy in Japan, whereas "simp" in English is often used in a more casual, sometimes joking, manner.
 ```
-Note: The term "simp" doesn't have a direct equivalent in Chinese slang in its colloquial sense, so the translation provided offers an approximation.
+This markdown format makes it clear and easy to distinguish between the two terms and their use in different languages and contexts.
