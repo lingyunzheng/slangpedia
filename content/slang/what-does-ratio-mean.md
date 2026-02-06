@@ -1,22 +1,16 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2026-02-04
+date: 2026-02-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Ratio
-## English
-### Meaning
-"Ratio" in slang is often used to describe the quality or competitiveness of someone or something. It essentially asks, "What is the quality of the thing being compared to another?" For example, if someone is described as having "good ratio," it means they are considered attractive or desirable in a particular context, often due to their physical appearance or social status.
-### Example Usage
-- "That guy has some serious ratio."
-## 中文
-### 含义
-“Ratio”在俚语中通常用来描述某人或某事的质量或竞争力。它实际上是在问，“相比其他事物，这个事物的质量如何？”例如，如果有人说某人的“ratio”很好，那就意味着这个人被认为在某个特定的环境下具有吸引力或有吸引力，通常是因为他们的外貌或社会地位。
-### 例句
-- “那个家伙的ratio真不错。”
+## Ratio (Ratio)
+**English:**  
+Ratio is often used in contexts where people compare two things, usually with a negative connotation suggesting that the second thing is less desirable or worse than the first. In essence, it's a way of saying, "You're not as good/valuable as something/someone else." For example, if someone is bragging about their achievements, a detractor might say, "You're pure ratio," meaning they feel that person's accomplishments are unimpressive in comparison to something else, often something they believe is superior.
+**Chinese:**  
+"ratio" 通常用于负面情境，表示一个人或事物与另一个相对而言是次等的或不足的。这种用法是用来讽刺或贬低某人的成就或价值，例如，当有人夸耀自己的成就时，批评者可能会说 "纯ratio"，意味着这个人或事的成就与某个更优秀的东西相比显得不那么有价值或重要。
 ```

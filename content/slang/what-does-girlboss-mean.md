@@ -1,27 +1,22 @@
 ---
 title: "What Does 'girlboss' Mean? (girlboss 是什么意思？)"
 slug: "what-does-girlboss-mean"
-date: 2026-02-02
+date: 2026-02-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Girlboss
-## English
-### Definition
-The term "girlboss" is used to describe an ambitious and successful woman who runs a business, often one where she is the leader or primary entrepreneur. It's a blend of "girl" and "boss" that conveys a sense of empowerment and independence.
-### Slang Explanation
-A "girlboss" is more than just a powerful female; she's someone who's making her own path, leading with confidence, and often challenging traditional expectations about women in the workplace. Think of her as the face of modern feminism in business, someone who's not just surviving but thriving.
----
-## Chinese
-### 定义
-"Girlboss" 是用来形容那些拥有雄心壮志并经营自己的业务的女性，通常她是领导者或主要创业人士。这个词是由“girl”和“boss”两个词结合而成的，传达出一种赋权和独立的感觉。
-### 随意解释
-一个“girlboss”不仅仅是位强大的女性；她是在为自己开辟道路，充满自信地领导，常常在传统的职业场所期望中挑战女性的地位。想象一下，她是现代女权主义的面孔，不仅是在生存，更是在茁壮成长。
+## Girlboss
+### English Explanation
+The term "girlboss" is a colloquialism used to describe an empowered, confident, and successful woman who runs her own business or leads with strong leadership skills. It's a blend of "girl" and "boss," emphasizing the female angle and the qualities of a powerful leader. The term gained popularity in the early 2010s, partly due toовых вариантах ее употребления в культуре.
+### Chinese Explanation
+"Girlboss" 是一个口语化的词汇，用来形容一位充满自信、成功且拥有自己企业的女性领导者，或者以强大的领导力带领团队的人。这个词融合了 "girl" 和 "boss" 两个词，强调女性身份以及强大领导者的特质。它在2010年代初期因文化和流行文化的传播而变得流行。
 ---
 ### Example Usage
-1. **English**: “Sara’s new business venture is a prime example of what a girlboss looks like in action.”
-2. **Chinese**: “莎拉的新事业是girlboss的最佳体现。”
+**English:**
+"(getClass) is such a girlboss with her new tech startup."
+**Chinese:**
+"(getClass)真是个女孩老板，靠着她的新科技创业公司就取得了这么大的成就。"
 ```

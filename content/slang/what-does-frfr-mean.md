@@ -1,35 +1,21 @@
 ---
 title: "What Does 'frfr' Mean? (frfr 是什么意思？)"
 slug: "what-does-frfr-mean"
-date: 2026-02-05
+date: 2026-02-06
 tags:
 - slang
 - internet
 - tiktok
 ---
-Sure, here are some French slang explanations in markdown format:
-```markdown
-# French Slang Explanations
-## Flipoter
-- **Meaning:** To hang out, to chill (familiar or casual)
-- **Example:** *On va flipoter au café ce soir.* (We're going to chill at the café tonight.)
-## GG
-- **Meaning:** Very good, great (especially in online gaming contexts)
-- **Example:** *GG, tu as malmené les adversaires!* (GG, you destroyed the opponents!)
-## Mec
-- **Meaning:** Guy, buddy (casual)
-- **Example:** *Mec, ça va? Tu veux essayer cette bière?* (Buddy, how are you? Do you want to try this beer?)
-## Taphou
-- **Meaning:** To search for something (informal)
-- **Example:** *Je taphou sur Internet pour trouver une voiture d'occasion.* (I'm searching online for a used car.)
-## Tchoupi
-- **Meaning:** A very young child (slightly derogatory, cute)
-- **Example:** *Mon cousin est un vrai tchoupi.* (My cousin is really a little kid.)
-## Guagau
-- **Meaning:** Yes (casual)
-- **Example:** *Est-ce que tu viens avec moi?* *Guagau!* (Are you coming with me? Guagau!")
-## Pas mal
-- **Meaning:** Not bad (commonly used to express agreement or to say something is good but not excellent)
-- **Example:** *Tu as écrit un bon essay.* *Pas mal.* (You wrote a good essay. Not bad.)
-```
-This list covers some common French slang terms and their meanings, along with examples of how they are used.
+Sure, it looks like you might have meant "frfr" in French. Let's break it down:
+### Frfr
+**French:**
+- **Signification:** Non / Non du tout
+- **Explication:** "Frfr" est souvent utilisé pour répondre négativement à une question ou pour indiquer que quelque chose n'est pas du tout vrai. C'est une形式化输出如下：
+### Frfr
+**French:**
+- **意义:** 非 / 完全不是
+- **解释:** "Frfr" 经常用来否定一个问题或表示某事根本不是真的。这是一种非正式的表达方式，类似于英语中的 "nah" 或 "nah nah."
+**English:**
+- **Meaning:** No / Not at all
+- **Explanation:** "Frfr" is often used to negate a question or to indicate that something is not true at all. It is an informal way of saying "no" or "nah," similar to how "nah nah" might be used in English.

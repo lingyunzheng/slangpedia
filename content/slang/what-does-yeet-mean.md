@@ -1,21 +1,22 @@
 ---
 title: "What Does 'yeet' Mean? (yeet 是什么意思？)"
 slug: "what-does-yeet-mean"
-date: 2026-02-03
+date: 2026-02-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Yeet (Verb/Phrase - English / 术语 - 中文)
-### English Explanation:
-**Yeet** is an internet slang verb that originated on platforms like TikTok and Reddit, often used to express a sudden, forceful toss or throw. It has expanded beyond this literal meaning to express a wide range of actions or emotions with enthusiasm, such as "I'm excited," "I'm happily throwing away," or "I'm rejecting."
-### Chinese Explanation:
-**YEET**（动词/术语）起源于TikTok和Reddit等平台，最初是一个表示突然、有力地投掷或扔的动作的词汇。这个俚语的含义已经超越了本意，用来表达带着强烈热情的各种动作或情感，比如表示“我感到兴奋”、“我愉快地抛弃”或者“我拒绝”。
-### Examples:
-- *English*: I just received the package, so yeet it into the corner of my room!  
-*Chinese*: 我刚接到这个包裹，所以yeet到房间的角落里！
-- *English*: She did a yeet and got the job she wanted.  
-*Chinese*: 她yeet了一把，得到了她想要的工作。
+## Yeet (英 / 翁)
+### English Explanation
+**Yeet**: 
+This term has multiple uses but generally refers to an act of throwing something, typically with enthusiasm or force, or sending something in a playful, excited manner. It can also be used to express excitement, dismissal, or expulsion. The origin and exact meaning can vary based on the context and community.
+### Bilingual Explanation
+**翁**:
+- *English*: Yeet
+- *Usage*: An expression used to convey enthusiasm, excitement, or forceful action. It can also mean sending something away or dismissing an idea. Context varies the exact meaning.
+- *Example*: "He yeeted the ball into the goal with tremendous force." 或者 "She yeeted the idea as not worth considering."
+---
+In many online communities, especially on social media platforms like Twitter or within subreddits, the term is often used as a meme or to add emphasis to a statement.
 ```
