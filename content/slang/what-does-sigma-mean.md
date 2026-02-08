@@ -1,23 +1,19 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2026-02-07
+date: 2026-02-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Sigma (σ)
-## English
-**Meaning:**
-In a more casual context, "sigma" is often used to refer to a person or group that is highly skilled or knowledgeable, especially in a technical field. It's a way of acknowledging expertise or proficiency.
-**Example Usage:**
-"James is a sigma in cybersecurity—no one knows as much about it."
-## 中文
-**含义:**
-在日常用语中，“sigma”通常用来形容一个人或群体在某个技术领域非常专业或有很深的造诣。这是一种认可其技能或专长的方式。
-**示例用法:**
-“James是网络安全领域的sigma—没有人在这方面知道得比他更多。”
+## Sigma (σ)
+### English
+**Meaning:** Sigma typically refers to a high-performing or elite member within a group or community, often associated with academia, business, or gaming. It can also denote something as a benchmark of excellence.
+**Example:** In a gaming community, a player with a near-perfect win rate might be referred to as "sigma."
+### 中文
+**含义:** Sigma（σ）通常指的是一个群体或社区中的高端成员，往往与学术界、商界或电子竞技领域相关。它还可以表示卓越的标准。
+**例句:** 在一个游戏社区中，胜率接近完美的玩家可能会被称为“sigma”。
 ```
-This format provides both the English and Chinese definitions for "sigma" along with example usage.
+This markdown format provides a clear and concise explanation for both English and Chinese audiences.

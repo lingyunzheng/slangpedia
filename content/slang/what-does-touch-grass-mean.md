@@ -1,22 +1,21 @@
 ---
 title: "What Does 'touch grass' Mean? (touch grass 是什么意思？)"
 slug: "what-does-touch-grass-mean"
-date: 2026-02-07
+date: 2026-02-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## "Touch grass" (英汉谐音俚语解释)
-**English Meaning:**
-- To regret or envy someone else's situation.
-- Used when wishing that one had taken a different path or when lamenting a past decision.
-**Example Usage:**
-- "He regrets not studying abroad now." -> "If only he had touched grass and studied abroad!"
-**Chinglish Coinage:**
-- "触草 (Chù Cǎo)" 
-- This phrase is used in a similar context to express regret or envy. It plays on the English phrase "touch grass" which sounds like "触草" (chù cǎo) in Pinyin.
-**Explanation:**
-- "触草" literally translates to "touch grass." In谐音俚语 (China's wordplay slang), it mimics the English "touch grass" to express regret or a wistful wish for a different path in life.
+## "Touch Grass" in English and Chinese
+### English
+**"Touch Grass"**
+- **Meaning**: An American slang expression used as a euphemism for suicide. It's often used as a very serious or dramatic way to describe feeling so desperate or depressed that one would consider taking their own life.
+- **Example**: "He threatened to touch grass if his boss didn't give him a raise."
+### 中文
+**“触草”**
+- **含义**：这是一个美国俚语，用来作为自杀的委婉表达。通常用来描述人感到非常绝望或抑郁，以至于考虑结束自己的生命。
+- **例句**：如果老板不给他加薪，他真的要自杀。
+**Note**: Use this term with great care, as it refers to a serious and sensitive topic. Be mindful of the context and audience when using it.
 ```

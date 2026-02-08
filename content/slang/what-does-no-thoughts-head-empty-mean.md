@@ -1,19 +1,17 @@
 ---
 title: "What Does 'no thoughts head empty' Mean? (no thoughts head empty 是什么意思？)"
 slug: "what-does-no-thoughts-head-empty-mean"
-date: 2026-02-07
+date: 2026-02-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### 中文解释
-**空脑袋 (kōnɡ nǎoli)**
-- 含义：用来形容一个人脑子空空的，没有主意或者想法。
-- 芝麻街例句：我昨晚熬夜玩手机了，今天头都空了。(Translation: I stayed up late playing with my phone last night, so my head is empty today.)
-### English Explanation
-**Empty Head**
-- Meaning: Used to describe someone who is completely out of ideas or thoughts.
-- Sesame Street Example: I stayed up late playing with my phone last night, so my head is empty today.
+## 中文俗语: 头空空
+**解释:** 意思是脑子里一片空白，没有任何想法或念头。通常用来形容某人在一段时间内没有明确计划或主意，或者大脑处于一种混沌不清的状态。
+---
+## English Slang: Brain Fart
+**Explanation:** Refers to a period where someone's mind is completely blank and they have no thoughts or ideas. It's commonly used to describe a situation where a person is temporarily unable to recall information or come up with a solution, often due to stress or overthinking.
 ```
+This bilingual markdown provides a clear comparison between the Chinese idiom "头空空" and its English slang equivalent "Brain Fart," explaining the usage and context of both expressions.

@@ -1,22 +1,19 @@
 ---
 title: "What Does 'rizz' Mean? (rizz 是什么意思？)"
 slug: "what-does-rizz-mean"
-date: 2026-02-02
+date: 2026-02-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Rizz
-## English
-### Meaning
-Rizz is a slang term commonly used to describe an impressive or cool mannerism, behavior, or appearance. It can also be used to emphasize something being groovy, sick, or totally on point.
-### Example
-- "That new album by Kanye is really rizz!"
-## 中文
-### 含义
-Rizz 是一种俚语，用来形容一些很酷、很帅的动作、行为或外表。它也可以用来强调某样东西很酷、很赞、非常棒。
-### 示例
-- "坎耶的新专辑真的 rizz！"
+## Rizz (英文 / 中文)
+### English
+**Rizz**: This slang term originates from the verb **"to sizzle"**, meaning to move in a cool, sexy, or flamboyant way. It's often used to describe someone's posture, walk, or overall attitude that exudes confidence and style. 
+Example: "Watch the party rizz up when the DJ drops the bassline!"
+### 中文
+**Rizz**: 这个俚语词源自动词“to sizzle”（发出嘶嘶声），意指以 cool、性感或过于夸耀的方式移动。常用来形容某人的姿态、走法或整体态度，展现出自信和风格。
+例句："随着DJ放起低音鼓，看看派对现场会不会燃起到爆！"
 ```
+In this context, "rizz" and its Chinese equivalent are used to describe an energetic and stylish presence or movement, often with an air of confidence.

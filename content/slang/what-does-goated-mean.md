@@ -1,7 +1,7 @@
 ---
 title: "What Does 'goated' Mean? (goated 是什么意思？)"
 slug: "what-does-goated-mean"
-date: 2026-01-31
+date: 2026-02-08
 tags:
 - slang
 - internet
@@ -10,9 +10,9 @@ tags:
 ```markdown
 # Goated
 ## English
-A term used to describe someone or something that is exceptionally impressive, dominant, or outstanding. It's often used to praise someone's performance or skills, especially in sports or on social media. 
-*Example:* "The new dance move from Lil Nas X is seriously goated!"
+**Definition:** A term used to describe someone or something as the best, having a strong sense of superiority or being the pinnacle in a specific category.
+**Example:** "Lil Nap锻能-sizing is goated this season for sure!"
 ## 中文
-一个用来形容某人或某事物极其出色、主导或杰出的术语。通常用于赞扬某人的表现或技能，特别是在体育或社交媒体上。
-*例子:* "Lil Nas X 的新舞步真的超级 goated！"
+**定义:** 一个用来形容某人或某事是最佳的，具有强烈优越感或在特定领域内达到巅峰的词。
+**示例:** "这个季节Lil Nap锻能-sizing 能说是goated了！"
 ```

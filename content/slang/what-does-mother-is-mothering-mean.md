@@ -1,25 +1,17 @@
 ---
 title: "What Does 'mother is mothering' Mean? (mother is mothering 是什么意思？)"
 slug: "what-does-mother-is-mothering-mean"
-date: 2026-02-04
+date: 2026-02-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## "Mother is Mothering" (English and Simplified Chinese)
-### English
-- **Meaning**: When an adult is acting in a nurturing or caring way, typically towards someone younger or less experienced.
-- **Slang Explanation**: "Mothering up" means taking on a protective and caring role, much like a mother would. It can describe someone who is being overly attentive or showing a lot of care.
-### 繁體中文版
-- **意思**：當成年人對某人（通常是較年輕或經驗較少的人）表現出撫養和關心的行為時。
-- **俚語解釋**："母 يا" 意思是承擔保護和支持的角色，就像母親所做的那樣。這可以描述某人非常關注或表現出很多關心。
-### Example Sentences
-**English**:
-- "After her friend broke her heart, she really needed someone to mother her, and her sister was more than happy to mother her up."
-- "Somehow, the CEO decided to mother her staff, and they appreciated it."
-**中文例句**：
-- "當她的朋友心碎時，她急需有人可以母iya，她的姐姐非常樂意母iya她一下。"
-- "不知何故，CEO 决定向她的員工示範母iya的角色，他們非常感激。"
+## Mother is Mothering
+**English Slang Explanation:**
+- "Mother is mothering" is a playful or affectionate way to refer to someone who is taking care of, nurturing, or looking after others, especially in a parental or caregiving role. It can be used to describe a person who is being supportive, protective, or attentive to the needs of others.
+**Chinese Slang Explanation:**
+- "妈妈在‘母鸡护鸡’" 是一种轻松或亲昵的方式，用来形容某个人在照顾、养育或关注他人，特别是在扮演照料者或监护人的角色时。这句话形象地比喻了母亲像护鸡的母鸡一样，无微不至地照顾和保护小鸡，用来描述一个人表现出支持、呵护或对他人需求的关怀。
 ```
+This markdown format allows for easy reading and understanding of both the English and Chinese slang explanations.
