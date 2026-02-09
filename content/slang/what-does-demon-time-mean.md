@@ -1,7 +1,7 @@
 ---
 title: "What Does 'demon time' Mean? (demon time 是什么意思？)"
 slug: "what-does-demon-time-mean"
-date: 2026-02-08
+date: 2026-02-09
 tags:
 - slang
 - internet
@@ -10,7 +10,7 @@ tags:
 ```markdown
 ## Demon Time
 ### 中文解释
-“Demon Time”是一个充满戏谑和夸张意味的说法，常用来形容某人在特定情况下，特别投入或表现出异于常人的状态。就像传说中恶魔操控时间般，让这个时间段变得特别长或特别短，内的表现也特别精彩或特别疯狂。
-### 英文 Explanation
-"Demon Time" is a playful and exaggerated term used to describe a situation where someone becomes extremely focused or表现出特别不凡的状态。It's like the time is under the control of a demon, making that period seem either abnormally long or short, and their performance during that time is exceptionally impressive or chaotic.
+**恶魔时间**：通常指的是情绪特别激动或者心情特别不好的时间段，特别是在输掉比赛或经历失败之后。这段时间内，你可能会变得非常暴躁或生气。
+### 英文解释
+**Demon Time**: This is typically used to describe a period of highly emotional agitation or bad mood, usually following a loss or failure. During this time, you might be exceptionally irritable or angry.
 ```

@@ -1,7 +1,7 @@
 ---
 title: "What Does 'sheesh' Mean? (sheesh 是什么意思？)"
 slug: "what-does-sheesh-mean"
-date: 2026-02-06
+date: 2026-02-09
 tags:
 - slang
 - internet
@@ -9,17 +9,12 @@ tags:
 ---
 ```markdown
 ## Sheesh (English)
-### Definition
-- **Meaning**: Used to express disappointment, frustration, or a slight annoyance.
-- **Example**: "Sheesh, why are you still here? Can't you see it's late?"
-### Bilingual Slang Explanation
-- **English**: Used when you're slightly perturbed or exasperated.
-- **Chinese**: 呸 (Sheesh) - 表达轻微的失望或烦躁的情绪。
-## 呌 (Chinese)
-### Definition
-- **Meaning**: 用于表达轻微的失望或是烦躁的情绪。
-- **Example**: “undy, 你还不走啊？你看现在多晚了。”
-### Bilingual Slang Explanation
-- **Chinese**: 呌 - 表达轻微的失望或烦躁的情绪。
-- **English**: When you're slightly perturbed or exasperated.
+**Definition**: An expression used to show disagreement, disappointment, or exasperation.
+**Usage Example**: "Sheesh, I can't believe I forgot my keys again!"
+**Bilingual Slang Explanation**:
+| English    | Pinyin    | Chinese Equivalent                                      |
+|------------|-----------|---------------------------------------------------------|
+| Sheesh     | Sheē        | 哦天ạ（wō tiān）——意思表示失望或厌烦，类似于“哦天啊”           |
+|            |           | 比如：“Sheesh, 我又忘带钥匙了！” | "Oh天啊, 我又忘带钥匙了！" |
+**Note**: 哦天ạ (wō tiān) isn't a direct translation but is a common way to express exasperation or disappointment in Chinese, with a similar tone and usage to "sheesh" in English.
 ```

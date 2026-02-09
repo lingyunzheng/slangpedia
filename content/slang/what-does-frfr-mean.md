@@ -1,42 +1,37 @@
 ---
 title: "What Does 'frfr' Mean? (frfr 是什么意思？)"
 slug: "what-does-frfr-mean"
-date: 2026-02-07
+date: 2026-02-09
 tags:
 - slang
 - internet
 - tiktok
 ---
-Sure, here is a markdown format with bilingual slang explanations for some French slang:
+Sure, it looks like you want French slang explanations in markdown format. Let's go with a few examples:
 ```markdown
 # French Slang Explanations
-## Franchement
-- **French**: Franchement
-- **English**: Honestly, really, seriously
-- **Explanation**: Used to emphasize a statement or show strong agreement. It's akin to saying "Honestly" or "Really" in English.
-## Pas mal
-- **French**: Pas mal
-- **English**: Not bad, okay
-- **Explanation**: Used to say something is good but not great. It's a mild compliment or expression of approval.
-## Chaud devant
-- **French**: Chaud devant
-- **English**: Pass the heat! (figuratively, meaning "Get the show on the road")
-- **Explanation**: Typically used in theater or public speaking to start a performance, meaning it's time to begin. Figuratively, it can also mean "Let's get started" or "Let's go."
-## Des mains de maître
-- **French**: Des mains de maître
-- **English**: Masterful hands
-- **Explanation**: Used to describe someone who does something with extraordinary skill, literally meaning "hands of a master."
-## Chambouler
-- **French**: Chambouler
-- **English**: To turn upside down, to reorder, to plunge into confusion
-- **Explanation**: Used to express that something has caused a lot of changes, confusion, or chaos.
-## C'est la vie
-- **French**: C'est la vie
-- **English**: That's life, that's how it goes, such is life
-- **Explanation**: Used to acknowledge that a situation is just the way life goes, often to express resignation or acceptance.
-## P'tit salop
-- **French**: P'tit salop
-- **English**: Little bastard (informal and not very polite)
-- **Explanation**: Informal and slightly offensive, used to refer to someone in a derogatory manner.
+## 1. "Le top" 
+- **English Slang Equivalent:** "Awesome" or "Great"
+- **Explanation:** Used to express admiration or approval. For example, "Ce restaurant est le top !" (This restaurant is awesome!)
+## 2. "Les poulets"
+- **English Slang Equivalent:** "Chicken" (as in not brave or adventurous)
+- **Explanation:** Used to refer to someone who is afraid or cowardly. For example, "Ce mec est un poulet" (This guy is a chicken)
+## 3. "Faire la noce"
+- **English Slang Equivalent:** "Casino" or "Gambling" (literally, to do the wedding)
+- **Explanation:** Used in the context of gambling. For example, "Il a perdu tout son argent en faisant la noce." (He lost all his money at the casino.)
+## 4. "C'est quoi cette merde ?" 
+- **English Slang Equivalent:** "What the hell is this?" or "What the f*ck?"
+- **Explanation:** A very rude expression of frustration or anger. It translates literally to "What this shit?" For example, "C'est quoi cette merde de service dans ce restaurant ?" (What the hell is this service in this restaurant?)
+## 5. "Faire des bisous"
+- **English Slang Equivalent:** "Kiss" (as in a quick, friendly kiss, often on the cheek)
+- **Explanation:** Used when someone wants to give a quick kiss. For example, "Dis-moi bonjour à tes parents et fais des bisous." (Say hello to your parents and give them a kiss.)
+## 6. "Faire des courses"
+- **English Slang Equivalent:** "Shopping" (literally, to do the shopping)
+- **Explanation:** Used to refer to the act of grocery shopping or buying things. For example, "Je vais faire des courses pour la cérémonie." (I'm going to do some shopping for the celebration.)
+## 7. "Faut pas kèter"
+- **English Slang Equivalent:** "Don't get too excited" or "Don't get your hopes up"
+- **Explanation:** Used to tell someone not to get too carried away with their expectations. For example, "Faut pas ke taper là-dessus, on ne sait pas encore." (Don't get too excited about that, we don't know yet.)
+---
+These explanations provide a glimpse into the rich world of French slang, its usage, and how it can be compared to English slang expressions.
 ```
-Would you like explanations for any other French slang terms?
+If you have more additions or need further details on these slang terms, feel free to ask!
