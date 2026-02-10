@@ -1,22 +1,22 @@
 ---
 title: "What Does 'ong' Mean? (ong 是什么意思？)"
 slug: "what-does-ong-mean"
-date: 2026-02-09
+date: 2026-02-10
 tags:
 - slang
 - internet
 - tiktok
 ---
-Sure! Here's a bilingual explanation of the slang "ong" in markdown format:
 ```markdown
-# Ong (Chinese slang)
-## Explanation in English:
-**Ong** is a fashionable and informal term used primarily among young people in some regions of China. It translates roughly to "cool" or "awesome" in English. It conveys approval or admiration for someone's style, actions, or overall demeanor.
-## Explanation in Chinese (with pinyin):
-**ong** (ōng) 是中国部分地区年轻人使用的流行且非正式的用语。它相当于英文中的“酷”或“ awesome”，用来表达对某人风格、行为或整体风范的认可或赞赏。
----
-Example sentences:
-- 这个衣服真的**ong**！ (This outfit is really **ong**!)
-- 你的发型太**ong**了！ (Your hair style is too **ong**!)
+## Ong
+### English
+**On		
+ETYM Originally meant **dizzy** or **awed**, it now often conveys a sense of **amazement** or **awe**. It can also be used to signal **disbelief** or **shock**. For example:
+- "That performance was on!"
+- "He saw a ghost on when he looked in the haunted mirror."
+### Chinese (简体字)
+**杠
+用法：原本表示头晕或敬畏，现在常用来表达震撼或惊叹，也可以表示惊讶或震惊。
+- “他的表演真是杠杠的！”
+- “他看到镜子中的幽灵，直接杠了。”
 ```
-Feel free to modify or expand this explanation as needed!
