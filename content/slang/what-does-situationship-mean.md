@@ -1,20 +1,17 @@
 ---
 title: "What Does 'situationship' Mean? (situationship 是什么意思？)"
 slug: "what-does-situationship-mean"
-date: 2026-02-10
+date: 2026-02-11
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Situationship
+# Situationship (情侣关系的简称 / Qingluo Guanxi de Jiancheng)
 ## English
-A situation where a couple is involved in a casual or uncertain relationship without officially dating or defining their relationship status. It's like when you're "too close to be just friends" but not quite committed to being more than friends.
-**Example:**
-"I think it's a situationship with Sarah; we're spending a lot of time together, but neither of us has said we're exclusive."
-## 汉语
-一种情侣之间处于非正式或不确定关系的状态，既不是正式的情侣，也没有明确关系的定义。就像是“距离成为朋友只差一步”但又不是完全承诺超越朋友关系的情况。
-**示例：**
-“我觉得和莎拉之间是一种 situationship，我们花了很多时间在一起，但我们俩都没说要正式成为一对。”
+**Situationship** is a playful term that describes a kind of relationship that is neither strictly a dating relationship nor a friendship. It's often characterized by blurred lines, where two people are comfortable with each other but aren't quite committing to a romantic relationship. Think of it as a place between friends and lovers.
+## Chinese
+**情侣关系的简称 Qingluo Guanxi de Jiancheng**，直译为“情侣关系的简称”，通常用来描述一种既不是严格意义上的恋爱关系也不是纯粹的友谊的关系。这种关系的界限比较模糊，两个人可以很亲密但又不完全迈出关系的那一步。可以说是朋友和恋人之间的过渡阶段。
 ```
+This markdown format provides a clear structure and easy-to-read format for the bilingual slang explanation.

@@ -1,22 +1,22 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2026-02-09
+date: 2026-02-11
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Delusion Arc (Delusion Arc)
-**Chinese:** 幻觉弧线 (Huànjué Húxiàn)  
-**English:** Delusion Arc
-### Chinese Explanation
-在某些网络用语中，"幻觉弧线"（Huànjué Húxiàn）通常用来形容一个明显的、看起来有些夸张的或完全虚构的心理轨迹或是思维方式。这个词常常用于描述一个人的思维方式或决策过程，这些问题源于他们的主观想法或偏见，而不是基于现实的数据或事实。
-### English Explanation
-The term "Delusion Arc" is used in internet slang to refer to a clearly exaggerated or entirely fabricated psychological trajectory or thought process. It often describes a person's way of thinking or decision-making that is based on their subjective perceptions or biases, rather than on factual data or reality.
-### Usage Examples
-- 在他看来，他所有朋友对他的批评都只是嫉妒，这是个明显的幻觉弧线。 (In his view, all his friends' criticisms are just jealousy. This is a clear delusion arc.)
-- 她完全忽略了新闻报道，只相信自己的想法，形成了一个自我强化的幻觉弧线。 (She completely ignored the news reports and only believed her own thoughts, forming a self-reinforcing delusion arc.)
----
-This markdown format can be easily integrated into various documents or websites to provide a quick and accessible explanation of the term "Delusion Arc" in both Chinese and English.
+# Delusion Arc
+## English
+**Delusion Arc:**
+A term often used in gaming communities, especially among players of strategy or RPG games. It refers to a scenario where a player or a group of players think they are making significant progress or achieving victory, only to later realize their strategy was flawed or illusory, leading to defeat or a major setback. It's like walking into the sun, unable to see the actual path ahead clearly due to the false impressions created by their actions.
+### Example Sentence:
+"After hours of what seemed like solid progress, our team suffered a devastating defeat. It was a classic case of a Delusion Arc."
+## 中文
+**幻象弧线 (Delusion Arc):**
+一个常被用于游戏社区，尤其是在策略或角色扮演游戏中的术语。指当玩家或一群玩家觉得他们取得了显著的进展或胜利，但后来发现他们的策略是有缺陷或虚幻的，导致失败或遭受重大挫折的情况。就像是走入日光中，因为虚假印象的影响而看不清前方的实际路线。
+### 示例句子:
+“经过数小时看上去稳定的进展，我们的团队却遭受了毁灭性的失败。这正是典型的幻象弧线。”
+```

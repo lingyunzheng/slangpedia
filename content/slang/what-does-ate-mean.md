@@ -1,14 +1,18 @@
 ---
 title: "What Does 'ate' Mean? (ate 是什么意思？)"
 slug: "what-does-ate-mean"
-date: 2026-02-09
+date: 2026-02-11
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Ate (English/Chinese)
-- **English**: "Ate" is casually used to refer to a girl or woman in a friendly or affectionate manner. It's a less formal way to address a female peer or friend. 
-- **Chinese**: "Ate"（阿Tel）通常用来称呼女性朋友或同辈，是一种较为亲切和友好的称呼方式，类似于英文中的“Sis”或“Bud”。
+# "Ate" Slang Explanations
+## English
+- **Meaning:** To eat something, often in a casual or slang way.
+- **Example Sentence:** I ate a whole pizza by myself!
+## Chinese
+- **含义:** 吃某东西，通常以一种随意或俚语的方式。
+- **例句:** 我一个人吃了一整个比萨饼！
 ```

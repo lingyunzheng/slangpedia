@@ -1,17 +1,18 @@
 ---
 title: "What Does 'seethe' Mean? (seethe 是什么意思？)"
 slug: "what-does-seethe-mean"
-date: 2026-02-09
+date: 2026-02-11
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### 英文：seethe
-**中文：气得发炎**
-**解释：**
-- **英文**：To seethe means to be extremely angry or annoyed, to the point where one's frustration is visibly apparent. People who seethe may make angry noises, have a tense body language, or even behave aggressively.
-- **中文**：气得发炎形象地描述了一个人非常生气或烦躁到极点的状态。处于这种状态的人可能会发出愤怒的声音，表现出紧张的身体语言，甚至可能会表现出攻击性的行为。"气得发炎" 这个说法暗示了这种情绪的强烈程度，就像身体某个部位发炎一样，充满了不适和动荡。
+## Seethe
+### English
+**Definition:** To seethe means to be extremely angry and to express it in a way that is often unfairly or irritably. It can also mean to be very annoyed or to have a noticeable anger inside, often without external display at first.
+**Example:** "Ever since John found out he wasn't invited to the party, he's been seething over it."
+### 中文
+**定义:** "Seethe" 意指极其生气并在行为上体现出来，这种行为通常是不公平或不满地表现出来。此外，它还可以表示非常恼火，或者内心感到明显的愤怒，但这种愤怒起初可能不会表现在外。
+**例句:** "自从约翰得知自己没有被邀请参加聚会以来，他一直在暗自生闷气。"
 ```
-This markdown structure explains the term "seethe" in both English and Chinese, providing a clear comparison and example for each language.
