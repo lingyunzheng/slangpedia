@@ -1,32 +1,27 @@
 ---
 title: "What Does 'lore' Mean? (lore 是什么意思？)"
 slug: "what-does-lore-mean"
-date: 2026-02-09
+date: 2026-02-12
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Explanation: Lore
-- **English**: "Lore"
-- **Chinese**: "lore"（lore）
-## English Explanation
-"Lore" is often used informally to refer to stories, legends, or bits of knowledge that are passed down through generations or in certain cultural or subcultural groups. It can also refer to expertise or experience in a particular field.
-### Example Usage
-- The group of adventurers shared their lore about the ancient artifacts.
-- You need to understand the local lore to survive in this new environment.
-## Chinese Explanation
-"lore"用来指代代代相传的故事、传说或某文化圈内流传的知识碎片。也可以指某个领域的专业技能或经验。
-### 示例用法
-- 这个冒险小队分享了他们关于古董的知识。
-- 为了在这个新环境中生存下去，你需要了解当地的 lore。
---- 
-In gaming, "lore" often specifically refers to the in-game background stories, histories, and settings.
-## Gaming Context
-- **English**: In the game, the lore reveals the story behind the mysterious events that have unfolded.
-- **Chinese**: 在游戏中，lore揭示了那些神秘事件背后的故事情节。
-### 游戏示例
-- The game's lore includes a detailed history of the world and its magical powers.
-- Players often explore the lore to unlock secrets and better understand the game world.
+## Lore Slang Explanation
+**English:** 
+"Lore" generally refers to the collection of stories, legends, and historical knowledge of a particular culture or society. In a more contemporary context within video games and fantasy settings, lore often encompasses all the background information and narratives that make a world feel rich and immersive.
+**Slang Explanation:**
+- *Lore* can be slang for a *figment of imagination* or *make-believe*, especially in contexts where detailed backstories and mythologies are crucial for the story or game. It's like when someone is spinning a yarn that's part of a complex web of tales and legends, but it's not necessarily based on reality.
+**Example Sentence in English:**
+"His latest story was just lore, full of improbable adventures and magical creatures, but it was thrilling to hear."
+**Transliteration into Simplified Chinese:**
+- *Lore* 可以被直译为“传说”或“神话”，尤其是在描述那些基于详尽背景和叙事的虚构故事的情境中。它通常指的是虚构的、充满想象的故事，尤其是当这些故事构成一个复杂的故事网络的一部分时。
+**Example Sentence in Simplified Chinese:**
+- “他最新的故事只是一个传说，充满了不可信的冒险和神奇的生物，但听来很刺激。”
+**Transliteration into Traditional Chinese:**
+- *Lore* 可以直譯為「傳說」或「神話」，尤其是在描述那些基於詳盡背景和敘述的虚构故事的情境中。它通常指的是虚构的、充滿想像的故事，尤其是當這些故事構成一個複雜的故事網際網路的一部分時。
+**例句在Traditional Chinese:**
+- “他最新的故事只是一個傳說，充滿了不可信的冒險和神奇的生物，但聽來很刺激。”
 ```
+This markdown format helps in clearly explaining and translating the term "lore" and its slang usage into both Simplified and Traditional Chinese.

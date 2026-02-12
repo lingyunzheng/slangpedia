@@ -1,20 +1,16 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2026-02-10
+date: 2026-02-12
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Copium (英) VS Copium (中)
-### Copium (英)
-**Definition**: Copium is a playful and informal term often used to describe a strong or excessive use of caffeine, similar to how the term "beyond beans" might be used. It's like saying you're completely energized, possibly to the point of being over-the-top or even jumpy.
-**Example Usage**: "I stayed up all night studying for exams, might as well call it Copium today."
-### Copium (中)
-**定义**: Copium 是一个轻松且非正式的术语，常用来形容极度摄入咖啡因的状态，类似于说“过量咖啡因”或“超强提神”。就像是完全精力充沛，可能达到过于狂躁或者紧张的地步。
-**例句**: "昨晚为了考试复习到天亮，今天就叫它Copium吧。"
----
-Copium，不仅是一种对咖啡因状态的描述，还是一种轻松表达自己极度兴奋或能量充足的方式。
+## Copium
+**English Slang Explanation:**
+Copium is a humorous and often戏谑的俚语 term often used to refer to what is commonly known as caffeine. It takes the word "coffee" and adds the suffix "-ium," giving it a sci-fi or periodic table feel, making it sound like it's a super ingredient or substance. The term is commonly used in casual settings to add a playful or ironic tone to conversations about staying awake or getting that midday energy boost.
+**Chinese 谐音俚语解释:**
+"copium" 是一个具有戏谑意味的俚语，用来指代我们常见的咖啡因。它通过将“咖啡”（coffee）一词加上后缀 “-ium”，使其听起来有科幻或元素周期表的感觉，仿佛这是一种超级成分或物质。这个术语常用于轻松场合，用来给讨论保持清醒或获得午后能量补充时增添一种戏谑或讽刺的语气。
 ```

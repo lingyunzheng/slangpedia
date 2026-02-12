@@ -1,22 +1,24 @@
 ---
 title: "What Does 'ong' Mean? (ong 是什么意思？)"
 slug: "what-does-ong-mean"
-date: 2026-02-10
+date: 2026-02-12
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Ong
-### English
-**On		
-ETYM Originally meant **dizzy** or **awed**, it now often conveys a sense of **amazement** or **awe**. It can also be used to signal **disbelief** or **shock**. For example:
-- "That performance was on!"
-- "He saw a ghost on when he looked in the haunted mirror."
-### Chinese (简体字)
-**杠
-用法：原本表示头晕或敬畏，现在常用来表达震撼或惊叹，也可以表示惊讶或震惊。
-- “他的表演真是杠杠的！”
-- “他看到镜子中的幽灵，直接杠了。”
+## ONG (Both Languages)
+### Simplified Chinese: 哥们 (Gēmen)
+- **Definition**: A term of endearment or camaraderie, often used to refer to male friends or close male acquaintances.
+- **Usage**: This term is commonly used in casual settings, such as social gatherings, sports events, or when hanging out with a group of friends.
+- **Slang Explanation**: Think of it as a more informal way to say "buddy" or "mate" in English.
+### Traditional Chinese: 哥们 (Gēmen)
+- **Definition**: A term of endearment or camaraderie, often used to refer to male friends or close male acquaintances.
+- **Usage**: This term is commonly used in casual settings, such as social gatherings, sports events, or when hanging out with a group of friends.
+- **Slang Explanation**: Think of it as a more informal way to say "buddy" or "mate" in English.
+### English: OG
+- **Definition**: Originally standing for "Original Gangster," this term refers to someone who is a pioneer, founder, or long-time member of a specific group, culture, or set.
+- **Usage**: The term is used to identify someone who has been part of a community, group, or scene for a long time, often with a sense of respect.
+- **Slang Explanation**: Think of it as a way to acknowledge someone's long-standing involvement and credibility within a particular group or community.
 ```
