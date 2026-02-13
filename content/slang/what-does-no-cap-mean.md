@@ -1,18 +1,14 @@
 ---
 title: "What Does 'no cap' Mean? (no cap 是什么意思？)"
 slug: "what-does-no-cap-mean"
-date: 2026-02-09
+date: 2026-02-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# No Cap
-## English
-**Meaning:** This phrase is used to indicate that what is being said is true, honest, or not exaggerated. It can also be used to say that something is ridiculous or not to be taken seriously.
-**Example:** "No cap, I got a free ticket to the concert. No way, you're just joking!"
-## 汉语
-**含义:** 这个短语用来表明所说的话是真实的、诚实的或没有夸张的。它也可以用来表示某事是荒谬的，不值得认真对待。
-**例句:** "No cap，我有免费演唱会的门票。不可能，你是在开玩笑！"
+## "No Cap"
+- **English Explanation**: This phrase is used to acknowledge that something said is absolutely true or accurate. It’s often used to show that the speaker is being genuine or serious about their statement. It can also be used to say something in an unfiltered or blunt manner.
+- **Chinese Explanation**：这个词组用来表示所说的话绝对是真实的或准确的。通常用来表明说话人是真诚或认真的。它也可以用来以坦率或直接的方式说出一些话。
 ```

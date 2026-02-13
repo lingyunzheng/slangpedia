@@ -1,16 +1,19 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2026-02-12
+date: 2026-02-13
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Copium
-**English Slang Explanation:**
-Copium is a humorous and often戏谑的俚语 term often used to refer to what is commonly known as caffeine. It takes the word "coffee" and adds the suffix "-ium," giving it a sci-fi or periodic table feel, making it sound like it's a super ingredient or substance. The term is commonly used in casual settings to add a playful or ironic tone to conversations about staying awake or getting that midday energy boost.
-**Chinese 谐音俚语解释:**
-"copium" 是一个具有戏谑意味的俚语，用来指代我们常见的咖啡因。它通过将“咖啡”（coffee）一词加上后缀 “-ium”，使其听起来有科幻或元素周期表的感觉，仿佛这是一种超级成分或物质。这个术语常用于轻松场合，用来给讨论保持清醒或获得午后能量补充时增添一种戏谑或讽刺的语气。
+# Copium (N)
+## English Explanation
+"Copium" is a slang term derived from the combination of "cop" (police) and "dope." It's used to describe a situation or environment where the police are present in such high numbers that it feels as if they are "high" or overly enthusiastic, usually in a way that seems excessive or a bit ridiculous.
+## Chinese Explanation
+"Copium" 是一个从 "cop"（警察）和 "dope"（毒品）结合而来的俚语。用来形容警察人数异常多的情况，感觉就像他们“很嗨”或者过于兴奋，通常显得有些过度或者滑稽可笑。
+## Example Usage
+1. **English:** The parade was so crowded with police that some people joked it was a massive dose of copium.
+2. **Chinese:** 游行现场警察太多了，有人开玩笑说像是一种巨大的copium。
 ```

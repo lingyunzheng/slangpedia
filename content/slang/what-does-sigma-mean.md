@@ -1,7 +1,7 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2026-02-12
+date: 2026-02-13
 tags:
 - slang
 - internet
@@ -10,11 +10,12 @@ tags:
 ```markdown
 # Sigma (σ)
 ## English
-**Sigma** is a term often used in mathematics and statistics to denote the summation of a series of numbers or the standard deviation of a data set. However, in the realm of slang and internet culture, the term takes on a different meaning.
-- **Definition**: A sigma individual is someone who is perceived to be excessively concerned with details, often to the point of being overly critical or obsessive.
-- **Example**: "He's super sigma about his coffee beans; he wouldn't drink anything less expensive than $12 per pound."
+**Definition:** A letter in the Greek alphabet, commonly used in mathematics to denote a sum or a standard deviation.
+**Slang Explanation:** "Sigma" is often used in tech circles or gaming communities to refer to someone or something that's perfect or highest in quality. For example, if someone gets a 'sigma rarity' item in a game, it would mean it's the rarest and best version available.
+**Example Usage:** "That new model of phone is a sigma rarity, super expensive and rare!"
 ## 中文
-**Sigma**（σ）一词在数学和统计学中通常用来表示一系列数字的求和，或者表示一组数据的标准偏差。但在网络文化和俚语中，这个词的意思有所不同。
-- **定义**：sigma 个人指的是被认为过度关注细节的人，有时甚至到了苛求和执著的地步。
-- **例句**："他对咖啡豆非常 sigma，只喝价格至少12美元一磅的咖啡。"
+**定义：**是希腊字母表中的一个字母，在数学上通常用来表示求和或标准偏差。
+**俚语解释：**“Sigma”通常在科技圈或游戏社区中用来指代完美或质量最高的东西。例如，如果有人获得了一件游戏中“sigma 稀有度”的物品，那就意味着它是所有版本中最稀有、最好的一种。
+**使用示例：**“那款新手机是 sigma 稀有度的，太贵了，真的很难找到！”
 ```
+This markdown format provides clear, concise, and slightly stylized explanations for the term "sigma" in both English and Chinese, giving an understanding of how it's used in modern slang.
