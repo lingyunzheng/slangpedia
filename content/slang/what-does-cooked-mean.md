@@ -1,18 +1,22 @@
 ---
 title: "What Does 'cooked' Mean? (cooked 是什么意思？)"
 slug: "what-does-cooked-mean"
-date: 2026-02-13
+date: 2026-02-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Term: "Cooked" (American English - Chinese)
-## American English Explanation:
-- **Meaning:** If something is "cooked," it means it has been fixed or done in a way to make it favorable for a particular person, often implying an unfair advantage.
-- **Example Usage:** "The referee was cooked by the team owner, so the game was rigged."
-## Chinese Explanation:
-- **意思:** "煮熟的"通常指某事已经被人为操控，对某人有利，常常暗示不公平的优势。
-- **例句:** "比赛被老板操控了，裁判是煮熟的，所以比赛不公平。"
+## 英文释义：Cooked
+### 烹饪过的 / 被烧焦的
+- **Explanation:** 
+- *cooked*: This term can mean something that has been prepared or fixed, often in a context where the speaker is suggesting someone is in trouble or about to be caught. For example, "He was cooked when the evidence was found," meaning he was in trouble because the evidence was against him.
+- *被烹饪过的 / 被烧焦的*: 这个词既可以指已经被准备好的事物，也可以比喻某人处于困境中，即将被发现或受到处罚。比如，“他被烹饪过了，因为证据被找到了”，意味着因为有了证据，他处于被发现或惩罚的危险之中。
+## 用法示例：Usage Examples
+- 提示：以下是一些使用这些短语句的示例。请根据具体语境酌情使用。
+- 英文：They had him cooked for the crime, and he knew it.
+- 中文：他们已经铁证如山，可以把这件事栽在他身上了，他心里也很清楚。
+- 英文：The cake is all cooked so we can finally eat it tonight.
+- 中文：蛋糕已经做好了，我们今晚终于可以吃了。
 ```

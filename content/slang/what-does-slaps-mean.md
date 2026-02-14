@@ -1,20 +1,22 @@
 ---
 title: "What Does 'slaps' Mean? (slaps 是什么意思？)"
 slug: "what-does-slaps-mean"
-date: 2026-02-11
+date: 2026-02-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Slaps (noun)
-**English Slang:**
-A quick, sharp tap on the body, often used to express disapproval, emphasis, or as a playful gesture. 
-**Chinese 谐音梗 ( Xiéyífeng) "Playful Sound Similarity":**
-"拍" (pāi) - This word means "to slap" or "to hit". In slang, people use it to describe a terse, sharp action, similar to the idea of slapping. It can also be used in social media to indicate a forceful or emphatic response or action.
-**Example Usage:**
-- English: "Slaps the table in frustration."
-- Chinese: “拍桌子” (pāi zhuōzi) - This literally means "slap the table", but is used to mean getting very angry and hitting the table.
+### Slaps
+**English:** A physical gesture where one strikes another with the hand.
+*Examples:*
+- "He really laid a slaps on me for not finishing the project on time."
+- "She gave him a good slaps for throwing the ball at her window."
+**Pinyin for Chinese:** 拍 （钯）
+**Chinese Slang Explanation:**
+- **拍**：指的是用力拍打或打击某人。类似于“打”或者“拍”，但侧重于用掌心进行快速打击的动作。
+- *例句：*
+- “他因为项目迟交真的给了我一拍。” (Tā yīng wèi zhùmù chí jiāo, zhēn de gěi gerén yī pāi.) - He really gave me a slap because the project was late.
+- "她因为被球砸窗户，给了他狠狠一拍。” (Tā wèi zuì bèi qiú zhama huāngtāng, gěi le tā hèn hěn yī pāi.) - She hit him hard after the ball hit her window.
 ```
-In this explanation, the Chinese term "Xiéyífeng" (谐音梗) is used to describe how the Chinese language can use similar sounds to convey similar meanings, and "拍桌子" (pāi zhuōzi) is given as an example of how the action of slapping can be expressed in a similar manner in Chinese.

@@ -1,28 +1,19 @@
 ---
 title: "What Does 'lit' Mean? (lit 是什么意思？)"
 slug: "what-does-lit-mean"
-date: 2026-02-12
+date: 2026-02-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Lit (English)
-**Definition:** 
-- Super cool or energized, often used to describe a person, place, or situation that is exciting or fashionable.
-**Bilingual Explanation:**
-- 火焦急（huǒ jiāo jí）: 形容某人、某事或某地非常酷、时髦或者充满活力。通常用于形容令人兴奋或者潮流的事物。
-**Example Usage:**
-- She's so lit at the party! → 她在派对上超级火焦急！
-- That new bar downtown is lit! → 市中心新开的那个酒吧非常火焦急！
----
-## Lit (Chinese)
-**定义：**
-- 常用来形容人、地点或情况很酷、时髦或者充满活力，通常表示某事物令人兴奋或者潮流。
-**双语解释：**
-- 火焦急（huǒ jiāo jí）：形容某人、某事或某地非常酷、时髦或者充满活力。通常用于形容令人兴奋或者潮流的事物。
-**使用示例：**
-- 她在派对上超级火焦急！ → She's so lit at the party!
-- 市中心新开的那个酒吧非常火焦急！ → That new bar downtown is lit!
+## Lit (English / Chinese)
+### English
+**Lit:** This term is often used to describe someone or something that is exciting, cool, or energetic. It can also refer to a party or event that is very lively and fun. Think of it as the modern equivalent of something being "on point" or "awesome."
+### Chinese
+**lit (lit):** 这个词经常用来形容某人或某事物很酷、很精彩或充满活力。它也可以指一个非常热闹有趣的聚会或活动。可以说这是现代对某样东西“很赞”或“很酷”的另一种表达方式。
+例句:
+- She's the queen of lit events in our city. (她是我们城市里最闪耀的派对女王。)
+- The night was totally lit with music and dancing. (那个夜晚因为音乐和舞蹈而变得十分精彩。)
 ```

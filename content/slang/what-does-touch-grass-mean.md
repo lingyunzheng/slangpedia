@@ -1,20 +1,17 @@
 ---
 title: "What Does 'touch grass' Mean? (touch grass 是什么意思？)"
 slug: "what-does-touch-grass-mean"
-date: 2026-02-12
+date: 2026-02-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang: "Touch grass"
-## English Explanation
-**Meaning:** To express regret or wish that one could go back in time or undo a past action. It can also be used to express a desire to avoid a difficult or uncomfortable situation.
-**Example Usage:**
-- "I really wish I hadn't said those things to him. I should have touched grass."
-## Chinese Explanation
-**含义：** 表达后悔或希望能回到过去并纠正某个过去的行动。此外，这句话也可以用来表示想避免一个棘手或令人不舒服的情况。
-**使用示例：**
-- "我真后悔当时对他说了那些话。我应该碰一碰草来改变一下。"
+## "Touch Grass" 苦逼挣钱
+### English Explanation
+**Touch grass**: This phrase is an informal, humorous way to express that someone is in a very desperate or unfortunate financial situation. It typically implies that the person is working so hard or making so little money that they are constantly on the brink of being unable to pay bills or buy basic necessities.
+### Chinese Explanation
+**苦逼挣钱 (kǔbī zhuàngqín)**: 这个短语用来形容一个人非常绝望或者处于非常糟糕的经济状态。通常情况下，这意味着这个人为了赚钱工作非常辛苦，以至于经常处于付不起账单、买不起基本生活用品的边缘。这是一个轻松幽默的说法，但在实际情况下显得不太乐观。
 ```
+This explanation helps to bridge the gap between English and Chinese slang, providing both contexts and translations.

@@ -1,16 +1,19 @@
 ---
 title: "What Does 'vibe check' Mean? (vibe check 是什么意思？)"
 slug: "what-does-vibe-check-mean"
-date: 2026-02-10
+date: 2026-02-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Vibe Check (普通话： vibe check)
-- **英文释义**:
-A phrase used to ask if everyone is on the same page or to gauge the emotions and reactions of people in a group. It's often used in social settings, online chats, or conversations to ensure that everyone feels comfortable and that the atmosphere is positive.
-- **中文释义**:
-一种问句，用于确认大家都在同一频道上，或者衡量小组内的情绪和反应。它经常用于社交场合、在线聊天或对话中，以确保每个人感到舒适，气氛是积极的。
+## Vibe Check 🌆
+### English Explanation:
+A quick assessment or a gesture to see if the atmosphere or mood is right, often used to make sure everyone agreeable with one another. It's like checking the vibe or energy of a group to see if it's suitable for what you or someone else wants to do next.
+### Chinese Explanation:
+快速评估一下氛围或 Mood 是否合适，通常用于确认每个人是否都赞同接下来要做的事。它就像是检查一下小组的氛围或能量，看是否适合进行其他活动。
+Example Usage:
+- "We're going to tell a joke. Vibe check."
+- "我们马上要讲个笑话。 vibe check。"
 ```
