@@ -1,18 +1,18 @@
 ---
 title: "What Does 'sus' Mean? (sus 是什么意思？)"
 slug: "what-does-sus-mean"
-date: 2026-02-10
+date: 2026-02-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Suspicious (sus)
-## English:
-*sus* is an internet slang term that originated from the acronym "suspicious." It is used to describe something or someone that seems doubtful, odd, or not quite right. Often used in online communities to question credibility or authenticity.
-Example: "That post is so sus, I don't trust it."
-## 中文:
-*sus* 是一种源于“suspicious”（可疑）的网络俚语。它被用来描述一些看似可疑、奇特或不太对劲的事物或人。常用于在线社区中质疑其可信度或真实性。
-例句：“这个帖子好可疑，我不信任它。”
+# "Sus" Slang
+## English Explanation
+**"Sus"** is an internet slang term that originated from the game "Among Us" but has since become widely used in online communities and social media. Its core meaning is "suspected" or "suspicious," implying that someone or something seems questionable or odd without direct proof. It's often used to describe a feeling of unease or suspicion towards a person or situation.
+- **Example**: "I think John is sus. He's been lying a lot lately."
+## Spanish Explicación
+**"Sus"** es un término de internet que originariamente proviene del juego "Among Us" y se ha utilizado ampliamente en comunidades y plataformas de redes sociales. Su significado principal es "reincidente" o "sospechoso," es decir, que alguien o algo parece estar dudoso o extraño sin tener pruebas directas. Se utiliza a menudo para expresar una sensación de inquietud o suspicacia hacia una persona o situación.
+- **Ejemplo**: "Creo que Juan es sus. Ha estado mintiendo bastante últimamente."
 ```

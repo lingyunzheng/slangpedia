@@ -1,16 +1,14 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2026-02-14
+date: 2026-02-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sigma
-### English
-**Sigma**: Often used in online gaming communities, Sigma (often abbreviated as σ) refers to a type of player who is known for micro-optimization and aiming for the highest possible efficiency in their gameplay. Sigma players frequently use complex tactics and strategies to eke out small advantages over their opponents. They are also sometimes associated with the concept of "Sigma Theory," which suggests that these players achieve top-tier performance through meticulous planning and execution.
-### 中文
-**Sigma**: 经常在网络游戏社区中被提及，Sigma（通常缩写为σ）指的是那些擅长微观优化和追求游戏内最高效率的玩家。Sigma玩家通常会使用复杂的战术和策略，以微小的优势击败对手。一些圈子里还有关于“Sigma理论”的概念，认为这些玩家通过精密计划和执行实现顶尖水平的表现。
+## Sigma (σ)
+- **English**: In formal terminology, sigma is the 18th letter of the Greek alphabet. In a more casual or slang context, "sigma" is often used to refer to someone who displays obsessive or compulsive behavior, similar to how "nuts" or "geek" might be used. It can also describe a highly skilled or gifted individual in a specific field.
+- **中文**: "西格玛" (xī gé má) 在正式的术语中，是希腊字母的第18个字母。在俚语或非正式的语境中，“sigma”通常用来形容那些表现出强迫或痴迷行为的人，类似于说“神经病”或“宅男/女生”时的含义。它也可以用来描述在某一特定领域极为出色或有天赋的人。
 ```

@@ -1,28 +1,23 @@
 ---
 title: "What Does 'cringe' Mean? (cringe 是什么意思？)"
 slug: "what-does-cringe-mean"
-date: 2026-02-13
+date: 2026-02-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Cringe (English)
-**Definition:** 
-Cringe is a term used to describe something or someone that is so embarrassing or awkward that it provokes a strong sense of discomfort or disgust. It can be used to describe a wide variety of situations, actions, or statements that are considered ridiculous or offensive.
-**Bilingual Explanation:**
-olumbia: 破防 (pò fáng) - 一种感觉，当某事如此尴尬或者难堪，以至于让人感到极度不舒服或恶心。
-example usage: 
-- English: "The way they dressed for the wedding was so cringe, I couldn't even bear to look."
-- Columbia: "他们穿的那套礼服简直是破防，我都快看不下去了。"
-## 资瓷 (Columbia)
-**Definition:** 
-The term "资瓷" is a shortened version of "资助”和“支持" (zhù zī hé shí zhī)，which means to support or back someone. However, it's often used in a sarcastic or mocking way to indicate that someone is righteously attempting to back or support something that is perceived as wrong or ridiculous.
-**Bilingual Explanation:**
-english: "Fabricate support" - to create or claim support for something in an exaggerated, often sarcastic or mocking way.
-example usage: 
-- English: "He's really trying to资瓷 his claim of being a gourmet, but all the examples he gives are just disgusting."
-- Columbia: "他真的在试图资瓷自己是美食家，但他说的所有例子都太恶心了。"
-Note: The term "资瓷" may not be widely recognized outside of certain internet or social media platforms in China, while "cringe" is commonly understood in many English-speaking contexts.
+# Cringe (English-中文)
+## English
+**Cringe**: Something or someone so socially awkward or embarrassing that it makes you feel uncomfortable or ashamed, often involuntarily. 
+*Usage:*
+- "That dance move was so cringe, I couldn't help but snicker."
+- "I can't believe I just said that in front of my boss; it was super cringe."
+## 中文
+**崩漏 (Bēnglòu)**: 用来形容某人或某事在社交场合中的行为或言论极其尴尬或让人尴尬到想羞辱自己，通常是不自觉地感到不舒服或羞愧。
+*用法：*
+- "那个舞蹈动作实在太崩漏了，我不禁想偷偷笑出来。"
+- "我都没法相信自己竟然当着老板的面说了那些话；真是太崩漏了。"
 ```
+Note: In Chinese, there isn't a direct equivalent to "cringe," so "崩漏" (bēnglòu) is used as a metaphorical expression to capture the essence of the term.

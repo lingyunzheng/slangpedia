@@ -1,29 +1,45 @@
 ---
 title: "What Does 'frfr' Mean? (frfr 是什么意思？)"
 slug: "what-does-frfr-mean"
-date: 2026-02-12
+date: 2026-02-15
 tags:
 - slang
 - internet
 - tiktok
 ---
-Sure, it seems like you might be referring to French slang. Here are a few examples explained in both French and English:
+Sure, it looks like you want French slang explanations in Markdown format. I'll generate some common French slang terms with their meanings in both French and English. Here we go:
 ```markdown
-## French Slang Explained
-### 1. **Frické (Fr)**
-**Fr**: Frické est un terme appréciable utilisé pour exprimer quelque chose de très bon, étonnant ou cool.
-**英**: Frické is a cool slang term used to describe something exceptionally good, surprising, or amazing.
-### 2. **Tchoupi (Fr)**
-**Fr**: Tchoupi est un mot mignon qui est souvent utilisé pour une petite chose importante ou pour donner du charme à une personne.
-**英**: Tchoupi is a cute slang term used for something small but significant, or to add charm to a person.
-### 3. **Mouzon (Fr)**
-**Fr**: Mouzon est un terme utilisé de manière sincère de manière positive pour une personne, généralement un ami ou quelqu'un que l'on connaît bien.
-**英**: Mouzon is a heartwarming positive term used for someone, usually a friend or someone you know well.
-### 4. **Planque (Fr)**
-**Fr**: Planque est un terme qui signifie une cachette ou un endroit secret, mais dans une conversation entre amis, cela peut signifier une petite réunion informelle.
-**英**: Planque means a hiding place or a secret spot, but in casual conversation among friends, it can refer to an informal little get-together.
-### 5. **Pizza (Fr)**
-**Fr**: En France, pizza peut signifier une szlafar, c'est un peu comme dire un delicatessen ou un snack food mignon mais décalé.
-**英**: In France, pizza can mean a szlafar, which is a bit like saying a delicatessen or a cute but offbeat snack food.
+# French Slang Explanations
+## 1. Bouge
+### French: Bouge
+### English: Move
+Translates to "move" but is often used more casually or in a playful manner. 
+Example: 
+- "Tu bouges pas?" = "Are you not moving?"
+- "Ça bouge dans le match!" = "Things are getting interesting in the game!"
+## 2. Faire la planche
+### French: Faire la planche
+### English: Standing Wave or Straightened Out
+Refers to laying flat on the stomach, as if doing a yoga pose or performing a specific surfing move.
+Example: 
+- "Ça te dit de faire la planche?" = "Do you want to do a standing wave?"
+## 3. piger
+### French: piger
+### English: Get It
+Used to mean understanding something or grasping an idea.
+Example: 
+- "Ça te plaît pas mais tu devrais piger." = "You don't like it but you should get it."
+## 4. papotage
+### French: papotage
+### English: Chitchat / Small Talk
+Refers to casual conversation or gossip.
+Example: 
+- "J'ai pas envie de papoter." = "I don't feel like chitchatting."
+## 5. faire cul sec
+### French: faire cul sec
+### English: Down-the-Throat (Drink)
+Refers to someone gulping down a drink very quickly in one go.
+Example: 
+- "Il a fait cul sec toutes les shots!" = "He slammed down all the shots!"
 ```
-If you have specific slang terms you're interested in, feel free to let me know!
+Feel free to add more slang terms or let me know if you need further explanations!
