@@ -1,7 +1,7 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2026-02-15
+date: 2026-02-16
 tags:
 - slang
 - internet
@@ -9,6 +9,8 @@ tags:
 ---
 ```markdown
 ## Sigma (σ)
-- **English**: In formal terminology, sigma is the 18th letter of the Greek alphabet. In a more casual or slang context, "sigma" is often used to refer to someone who displays obsessive or compulsive behavior, similar to how "nuts" or "geek" might be used. It can also describe a highly skilled or gifted individual in a specific field.
-- **中文**: "西格玛" (xī gé má) 在正式的术语中，是希腊字母的第18个字母。在俚语或非正式的语境中，“sigma”通常用来形容那些表现出强迫或痴迷行为的人，类似于说“神经病”或“宅男/女生”时的含义。它也可以用来描述在某一特定领域极为出色或有天赋的人。
+### 在中文中的俚语解释
+**sig码**: 指的是在某些圈子里，特别是编程或数据分析领域中，经常提到的统计学符号“σ”。它通常被用作一种简短的代号，代表了一种专业技能或专业知识。类似于“大神”或“高手”，用于形容那些在特定领域表现特别出色的人。
+### In English
+**sig-ma**: In some circles, particularly among programmers or data analysts, the Greek letter "σ" (sigma) is used as a shorthand term, often representing a high level of expertise or skill in a particular field. It's akin to calling someone a "god" or "master" in that domain.
 ```

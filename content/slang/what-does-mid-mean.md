@@ -1,15 +1,22 @@
 ---
 title: "What Does 'mid' Mean? (mid 是什么意思？)"
 slug: "what-does-mid-mean"
-date: 2026-02-15
+date: 2026-02-16
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### 中文解释
-mid：用来形容一个游戏项目的中期阶段，或者是某个任务或计划进行到一半的状态。也可以用来形容某些事情进行到一半但进展缓慢或者停滞不前的状态。
-### 英文 Explanation
-mid: Used to describe the halfway stage of a game project, or a point in the middle of a task or plan. It can also be used to describe situations that have reached the halfway point but are progressing slowly or are stuck.
+# Slang Explanation: "mid"
+## English
+**Meaning:** "mid" in slang is often used to describe someone or something that is in the middle or average. It can also be used in the phrase "to mid" which means to anticipate someone's next move and deal with it before they do.
+**Example Usage:**
+- "He's mid-level, so he's not the highest paid, but he's not the lowest paid either."
+- "Don't let him mid you; stay one step ahead!"
+## 中文
+**含义:** "mid" 在网络用语中通常用来形容某人或某事处于中间状态或平均水平。它还可以用于“to mid”这样的表达，意指提前预判别人的行为并先行应对。
+**使用示例:**
+- “他是中级员工，工资不是最高的，但也不是最低的。”
+- “不要让他预判到你，你要比他更早一步应对。”
 ```
