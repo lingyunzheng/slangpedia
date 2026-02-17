@@ -1,25 +1,19 @@
 ---
 title: "What Does 'cope' Mean? (cope 是什么意思？)"
 slug: "what-does-cope-mean"
-date: 2026-02-16
+date: 2026-02-17
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Cope (English/English Slang)
-### English
-To handle or deal with a difficult or unpleasant situation. Often used in a way that suggests the situation is challenging or stressful.
-### Bilingual Slang Explanation
-**English:** To handle or deal with a difficult or unpleasant situation. Often used in a way that suggests the situation is challenging or stressful.
-**Chinese (Simplified):** 用来形容应对或处理艰难或不愉快的情况。通常用来表示情况是具有挑战性或压力很大的。
-**Chinese (Traditional):** 用來形容應對或處理艱難或不愉快的情況。通常用來表示情況是具有挑戰性或壓力很大的。
-```
-## Cope (English/Spanish Slang)
-### English
-To handle or deal with a difficult or unpleasant situation. Often used in a way that suggests the situation is challenging or stressful.
-### Bilingual Slang Explanation
-**English:** To handle or deal with a difficult or unpleasant situation. Often used in a way that suggests the situation is challenging or stressful.
-**Spanish:** Lidiar o hacer frente a una situación difícil o incómoda. A menudo se usa para indicar que la situación es desafiante o estresante.
+## Cope (英语) / 抗压 (中文)
+**英语解释:** 
+"Cope" means to deal with or manage a difficult situation. It's often used when someone is trying to handle stress, challenges, or problems in their life or work.
+**中文解释:**
+"抗压"意味着处理或应对困难的情况。这个词通常用来描述人们在生活或工作中应对压力、挑战或问题时的表现。
+**Bilingual Slang Example:**
+- **English:** "I really need to learn to cope better with stress at work."
+- **中文:** "我really需要学习更好地应对工作中的压力。"
 ```
