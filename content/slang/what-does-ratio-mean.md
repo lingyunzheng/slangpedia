@@ -1,19 +1,22 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2026-02-12
+date: 2026-02-18
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Ratio (Chinese: 比例; Pinyin: Bǐlì)
-**English:** Ratio
-- **Meaning:** In slang, "ratio" often refers to a public online comparison between two people or things, usually in a context where one is making fun of the other's shortcomings. It's a way to measure or display perceived shortcomings or underperformance.
-- **Example:** "John got rejected for the job, and now everyone is talking about the ratio between him and the successful candidate."
-**中文:** 比例 (Bǐlì)
-- **含义:** 在俚语中，“ratio”通常指在网上公开对比两个人或事物，通常是对另一方的缺点进行嘲讽的一种方式。这是衡量或展示对方被认为的缺点或表现不佳的一种手段。
-- **例句:** "约翰求职被拒，现在大家都在谈论他和成功应聘者之间的比例。"
+# Ratio (Slang Explanation)
+## English
+### Definition
+"Ratio" is often used in online discussions, particularly on social media platforms, to refer to the comparison of the number of likes, comments, or shares something gets, to the number of complaints, criticisms, or negative comments. In simpler terms, it's about the positive to negative feedback ratio.
+### Example
+- "Man, that new meme gets a massive 1000 likes and 50 complaints. The ratio is off the charts!"
+## 中文
+### 释义
+“Ratio”通常是在网上讨论中，特别是在社交媒体平台上使用的词汇，用来形容某件事所获得的点赞、评论或分享的数量，与收到的批评、负面评论或不满数量之间的对比。换句话说，这关乎正面反馈与负面反馈的比例。
+### 例子
+- “天哪，那个新梗获得了一千个赞和五十个批评，比率简直不要太高！”
 ```
-This markdown format provides a clear and concise explanation of the slang term "ratio" in both Chinese and English, along with an example for better understanding.

@@ -1,18 +1,16 @@
 ---
 title: "What Does 'delulu' Mean? (delulu 是什么意思？)"
 slug: "what-does-delulu-mean"
-date: 2026-02-17
+date: 2026-02-18
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Delulu
-## English
-**Delulu** - A playful and casual term often used to describe a person who exhibits quirky, humorous, or slightly naive behavior. It can also be used to refer to someone who is easygoing and approachable.
-**Example:** "Delulu is always cracking jokes and making everyone smile, she's the life of the party!"
-## 中文
-**Delulu** - 一个充满乐趣和随意的俚语，通常用来形容表现出古怪、幽默或略显天真行为的人。也可以用来指那些随和、好接近的人。
-**例句**：“每次聚会Delulu都会讲笑话让大家开心，她就是那个带动气氛的人。”
+## Delulu (Ning傲娇Delulu)
+**中文解释：**
+“傲娇Delulu”是一种缩写，通常指的是英雄联盟游戏中的英雄Delulu（多鲁多鲁），这个英雄在游戏中的表现性格多变，可以是一种傲娇的风格，表现得高冷、羞涩。这个名词在网络上被用来形容那些在网络语言和社交互动中表现独立、倔强却带有羞涩感的人。
+**English Explanation:**
+"傲娇Delulu" is a portmanteau, shortened from "Ning Delulu," referring to the hero of the game League of Legends. This character, Delulu, has a personality that can shift between being aloof and shy, earning the moniker of being “arrogant and coquettish.” This term is commonly used online to describe individuals who interact in a characteristically independent and stubborn manner, while also showing a subtle sense of shyness or coyness.
 ```

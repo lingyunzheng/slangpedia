@@ -1,22 +1,23 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2026-02-17
+date: 2026-02-18
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Brokie (Slang Explanation)
-### English
-**Brookie**: This term is often used as a playful or affectionate way to call another male, similar to "bro" or "dude." It can also be used humorously to describe someone who is slightly homo-erotic in a non-sexual context.
-### Chinese
-**Brookie**: 这个词通常用来称呼另一个男性，带有玩弄或者宠爱的意味，类似于“Bro”或“伙计”。有时也被幽默地用来形容具有轻微同性恋倾向但非性行为上的（brokie），类似于直男中的“gay lean（略带gay的倾向）”。
-例子：
-- Brookie, that coat really suits you!
-- 兄弟，那件外套真的很适合你！
-- His interest in design is more of a brookie kind of thing.
-- 他对设计的兴趣更多是有点brookie的感觉。
+## Brokie (英语)
+### Explanation
+**Brokie** (also spelled "brokie") is a slang term, specifically in online subcultures, describing a type of male who displays excessive or exaggerated characteristics associated with "metrosexual" behavior. This includes overly concerned grooming habits, fashion, and domestic behaviour, sometimes viewed negatively due to gender stereotypes.
+### Example Usage
+- She met him on a dating app and described him as a total brokie, always talking about the latest skincare products and his immaculate ab workout routine.
+---
+## 破鸡 (拼音：pò jī)
+### 解释
+**破鸡**（拼音：pò jī）是一个网络流行语，特指那些表现出过多或夸张的“metrosexual”特征的男性。这类人通常非常关心自己的外表、穿着和居家生活，有时会因为性别刻板印象而受到负面评价。
+### 使用示例
+- 她在一个交友应用上遇见他，描述他是一个典型的破鸡，总是谈论最新的护肤产品和他完美的腹肌锻炼计划。
 ```
-This markdown format helps to clearly differentiate and explain the usage of the term in both languages.
+This markdown format provides a clear and structured way to understand both the English and Chinese slang term "brokie."

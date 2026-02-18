@@ -1,16 +1,20 @@
 ---
 title: "What Does 'L rizz' Mean? (L rizz 是什么意思？)"
 slug: "what-does-l-rizz-mean"
-date: 2026-02-15
+date: 2026-02-18
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### "L rizz"
-**English:**  
-"Rizz" is a playful and informal term derived from the word "class." "L rizz" is a way to describe someone who exudes a strong sense of style, confidence, and personality. It's often used to compliment or highlight the swag or cool factor of a person's appearance or behavior. The "L" at the beginning can be slang for "lit" or "legend," emphasizing that the person or thing in question is top-notch or awesome.
-**Chinese:**  
-"Rizz" 来自于单词 "class"，是一种轻松而非正式的表达方式。"L rizz" 用来形容某人散发出极强的风格感、自信和个性。这个词常被用来夸奖或强调一个人的外表或行为中的酷劲或魅力。这里的 "L" 可以是 "lit" 或 "传奇" 的缩写，意味着那个人或事物非常出色或酷炫。
+## L rizz
+### English
+"L rizz" is a slang term that refers to a person who is very witty, humorous, and has a clever, often sardonic sense of humor. It's commonly used in casual conversations to describe someone who consistently makes good jokes and can keep a room laughing with their humor. 
+Example:
+- "That comedian has L rizz, he made everyone in the room laugh out loud!"
+### 中文
+"L rizz" 是一种俚语，用来形容那些非常机智、有趣，并且有聪明、常常带有讽刺意味的幽默感的人。通常在非正式的对话中用来描述某人总能讲出好笑的笑话，能让整个房间的人都笑出声来。
+示例：
+- "这个喜剧演员很有L rizz，让他把整个房间的人都逗笑了！"
 ```
