@@ -1,16 +1,18 @@
 ---
 title: "What Does 'delulu' Mean? (delulu 是什么意思？)"
 slug: "what-does-delulu-mean"
-date: 2026-02-18
+date: 2026-02-19
 tags:
 - slang
 - internet
 - tiktok
 ---
+Sure, let's break down the term "delulu" and provide its explanations in both Chinese and English:
 ```markdown
-## Delulu (Ning傲娇Delulu)
-**中文解释：**
-“傲娇Delulu”是一种缩写，通常指的是英雄联盟游戏中的英雄Delulu（多鲁多鲁），这个英雄在游戏中的表现性格多变，可以是一种傲娇的风格，表现得高冷、羞涩。这个名词在网络上被用来形容那些在网络语言和社交互动中表现独立、倔强却带有羞涩感的人。
-**English Explanation:**
-"傲娇Delulu" is a portmanteau, shortened from "Ning Delulu," referring to the hero of the game League of Legends. This character, Delulu, has a personality that can shift between being aloof and shy, earning the moniker of being “arrogant and coquettish.” This term is commonly used online to describe individuals who interact in a characteristically independent and stubborn manner, while also showing a subtle sense of shyness or coyness.
+## Delulu
+### 中文解释
+“Delulu”是一个网络流行语，通常用来形容年轻女性，特别是那些有魅力、可爱、充满活力的女孩。这个词汇在网络上被广泛使用，并不尽是正面褒义，有时也带有调侃之意。
+### English Explanation
+"Delulu" is a net slang term, often used to describe young women, particularly those who are attractive, cute, and full of vitality. This word is widely used on the internet, and it's not always used in a positive light; it can also carry a teasing connotation.
 ```
+Feel free to add more context or examples if needed!

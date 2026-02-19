@@ -1,16 +1,22 @@
 ---
 title: "What Does 'goated' Mean? (goated 是什么意思？)"
 slug: "what-does-goated-mean"
-date: 2026-02-15
+date: 2026-02-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Goated 🐐
-### English:
-"Goated" is a slang term that originated from graffiti and street art communities, later spreading to other parts of pop culture. It describes something or someone that is considered the most elite, coolest, or most dominant in a particular context. Essentially, it implies that something or someone is on top and at the peak of awesomeness.
-### Chinese:
-"goated" 是一个源于涂鸦和街头艺术社区的江湖用语，后来逐渐蔓延到其他流行文化的领域。它用来描述某样东西或某个人在特定的情境中是最顶尖、最酷炫或者最具支配性的。简单来说，"goated" 就是突出表现，表示某样东西或某个人在某种程度上处于顶端，堪称最棒的存在。
+# Goated (俚语解释)
+**英语:** Goated
+**中文:** 鬼扯 / 超级厉害
+**解释:**
+- **英语:** This slang is typically used to describe someone or something that is extremely skilled or impressive in a particular field. It's often used in a context where the level of achievement or skill far exceeds expectations.
+- **中文:** 这个俚语通常用来形容某人或某事物在某个领域极为出色或十分厉害。往往是在某项成就或技能远远超出预期的情况下使用。
+例句:
+- **英语:** She's goated at guitar playing!
+- **中文:** 她弹吉他简直牛逼到爆炸！
+- **英语:** That trick is goated.
+- **中文:** 这个特技真是太牛了！
 ```

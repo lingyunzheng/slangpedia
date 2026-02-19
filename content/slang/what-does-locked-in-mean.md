@@ -1,23 +1,19 @@
 ---
 title: "What Does 'locked in' Mean? (locked in 是什么意思？)"
 slug: "what-does-locked-in-mean"
-date: 2026-02-15
+date: 2026-02-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English: Locked In
-**Meaning**: Committed to a particular decision, plan, or situation with no easy way out.
-### Example Usage
-- "He's locked in for the company's annual team-building trip to Hawaii."
-- "Once you sign the contract, you'll be locked in for the next three years."
-### Bilingual Slang Explanation
-**锁定在里面** (D Hubbard "luo di nan nean")
-- **Meaning**: 指已经做出了某种决定、计划或处于某种情况中，无法轻易脱身。(zhi zheng jiao chu le maǒ me men jue dìng、gōng lán huò zhi chǔ le maǒnɡ qǐnɡ qíng kàng zhōng，fú kě qīnɡ tuī shēn。)
-- **Example Usage**
-- "他已经被公司年会去夏威夷的团队建设活动锁定了。" (Tā yǐ jí bèi gōng sī nián huì qù xià wēi yí de duì tián jiàn huò de suǒ lìng dìng le.)
-- "一旦签署了合同，你就被锁定了未来三年的时间。" (Yí dān qǐ xiào le hétóu hé tōng，nǐ jiù bèi suǒ lìng dìng le wèi lái sān nián de shí jì.)
-**Note**: This is a calqued translation rather than a direct slang equivalent, as slang often doesn't translate well but can be explained with context.
+## English Slang: Locked In
+**Meaning:** When someone or something is "locked in," it means they are committed or stuck in a situation with no easy way out. It can refer to a decision, a financial investment, or a personal relationship that is irreversible.
+**Example:** "I locked myself into a long-term lease with a high-upfront fee, so I can’t move out for at least a year."
+**Bilingual Slang Explanations:**
+- **英语俚语：锁定 (duǒ zuǒ)**
+- **意义：** 当某人或某事“被锁定”时，意味着他们在某种情况下无法轻易脱身。它可以指一个决策、一笔财务投资或一个个人关系，使得情况不可逆转。
+- **例句：** "我被长期租赁合同的高额前期费用所困，至少一年内不能搬出。"
 ```
+This markdown format provides a clear structure and makes it easy to read and understand the meaning and usage of the slang term in both languages.

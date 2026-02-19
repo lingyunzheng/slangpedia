@@ -1,18 +1,18 @@
 ---
 title: "What Does 'gyatt' Mean? (gyatt 是什么意思？)"
 slug: "what-does-gyatt-mean"
-date: 2026-02-18
+date: 2026-02-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Gyatt (丘比特之箭)
-## 英文解释
-"Gyatt" is a playful and casual term used to describe a sudden and intense attraction or infatuation with someone. It's often used in a romantic or flirtatious context. For example:
-- "When I saw her, it was like gyatt, I was totally hooked!"
-## 中文解释
-“Gyatt”是一个轻松而随意的词汇，用来形容对某人突然产生强烈的吸引力或一见钟情的感觉。通常用于浪漫或调情的情境中。例如：
-- “当我见到她的时候，就像射出了一支丘比特之箭，我完全陷入了其中！”
+# Gyatt
+## English
+**Meaning:** Engaging in or referring to a humorous, exaggerated, or dramatic statement or action.
+**Example:** "When he said he would clean the house in 5 minutes, it was definitively a gyatt."
+## 中文
+**含义:** 形容或指的是具有幽默感、夸张或戏剧性的陈述或行为。
+**例句:** "当他声称能在五分钟内打扫完整个房子时，那显然是个gyatt。"
 ```
