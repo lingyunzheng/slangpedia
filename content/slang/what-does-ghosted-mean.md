@@ -1,18 +1,17 @@
 ---
 title: "What Does 'ghosted' Mean? (ghosted 是什么意思？)"
 slug: "what-does-ghosted-mean"
-date: 2026-02-17
+date: 2026-02-20
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Ghosted
-**English:** 
-To ghost someone means to suddenly stop all communication with them without explanation. It often implies a rejection or end to a relationship, both platonic and romantic, and it leaves the other person in the dark, feeling confused and hurt.
-**Chinese (简化版):**
-“ghosted”指的是突然停止与某人的所有交流且没有任何解释。这通常意味着结束了一种关系（无论是友谊还是恋爱），被抛弃的人会感到困惑和受伤，不知所措。
-**Chinese (繁体版):**
-“ghosted”指的是突然停止與某人的所有交流且沒有任何解釋。這通常意味著結束了一種關係（無論是friendship還是在戀愛），被拋棄的人會感到困惑和受傷，不知所措。
+## Ghosted (原句：被放了鸽子)
+**英语解释：** When someone suddenly stops responding to you or ends a relationship without any explanation or communication.
+**中文解释：** 当某人突然停止回应你或在没有任何解释或沟通的情况下结束一段关系时，你就被"放过鸽子"了。这通常让人感到被忽视和震惊。
+**例句：**
+- **English:** After three weeks of dating, he never responded to my last text and blocked me. He clearly ghosted me.
+- **Chinese:** 交往三个星期后，他居然完全没有回应我最后那条短信，并且封了我，很明显是给了我"鸽子"。
 ```

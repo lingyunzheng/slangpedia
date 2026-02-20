@@ -1,19 +1,16 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2026-02-13
+date: 2026-02-20
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Copium (N)
-## English Explanation
-"Copium" is a slang term derived from the combination of "cop" (police) and "dope." It's used to describe a situation or environment where the police are present in such high numbers that it feels as if they are "high" or overly enthusiastic, usually in a way that seems excessive or a bit ridiculous.
-## Chinese Explanation
-"Copium" 是一个从 "cop"（警察）和 "dope"（毒品）结合而来的俚语。用来形容警察人数异常多的情况，感觉就像他们“很嗨”或者过于兴奋，通常显得有些过度或者滑稽可笑。
-## Example Usage
-1. **English:** The parade was so crowded with police that some people joked it was a massive dose of copium.
-2. **Chinese:** 游行现场警察太多了，有人开玩笑说像是一种巨大的copium。
+## Copium
+### English
+Copium is a humorous slang term derived from the combination of "coke" (referring to cocaine) and "One-Agers" (a fictional character from *The Onion*, mocked for indulging in an expensive meeting with himself). It's used to refer to someone who is extremely self-centered, obsessed with trivial things, or behaves in a way that is perceived as shallow and self-indulgent.
+### 中文
+“Copium” 是英文俚语中的一个幽默词汇，由“coke”（可卡因）和“One-Agers”（The Onion 的一个虚构角色，以频繁邀请自己参加昂贵的会议而著称）组合而成。它用来形容那些极度自我中心、沉迷于琐事，或者行为被视为浅薄和自我放纵的人。
 ```

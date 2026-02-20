@@ -1,18 +1,18 @@
 ---
 title: "What Does 'deadass' Mean? (deadass 是什么意思？)"
 slug: "what-does-deadass-mean"
-date: 2026-02-18
+date: 2026-02-20
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## deadass (美式英语)
-- **直译**: 死真/真心
-- **解释**: 用于形容某人是真心的、真诚的、认真的状态。类似于“死认真”或“非常认真的意思”。比如，当某人非常纠结某个选择时，可以说他“deadass认真”。
-## 死认真 (简体中文)
-- **直译**: deadass
-- **解释**: 用以表达某人非常认真、真心实意的状态。比如在讨论某个问题时，如果态度特别严肃，可以说“我deadass在讨论这个问题”或者“他超级deadass认真”。
+## Bilingual Slang Explanation: Deadass
+**English:** Deadass
+- **Meaning:** This slang term is used to describe someone or something that is extremely serious, intense, or unfunny. It can also imply an unexpected or intense display of emotion or reaction.
+- **Example Usage:** "That joke was deadass serious, I didn't see it coming!"
+**中文:** 死认真
+- **含义:** 这个俚语用来形容某人或某事是非常严肃、认真，甚至是不幽默的。它还可以表示一种意想不到或强烈的表情或反应。
+- **例句:** "那个笑话超级严肃，我完全没想到！"
 ```
-Note: This term "deadass" is informal and can imply a high level of seriousness or commitment.
