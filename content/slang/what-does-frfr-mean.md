@@ -1,51 +1,35 @@
 ---
 title: "What Does 'frfr' Mean? (frfr 是什么意思？)"
 slug: "what-does-frfr-mean"
-date: 2026-02-20
+date: 2026-02-21
 tags:
 - slang
 - internet
 - tiktok
 ---
-Sure, it looks like you might be referring to French slang. I'll provide explanations for some common French slang terms in markdown format. Let's get started!
+Sure! Here are some French slang terms and their explanations in a bilingual format using markdown:
 ```markdown
-# French Slang Explained
-Here are some common French slang terms along with their meanings and usage.
-## Tout à l'heure
-- **Definition**: "Later" or "shortly"
-- **Usage**: Used to indicate that something will happen sooner rather than right away.
-- **Example**: "On se voit tout à l'heure." (See you later.)
-## Boum
-- **Definition**: Party or rave
-- **Usage**: Often used to describe a lively and wild party.
-- **Example**: "Il y aura un boum ce week-end." (There will be a party this weekend.)
-## Tarlouze
-- **Definition**: A person who is embarrassing
-- **Usage**: Used to describe someone who behaves awkwardly or foolishly.
-- **Example**: "Ce mec est tellement tarlouze." (This guy is so embarrassing.)
-## Chez
-- **Definition**: House, home (colloquial)
-- **Usage**: Informal way of referring to someone's house.
-- **Example**: "Viens chez moi ce soir." (Come to my place tonight.)
-## Mince
-- **Definition**: A filler word similar to "oh" or "gosh"
-- **Usage**: Often used for emphasis or to express surprise or disappointment.
-- **Example**: "Mince, j'ai perdu ma clé." (Oh no, I've lost my key.)
-## Tchoupiate
-- **Definition**: Small or useless person
-- **Usage**: A derogatory term used to describe someone who is seen as insignificant or wasteful.
-- **Example**: "Ce n'est qu'une tchoupiate." (It's just a small thing.)
-## Chope
-- **Definition**: Drink or beer
-- **Usage**: Commonly used to refer to a drink in a social setting.
-- **Example**: "Je vais chercher une chope." (I’m going to get a beer.)
-## Pêtard
-- **Definition**: Firework or signal flare
-- **Usage**: Can also be used to refer to a cigarette among young people.
-- **Example**: "On va faire un pêtard ensemble." (Let's smoke a cigarette together.)
-## Hors concours
-- **Definition**: Out of competition (colloquial)
-- **Usage**: Used to describe something that is too good or too bad to be considered in a competition.
-- **Example**: "C'est hors concours, c'est tellement bien!" (That's out of competition, it's so good!)
+## Slang Terms in French
+### 1. **Putain**
+- **French:** Putain
+- **Bilingual Explanation:** This term is a vulgar insult often used to express frustration or shock. It is similar to "Damn" or "Blast it!" in English. Example: "Putain, c'est chvertime" (Damn, it's overtime).
+### 2. **Mixé**
+- **French:** Mixé
+- **Bilingual Explanation:** An insulting term used to refer to someone who is perceived as having a bad, difficult, or unpleasant personality. Example: "Ça, c'est du mixé" (That's the real mixé).
+### 3. **Salop**
+- **French:** Salop
+- **Bilingual Explanation:** This is a vulgar term used to describe someone in a derogatory manner, similar to "bastard" or "ass". Example: "Ne me cherches pas, sinon tu vas manger salop" (Don't provoke me, or else you're going to eat salop).
+### 4. **Patate**
+- **French:** Patate
+- **Bilingual Explanation:** This noun is used to refer to a person in a derogatory way, similar to calling someone a "potato" in a scolding sense. Example: "Monsieur Patate, est-ce que tu m'entends?" (Mr. Potato, can you hear me?).
+### 5. **Touriste**
+- **French:** Touriste
+- **Bilingual Explanation:** While typically used to refer to someone who is a tourist, it can also be used playfully or derisively to describe someone who is perceived as being vain, gullible, or naive. Example: "Il est trop tourist, cet type" (He's such a tourist, that guy).
+### 6. **Forfait**
+- **French:** Forfait
+- **Bilingual Explanation:** Commonly used to mean a fixed fee or package, often used in contexts like phone plans or cafe tickets (the term for a set of food or drinks). Example: "J'ai acheté un forfait café" (I bought a set meal).
+### 7. **Whuppin'**
+- **French:** BUISSONNÉE (谑语)
+- **Bilingual Explanation:** An informal, playful way to say "beat up" or "given a good beating". It often conveys a humorous or exaggerated exaggeration of something intense. Example: "J'ai bien bussonnéé mes collègues lors du déjeuner" (I gave my colleagues a good bussonnement during lunch).
 ```
-If you have any specific terms or need further explanations, feel free to let me know!
+Feel free to add more terms if needed!

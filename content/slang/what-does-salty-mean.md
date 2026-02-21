@@ -1,25 +1,24 @@
 ---
 title: "What Does 'salty' Mean? (salty 是什么意思？)"
 slug: "what-does-salty-mean"
-date: 2026-02-20
+date: 2026-02-21
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Salty (咸鱼)
-## English: Salty
-In English, the term "salty" is used as an internet slang to describe someone who is feeling resentful, bitter, or irritated, often due to experiencing or witnessing something perceived as unfair or negative. This can be someone who is overly emotional or hostile in response to frustrating situations.
-Example:
-> "Wow, it's bad that you lost the game, but can you just deal with it? You're getting salty way too easily!"
----
-## Chinese: 咸鱼 (xián yú)
-"咸鱼" (Simplified: 咸鱼, Traditional: 咸魚) is a metaphorical phrase in Chinese used to describe someone who is feeling down, disgruntled, or apathetic, similar to the English "salty." The term "咸鱼" translates into "salty fish," which is a somewhat whimsical way to describe someone who is lacking in motivation or energy, much like how a salted fish might have lost its freshness.
-Example:
-> "你知道他最近怎么了，整天一副咸鱼的表情，工作也没精神。" 
->
-> English translation: 
-> "Do you know what's gotten him down recently? He's been looking like salty fish, and he doesn't seem to have any energy for work."
-In colloquial Chinese usage, "咸鱼" can also be a humorous way to express someone's current state of feeling very down or just going through the motions.
+### Chinese (咸鱼) vs. English (Salty)
+- **咸鱼 (Salty Fish) - 中国网络用语 (Chinese Internet Slang):**
+- **含义 (Meaning):** 通常用来形容极度失望或者羡慕别人的状态，类似于英语中的“salty”。
+- **解释 (Explanation):** 咸鱼通常是指那些已经失去原有活力和激情的鱼，这里被用来比喻那些在生活中遇到挫折或是感到不满的人。比如，当某人看到别人在社交媒体上分享的成功和快乐而自己却没有什么值得分享的内容时，他可能被形容为“咸鱼”。
+- **例句 (Example):**
+- 他看到朋友圈里大家都在度假，自己却还在加班，真是一条咸鱼。
+- 被批评后，他发了朋友圈说：“感觉真是一条咸鱼。”
+- **Salty - 英文网络用语 (English Internet Slang):**
+- **含义 (Meaning):** 主要用来形容一个人在某些不如意的情况后情绪化的反应，带有一种酸味的感觉，比如嫉妒或不满。
+- **解释 (Explanation):** 例如，当某人看到朋友的晒物分享，自己却没有什么特别的东西可以分享时，可能会感到“salty”。这个词通常用来形容那种“pre-salty”，即在事情还没发生但已经感觉会表现得很负面的情绪。
+- **例句 (Example):**
+- I just saw my friend's fancy new watch, feels so salty!
+- She's salty because she's not selected for the team, but then she couldn't handle it and started crying.
 ```
