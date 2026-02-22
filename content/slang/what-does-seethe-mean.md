@@ -1,20 +1,15 @@
 ---
 title: "What Does 'seethe' Mean? (seethe 是什么意思？)"
 slug: "what-does-seethe-mean"
-date: 2026-02-20
+date: 2026-02-22
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 英语 Slang: Seethe
-### 中文俚语解释: 翻腾
-**英语解释:**   
-To seethe means to be extremely angry or to be filled with anger that is about to burst out. It is often used when someone is so upset that they feel like they might explode.
-**中文解释:**   
-"翻腾"用来形容一个人非常生气，怒气达到了极点，就像是被愤怒填满快要爆发出来。这个词通常用来形容某人愤怒到了极点，似乎随时都要发火。
-**例句:**
-- **英语:** When I found out I had failed the exam, I seethed with frustration.  
-- **中文:** 当我知道考试没通过时，我气得快要爆炸了。
+## 英语解释：seethe
+**seethe** - 本意指"发怒，沸腾"，更多用于形容人们因为愤怒或不满而表现出烦躁不安的状态，就像热水在锅里沸腾一样，内部充满了不满和怒气而表面却保持平静。
+**中文解释**：**沸反盈天** - 形容愤怒到极点的状态，内心的怒火像开水一样翻滚，即使表面上还保持平静，但内在的情绪已经到了爆裂的边缘。人们之间可能会因为一些小事就互相指责、大声争执，甚至动手。
 ```
+在这个翻译中，我选择了**“沸反盈天”**这样一个具有强烈感情色彩和形象化的成语，来对应英语中 **"seethe"** 的用法，使得中英之间的表达都能较为贴近原文情感。

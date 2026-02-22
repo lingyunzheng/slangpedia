@@ -1,23 +1,18 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2026-02-21
+date: 2026-02-22
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Bruh
-**English:**  
-"Bro" is a casual shorthand for "brother," used to refer to a male friend or acquaintance. Originally informal and often used in an upbeat or sarcastic tone, it's used to express surprise, disbelief, empathy, or amusement. It can also be used in a grievance or sighing phrase where someone expresses exasperation.
-**Bilingual Slang Explanation:**
-- **English:** "Another one that’s off the chain, bro!"
-- **Chinese (Simplified):** "又一个东西超燃，兄弟！"
-- **English:** "Bruh, this is so lit!"
-- **Chinese (Simplified):** "啊，这真的超级火！"
-- **English:** "Bro, I’m so confused, bruh!"
-- **Chinese (Simplified):** "兄弟，我好懵圈，啊！"
-- **English:** "Bruh moment"
-- **Chinese (Simplified):** "囧时刻"
+# Bruh
+## English
+**Definition**: An interjection commonly used to express frustration, exasperation, or excitement. It's a casual term and is often used to emphasize a point or to agree with a statement in a laid-back manner.
+**Usage**: "Bruh, that movie was so good, I couldn't stop watching!"
+## 中文
+**定义**: 语气词，常用于表达沮丧、厌烦或兴奋的情绪。是一个轻松随意的表达方式，常用来强调某个观点或对某个陈述表示同意。
+**用法**: "Bruh，那部电影真的很好看，我都看不下去了！"
 ```

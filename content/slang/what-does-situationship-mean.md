@@ -1,7 +1,7 @@
 ---
 title: "What Does 'situationship' Mean? (situationship 是什么意思？)"
 slug: "what-does-situationship-mean"
-date: 2026-02-15
+date: 2026-02-22
 tags:
 - slang
 - internet
@@ -10,9 +10,14 @@ tags:
 ```markdown
 # Situationship
 ## English
-"Situationship" is a blend of "situation" and "relationship," often used to describe a complex, undefined, or awkward romantic situation that's not quite a relationship. It's used when two people are involved in an ambiguous, non-committal, or emotionally conflicting arrangement. It's often accompanied by a range of emotions including confusion, frustration, and sometimes even amusement.
-Example: "Jenny and Mark have a situationship, where they go out occasionally but have both mentioned they're not ready for a full relationship yet."
+### Definition
+A term often used for a complicated or undefined romantic or sexual connection or relationship where the nature and parameters are unclear or evolving. It's a situation where both parties are navigating their feelings in a potentially delicate or fickle manner.
+### Example
+"Jenny and Mark are in a situationship, they go on dates but neither of them wants to commit to a long-term relationship."
 ## 中文
-“Situationship”是“situation”和“relationship”的混成词，用来描述一种复杂、不明确或尴尬的浪漫状况，这并不是正式的情侣关系。当你与某人之间有模糊不清的、非承诺的，或者情感上有矛盾的安排时，就可以使用这个词。它通常伴随着各种情绪，如困惑、挫败感，有时甚至是幽默感。
-示例：“珍妮和马克处于一种situationship状态，他们偶尔会一起出去玩，但两人都表示还没有准备好要正式交往。”
+### 释义
+一个经常用来描述一种关系复杂或未明的状态，这种状态可能是浪漫的或性方面的，并且双方之间的感情状况和关系界限尚不明确或正在变化。这通常指的是双方在共同探索感情的时候，可能会感到微妙或难以决定。
+### 示例
+“珍妮和马克正处于一种关系的‘尴尬阶段’，他们一起约会但双方都不想进入长期稳定的关系中。”
+```
 ```

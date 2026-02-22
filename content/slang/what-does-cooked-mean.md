@@ -1,27 +1,38 @@
 ---
 title: "What Does 'cooked' Mean? (cooked 是什么意思？)"
 slug: "what-does-cooked-mean"
-date: 2026-02-16
+date: 2026-02-22
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English: Cooked
-### Chinese: 烧糊了 (shāo hú liǎo) 或者 黑掉了 (hēi diào le)
-**Explanation:**
-When something is "cooked" in slang, it often means that a situation is messed up, ruined, or no longer salvageable. In Chinese slang, you might hear phrases like "烧糊了" or "黑掉了" which literally translate to "burned" or "blackened," but are used to describe a situation that is considered beyond repair or very, very bad.
-**Example Usage:**
-- English: "The project is cooked, there's no way we can finish it on time."
-- Chinese: "这个项目烧糊了，我们不可能按时完成了。" (Zhège projekt shāo hú liǎo, wǒmen bù kěnéng zǎihén jìng wánchéng le.)
-**English: Cooked Up**
-### Chinese: 炒鱿鱼 (chǎo yóu yú)
-**Explanation:**
-"Cooked up" refers to something that was created or fabricated, usually in a dishonest way. In Chinese, "炒鱿鱼" (chǎo yóu yú) means to be fired or dismissed, which can metaphorically refer to a situation that was "cooked up" or fabricated. This idiom can also imply being kicked out or having a situation ruined due to dishonesty.
-**Example Usage:**
-- English: "They cooked up a story to get out of paying the bill."
-- Chinese: "他们炒鱿鱼了一个故事来逃避账单。" (Tāmen chǎo yóu yú le yī ge gùshì lái bìqù zhàngdān.)
-Note: Both phrases are hyperbolic usages and are not to be taken literally.
+## English Slang: Cooked
+### Meaning
+In informal English, "cooked" is often used to describe a scenario or plan that has gone wrong, or someone who has been tricked, or when something has been ruined or destroyed.
+### Example
+"I tried to sneak in without a ticket but the security guard caught me. Man, I feel so cooked!"
+### Bilingual Explanation
+**English:** Cooked  
+**Chinese:** 烧掉 (shāo diào) 或者 被耍了 ( bèi shǎ liǎo)  
+**Explanation:** 形容某个计划或事情失败了，或者被人捉弄了，或者某种东西被破坏了。
+## English Slang: Cooked
+### Meaning
+Used similarly in informal English to indicate someone is high on drugs, or feeling very relaxed and sleepy.
+### Example
+"He had a few too many drinks and he's cooked now, passed out on the couch."
+### Bilingual Explanation
+**English:** Cooked  
+**Chinese:** 烧 (shāo) 或者 打woke (dǎ wè)  
+**Explanation:** 指某人喝醉了，或者感觉非常放松和困倦。
+## English Slang: Cooked
+### Meaning
+Sometimes used in a tech or software context to describe something as broken or faulty.
+### Example
+"The Wi-Fi connection is cooked; I can't get online."
+### Bilingual Explanation
+**English:** Cooked  
+**Chinese:** 坏了 (huài le)  
+**Explanation:** 指某件电子产品或技术问题导致的东西坏了，无法正常工作。
 ```
-This markdown format will help clarify and provide context for the usage of "cooked" and its equivalent slang phrases in Chinese.
