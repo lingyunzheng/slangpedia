@@ -1,21 +1,23 @@
 ---
 title: "What Does 'simp' Mean? (simp 是什么意思？)"
 slug: "what-does-simp-mean"
-date: 2026-02-22
+date: 2026-02-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Slang: simp
-**English:** 
-A simp is someone who is overly infatuated with or admires someone else, often in a foolish or obsessive way, usually showing a deep emotional or romantic interest in someone who is not necessarily reciprocating or who does not show similar interest in them.
-**简体中文：**  
-“ simp”指的是对某人过度迷恋或仰慕的人，通常是表现出了过度的情感或浪漫兴趣，而对方可能并没有类似的回应或兴趣。这个词通常带有嘲讽意味，暗示这种迷恋是愚蠢或不现实的。
-例子：
-- English: He's such a simp for her; he’s always trying to impress her with expensive gifts.
-- 简体中文：他对她简直是校草的本尊，总是想用昂贵的礼物来博取她的青睐。
-- English: Don't be such a simp; she's just not interested.
-- 简体中文：别这么单纯了，她对你并没有兴趣。
+# Slang Term: "Simp"
+## English
+**Simp**: A term typically used in social media and online communities, referring to a man who is overly infatuated with or obsessed about making someone (often much younger than him) happy, and usually follows them excessively.
+### Example Usage
+- "Tom is such a simp for his girlfriend; he buys her all kinds of gifts just to make her smile."
+- "She's a fitness model, but he's a simp, thinking she still likes him as a friend."
+## Chinese
+**渣男 (zhānán)**：渣男通常用来形容一个对某人（特别是有较大年龄差的年轻人）过度迷恋或过于殷勤的人，通常会过度关注对方的感受直至近乎打扰。
+### 用例示例
+- "汤姆对女朋友简直是渣男，给她买了各种礼物只为让她开心。"
+- "她是个健身模特，但他是个渣男，还幻想着她依然喜欢他当朋友。"
 ```
+In this markdown, I've provided the English and Chinese equivalent for "Simp" along with explanations and example usages in both languages.

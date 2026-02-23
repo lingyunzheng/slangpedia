@@ -1,17 +1,19 @@
 ---
 title: "What Does 'slaps' Mean? (slaps 是什么意思？)"
 slug: "what-does-slaps-mean"
-date: 2026-02-20
+date: 2026-02-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slaps
-**English:** A forceful hit with the hand, often used to express disapproval, anger, or as a playful tease.
-**中文:** 使用手掌给予的有力拍打，通常用来表达不满、愤怒，或是作为一种轻松的戏谑行为。
-例句：
-- English: "Don't be so shy! Give me a good slap on the back!"
-- 中文: "别那么害羞了！给我来个响亮的巴掌！"
+# Slang: Slaps
+## English
+**Meaning:** A playful or humorous way to insult someone or to express disapproval or annoyance.
+**Example:** "You’re slapping me with your bad attitude again."
+## Chinese
+**含义:** 一种轻松或幽默的方式来侮辱某人或表达不满或烦躁。
+**例子:** “你又被你那糟糕的态度给‘扇了一巴掌’了。”
 ```
+This markdown structure provides a clear and concise definition of "slaps" in both English and Chinese, along with an example usage in context.

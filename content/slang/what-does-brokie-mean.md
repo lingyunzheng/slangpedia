@@ -1,23 +1,21 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2026-02-18
+date: 2026-02-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Brokie (英语)
-### Explanation
-**Brokie** (also spelled "brokie") is a slang term, specifically in online subcultures, describing a type of male who displays excessive or exaggerated characteristics associated with "metrosexual" behavior. This includes overly concerned grooming habits, fashion, and domestic behaviour, sometimes viewed negatively due to gender stereotypes.
-### Example Usage
-- She met him on a dating app and described him as a total brokie, always talking about the latest skincare products and his immaculate ab workout routine.
----
-## 破鸡 (拼音：pò jī)
-### 解释
-**破鸡**（拼音：pò jī）是一个网络流行语，特指那些表现出过多或夸张的“metrosexual”特征的男性。这类人通常非常关心自己的外表、穿着和居家生活，有时会因为性别刻板印象而受到负面评价。
-### 使用示例
-- 她在一个交友应用上遇见他，描述他是一个典型的破鸡，总是谈论最新的护肤产品和他完美的腹肌锻炼计划。
+## Brokie (English)
+### Definition:
+A modern term used to describe someone who frequently posts or shares content online, often to gain attention or likes. The term combines "bro" (an informal term for a male friend) and "vark" (short for "varkle," which is a playful way to reference someone striving for likes or attention).
+### Example:
+"Man, it seems like every other post Kevin makes these days is brokie. He just wants more claps and hearts."
+## 哥吉 (Mandarin)
+### 解释：
+一个现代词汇，用来形容那些频繁在线上发布或分享内容的人，通常是为了吸引注意或获得喜欢。这个词汇结合了“哥”（一种对男性朋友的非正式称呼）和“嘉克”（“喀拉克” 的口语化简称，“varkle”指有人在争取更多的点赞或关注）。
+### 示例：
+“哎，最近凯文发的每一条帖子都这么哥吉。他只是为了获得更多点赞和心心。”
 ```
-This markdown format provides a clear and structured way to understand both the English and Chinese slang term "brokie."

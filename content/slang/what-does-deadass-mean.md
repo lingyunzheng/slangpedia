@@ -1,16 +1,20 @@
 ---
 title: "What Does 'deadass' Mean? (deadass 是什么意思？)"
 slug: "what-does-deadass-mean"
-date: 2026-02-21
+date: 2026-02-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 死板凳 (Deadass)
-**English:**  
-Deadass is a slang term often used to describe someone who is very serious, uninteresting, or humorless. It can also be used to express that someone is being overly strict or not taking things lightly, often in a playful or teasing manner.
-**中文:**  
-死板凳 (sǐ bǎdèng) 是一个网络流行语，用来形容某人很严肃、无趣或不搞笑。它也可以用来表达某人过于严格或者没有认真对待事情， often 通常是开玩笑或戏谑的语气。
+## English: Deadass
+### Chinese: 死呆板 (sǐ dāi bǎn) or 死板 (sǐ bǎn)
+**Definition:** This slang term is used to describe someone who is extremely serious or dull, tired out, or just really out of it.
+- **死呆板 (sǐ dāi bǎn):** Emphasizes that the person is so stiff and serious they might as well be dead.
+- **死板 (sǐ bǎn):** More commonly used to describe someone who is strict, inflexible, or lacking in humor, but can still imply a lack of energy or interest.
+**Usage Example:**
+- English: "He just sits there deadass, never says anything."
+- Chinese: "他一直坐那里死呆板着，什么也不说。"
 ```
+In casual contexts, "deadass" is used to highlight an extreme lack of energy or engagement, with a hint of frustration or admiration.

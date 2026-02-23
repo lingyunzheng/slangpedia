@@ -1,16 +1,20 @@
 ---
 title: "What Does 'lowkey' Mean? (lowkey 是什么意思？)"
 slug: "what-does-lowkey-mean"
-date: 2026-02-20
+date: 2026-02-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Lowkey
-### English Explanation
-"Lowkey" is an adverb that originated in hip-hop culture as a way to indicate that something is subtle, minor, or not openly acknowledged. It can also be used to mean that someone is covertly involved in something or is subtly doing something.
-### Chinese Explanation
-"lowkey" 是一个源自嘻哈文化的副词，用于表示某事是微妙的、次要的，或者不公开承认的。它还可以用来表示某人是隐秘参与某些事情或者在微妙地做某事。
+# Bilingual Slang Explanation: "lowkey"
+## English
+- **Definition**: "Lowkey" is used to indicate that something is done or known to a minimal extent, usually discreetly or without much fanfare.
+- **Example**: "I lowkey like your new haircut, it suits you."
+- **Explanation**: This phrase is used when you want to say that something is potentially true or important, but not overtly so; it's more of a quiet recognition.
+## 中文
+- **定义**："Lowkey"用于表示某事做的不多或者知情人有限，通常是一种低调的方式，没有大张旗鼓。
+- **例句**："我低key觉得你的新发型挺合你味的。"
+- **解释**：当你想表达某件事情可能是真实的或重要的，但不是非常明显或公开的时候，可以使用这个短语。它更多是一种安静的认可。
 ```

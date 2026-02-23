@@ -1,16 +1,15 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2026-02-20
+date: 2026-02-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Copium
-### English
-Copium is a humorous slang term derived from the combination of "coke" (referring to cocaine) and "One-Agers" (a fictional character from *The Onion*, mocked for indulging in an expensive meeting with himself). It's used to refer to someone who is extremely self-centered, obsessed with trivial things, or behaves in a way that is perceived as shallow and self-indulgent.
-### 中文
-“Copium” 是英文俚语中的一个幽默词汇，由“coke”（可卡因）和“One-Agers”（The Onion 的一个虚构角色，以频繁邀请自己参加昂贵的会议而著称）组合而成。它用来形容那些极度自我中心、沉迷于琐事，或者行为被视为浅薄和自我放纵的人。
+## Copium (English)
+"Copium" is a playful and comical portmanteau combining "cop" and "marijuana." It's often used humorously to reference a situation or a cop who is perceived as being under the influence of marijuana or acting in a passive or laid-back manner, which is generally seen as unprofessional.
+## Copium (简体中文)
+“Copium” 是一个逗趣的杂糅词，结合了“警察”（简称“cop”）和“大麻”（简称“marijuana”）而来。通常用来幽默地描述一个被认为是受到了大麻影响或表现得消极散漫的警察，这种表现通常被认为是非专业的。
 ```
