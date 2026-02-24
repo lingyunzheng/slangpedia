@@ -1,17 +1,26 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2026-02-22
+date: 2026-02-24
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sigma
-### English
-**Sigma**: In context of computer gaming, Sigma ("Sigma") often refers to a highly skilled or elite player. Similar to other terms like "GLHF" (GoodLuckHaveFun) or "NTR" (NotThatRole), Sigma can be used to denote a top-tier player known for their mastery of the game.
-### 中文
-**Sigma**: 在电脑游戏的语境中，“Sigma”通常是指一位极其熟练或顶级的玩家。类似于“GLHF”（GoodLuckHaveFun，祝你好运，享受游戏）或“NTR”（NotThatRole，不是那个角色），Sigma 可以用来指代那些在游戏里表现出色、技艺高超的顶级玩家。
+# Sigma (σ)
+## 苏咪加 (sū mí jiā)
+**Definition**: A term often associated with mathematics in the context of statistical analysis, but has been adapted into casual language with different meanings depending on context.
+**Variations and Contexts**:
+1. **Referring to a Cool Person**:
+- **英语**: Calling someone a "sigma" can mean they are seen as smart, skilled, and fashionable. Often used to pay respect to someone who is perceived as exceptional or trendy.
+- **中文**: 用来称呼一个酷炫又聪明的人，表示对这个人的尊敬或者认同。
+2. **In Gaming**:
+- **英语**: In some gaming communities, "sigma" refers to a player with exceptional skill, resulting in high success rates (e.g., hitting targets accurately or achieving high scores frequently).
+- **中文**: 在一些游戏社区中，“sigma”是指那些有着极高技能的玩家，能频繁地准确命中目标或取得高分。
+3. **Casual Use**:
+- **英语**: It might be used more casually to express admiration or to denote someone as a bit of a mystery, often in terms of their abilities or origins.
+- **中文**: 也可以在更随意的情况下表达对某人的钦佩，或者表示某人有些神秘，是对他们能力或背景的一种暗示。
+Remember, the context in which "sigma" is used can greatly influence its meaning and connotation.
 ```
-Please note that "Sigma" as a slang term might not be as widely recognized as "GLHF" or "NTR" in English, and its usage or meaning might vary slightly among different gaming communities or groups.
+This markdown style provides a clear and concise explanation of the term "sigma" and its different meanings in both English and Chinese slang.

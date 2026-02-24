@@ -1,23 +1,17 @@
 ---
 title: "What Does 'ate' Mean? (ate 是什么意思？)"
 slug: "what-does-ate-mean"
-date: 2026-02-20
+date: 2026-02-24
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Ate (Chinese: 阿太)
-### Chinese Explanations
-- **直男癌 (zhí nán ài)**: Male chauvinism. Refers to a man who is overly self-centered and traditional, treating women as secondary.
-- **汉子 (hái zǐ)**: Big guy. Used to describe a man who is perceived as strong, brave, and rough, often in a colloquial or stereotypical sense.
-- **绿茶婊 (lǜ chá pià)**: Green tea bitch. Colloquial slang referring to a woman who is seen as disingenuous and insincere, often spreading false information or deceiving others for her own benefit.
-### English Explanations
-- **直男癌 (zhí nán ài) – "Male Chauvinism"**:
-- A user who displays unreasonably high male privilege and treats women poorly, insisting on traditional gender roles that often place women in a subordinate position.
-- **汉子 (hái zǐ) – "Big Guy"**:
-- A term used to describe a man who is perceived as strong, brave, and rough, often in a hyper-masculine and stereotypical sense. It can also imply a bravado or assertiveness.
-- **绿茶婊 (lǜ chá pià) – "Green Tea Bitch"**:
-- A derogatory term used to describe a woman who is perceived as insincere and manipulative. She might spread false information or behave unfairly to gain some kind of advantage, often towards men. The term originates from a joke on the internet, where the image of a woman drinking green tea (traditionally associated with abortion) satirizes her behavior.
+## Chinese "吃" (Chī)
+- **Meaning**: To eat or consume.
+- **Bilingual Slang Explanation**: When you hear someone say "吃老本" (chī lǎo běn), it's like saying they're "living off the interest." Just like how it refers to living on one's past savings or expertise, it can also be used more figuratively. For example, "他只是吃老本，很少创新" (Tā chỉ jì lǎo běn, hěn shǎo chuàng xīn) translates to "He's just relying on his past work and seldom innovates."
+## English "ate"
+- **Meaning**: Past tense of eat.
+- **Bilingual Slang Explanation**: In slang, "ate" can sometimes be used as a joke or to emphasize to a higher degree. For example, saying "I ate three burgers for dinner" might be a way to jokingly emphasize you ate a lot. Similarly, you could say "She ate the opportunity" (她把机会吃了, tā bǎ jì huò chī le) to mean she seized or wasted the opportunity.
 ```
