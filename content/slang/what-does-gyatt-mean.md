@@ -1,20 +1,16 @@
 ---
 title: "What Does 'gyatt' Mean? (gyatt 是什么意思？)"
 slug: "what-does-gyatt-mean"
-date: 2026-02-22
+date: 2026-02-25
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Gyatt (英语: "vendor")
-### English
-**Gyatt** is a non-standard term used to refer to someone who sells goods at a market or online. It's a playful, informal way to describe a vendor.
-**Example:**
-- "I went to the flea market and found some cool old vinyl records from a really gyatt."
-### 中文
-**Gyatt** 是一个非正式的术语，用来指代在市场或在线出售商品的人。这是一个有趣且非正式的方式来描述一个商贩或摊贩。
-**例句:**
-- "我去逛了跳蚤市场，并在一个非常有意思的老唱片摊前找到了一些酷炫的老式黑胶唱片。"
+## Gyatt (英 中)
+### English Explanation
+**Gyatt**: A playful slang term originating from a meme or internet culture that usually refers to a scenario where someone is overly cautious or paranoid, often making things more complicated than necessary. It can also mean someone who is overly sensitive to criticism or others' opinions.
+### 中文解释
+**Gyatt**: 这个玩法规源于某个 meme 或互联网文化，通常指的是一个行为过于谨慎或过度敏感的人，他们会把事情复杂化，通常不需要如此。这个词也可能表示一个人对批评或他人的意见过于敏感。
 ```

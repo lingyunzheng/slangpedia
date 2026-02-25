@@ -1,35 +1,23 @@
 ---
 title: "What Does 'yeet' Mean? (yeet 是什么意思？)"
 slug: "what-does-yeet-mean"
-date: 2026-02-20
+date: 2026-02-25
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Yeet (Noun or Verb)
-## English
-A casual, energetic term used to express approval, dismissal, or to physically eject something.
-### Usage Examples
-- *Sentence:* I just got a gift card for my favorite store! Yeet!
-- *Scenario:* She said a rude comment to me, so I just yeeted it back.
-## 中文
-一个随意、充满活力的词汇，用于表达赞同、拒绝或物理上将某物丢出。
-### 使用示例
-- *句子:* 我刚得到一张我最喜欢的商店的礼品卡！Yeet！
-- *情境:* 她对我说了句恶毒的话，所以我回怼了她。
-```
-```markdown
-# Yeet ( también funciona como interjección )
-## English
-An interjection used to show enthusiasm or to emphasize a point.
-### Usage Examples
-- *Sentence:* That's exactly what I was thinking! Yeet!
-- *Scenario:* After doing a successful backflip, the gymnast yelled "Yeet!" in excitement.
-## 中文
-一个表示热情或强调某一点的插话词。
-### 使用示例
-- *句子:* 这正是我想说的！Yeet！
-- *情境:* 在完成一次成功的后空翻后，体操运动员兴奋地大喊“Yeet！”
+## Yeet (English)
+### Explanation
+**Yeet** (pronounced like "yee" + "t") is an internet slang term that originated from online gaming but has since become widely used in casual conversation. It is often used to express a sense of rejection, throwing away, or dismissal. However, it has also taken on a more positive connotation in recent years, sometimes used to express excitement or enthusiasm.
+### Example Usage
+- *In dismissing something:* "I yeet this old phone because it's too slow now."
+- *In a positive context:* "When I hit that textbook answer, I yeet my phone in the air to celebrate!"
+## Yeet (Chinese)
+### 解释
+**Yeet** 是一项起源于在线游戏的网络俚语，但它早已被广泛应用于日常对话中。这个词通常用来表示拒绝、抛弃或 dismissal 的意思。近年来，它还被认为带有一种积极的含义，有时用来表达兴奋或热情。
+### 示例用法
+- *表示抛弃或拒绝某物:* "因为手机太慢了，所以我把旧手机扔掉了。"
+- *表示积极的情感:* "当我找到那个课本答案时，我兴奋地把手机扔得老高。"
 ```

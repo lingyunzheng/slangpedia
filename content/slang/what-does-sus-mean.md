@@ -1,24 +1,21 @@
 ---
 title: "What Does 'sus' Mean? (sus 是什么意思？)"
 slug: "what-does-sus-mean"
-date: 2026-02-24
+date: 2026-02-25
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Term: Sus
-## English
-### Definition
-"Sus" is a shortened form of "suspicious" and is often used online to express doubt or skepticism about someone or something. It can also be used to describe behavior that seems odd or suspicious.
-### Example Usage
-- **Text:** "I don't know why they called me at 3 AM. It's such a sus time to call."
-- **Context:** Online gaming discussions about behavior that appears odd.
-## 中文
-### 解释
-"Sus" 是 "可疑" 的缩写，在线上经常用来表达对某人或某事的怀疑或警惕。它也可以用来形容看起来奇怪或可疑的行为。
-### 示例用法
-- **文本:** "我真不知道他们为什么会凌晨3点打电话给我。这个时间打电话真是太可疑了。"
-- **上下文:** 在网络游戏讨论中对行为显得奇怪的评价。
+## English: Sus
+### Explanation
+"Sus" is a slang term that stands for "suspicious." It is used to describe something or someone that seems questionable, odd, or not to be trusted. 
+- **Example Usage:** "I got a feeling this person is sus when they always check their phone when we talk."
+- **Context:** Commonly used in online communities, social media, and informal chats.
+## 中文: Sus
+### 释义
+"Sus" 是一个网络用语，代表“可疑”或“令人怀疑”。它用来形容某事或某人显得可疑、奇怪或者不可信。
+- **使用示例：** “我感觉这个人在我们说话时总是看手机，有些sus。”
+- **语境：** 常见于在线社区、社交媒体和非正式聊天中。
 ```

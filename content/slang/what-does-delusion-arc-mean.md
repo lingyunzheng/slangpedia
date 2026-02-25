@@ -1,18 +1,16 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2026-02-24
+date: 2026-02-25
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Delusion Arc (Delusional Journey)
+# Delusion Arc
 ## English
-**Delusion Arc:** This slang term is often used to describe a period or experience where someone is deeply entrenched in a false or exaggerated belief system. It can refer to a personal belief that the person finds extremely convincing and sometimes deaf to reason or evidence to the contrary. It's like being on a rollercoaster of misperception!
+A "delusion arc" is a term often used in fan communities, typically referring to a storyline or narrative arc in fiction that revolves around characters having irrational or unrealistic beliefs, often intended to be humorous or satirical. It can also denote a period where fans or writers have overly optimistic or unrealistic expectations about a story or character development.
 ## 中文
-**delusion arc（delusional journey）:** 这个潮语通常用来描述一个人深陷于一种错误或被夸大的信念体系中的时期或经历。它指某人对自己的一种非常有说服力的虚假信念，并且有时候对于来自反面的事实或证据充耳不闻。这就像在一个感知错乱的过山车过程中一样！
----
-Feel free to use this explanation to help understand or share the concept in both languages!
+"幻觉弧线"（Delusion Arc）是一个常出现在粉丝社群中的术语，通常指的是虚构作品中围绕角色持有不理性或不现实的信念而展开的故事发展轨迹，这种叙事弧光往往是讽刺或幽默的。它也可能指代一段时间内粉丝或作者对故事或角色发展的过于乐观或不现实的期望。
 ```

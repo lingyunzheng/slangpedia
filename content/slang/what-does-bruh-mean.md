@@ -1,21 +1,19 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2026-02-24
+date: 2026-02-25
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Bruh (Brother)
-### English Explanation
-"Bruh" is a slang term often used in casual conversation to express a wide range of emotions such as surprise, confusion, or inactivity. It can be used to acknowledge something in an indifferent or understanding manner. Essentially, it's a way of saying "bro" or "dude" with a bit more casual flair.
-### Chinese Explanation
-"Bruh" 是一种口语表达方式，在与朋友的闲聊中使用得非常广泛，可以用来表达惊讶、困惑或不感兴趣等情绪。基本上，它相当于说“bro”或“dude”，但带有更随意的风格。
-例句：
-- **English:** "That's pretty cool, bruh!"
-- **Chinese:** "那还挺酷的，布鲁哈！"
-- **English:** "What's going on, bruh?"
-- **Chinese:** "发生了什么，布鲁哈？"
+## Bruh: 伙计 / 哥们
+**English Slang: Bruh**
+- **Definition:** An informal term used to refer to a male friend or to express surprise, exasperation, or agreement.
+- **Example Usage:** "Bruh, that shirt looks ridiculous! You should seriously reevaluate your fashion sense."
+- **Bilingual Explanation:** "伙计" or "哥们" is a casual way to address a friend or to use as a filler word to express surprise or exasperation. For instance, "伙计，这件T恤简直太糟糕了！你应该重新考虑一下你的时尚品味。"
+**Pronunciation:** BROH or BRRR-uh
+**Usage Context:** Informal, casual settings. Can also be used to show understanding or buy time in conversations.
 ```
+This markdown format organizes the explanation clearly and provides helpful examples for both English and Chinese translations.

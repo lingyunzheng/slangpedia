@@ -1,21 +1,24 @@
 ---
 title: "What Does 'peak' Mean? (peak 是什么意思？)"
 slug: "what-does-peak-mean"
-date: 2026-02-19
+date: 2026-02-25
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Peak (English)
-**Explanation**: In the context of slang, "peak" is often used to describe something or someone at their absolute best, most impressive, or most desirable state. It can refer to a high point in quality, performance, or appeal. For example, "That moment they scored the winning goal was truly peak."
-### 例句:
-- "The coffee machine in the office is peak this morning!" (办公室的咖啡机今天早上非常好！)
----
-## 峰值 (Chinese)
-**Explanation**: 在网络用语中，“peak” 通常用来形容某事物或某人处在最佳、最出色或最有魅力的状态。它可以指质量、表现或吸引力的最高点。例如，“他们进那个胜利一球的那一刻真是峰值。”
-### 例句:
-- “办公室的咖啡机今天早上表现达到了峰值！”
+## Peak (英语 to 中文 slang)
+### English
+- **Peak**: [v.] to be at the highest point or level; to reach the best or most successful stage. Informally, it can also refer to something or someone that stands out as superlative or as the best version of itself.
+- **Phrases**:
+- "to be on a peak" - being at the highest level or performing at one's best.
+- "in peak condition" - in top physical or mental condition.
+- "off the peak" - far from good performance or the best version.
+### 中文
+- ** Peak**: [v.] 处于顶峰状态；达到最佳或最成功阶段。非正式地，也可以指某人或某物特别出色，达到了最好的版本。
+- **短语**：
+- "处于顶峰状态" - 处在最佳状态或表现最好。
+- "处于巅峰状态" - 保持最佳体能或精神状态。
+- "未达巅峰" - 距离最佳状态或表现还有差距。
 ```
-Note: The example sentences provided are translations to illustrate the usage in both languages. The exact idiomatic uses might vary slightly between English and Chinese, and the translations aim to capture the essence rather than literal meanings.
