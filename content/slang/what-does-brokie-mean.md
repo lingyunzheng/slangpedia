@@ -1,21 +1,17 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2026-02-23
+date: 2026-02-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Brokie (English)
-### Definition:
-A modern term used to describe someone who frequently posts or shares content online, often to gain attention or likes. The term combines "bro" (an informal term for a male friend) and "vark" (short for "varkle," which is a playful way to reference someone striving for likes or attention).
-### Example:
-"Man, it seems like every other post Kevin makes these days is brokie. He just wants more claps and hearts."
-## 哥吉 (Mandarin)
-### 解释：
-一个现代词汇，用来形容那些频繁在线上发布或分享内容的人，通常是为了吸引注意或获得喜欢。这个词汇结合了“哥”（一种对男性朋友的非正式称呼）和“嘉克”（“喀拉克” 的口语化简称，“varkle”指有人在争取更多的点赞或关注）。
-### 示例：
-“哎，最近凯文发的每一条帖子都这么哥吉。他只是为了获得更多点赞和心心。”
+### Slang: Brookie (Bro + Cookie)
+**English Explanation:**
+"Brookie" is a playful adaptation of "bro" (from "brother") and "cookie." It's often used to describe someone who is sweet, friendly, or innocent in a way that a close friend might know. Think of it as a softer, friendlier version of "bro."
+**Mandarin Explanation:**
+"Brookie" (兄弟饼，jiédì bǐng) 是一种结合了“兄弟”（brother）和“饼干”（cookie）的创造性的表达方式。通常用来形容某人很友善、无辜或甜蜜，就像是亲密朋友之间互相称呼时用的昵称一样。它给人感觉比普通称呼“bro”要温柔、友好得多。
+注意：这个词汇的中文解释是基于联想和文化理解创造的，中文中没有完全对应的俚语，只是一种比喻表达。
 ```

@@ -1,22 +1,20 @@
 ---
 title: "What Does 'pop off' Mean? (pop off 是什么意思？)"
 slug: "what-does-pop-off-mean"
-date: 2026-02-19
+date: 2026-02-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# "Pop Off" Slang Explanation
+# "Pop off"
 ## English
-**Pop Off**:  
-To behave in an excited, enthusiastic, or disruptive way, often with a sense of fun and excitement. It can also refer to somebody acting crazy or going wild, or to the act of making or firing a shot (often in a violent context).
-### Example
-- "He really popped off during the team meeting, talking about his new idea non-stop."
+To act in a way that is unexpected, excessive, or dramatically different from the norm; to engage in flashy, impressively reckless, or intense activity.
+**Example:**
+- *He decided to pop off with a three-point shot at the buzzer, securing the win for his team.*
 ## 中文
-**pop off**:  
-指行为非常兴奋、有活力或充满激情，通常带着乐趣和兴奋感。它也可以指某人变得疯狂或狂野，或者指做出或开枪（通常在暴力的情境中）的行为。
-### 例句
-- "他在团队会议上很兴奋，一直说着他的新想法，简直停不下来。"
+意指行为出人意料、过度或者与常态截然不同；也可以形容进行非常炫酷、冒险或者激烈的行动。
+**例句:**
+- *他决定在比赛的最后一秒以一个三分球狠狠地炫了一把，为他的队伍赢得了胜利。*
 ```

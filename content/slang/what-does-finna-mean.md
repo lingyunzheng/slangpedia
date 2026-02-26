@@ -1,18 +1,27 @@
 ---
 title: "What Does 'finna' Mean? (finna 是什么意思？)"
 slug: "what-does-finna-mean"
-date: 2026-02-21
+date: 2026-02-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## finna (American English)
-**English:** 
-"Finna" is a colloquialism used primarily in the United States, particularly in Southern and urban areas. It's a combination of "fixin' to" and "going to" that indicates imminent action or an upcoming event. 
-**Example:** "I finna go grab some food after work."
-**Bilingual Slang Explanation:**
-- **英語:** "Finna" 是一个俚语，在美国，尤其是在南方和城市地区广泛使用。这个词是由“fixin’ to”（将要）和“going to”（打算）合并而成，用来表示即将进行的动作或即将到来的事件。
-- **中文解释:** "Finna" 是一个俚语，在美国，尤其是在南方和城市地区广泛使用。这个词是“fixin’ to”（将要）和“going to”（打算）的组合，用来表示即将进行的动作或即将到来的事件。
+# "Finna" Explained in Bilingual Slangs
+## English to Chinese
+**"Finna"** is a slang term used to convey an intention or plan to do something soon. It can be translated to Chinese as **"正要" (zhèng yào)**.
+### Example:
+- **English**: "I'm finna go to the store."
+- **Chinese**: 我正要去商店。 (Wǒ zhèng yào qù dà shāng tiān.)
+---
+## Chinese to English
+If you hear someone say **"正要" (zhèng yào)**, they are expressing that they are about to do something. This phrase can be translated into English as **"finna"**.
+### Example:
+- **Chinese**: 他正要离开。 (Tā zhèng yào kāi liè.)
+- **English**: He's finna leave.
+---
+## Usage Notes
+- **"Finna"** and **"正要" (zhèng yào)** are informal terms used in casual contexts. They are often used in spoken language rather than written.
+- This slang is commonly used in American English, while **"正要" (zhèng yào)** is a standard term in Mandarin Chinese.
 ```
