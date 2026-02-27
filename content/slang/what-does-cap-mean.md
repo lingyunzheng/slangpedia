@@ -1,28 +1,20 @@
 ---
 title: "What Does 'cap' Mean? (cap 是什么意思？)"
 slug: "what-does-cap-mean"
-date: 2026-02-25
+date: 2026-02-27
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Cap (English/Chinese)
-## English
-### Explanation
-- **To cap**: This phrase is slang and can be used in two primary contexts:
-- **To top somebody/something out**: To defeat or outdo someone or something so completely that they no longer have a chance.
-- **To put the cap on**: To formally conclude an event or person's activities, often with an arrest.
-### Example Sentences
-- "Remember how we said John was unbeatable? Well, I just capped him in the match."
-- "The police put the cap on the robbers with a surprise raid at night."
-## Chinese
-### 解释
-- **Cap掉**: 这个短语通常用在两种主要的语境中:
-- **把某人/某事打倒**: 彻底击败或胜过某人或某物，以至于他们再也无力招架。
-- **封顶**: 正式结束一个事件或人员的活动，常指警方采取突袭行动逮捕他们。
-### 示例句子
-- "还记得我们说约翰不可战胜吗？我就在比赛中把他给打败了。"
-- "警方在深夜采取突袭行动将抢劫犯逮了个正着。"
+# Cap (英文: Cap)
+## English Explanation
+"Cap" is often used in informal or slang contexts. It can have different meanings depending on the situation.
+- **To Cut Off or Stop**: When used to describe stopping or cutting off, it typically means to stop something abruptly or put an end to it. For example, "I capped my internet usage by turning off my phone."
+- **As a Relational Status**: In some communities, primarily online, "cap" can be used to express a level of affection or intensity in a relationship. For example, "He gave her a cap for her birthday, meaning he really cares about her."
+## Chinese Explanation
+"Cap" 在非正式或俚语中 usage 中也有不同的含义，具体用法取决于语境。
+- **停止或切断**: 当用来描述停止或切断某事时，通常意味着突然停止或结束某事。例如，“我通过关掉手机来 cap 了我的上网时间。”
+- **作为一种情感关系表达**: 在某些社区中，特别是在网络上，“cap” 可以用来表达一种亲密或强度。例如，“他送给她一个 cap 当作生日礼物，意思是他非常关心她。”
 ```

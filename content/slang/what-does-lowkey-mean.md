@@ -1,20 +1,18 @@
 ---
 title: "What Does 'lowkey' Mean? (lowkey 是什么意思？)"
 slug: "what-does-lowkey-mean"
-date: 2026-02-23
+date: 2026-02-27
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Bilingual Slang Explanation: "lowkey"
-## English
-- **Definition**: "Lowkey" is used to indicate that something is done or known to a minimal extent, usually discreetly or without much fanfare.
-- **Example**: "I lowkey like your new haircut, it suits you."
-- **Explanation**: This phrase is used when you want to say that something is potentially true or important, but not overtly so; it's more of a quiet recognition.
-## 中文
-- **定义**："Lowkey"用于表示某事做的不多或者知情人有限，通常是一种低调的方式，没有大张旗鼓。
-- **例句**："我低key觉得你的新发型挺合你味的。"
-- **解释**：当你想表达某件事情可能是真实的或重要的，但不是非常明显或公开的时候，可以使用这个短语。它更多是一种安静的认可。
+##低key (Lowkey)
+**English Explanation:**  
+"Lowkey" is an informal slang term used to describe something in a quiet, low-profile manner. It's often used to talk about something that you might not want to make a big deal out of, or to subtly indicate your feelings. 
+**Example Usage:**
+- **In English:** "I, like, lowkey have a thing for him. "
+- **In Simplified Chinese with explanation:** "我低key对他有点意思。" (Wǒ dīkey duì tā yǒu diǎnr yìsī.) - 这里"lowkey"的意思是悄悄地或不太刻意地喜欢某人。（Here, "lowkey" means liking someone quietly or without making a big deal about it.）
+**Context of Use:** Often used in chat forums, social media, and among friends to indicate a subtle preference or feeling without making it seem like a big deal.
 ```

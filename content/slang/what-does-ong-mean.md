@@ -1,15 +1,17 @@
 ---
 title: "What Does 'ong' Mean? (ong 是什么意思？)"
 slug: "what-does-ong-mean"
-date: 2026-02-24
+date: 2026-02-27
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Bilingual Slang Explanation: "ong"
-**English:** "ong" is a playful and affectionate term used to refer to a male friend or acquaintance, similar to "buddy" or "dude" in casual conversations. It's often used among friends in a light-hearted or teasing way.
-**中文:** "ong" 是一个亲切且带有playful色彩的词汇，用来称呼男性朋友或熟人，类似于在非正式对话中使用“伙计”或“伙子”。它通常在朋友间以轻松或调侃的方式使用。
+## Ong (Chinese: 唐)
+**English Slang Explanation:** 
+"Ong" is a humorous or affectionate way to refer to someone from the Chinese diaspora, particularly those from Southeast Asia with Chinese ancestry. It's similar to how "Ching-Chong" or "Gook" might be used in other contexts, but "Ong" tends to be more gentle and inclusive.
+**Chinese (Mandarin) Slang Explanation:** 
+"唐" (Táng) 通常用来戏谑地指代东南亚一带拥有华人血统的人，类似于“唐人”这个词。它常用于一种友好的、非贬义的语境中，表达亲切或调侃的情感。
 ```
-Please note that "ong" can vary in its exact usage across different regions and groups. The given explanation is a general interpretation based on the provided context.
+This markdown format provides clear distinction and explanation in both languages.
