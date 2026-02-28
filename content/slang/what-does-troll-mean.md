@@ -1,20 +1,18 @@
 ---
 title: "What Does 'troll' Mean? (troll 是什么意思？)"
 slug: "what-does-troll-mean"
-date: 2026-02-26
+date: 2026-02-28
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Troll (ˈtrōl)
-### English
-A troll is someone who intentionally posts inflammatory, redundant, or off-topic messages in an online community, often with the goal of provoking other users into an emotional response, or for entertainment.
-#### Example
-"I just got trolled by someone who thought it was clever to post a picture of a megaphone with the caption 'I don't like your tone'!"
-### 中文
-水军是指那些故意在在线社群中发布激进化、重复或无关主题的消息的人，其目的是激起其他用户的情绪反应，或者单纯为了娱乐。
-#### 示例
-“我刚刚被人水了一下，他们居然发了一张扩音器的图片，配文是‘我不喜欢你的语气’！”
+## Troll (简体中文解释)
+**troll** - 跟帖捣蛋鬼 / 网络搅局者
+在互联网环境中，**troll** 通常指的是那些发布恶作剧帖子或故意引起争论、让氛围变得紧张的人。这类人往往为了引起关注或娱乐他人，而故意发布一些无意义或有争议的内容。
+---
+## Troll (English Explanation)
+**troll** - Internet Troublemaker / Disrupter
+In the internet context, **troll** typically refers to individuals who post prankish messages or intentionally provoke disputes to create a tense atmosphere. These people often aim to grab attention or entertain others by posting content that is meaningless or controversial.
 ```

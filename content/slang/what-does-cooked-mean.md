@@ -1,23 +1,26 @@
 ---
 title: "What Does 'cooked' Mean? (cooked 是什么意思？)"
 slug: "what-does-cooked-mean"
-date: 2026-02-27
+date: 2026-02-28
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English: Cooked
-### Chinese: 蒸熟了 (zhēng shú le) or 狸猫换太子 (lí mā huàn tà zǐ)
-#### Meaning:
-- **English:** When something is "cooked," it can mean it's ready or done, especially in a context where preparation is required.
-- **Chinese:** 
-- **蒸熟了 (zhēng shú le):** This phrase translates to "steamed until cooked." In slang, it's often used to describe a situation that has been dealt with or settled in a way that the original plans or expectations have been met or exceeded.
-- **狸猫换太子 (lí mā huàn tà zǐ):** This idiom literally means "fox cub replaces the crown prince" and is used to describe a complex situation where something (or someone) has been substituted or switched without being noticed. In a colloquial sense, it might be used to describe a scenario where something seems feasible or settled but might have some hidden issues or where expectations are not fully met.
-#### Usage:
-- **English Example:** "The plans are cooked, everything is set for the big event."
-- **Chinese Example:** "计划已经蒸熟了，所有的准备工作都已经做完了。" (Jì huà yǐ jīng zhēng shú le, suǒ yú de gòng zuò jiè zhù yǐ jīng zuò wán le.) — The plans are already steamed until cooked; all the preparatory work has been completed.
-- **English Example:** "The deal was a bit cooked, they tried to substitute a less valued asset."
-- **Chinese Example:** "这笔交易有点狸猫换太子的味道，他们试图用价值较低的资产来代替。" (Bítuloi jiāoyì yǒudiǎn lí mā huàn dà zǐ de wèi dào，tāmen shì tú yòng jiàzhí d sağlamázì cái lái dìtì.) — This transaction had a bit of fox cub replacing the crown prince flavor; they tried to use an asset of lower value in substitution.
+## English Slang: "Cooked"
+### Definition
+Something or someone that is described as "cooked" can mean it's no longer usable, effective, or in good shape.
+### Example Usage
+- "The team's strategy is cooked. We need a new plan."
+- "His reputation is cooked after those rumors spread."
+### Chinese Slang: "煮熟了" (zhǔ shú le)
+### Definition
+类似于英文中的“煮熟了”，这个词组在中文里意味着某样东西或某个人已经彻底变质，失效，或者已经到了无法再拯救的状态。
+### Example Usage
+- “团队的策略已经煮熟了，我们需要一个新的计划。”
+- “他在那些谣言散播后，就已经煮熟了，声誉大受影响。”
+### Explanation
+- 烹饪中的“煮熟”指的是食材已经完全做熟，不能再进一步烹饪。而词组“煮熟了”被引申用来形容某个人或事物已经彻底坏掉或失败，无法恢复原貌的状态。
 ```
+This markdown structure provides a clear and concise comparison between the slang terms in both English and Chinese, along with examples to illustrate usage.
