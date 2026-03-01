@@ -1,18 +1,16 @@
 ---
 title: "What Does 'lit' Mean? (lit 是什么意思？)"
 slug: "what-does-lit-mean"
-date: 2026-02-28
+date: 2026-03-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## "Lit"
-### English
-- **Definition**: A high-energy, exciting, or wild activity or event.
-- **Example Usage**: "We had a lit night out dancing and partying at the club last night."
-### Chinese
-- **释义**：形容某件事或活动充满活力、好玩或者非常精彩。
-- **例句**：昨晚我们在俱乐部跳舞、聚会，玩得非常high，真是“lit”。
+## Lit
+**English:**  
+To be lit means something or someone is amazing, exciting, or cool. It's often used to describe a party, event, or a person who is energetic and full of life.
+**Chinese:**  
+"Lit" 表示某事物或某人是惊人的、激动人心的或酷的。它通常用来形容派对、活动或充满活力、精力充沛的人。
 ```

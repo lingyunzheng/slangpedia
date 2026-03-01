@@ -1,23 +1,23 @@
 ---
 title: "What Does 'bussin' Mean? (bussin 是什么意思？)"
 slug: "what-does-bussin-mean"
-date: 2026-02-23
+date: 2026-03-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Bussin (English)
-#### Meaning:
-- **Active and Thriving**: Often used to describe a business or situation that is very successful, bustling, and making a lot of money. It implies that everything is going well.
-- **Example Usage**: "That new startup is really bussin'—they're making a ton of sales and getting a lot of attention."
-#### 直译 (Direct Translation)：
-- **忙疯了** (máng fēng le): Literally means "crazy busy." It conveys the same idea of being extremely busy and successful.
-### Bussin (Chinese)
-#### 含义：
-- **忙碌且兴旺** (máng lù qiě xīng wàng): 指事情或业务非常成功，非常红火，往往意味着赚了大钱或发展迅速。它传达了忙得不可开交且很成功的感觉。
-- **例句**：那个新启动的公司真的忙疯了——他们赚了不少钱，还受到了很多关注。
-#### 哲学解释：
-- **繁华与兴旺** (huá fán yǔ xīng wàng): 除了字面上的意思，这个词也象征着一种繁荣向上、不断发展的状态。它不仅描述了表面的忙碌，还包含了内在的成长和成功。
+## Bilingual Slang Explanation: Bussin'
+**English:** - Engaged in business, especially informal or illegal activities; vigorous or intense activity.
+- Often used to describe a situation or person that is very active, busy, or energetic, often in a colloquial or informal context.
+**Example Sentence:**
+- "He's always bussin', whether it's running a legit business or just being a hustler."
+- "She's been bussin' all day with her new project."
+**Translation:**
+- **Chinese (普通话):** 很忙或很活跃，尤其是在描述某个商业活动或个人行为时，常带有一定的隐秘或不法意味。
+- **Chinese (简体字):** 很忙或很活跃，尤其是在描述某个商业活动或个人行为时，常带有一定的隐秘或不法意味。
+**Example Sentence:**
+- "他总是忙得很 bussin'，要么经营正儿八经的生意，要么就靠投机取巧。"
+- "她一整天都在忙 bussin' 新项目。"
 ```

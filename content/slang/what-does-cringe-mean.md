@@ -1,15 +1,22 @@
 ---
 title: "What Does 'cringe' Mean? (cringe 是什么意思？)"
 slug: "what-does-cringe-mean"
-date: 2026-02-28
+date: 2026-03-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Cringe (English)
-"Cringe" is a term commonly used to describe something or someone that is extremely awkward, embarrassing, or unnerving. When something is cringe, it usually evokes a strong negative emotional response, such as disbelief or nausea. For example, if someone tells a joke that falls flat or makes a social blunder in a public setting, it can be described as "cringe."
-### 中文解释
-“cringe”是一个常用的英语俚语，用于形容某种事情或某个人极其尴尬、丢脸或令人不安。当某事被认为是“cringe”时，它通常会激发出强烈的负面情绪反应，比如难以置信或恶心。比如，如果有人讲了个冷笑话或者在公共场合犯了社交错误，我们可能会说这件事是“cringe”。
+## Cringe (英 美)
+**Cringe** is a slang term used to express strong disapproval or disgust, often towards someone or something that is perceived as extremely awkward, embarrassing, or nonsensical. 
+- **中文释义：**
+- **cringe** 表示强烈的反感或厌恶，通常用于形容某人或某事被感知为极度尴尬、尴尬或不合逻辑的情况。
+- **例子：**
+- **英 美:**
+- I can't believe he said that about my sister! That was cringe-level embarrassing.
+- 真是不能相信他竟然这么说我妹妹！那真是太尴尬了。
+- **中文：**
+- 我真不能相信他会那样说我妹妹！简直尴尬到爆。
 ```
+This markdown format provides a clear and concise explanation of the slang term, along with examples to illustrate its usage.

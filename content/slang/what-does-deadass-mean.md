@@ -1,7 +1,7 @@
 ---
 title: "What Does 'deadass' Mean? (deadass 是什么意思？)"
 slug: "what-does-deadass-mean"
-date: 2026-02-25
+date: 2026-03-01
 tags:
 - slang
 - internet
@@ -10,10 +10,9 @@ tags:
 ```markdown
 ## deadass
 ### English
-A colloquial slang term used to describe someone who is **extremely serious**, often to the point of being humorously overzealous or intense. It can also be used to mean someone who is **absolutely true** or **honest** without any exaggeration.
+**deadass**: A slang term used to describe something or someone that is extremely serious, intense, or sincere. It can also indicate a lack of humor or a very straight-forward, no-nonsense attitude. It often implies someone or something is being taken very seriously without any sense of humor.
+Example: "He walked into the room deadass serious, and no one knew what to say."
 ### 中文
-一个口语化俚语，用来形容某人非常认真，有时会带有幽默意味，显得过于认真或热烈。这个词也可以用来表示某人**完全属实**或**非常坦诚**，没有一点夸张。
-Example:  
-- English: "You're deadass right about that."  
-- Chinese: "你这话完全正确。"
+**deadass**: 一个网络俚语，用来形容某人或某物非常严肃、认真或诚恳。也可以表示没有幽默感，或者非常直截了当、不带虚伪的态度。它通常意味着某人或某物被非常认真地对待，完全没有幽默感。
+例句: “他走进房间时非常严肃地（deadass serious），以至于没人知道该说什么。”
 ```

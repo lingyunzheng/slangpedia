@@ -1,15 +1,20 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2026-02-23
+date: 2026-03-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Copium (English)
-"Copium" is a playful and comical portmanteau combining "cop" and "marijuana." It's often used humorously to reference a situation or a cop who is perceived as being under the influence of marijuana or acting in a passive or laid-back manner, which is generally seen as unprofessional.
-## Copium (简体中文)
-“Copium” 是一个逗趣的杂糅词，结合了“警察”（简称“cop”）和“大麻”（简称“marijuana”）而来。通常用来幽默地描述一个被认为是受到了大麻影响或表现得消极散漫的警察，这种表现通常被认为是非专业的。
+# Slang Explanation: Copium
+## English
+**Copium**: A humorous or ironic term used to mock or trivialize something, often law enforcement or police activities. It's a playful twist on the word "pound" (which is a slang term for making an arrest, i.e., "pounding a suspect"), blending it with "amium" (a made-up word that sounds like "amiantus," another material name).
+Example Usage:
+- "He thought escaping the city would get him off Copium, but the police caught up with him easily."
+## 中文
+**Copium**: 一个用来嘲笑或轻蔑某种事物的口语化表达，通常是针对执法或警察活动的。这个词是将“磅”（英文中“磅”有时被用来指一次逮捕，即“磅一个嫌疑人”）与“amium”（一个听起来像“amiantus”这种材料名称的虚构词）相结合的产物。
+用法示例：
+- “他认为逃离城市能让他免于Copium，但警察轻易就把他抓住了。”
 ```

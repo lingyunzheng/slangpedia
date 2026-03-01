@@ -1,29 +1,22 @@
 ---
 title: "What Does 'cope' Mean? (cope 是什么意思？)"
 slug: "what-does-cope-mean"
-date: 2026-02-25
+date: 2026-03-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Cope (English)
-### Meaning
-To deal with or manage a difficult or stressful situation.
-### Example
-"I haven't been able to cope with the workload lately."
-### Bilingual Slang Explanation
-**English:** Cope  
-**Chinese:** 调剂 (jiádài) / 整合 (zhěnhé)  
-**Explanation:** 当你面对一些困难或者压力的时候，调剂或整合可以帮助你处理和管理这些情况。这个词常常用来形容你在处理复杂或紧张的情境中的能力。例如，"我最近因为工作量大，没能很好地调剂。"
-## Cope (Chinese)
-### Meaning
-处理或管理艰难或有压力的情况。
-### Example
-“我最近因为工作量大，没能很好地调剂。”
-### Bilingual Slang Explanation
-**Chinese:** 调剂 / 整合  
-**English:** Cope  
-**Explanation:** When you are facing some difficulties or pressure, you can use 调剂 (jiádài) or 整合 (zhěnhé) to handle and manage these situations. This word is often used to describe your ability to deal with complex or stressful circumstances. For example, "I haven't been able to cope with the workload lately."
+# Cope (英 VS 中)
+## English
+**Cope**: To deal with or manage a difficult situation.
+- **Example**: *I'm really feeling the pressure, but I need to start coping with this new project.*
+## Simplified Chinese
+**Cope**: 处理或应对困难的情况。
+- **Example**: *我感觉压力很大，但需要开始应对这个新项目了。*
+## Bilingual Slang Explanation
+- **Coping with life's ups and downs**: 生活中的起起伏伏都得应对
+- **Need to start coping**: 需要开始处理
+- **Coping skills**: 应对技巧
 ```
