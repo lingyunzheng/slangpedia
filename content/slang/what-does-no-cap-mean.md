@@ -1,16 +1,16 @@
 ---
 title: "What Does 'no cap' Mean? (no cap 是什么意思？)"
 slug: "what-does-no-cap-mean"
-date: 2026-02-27
+date: 2026-03-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## "No Cap"
-- **English Explanation:** 
-* This phrase is commonly used to indicate that what is being said is true or genuine, or that there is no limit to something (e.g., "I can run no cap!"). It can also mean "no joke" or "seriously."
-- **Chinese Explanation:** 
-* 这个短语通常用来表明所讲的话是真实的或认真的，或者某件事情没有上限（例如，“我跑得 no cap！”）。它也可以意味着“不是开玩笑”或“很严肃”。
+## no cap
+**English:**  
+"no cap" is a slang phrase often used to affirm the truthfulness of a statement. It literally means "I am not lying" or "I am telling the truth." It's commonly used when someone wants to reassure others that they're not exaggerating or bluffing.
+**Chinese:**  
+"no cap" 是一个俚语短语，常用来强调所言之词的真实性。它意思是“我没有在说谎”或“我说的是真话”。当有人想要让别人相信他们没有夸大其词或虚张声势时，就会使用这个词。
 ```

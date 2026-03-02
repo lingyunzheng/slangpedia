@@ -1,7 +1,7 @@
 ---
 title: "What Does 'yeet' Mean? (yeet 是什么意思？)"
 slug: "what-does-yeet-mean"
-date: 2026-02-27
+date: 2026-03-02
 tags:
 - slang
 - internet
@@ -9,10 +9,20 @@ tags:
 ---
 ```markdown
 # Yeet
-## English Meaning
-"Yeet" is a slang term often used to express a forceful motion or dismissal, usually in a playful or mocking way. It can be used to throw something, dismiss someone, or express that something is awesome in a dismissive manner.
-*Example*: "I just got this new computer, and yeet, it's faster than my old one!"
-## Chinese Explanation
-"Yeet" 是一个网络流行语，通常用来表达一种有力的挥动动作或拒绝，通常带有戏谑或调侃的意味。它可以用来扔东西、拒绝某人，或者表示某事非常棒但用一种带调侃意味的方式。
-* 示例：我刚买了一台新电脑，耶特，比旧电脑快多了！
+## English
+### Meaning
+- **To Throw Softly**: Often used in the context of throwing something lightly or casually.
+- **To Reject**: Used to express rejection or dismissal of a person or idea.
+- **To Vomit**: Sometimes used metaphorically to express severe disgust.
+- **Internet Culture**: A versatile term picked up from internet slang, often used in a playful or casual manner.
+### Example Usage
+- "I totally yeeted that idea when it was proposed." (testified to rejecting it)
+## 中文
+### 含义
+- **轻柔地扔**: 常用于形容轻柔地扔东西。
+- **拒绝**: 用来表达对某人或某个想法的拒绝或摒弃。
+- **呕吐**: 有时用作比喻，表达强烈的厌恶。
+- **网络文化**: 一个源自网络 slang 的万能术语，在轻松或随意的语境中使用非常广泛。
+### 示例用法
+- "我一秒钟都没考虑就 yeeted 那个想法。"（表示拒绝）
 ```

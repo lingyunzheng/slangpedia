@@ -1,21 +1,27 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2026-02-28
+date: 2026-03-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Delusion Arc (英语: Delusion Arc)
-## Chinese Explanation:
-"梦游弧线" (Mèngyóu Huánxiàn)
-- This term is a play on "梦游" (mèngyóu, literally "dream-wandering") and "弧线" (húxiàn, arc). In a metaphorical sense, it's used to describe individuals or groups who are living in a fantasy world, stuck in their own illusions, and unable to see the reality around them. This could be about delusional characters in fiction or people in real-life scenarios who are deeply affected by false beliefs or misinformation.
-## English Explanation:
-"Delusion Arc"
-- This term usually refers to a storyline or narrative arc where the characters are stuck in their own delusions, unable to see the truth. It can be used in both fictional and real-life contexts to describe situations where people are living in a fantasy world, often due to their own false beliefs or misinformation. It's a vibrant and often colorful way to describe characters or situations that are clouded by a heavy veil of illusion, making it difficult for them to comprehend reality.
----
-Both phrases capture the essence of being lost in one's own world, detached from reality, and provide a vivid depiction of delusion in various contexts.
+## Delusion Arc (Delusion 弧线)
+**Chinese:** Delusion 弧线
+**English:** Delusion Arc
+### Explanation
+Delusion Arc is a term often used to describe a specific type of narrative arc in storytelling, games, or even in casual conversations. Here it refers to a situation where a character or individual knows they are in a nonsensical or absurd scenario but is still fully engrossed in it, moving forward as if it's perfectly logical and normal. In other words, it describes a scenario where someone is so absorbed in their own perspective that they can't see the reality or inconsistencies around them.
+- **Example in Chinese:**
+> 这个角色陷入了虚构世界的delusion 弧线，无论他如何努力，世界里的逻辑完全自洽，他却无法认识到这个世界并非真实。
+>
+> The character is trapped in the delusion arc of the fictional world; no matter how hard he tries, the logic within the world is entirely self-consistent, but he cannot recognize that this world is not real.
+- **Example in English:**
+> Alice found herself in a delusion arc in the wacky video game, where she rudely ignored the nonsensical rules and just kept playing because it was so much fun.
+>
+> Alice was in a delusion arc within the wacky video game, where she ignored the illogical rules and kept playing because it was so much fun.
+### Usage Tips
+- When using this term, it often implies a surreal or dreamlike experience that is entirely valid within the context of the story or scenario.
+- It can be used to describe moments of escapism or ignoring reality in favor of a more comforting fiction.
 ```
-Feel free to use this markdown for your documentation or any collaborative project!

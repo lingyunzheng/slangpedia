@@ -1,19 +1,22 @@
 ---
 title: "What Does 'stan' Mean? (stan 是什么意思？)"
 slug: "what-does-stan-mean"
-date: 2026-03-01
+date: 2026-03-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Stan (名词 / 副词)
-### 中文解释
-“斯坦”在网络用语中通常指的是极度疯狂地支持某个事物或某个人的粉丝。这种支持往往到了痴迷的地步，不理智，甚至会影响正常生活。
-### 英文解释
-"Stan" is a term commonly used online to describe a fan who is极度疯狂地支持某个事物或某个人 (beyond the point of obsession or irrational support). This kind of support can become so intense that it impacts their normal life.
-### 示例
-- 中文：小明对这位网红的评论区里，有些粉丝变成了斯坦，每天刷屏支持这位网红。
-- 英文：In Xiao Ming's comments section of the influencer, some fans have become stans, going on a daily streak of supporting the influencer.
+## Stan (English-Spanish)
+**English:** A "stan" is a fan who is extremely devoted to a particular celebrity, sports team, or other public figure to the point of being overly enthusiastic and sometimes even obsessive.
+**Spanish:** Un "stan" es un fanático que es increíblemente devoto a una celebridad, equipo deportivo, o figura pública en particular, llegando a ser extremadamente entusiasta y a veces hasta obsesivo.
+---
+### Examples:
+**English:** She's such a stan for Taylor Swift that she goes to every concert and knows all the lyrics to her songs.
+**Spanish:** Ella es tan stan de Taylor Swift que asiste a cada concierto y sabe todas las letras de sus canciones.
+---
+### Etymology:
+**English:** The term originally comes from the internet and is a shortened form of "standing ovation" where fans stand up to show their appreciation, but over time it shifted to mean a devoted fan.
+**Spanish:** El término originalmente viene de internet y es una forma abreviada de "aplausos de pie", en los cuales los fans se levantan para demostrar su admiración, pero con el tiempo se ha utilizado para referirse a un fanático dedicado.
 ```

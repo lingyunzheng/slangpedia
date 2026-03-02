@@ -1,18 +1,26 @@
 ---
 title: "What Does 'rizz' Mean? (rizz 是什么意思？)"
 slug: "what-does-rizz-mean"
-date: 2026-03-01
+date: 2026-03-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Rizz (英语: Rizz)
-## English Explanation
-The term "rizz" is a slang word that gained popularity especially on social media platforms like TikTok. It's used to describe a certain level of coolness, style, or attitude. Someone who has "rizz" exudes an aura of confidence, charisma, or overall swag. It's a playful way to express appreciation for someone's or something's flair and vibe.
-Example: "That new outfit really gives off some serious rizz!"
-## Chinese Explanation
-“Rizz”这个词是社交媒体上的口头禅，特别流行于像TikTok这样的平台上。它用来形容一种酷感、风格或是态度。拥有“rizz”的人展现了一种自信、魅力或整体的潮味。这是一种表达赞赏某人或某事物风格和魅力的方式。
-例句：“那件新外套真的散发出浓浓的rizz！”
+## Rizz (Noun/Verb)
+**English:**
+- *Slang Definition:* A playful, confident, or stylish attitude or behavior.
+- *Example:* "He totally rizzed up the party with his cool dance moves and attitude."
+**中文:**
+- *流行用语定义:* 一种轻松自信或时尚的态度或行为。
+- *例句:* “他用他酷炫的舞步和态度让派对充满活力。”
+```
+## Rizz (Adjective)
+**English:**
+- *Slang Definition:* Describes someone or something that is cool, stylish, or impressive.
+- *Example:* "She has such a rizzful style, you can't help but admire her!"
+**中文:**
+- *流行用语定义:* 形容某人或某物非常 cool, 时尚 或令人印象深刻。
+- *例句:* “她的风格如此 rizzful，你不由自主地就对她刮目相看。”
 ```

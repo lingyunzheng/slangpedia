@@ -1,17 +1,20 @@
 ---
 title: "What Does 'simp' Mean? (simp 是什么意思？)"
 slug: "what-does-simp-mean"
-date: 2026-02-27
+date: 2026-03-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Slang Term: Simp
-- **English:** A "simp" is someone who displays excessive admiration or affection towards someone, typically to the point of being seen as immature or silly. This term often carries a negative connotation, implying that the person is overly infatuated or caregiver-seeking.
-- **Chinese:** "Simp"（单纯的人/舔狗）是指对某人表现出过度仰慕或偏爱的人，通常给人留下不成熟或愚蠢的印象。这个词汇通常带有负面含义，暗示这个人过于痴迷或寻求照顾。
-- **Chinese Context Example(Simplified):** “阿杰是个大simp，为了女神每天都写情诗。”
-- **Chinese Context Example(Traditional):** 「阿傑是一個大simp，為了女神每天寫情詩。」
+## Simp (Simplified Chinese: 简体中文; Traditional Chinese: 簡體中文)
+### English Explanation:
+**Simp**: (Short for "simple-minded") A term used to describe someone who is overly infatuated with, or overly enthusiastic about, a particular person or thing, often to the point of being cartoonishly oblivious to anything else. Sims often indulge in exaggerated displays of affection or admiration, and can be seen as naive or foolish in their pursuit.
+### Simplified Chinese Explanation:
+**简体中文解释**:
+Simp (简体中文: 简体中文; 英文: simple-minded)：用来形容一个对某个人或事物极其痴情或迷恋的人，有时候会表现出极度的迷恋，没有其他人或事情能吸引了他们的注意力。Sims 对他们喜欢的对象表现出夸张的示爱行为或崇拜，这种态度有时会被认为是天真或者愚蠢。
+### Traditional Chinese Explanation:
+**繁體中文解釋**:
+Simp (繁體中文: 簡體中文; 英文: simple-minded)：用來形容一個對某個人或事物極其痴情或迷戀的人，有时候會表現出極度的迷戀，沒有其他人或事情能吸引了他們的注意力。Sims對他們喜歡的對象表現出極為誇張的示愛行為或崇拜，這種態度有時會被認為是天真或者愚蠢。
 ```
-This markdown format provides a clear, structured explanation of the slang term "simp" with its definition, connotations, and usage examples in both simplified and traditional Chinese.
