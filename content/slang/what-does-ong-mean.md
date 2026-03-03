@@ -1,28 +1,20 @@
 ---
 title: "What Does 'ong' Mean? (ong 是什么意思？)"
 slug: "what-does-ong-mean"
-date: 2026-03-02
+date: 2026-03-03
 tags:
 - slang
 - internet
 - tiktok
 ---
+Certainly! Here's a markdown-formatted bilingual explanation for "ong":
 ```markdown
-## Ong (英語: On)
-### 在线 (zài xiànlǐng / on-line)
-- **Definition**: When someone is actively connected to the internet or present on a platform, ready to communicate or participate in activities.
-- **Example**: "他正在 ONG，随时准备参与讨论。" -> "He is ONG, ready to participate in the discussion."
-### 用心 (yòng xīn / on-heart)
-- **Definition**: When someone is putting a lot of effort and care into something, often used to describe someone who is devoted and sincere.
-- **Example**: "她 ONG 地完成每一个项目任务。" -> "She puts her heart into completing every project task."
-### 上班族 (shàngbān zú / on-job tribe)
-- **Definition**: Often used to refer to people who work in offices or have a 9-to-5 job, emphasizing their routine work life.
-- **Example**: "他们都是 ONG 上班族。" -> "They are all on-job tribe members."
-### 开挂 (kāi guà / on cheat)
-- **Definition**: Informal term implying that someone is using unfair advantages or special abilities, like cheating in video games.
-- **Example**: "他的游戏打败我是因为他 ONG 开挂了。" -> "He beat me in the game because he was on cheating."
-### 在线学习 (zài xiànlǐng xuéxí / on-learning)
-- **Definition**: Learning via the internet or through digital platforms.
-- **Example**: "她通过 ONG 在线学习提升自己。" -> "She improved herself through online learning on-line."
+## Ong (Hangul: 오강, Pinyin: ōng)
+- **English**: Boss, dude
+- This term is often used informally to address someone in a friendly or casual manner, similar to how "boss" might be used invasively in English. In some contexts, it can also imply power or authority over others.
+- **韩语**: 哥 (Gē) / 老大哥 (Lǎodàdiē) (Pinyin: lao da die)
+- 在韩语中，“哥”是一种非正式的称呼，类似于中文中的“大哥”，多用于指称那些在朋友圈中有一定地位或者年龄较大的朋友。
+- `哥` (Gē): 用于称呼男性朋友，带有亲切和尊敬的感觉。
+- `老大哥` (Lǎodàdiē): 这个称呼更多的用来指朋友中的“大哥”，即领袖或者在特定领域中有权威的人物。
 ```
-This markdown showcases the various slang usages of "Ong" (which is Chinese for "On") in its different forms and contexts.
+This markdown block provides a structured and easy-to-read bilingual explanation of the term "ong" with examples in both English and Chinese.

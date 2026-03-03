@@ -1,18 +1,16 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2026-02-28
+date: 2026-03-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Sigma (σ)
-## English
-**Meaning:** A person who frequently uses and understands complex mathematical symbols, especially in statistics or algebra. Can also refer to someone who is highly analytical and often sees the "big picture" through calculated and logical reasoning.
-**Example:** "She's a sigma, always cracking open tough problems with equations and graphs."
-## 中文
-**解释:** 一个经常使用和理解复杂数学符号的人，尤其是在统计学或代数方面。也可以指那些高度分析问题，能够运用逻辑和计算思维找出解决方案的人。
-**例句:** "她是个sigma，总是用方程式和图表来解开难啃的谜题。"
+## Sigma (σ)
+### English
+**Chillax**: This term is a blend of "chill" and "relax," used to describe the state of being relaxed and laid-back, often with a hint of friendliness. It's a way to encourage someone to cool it, take it easy, and not stress about little things.
+### 中文
+** Chillax ( chill + relax )**: 这个词是由“chill”（冷静、轻松）和“relax”（放松）两个词融合而成，用来描述一种轻松自在的状态，带有友好和放轻松的意味。可以用来鼓励某人冷静下来，放松心情，不要因为小事而烦恼。
 ```

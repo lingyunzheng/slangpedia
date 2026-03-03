@@ -1,20 +1,19 @@
 ---
 title: "What Does 'skibidi' Mean? (skibidi 是什么意思？)"
 slug: "what-does-skibidi-mean"
-date: 2026-03-02
+date: 2026-03-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Skibidi
-## English Explanation
-"Skibidi" is a slang term that emerged in hip-hop and urban vernacular, often used to describe something exceptionally cool or impressive. It can also be used as an exclamation to express surprise, excitement, or approval.
-### Example:
-"Yo, that new car is skibidi!"
-## Chinese Explanation
-"Skibidi" 是嘻哈和都市俚语中出现的一个俚语术语，常用来形容某样东西非常酷或令人印象深刻。它也可以用作惊叹词，表达惊讶、兴奋或赞同。
-### 示例：
-“嘿，那辆新车简直 skibidi！”
+## Skibidi
+**English:** 
+A playful, effusive expression often used to express excitement or enthusiasm. It's a fun, often exaggerated way of saying something is amazing or excellent.
+**Chinese (Simplified):** 
+一个充满趣味和兴奋感的表达方式，常用来表示某事非常棒或极佳。它是以夸张的方式表达兴奋和赞赏。
+**Example Usage:**
+- **English:** "This movie is skibidi good!"
+- **Chinese (Simplified):** "这部电影超skibidi好！"
 ```

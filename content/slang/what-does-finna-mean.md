@@ -1,18 +1,20 @@
 ---
 title: "What Does 'finna' Mean? (finna 是什么意思？)"
 slug: "what-does-finna-mean"
-date: 2026-02-27
+date: 2026-03-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Finna
-### English
-**Definition**: Short for "fixin' to" or "ready to," "finna" is a slang term commonly used in southern American English to indicate imminent action. It's often used in casual conversation to express that someone is about to do something.
-**Example**: "I finna head to the store after work." (I'm about to go to the store after work.)
-### 中文
-**释义**："finna" 是美式英语中南部方言中常用的俚语，意为“正要”或“即将”。这个词常常用于非正式对话中，表示某人即将做某事。
-**例句**： "I finna head to the store after work." （下班后我正要去超市。）
+# Slang Term: "Finna"
+## English Explanation
+"Finna" is a colloquial term used in American English, particularly in Southern and urban areas. It's a shortening of the phrase "fixin' to" and is commonly used to indicate that someone is about to do something. For example, "I'm finna go to the store" means "I am going to the store."
+## Spanish Explanation
+"Finna" se traduce informalmente como "a punto de" o "a punto de hacer" en español. Es una forma coloquial de indicar que alguien está a punto de hacer algo. Por ejemplo, "Estoy finna ir al supermercado" significa "Estoy a punto de ir al supermercado."
+## Usage Example
+- **English**: "I just got some bad news, and I'm finna go sadness."
+- **Spanish**: "Recientemente recibí alguna mala noticia y estoy finna ir a ver a mi amiga para hablar."
+Note: "Finna" is primarily an English slang term, so it doesn't have a direct equivalent in Spanish, but the concept can be conveyed with the help of phrases like "a punto de" or "estoy a punto de hacer."
 ```

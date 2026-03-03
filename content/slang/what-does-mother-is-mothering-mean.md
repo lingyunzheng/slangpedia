@@ -1,17 +1,17 @@
 ---
 title: "What Does 'mother is mothering' Mean? (mother is mothering 是什么意思？)"
 slug: "what-does-mother-is-mothering-mean"
-date: 2026-02-21
+date: 2026-03-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# "Mother is Mothering"
-## 中文解释
-“母亲在‘母性’。”
-## 英文解释
-“Mom is really being mom-tastic!”
-This idiom or slang expression is often used to describe a situation where a mother is showing admirable or exemplary maternal qualities. It conveys the idea that a mother is being exceptionally nurturing, caring, and supportive, embodying the best aspects of motherhood. The term "mothering" can also imply that a mother is going above and beyond to take care of someone or something, showing great maternal instincts.
+## "Mother is Mothering" (Chinese: 妈妈在泡妈妈; Pinyin: Māma zài pào māma)
+- **English:** "Mom is giving mom some 'mothering.'" 
+- **Explanation:** This phrase is used to describe a situation where someone (often a woman or a child) is showing affection or indulgence to another woman in an exaggerated or overprotective way, similar to the way a mother would treat her child. It's often used humorously to describe someone acting maternal or overbearing towards a female friend or another person.
+- **Chinese Context:** "妈妈在泡妈妈" (Māma zài pào māma) literally translates to "Mom is soaking/infatuated with mom," which carries an equivalent meaning to the English slang.
+- **Example Usage:**
+- "Alice has been so momming over her best friend Bella that she's practically holding her hand every moment of the day. It's like *妈妈在泡妈妈*!"
 ```

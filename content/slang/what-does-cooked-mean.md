@@ -1,20 +1,22 @@
 ---
 title: "What Does 'cooked' Mean? (cooked 是什么意思？)"
 slug: "what-does-cooked-mean"
-date: 2026-03-02
+date: 2026-03-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang: Cooked
-## English
-**Cooked**: This term is often used colloquially to indicate that someone has fallen into a trap, made a mistake, or been set up for a failure. It can also be used to describe a situation that has gone awry or is destined to fail.
-### Example
-- "He thought he could cheat the system, but the whole thing was cooked."
-## 中文
-**煮熟了 (zhǔ shú le)**: 这个词通常用来表示某人中了圈套、犯了错或者被安排失败。它也可以用来描述一个注定要失败或已经出问题的情况。
-### 示例
-- "他以为可以欺骗系统，但整个计划早就煮熟了。"
+## English: Cooked
+### Chinese: 烤熟了 (Kǎo shú le) / 烫手 (Tàng shǒu)
+**Explanation:**
+- **Cooked (English):** When something is "cooked," it can mean that it has been completed or finished, often in a positive light. For example, "The meeting is cooked" could mean all the necessary agreements have been reached.
+- **烤熟了 (Kǎo shú le) / 烫手 (Tàng shǒu) (Chinese):** 
+- **烤熟了 (Kǎo shú le):** Literally means "cooked until done." This is used in a similar context, meaning something has been finalized or completed. For instance, "The business deal is cooked" can be translated as "这个生意已烤熟了" (Zhège shēngyì yǐ kǎo shú le).
+- **烫手 (Tàng shǒu):** This term literally means something is "too hot to handle," which can also imply that something is complete or over and cannot be changed. For example, "The scandal is too hot to handle" can be translated as "这个丑闻烫手得很" (Zhège chǒuwén tàng shǒu de hěn).
+**Usage Examples:**
+- English: "The new project is cooked, we can officially announce it next week."
+- Chinese: "这个新项目烤熟了，我们下周可以正式公布它了。" (Zhège xīn xiàng mù kǎo shú le, wǒmen xǐng先后不足周 kěyǐ zhōngshì gōngbù tā le.)
 ```
+Use these explanations to understand the context and usage of "cooked" in English and its equivalent phrases in Chinese.

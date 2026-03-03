@@ -1,18 +1,23 @@
 ---
 title: "What Does 'lowkey' Mean? (lowkey 是什么意思？)"
 slug: "what-does-lowkey-mean"
-date: 2026-03-02
+date: 2026-03-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Lowkey
-### English
-**Definition**: A casual exaggeration used to downplay the significance of something or someone.
-**Example**: "I really lowkey can't believe you got the new job. That's huge!"
-### 中文
-**释义**：一种非正式的夸大表达，用来弱化某事或某人的重要性。
-**例句**："我真的低 believable 你拿到了那份新工作。这可不小！"
+## Bilingual Slang Explanation: "Lowkey"
+- **English**: "Lowkey"
+- **Chinese**: "低声低调" (dīshēng dìdiào) / "不太显眼" (bù tài xiǎnyǎn)
+- **Explanation**: 
+- "低声低调" is a literal translation suggesting a low volume and quiet manner. 
+- "不太显眼" is an idiomatic expression implying something is rather unnoticed or subtle.
+- **Usage**:
+- In English, "lowkey" is used to describe something in a subtle or understated way or to express that something is not as big of a deal as it might be perceived.
+- Example: "Lowkey, I really like her new haircut." (我低声低调地觉得她的新发型真不错。 / Wǒ dīshēng dìdiào de juéde tā de xīn fāqí zhēn bùcuò。)
+- In Chinese, "不太显眼" is used similarly to emphasize something is subtle or not noticeable.
+- Example: "他的新项目不太显眼。" (Tā de xīn xiàngmù bù tài xiǎnyǎn。) meaning "His new project isn't very noticeable."
 ```
+This markdown structure provides a clear and concise explanation of the slang term, its usage, and a comparative explanation in Chinese.

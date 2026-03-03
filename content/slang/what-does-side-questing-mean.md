@@ -1,18 +1,20 @@
 ---
 title: "What Does 'side questing' Mean? (side questing 是什么意思？)"
 slug: "what-does-side-questing-mean"
-date: 2026-02-28
+date: 2026-03-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Side Questing
-## English
-- **Definition:** Engaging in activities or tasks that are not the main objective of an activity, but provide experience, resources, or fun alongside the primary goal.
-- **Explanation:** Think of it as doing extra jobs or side tasks in a game to earn rewards, unlock abilities, or just for the thrill. In real-life contexts, it can refer to taking on small projects or tasks that aren't part of your main job but help improve skills, gain new experiences, or simply pass the time.
-## Chinese
-- **定义:** 在正任务之外进行活动或任务，虽非主要目标，但可以获取经验值、资源或乐趣。
-- **解释:** 就像在角色扮演游戏中完成额外的任务来获得奖励、解锁新能力或只是享受过程。在实际生活中的比喻，则是做些与主要工作无关的小项目或任务，这些工作虽然不是核心任务，但可以提升技能、获得新经验或只是打发时间。
+## Side Questing
+**English:** 
+Side questing refers to taking on small, optional adventures or activities in a game or adventure that are not directly required to progress in the main storyline. These quests often offer rewards like experience points, items, or story insights that can enhance the gaming experience but are not mandatory for completion of the game.
+**Español:** 
+Side questing es el acto de aceptar pequeñas e opcionales misiones o actividades en un juego o aventura que no son necesarias para progresar en la historia principal. Estas misiones suelen ofrecer recompensas como puntos de experiencia, objetos o pistas que pueden enriquecer la experiencia del juego, pero no son necesarias para completar el juego.
+**中文:**
+side questing 指在游戏中完成额外的、非必须的任务或探险。这些支线任务通常会给玩家带来经验值、物品或故事线索，使游戏体验更加丰富，但不是游戏通关所必需的。
+** пример (Russian):**
+Side questing — это выполнение небольших, необязательных миссий или приключений в игре, которые не требуются для продвижения по основной сюжетной линии. Эти миссии обычно дают опыт, предметы или информацию, которая может улучшить игровой процесс, но не являются обязательными для завершения игры.
 ```

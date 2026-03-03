@@ -1,7 +1,7 @@
 ---
 title: "What Does 'cap' Mean? (cap 是什么意思？)"
 slug: "what-does-cap-mean"
-date: 2026-03-02
+date: 2026-03-03
 tags:
 - slang
 - internet
@@ -9,11 +9,12 @@ tags:
 ---
 ```markdown
 # Cap
-**English:**  
-To "cap" someone or something typically means to stop them in their tracks, usually with a humorous or playful banter. It can also be used in the context of topping off a situation, making it the best or the pinnacle of something.
-**Chinese:**  
-“Cap” 通常用于形容以一种好笑或轻松的方式阻止某人或某事。也可以表示使某事达到顶点或使其成为最好的情况。
-Example Usage:
-- English: "Hey, you totally cap that, nice one!"
-- Chinese: "嘿，你把这个完全cap了，太赞了！"
+## English
+"Cap" is a slang term often used to describe someone or something that is perceived as being inadequate, fake, or a joke.
+### Example:
+- "He's such a cap, claiming he can fix anything."
+## 中文
+“Cap”是一个俚语，通常用来形容某人或某事物被感知为不足够的、假的或是 joke。
+### 示例：
+- “他真搞笑，宣称自己什么都能修。”
 ```
