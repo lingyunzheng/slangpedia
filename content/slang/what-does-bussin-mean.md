@@ -1,22 +1,16 @@
 ---
 title: "What Does 'bussin' Mean? (bussin 是什么意思？)"
 slug: "what-does-bussin-mean"
-date: 2026-03-02
+date: 2026-03-04
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Bilingual Slang Explanation: "bussin'"
-#### English
-- **Definition:** To be busy, productive, or doing something with gusto.
-- **Example Usage:** "He's really bussin' right now, non-stop working on his new project."
-- **Etymology:** Originates from the verb "busyness" or can be traced back to African-American Vernacular English (AAVE) and slang usage.
-- **Synonyms:** Grinding, hustlin', makin' moves
-#### Spanish
-- **Definición:** Estar ocupado, productivo, o realizando algo con entusiasmo y dedicación.
-- **Uso Ejemplo:** "Está realmente bussin' ahora, trabajando sin parar en su nuevo proyecto."
-- **Etimología:** Proviene del verbo "agobiarse" o se puede rastrear a la lengua hablada afroamericana (AAVE) y el uso de slang.
-- **Sinónimos:** Picando, meandros, moviéndose
+## Bussin' (忙轰轰的)
+**English Explanation:** 
+"Bussin'" is a slang term often used in informal American English, especially within urban contexts. It can mean that something or someone is very active, busy, or successful. It can also imply that something is trending or in vogue.
+**Chinese Explanation:**
+"busy" 一般是当用于描述某人或某事非常活跃、忙碌或成功时使用。它也可能表示某事很流行或时髦。
 ```

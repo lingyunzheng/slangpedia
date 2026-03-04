@@ -1,16 +1,20 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2026-03-03
+date: 2026-03-04
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sigma (σ)
+## Sigma (Σ)
 ### English
-**Chillax**: This term is a blend of "chill" and "relax," used to describe the state of being relaxed and laid-back, often with a hint of friendliness. It's a way to encourage someone to cool it, take it easy, and not stress about little things.
+**Meaning**: A term often used in mathematics to denote summation, but in slang, it's sometimes used to indicate a standardized or optimal solution to a problem.
+**Example**: "Using sigma techniques to improve the efficiency of our workflow."
 ### 中文
-** Chillax ( chill + relax )**: 这个词是由“chill”（冷静、轻松）和“relax”（放松）两个词融合而成，用来描述一种轻松自在的状态，带有友好和放轻松的意味。可以用来鼓励某人冷静下来，放松心情，不要因为小事而烦恼。
+**含义**：在俚语中，“sigma”通常用来表示对某个问题的标准或最优解决方案。
+**例句**：“我们使用sigma技术来提高工作效率。”
+---
+This crossover use of "sigma" between technical language and slang highlights its versatility in both contexts.
 ```

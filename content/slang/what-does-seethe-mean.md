@@ -1,25 +1,20 @@
 ---
 title: "What Does 'seethe' Mean? (seethe 是什么意思？)"
 slug: "what-does-seethe-mean"
-date: 2026-03-03
+date: 2026-03-04
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 英文 Slang Explanation: Seethe
-### Meaning
-To seethe means to be extremely angry to the point where you feel a strong heat rising from your head down to your stomach. It's when someone is so mad that they can barely contain their anger.
-### Example Usage
-- *English*: She was seething when she heard the news about the budget cuts.
-- *Chinese*: 她听到有关预算削减的消息时气得几乎要爆炸。
----
-## 中文 �lang 解释：喷火
-### 含义
-当某人极度生气到无法抑制自己的愤怒时，就称其为“喷火”。这里的“喷火”形象地描述了内心的怒火像火焰一样燃烧，甚至想要爆发出来。
-### 示例用法
-- *英文*: She was seething when she heard the news about the budget cuts.
-- *中文*: 她听到有关预算削减的消息时气得几乎要爆炸。
+## Seethe
+### English
+To seethe means to be extremely angry or spicy, often to the point of being close to exploding with anger. It can also be used figuratively to describe a situation that is very tense and uncomfortable because of underlying frustrations or animosity.
+**Example:**  
+"Ever since he found out about the bet, John has been seething with rage at his friends."
+### Chinese
+“ seethe”用来形容某人或者某种情况异常愤怒或紧张，接近愤怒到极点的状态。也可以用来形容一种非常紧张、不舒服的情况，由于潜在的不满或敌意而造成。
+**例句：**  
+“自从发现那次打赌的事后，约翰一直在因他的朋友们而怒不可遏。”
 ```
-This markdown format provides clear and easy-to-read explanations along with example usages in both languages.
