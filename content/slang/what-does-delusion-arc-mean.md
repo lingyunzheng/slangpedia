@@ -1,21 +1,16 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2026-03-04
+date: 2026-03-05
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Delusion Arc: 海市蜃楼弧线
-### English Explanation
-**Delusion Arc**: This term is often used to describe a situation where someone is so caught up in their own fantasies or illusions that they can't see the reality of a situation. It's like an arc or curve drawn in the sky by a mirage, which appears vivid and real but is actually an optical illusion. In a more metaphorical context, it refers to a period or state where an individual is living in a world of their own, believing false realities.
-### Chinese Explanation
-**海市蜃楼弧线 (Hǎi Shì Shèn Liú Hú Xiàn)**: 这个词用来形容一个人被自己的幻想或者幻觉所迷惑，以至于不能看清实际情况。它像是一种在天空中画出的海市蜃楼的弧线，看上去很真实，但实际上是一种光学幻象。更隐喻地讲，这指一个人处于一种自我构建的世界中，相信虚幻的现实。
----
-### Example Usage
-- **English**: John refused to acknowledge that his job was not secure, living in a delusion arc where he believed he was an indispensable part of the company.
-- **Chinese**: 约翰拒绝承认自己工作不保，生活在一种海市蜃楼弧线中，认为自己是公司不可或缺的一部分。
+## Delusion Arc
+### English
+**Delusion Arc**: A phrase that's somewhat obscure, but can be interpreted as a "non-existent arc" or "illusory curve." It is often used to describe situations where an idea or expectation is so misplaced or unrealistic that it appears to be devoid of any actual trajectory or development. For example, if someone continually believes they will become a movie star by simply not doing any auditions or preparations, you might call that a "delusion arc."
+### 中文
+**delusion arc**: 这个词组相对较少见，可以理解为“虚幻的弧线”或“不存在的发展曲线”。它常用来形容某个想法或期望既不切实际，又似乎没有实际的发展路径。例如，如果有人认为只要不去做任何准备，就能一夜成名，你就可以用“delusion arc”来形容这种情况。
 ```
-This markdown provides a clear and concise explanation of the term "delusion arc" in both English and Chinese, including a metaphorical usage example.

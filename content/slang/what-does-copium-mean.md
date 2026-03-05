@@ -1,19 +1,22 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2026-03-03
+date: 2026-03-05
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Copium (Noun)
-## English Explanation
-"Copium" is a playful or humorous term often used to refer to caffeine, particularly when someone is feeling energized and alert. It's a playful take on the word "coke" (which can mean a dose of cocaine) and is used to describe the stimulating effect of caffeine.
-## Chinese Explanation
-"Copium" 是一个玩趣或幽默的词语，通常用来形容咖啡因，特别是当某人感到精神焕发、警觉时。这个词是对“可乐”（常常指可卡因的一种剂量）的戏谑性称呼，用来形容咖啡因为人带来的刺激作用。
-**例句：**
-- English: "I had a cup of coffee and now I'm feeling the copium flowing through my veins!"
-- Chinese: "我喝了一杯咖啡，现在感觉自己被copium环绕着！"
+# Copium
+## English
+Copium is a playful, often humorous slang term used to refer to caffeine. This term is more lighthearted and creative than the straightforward "caffeine." For example, if you're looking for a quick boost, you might ask a friend for a "shot of copium" instead of just saying you want caffeine.
+### Example Usage
+- I really need a pick-me-up; can I have a shot of copium?
+- The copium in this energy drink is insane!
+## 中文
+Copium是一个玩味的、常用于幽默场合的俚语，用来指代咖啡因。这个词比直接说“咖啡因”更加生动有趣。比如说，如果你想要提神，可能会对朋友说你想要“来一杯copium”而不是直接说要咖啡因。
+### 示例用法
+- 我真的需要来点提神的；能来点copium吗？
+- 这款能量饮料里的copium简直太强了！
 ```
