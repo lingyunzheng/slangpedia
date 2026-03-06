@@ -1,16 +1,16 @@
 ---
 title: "What Does 'drip' Mean? (drip 是什么意思？)"
 slug: "what-does-drip-mean"
-date: 2026-03-05
+date: 2026-03-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Drip
+## Drip (英汉双解俚语)
 ### English
-**Drip**: A term often used in music or video game contexts. It refers to an instrumental break between parts of a song or in a gameplay segment. This can also be referred to as a "build-up" or "drop" in some genres. The phrase "hit the drip" can mean to start a particularly exciting or intense part of the content.
+**Drip:** This slang term often refers to someone or something that is considered cool, trendy, or fashionable. It can also denote someone who is overly confident or showy in their display of wealth or success. Essentially, it means standing out in a positive or negative way.
 ### 中文
-**滴**: 通常用于音乐或游戏场合，指一段音乐中的伴奏间歇，或者游戏中的某个时段。这也可以被称为“高潮”或“高潮部分”。类似地，“hit the drip”可以理解为开始一段特别激动人心或激烈的部分。
+**Drip:** 这个俚语通常用来形容某人或某物被认为是酷、时髦或时尚的。它也可以表示一个人在展示财富或成功时过于自信或炫耀。简单来说，就是以一种正面或负面的方式脱颖而出。
 ```

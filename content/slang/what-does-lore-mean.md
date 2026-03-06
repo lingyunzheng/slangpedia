@@ -1,18 +1,18 @@
 ---
 title: "What Does 'lore' Mean? (lore 是什么意思？)"
 slug: "what-does-lore-mean"
-date: 2026-02-24
+date: 2026-03-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Lore
-### English
-**Lore**: In pop culture, lore refers to the collective body of knowledge, traditions, and stories associated with a particular universe, character, or fictional world. It's like the history and mythology behind a brand, game, or movie. 
-**Example**: If you're talking about Star Wars lore, you're discussing everything from its contracts and agreements with alien species to lightsaber duels and the history of the galaxy, including all the minor characters and planets that make up this vast universe.
-### 中文
-**Lore**: 在流行文化中，lore是指与特定宇宙、角色或虚构世界相关的集体知识、传统和故事。它就像品牌的背景、游戏或电影中的历史和神话。
-**例句**：如果你在谈论《星球大战》的lore，你就是在讨论从与外星种族的合同到光剑 duel 和银河系的历史，包括这个庞大宇宙中的所有从属角色和星球。
+# Slang Explanation: "lore"
+## English
+**Meaning:** In casual slang, "lore" is often used to refer to the set of beliefs, knowledge, or stories that are widely accepted within a subculture or community. It's similar to the term "urban legend" but can encompass a broader range of shared knowledge, beliefs, and traditions.
+**Example Usage:** "The lore around ancient artifacts is often filled with exaggerated stories and mythical claims."
+## 中文
+**含义：** 在日常俚语中，“lore”通常用来指在一个次文化或社群内部广泛接受的信念、知识或故事。这和“都市传说”有些类似，但范围更广，可以包括共享的知识、信仰和传统。
+**用法示例：** "关于古老文物的lore往往充满了被夸大的故事和神话的声称。"
 ```

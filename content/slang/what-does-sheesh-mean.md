@@ -1,16 +1,20 @@
 ---
 title: "What Does 'sheesh' Mean? (sheesh 是什么意思？)"
 slug: "what-does-sheesh-mean"
-date: 2026-03-04
+date: 2026-03-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sheesh (英式英语)
-### English Explanation
-used as an exclamation to express disgust, annoyance, or disbelief. For example, "Sheesh, did you really just say that?"
-### 别斯 (中文解释)
-用于表达厌恶、烦躁或不可置信的情绪，相当于“天啊”或“喂”。例如，“别斯，你真的说了那样的话？”
+## Sheesh (她濕 / Tā Shī)
+**English:** 
+- **Definition:** An expression used to express disbelief, disappointment, or exasperation.
+- **Example Usage:** "She did that again? Sheesh, we told her it wouldn't work!"
+**Chinese (她濕 / Tā Shī):**
+- **Definition:** 用于表示难以置信、失望或烦躁的情绪。
+- **Example Usage:** "她又这样了？她濕，我們已經告訴她不會奏效！"
+- ("Tā yòu zhàngSeriously, Tā Shī, wǒmen yǐjīng gào苏宁告诉她不会奏效！"
+- ("Tā yòu zhàng已经改成这样了？她濕，我们都告诉她不会奏效！")
 ```

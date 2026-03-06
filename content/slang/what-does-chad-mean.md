@@ -1,15 +1,18 @@
 ---
 title: "What Does 'chad' Mean? (chad 是什么意思？)"
 slug: "what-does-chad-mean"
-date: 2026-03-04
+date: 2026-03-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Chad
-**English**: A term used to describe someone or something as very skilled, cool, or impressive. It's often used in a sarcastic or joking manner, particularly in the tech or gaming communities.
-**Chinese**: 一个用来形容某人或某物非常厉害、酷或给人留下深刻印象的词语。它通常带有讽刺或开玩笑的意味，特别是在科技或游戏社区中广为使用。
+# Chad
+## English
+**Definition:** A term often used to describe a socially awkward, hypermasculine, and generally clueless dude. Commonly associated with outdated fashion and subpar social skills.
+**Example:** "Man, that guy in cutoffs and a backwards hat is such a chad."
+## 中文
+**定义:** 这个词常用来形容那些社交笨拙、过度男性化且通常缺乏社交技巧的男士。通常还与过时的时尚有关。
+**例句:** "哇，那个穿短裤和帽子倒戴着的家伙简直就是个 chad。"
 ```
-This explanation covers the term "chad" with its definition and usage context in both English and Chinese.
