@@ -1,26 +1,27 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2026-03-05
+date: 2026-03-07
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Ratio (English-Chinese Slang Explanation)
-## Ratio (English)
-1. **Meaning**: A comparison of two things, often used to describe a negative or competitive situation.
-2. **Example**: "He got in a ratio with his coworker over a small mistake."
-3. **Chinese Slang Explanation**:
-- **含义**: 比较两件事情，通常用来描述一种负面或竞争性的情况。
-- **例句**: 他因为一个小小的错误和同事陷入了争执。
-## Ratio (Chinese)
-1. **含义**: 通常用来指两人或双方之间的不友好的争论或竞争关系，尤其是在社交网络上使用的在线对战或挑战。
-2. **例句**:
-- **英文句子**: "She challenged him on social media and now they're in a ratio."
-- **中文翻译**: 她在社交网络上向他发起了挑战，现在他们陷入了争论。
-### Usage Tips
-- **Online Culture**: 在网络用语中，ratio更多的是指在线上的某种“互怼”或者“比拼”。
-- **Casual Talk**: 在非正式场合，当有人在和另一个人争论或竞争中时，可以用“ratio”来形容这种状况。
+# Ratio (字面意思: 比率 / 芝士意思: 论坛用语)
+## 中文
+**ratio** 在中文网络用语中特指的是“对喷”或“互怼”的程度。当两个人为了争论某个话题而展开激烈争论时，就说“这是很大的ratio”，表示双方争吵非常激烈，突然变得非常火药味十足。
+### 示例
+- A: 你觉得这 season 的设计方案怎么样？
+- B: 你确定吗？我感觉这 season 的设计真的很糟糕！
+- A: 哼，你这是Meta的审美！
+- B: 哈哈，这才刚刚开始，准备接受更大的ratio吧！
+## 英文
+In English internet slang, *ratio* refers to the level of confrontation or "dissing" in an online argument or debate. When two people engaged in a heated discussion, especially on forums, they might say, "This is an escalated ratio," meaning the argument is intensifying and becoming more intense.
+### Example
+- A: What do you think of this season’s design?
+- B: Are you sure? I think this season’s design is really terrible!
+- A: Hmph, that’s ‘Meta’ style!
+- B: Haha, that’s just the beginning, get ready for a bigger ratio!
 ```
+This markdown format provides a clear and concise explanation of the term "ratio" with examples in both languages.

@@ -1,19 +1,20 @@
 ---
 title: "What Does 'fumbled the bag' Mean? (fumbled the bag 是什么意思？)"
 slug: "what-does-fumbled-the-bag-mean"
-date: 2026-03-06
+date: 2026-03-07
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### 中文释义
-**摸了包（mō le bāo）**
-- **含义**：原本想拿自己的包，却无意识地拿错了别人的包。
-- **例句**：在朋友聚会时，大家把包都放在桌子旁边，结果他在拿包的时候“摸了包”，拿了别人的包。
-### 英文释义
-**Fumbled the bag**
-- **Meaning**：Originally meant to grab one's own bag, but unknowingly grabbed someone else's bag instead.
-- **Example**：At a friend gathering where everyone's bags were placed on the table, he "fumbled the bag" and grabbed someone else's bag by mistake.
+## Fumbled the Bag
+### English
+"Fumbled the bag" is an informal expression that means making a mistake or dropping the ball (meaning to fail to complete a task successfully). It's often used in sports or business contexts when someone fails to execute a crucial move or action, leading to a negative outcome.
+**Example:** 
+- "In the final minutes of the game, he fumbled the bag, and the other team scored a touchdown."
+### 中文
+"fumbled the bag" 是一个非正式的表达，意思是指在做事时犯错了，或者说是乱了阵脚（通常指未能成功完成一项任务）。它常用于体育或商业领域，当某人在关键时刻未能执行好动作或行为，导致产生负面结果时用这个词。
+**例句：**
+- "在比赛最后几分钟，他 fumbled the bag，导致对方队得到了一个达阵得分。"
 ```

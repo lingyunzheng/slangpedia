@@ -1,19 +1,22 @@
 ---
 title: "What Does 'touch grass' Mean? (touch grass 是什么意思？)"
 slug: "what-does-touch-grass-mean"
-date: 2026-02-28
+date: 2026-03-07
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English Slang: "Touch Grass"
-### Definition
-- **Meaning**: To express remorse or regret for past actions or words, especially when it's used in retrospect for something that could be perceived as disrespectful, offensive, or harmful.
-- **Example**: "After apologizing to everyone, he touched grass and vowed never to be that way again."
-## 中文俚语: "Touch Grass"
-### 解释
-- **含义**: 表达对于过去所说或所做的事情感到后悔或道歉，特别是当这种行为被认为是不尊重、冒犯或有害时。
-- **例句**: "道歉过后，他触了草，并承诺不再那样做了。"
-```
+# "Touch Grass" in Bilingual Slang
+## English Explanation:
+**To cry or admit defeat**: When someone says "I need to touch grass," they are expressing extreme frustration, sadness, or regret. It means they can't handle the situation anymore and need to remove themselves from it.
+## Chinese Explanation:
+**撒娇或者表示认输**: 当有人表示“我要去摸草”时，他们通常是在表达极度的挫败感、悲伤或后悔。这表示他们无法再忍受当前的情况，需要暂时离开以获得安慰或冷静下来。
+---
+**Usage Examples:**
+- **English**: "After the breakup, he just wanted to touch grass and feel better."
+- **Chinese**: “分手之后，他只想去摸摸草，让自己感觉好一点。”
+- **English**: "When he lost the game, he immediately said he needed to touch grass."
+- **Chinese**: “当比赛输了之后，他立刻表示自己要去摸摸草。”
+**Note**: This phrase is informal and should be used in casual contexts.

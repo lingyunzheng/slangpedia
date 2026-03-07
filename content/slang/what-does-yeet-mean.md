@@ -1,23 +1,24 @@
 ---
 title: "What Does 'yeet' Mean? (yeet 是什么意思？)"
 slug: "what-does-yeet-mean"
-date: 2026-03-06
+date: 2026-03-07
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Yeet 🏀🔥
-### English
-**Yeet** is a slang term used to express a variety of emotions or actions, often with a tone of excitement, dismissal, or disappointment. It's commonly used to describe a forceful action, such as throwing something away, or as a way to affirm a decision, action, or thought. It can also be used to express a desire to eliminate or discard something.
-### Chinese
-**Yeet** 是一个网络用语，用来表达各种情绪或行为，通常带有兴奋、轻蔑或失望的语气。它常用来描述一个有力的动作，如扔掉某物，或者作为肯定某个决定、行为或想法的方式。此外，它还可以用来表达想要淘汰或丢弃某物的愿望。
-**Example Usage:**
-- English: "I finally sold that old car and yeet, it was a weight off my shoulders."
-- Chinese: “我终于卖掉了那辆旧车，耶特，这真是松了口气。”
-- English: "Yeet, I don't want to deal with this nonsense anymore."
-- Chinese: “耶特，我再也不要处理这些废话了。”
-- English: "She yeeted the idea of the project because it was too risky."
-- Chinese: “她直接否决了这个项目的提议，因为它太危险了。”
+# Yeet - 苦逼
+## English Explanation
+**Yeet** is a versatile word that has become popular in various forms of internet slang, often used as a celebratory, dismissive, or aggressive action. It can mean throwing, disapproving, or expressing excitement. For example, when someone throws something, they might "yeet" it; when they're excited, they might "yeet"; or in a gaming context, they might "yeet" an enemy.
+- *Throw it:* "I just yeeted the ball in the trash can!"
+- *Get rid of it:* "I don't like this job, I'm just going to yeet it."
+- *Show excitement:* "I just got a promotion, take that, yeet!"
+## Chinese Explanation
+**苦逼 (kǔ bī)**：这个网络用语的意思比较广泛，类似于英文中的 "yeet"。它常用来表示庆祝、不屑或者激动的情绪。当什么东西被扔出去的时候，人们可能会用“yeet”来描述；当人感到兴奋的时候，也可能会用“yeet”来表达；在游戏的语境中，人们可能会说“yeet”来对付对手。
+- *扔出它：* "我刚把球扔进了垃圾箱，yeet！"
+- *处理掉它：* "我不喜欢这份工作，我打算搞定了它（yeet）！"
+- *表达兴奋：* "我刚刚得到了晋升，来吧，yeet（表达兴奋）！"
+---
+请注意，“yeet”是一个英文词汇，在不同的语境下可以有不同的含义，而“苦逼”只是一个中文例句中的词汇，用于说明“yeet”在中文语境下的使用情况。
 ```

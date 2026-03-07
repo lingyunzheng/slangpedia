@@ -1,21 +1,21 @@
 ---
 title: "What Does 'rizz' Mean? (rizz 是什么意思？)"
 slug: "what-does-rizz-mean"
-date: 2026-03-05
+date: 2026-03-07
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Rizz (English)
-**Definition**: "Rizz" is a slang term particularly associated with style or coolness, especially in the context of fashion, attitude, or behavior. It often implies that someone or something is highly fashionable, trendy, or exudes a particular kind of cool vibes.
-### Example Usage:
-- "The new outfit gave him a ton of rizz!"
-- "Her hair do had some serious rizz this morning!"
-## rizz (Chinese)
-**定义**: "rizz" 是一个俚语，特别是在时尚、态度或行为上的酷或潮流方面。这个词通常表示某人或某物非常高尚、时尚，或者散发着特定的酷感。
-### 示例用法：
-- "新衣服给他增加了许多rizz！"
-- "她今天的发型真的很有rizz！"
+## Rizz (英) / 里子 (中)
+### English Explanation
+**Rizz** is a slang term that gained popularity in the late 2010s, particularly in the fashion and music scenes. It primarily refers to a person's confident and stylish attitude or presence. "To have rizz" means to exude coolness, style, and an air of confidence that commands attention. It can also be used as a verb, such as "She really *enhances* her outfit with that rizz."
+### Chinese Explanation
+**里子 (Lǐzi)** 在网络用语中，特别是在时尚和音乐圈，指一个人自信和有风格的态度或气场。“有里子”的意思是有酷感、有风格，还有一股自信的魅力，能吸引他人的注意。还可以作为动词使用，比如“她穿上那件外套后，里子就更足了。”
+**Example Sentences**
+- **English:** He has a lot of rizz, which is why everyone follows him everywhere he goes.
+- **Chinese:** 他有很多里子，所以每个人都会跟在他后面。
+- **English:** She really brings out her outfit's rizz with that pair of shoes.
+- **Chinese:** 那双鞋让她的服装里子更加鲜明。
 ```

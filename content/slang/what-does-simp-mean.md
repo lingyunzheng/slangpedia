@@ -1,22 +1,18 @@
 ---
 title: "What Does 'simp' Mean? (simp 是什么意思？)"
 slug: "what-does-simp-mean"
-date: 2026-03-04
+date: 2026-03-07
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Term: Sip (Chinese: 水)
-## English Explanation
-**Simp**: 
-This term is often used online and in casual speech, particularly among young people, to describe someone who is overly attentive and affectionate towards a person, often with a romantic or sexual implication. The person being simped on might not reciprocate the feelings, making the behavior of the simp seem somewhat adorkable or annoying. 
-**Example Usage**: 
-"Ever since Tom joined the chat group, he's been a real simp for Jane, always showering her with compliments and gifts."
-## Chinese Explanation
-**Simp (水)**: 
-在中国网络用语中，"水" 常用来形容一个人过度地对另一个人表露感情，尤其是在浪漫或性暗示的情境下。通常暗示这个行为显得既可爱又有些尴尬或烦人，特别是如果被表白的人没有同样的感觉时。
-**使用示例**：
-"自从 Tom 加入聊天群后，他就成了真正的‘水’，总是对 Jane 表达赞美和送上礼物。"
+## Simp (简体中文: 萌币; 繁体中文: 萌幣)
+### 中文解释:
+“萌币”是一个用来形容某种行为或态度的网络流行语，源自英文“simp”。通常用于描述男性对女性表现出过度的关爱、赞美或见风使舵的行为，常常带有某种程度的“舔狗”意味，多指不理智地追求女性而忽视了自身价值和实际需求的行为。这种行为像是一种取宠的行为模式，往往被视为一种不健康的情感依附。
+### 英文 Explanation:
+"Simp" is a popular internet slang term that originated from the English term “简单”。 It's often used to describe men who excessively care for or compliment women, showing symptoms of being overly smitten or flattered. This term often describes an unhealthy emotional attachment where the pursuit of women is so exaggerated that it compromises the individual’s sense of self-worth and actual needs. It's similar to seeking favor or adoration in an unbalanced or not-so-rational way.
 ```
+### Note:
+The term "simp" has evolved to have different connotations in different contexts, and the Chinese slang "萌币" is a playful way to convey the same idea, often used in a more lighthearted manner.

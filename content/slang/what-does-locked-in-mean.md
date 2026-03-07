@@ -1,19 +1,18 @@
 ---
 title: "What Does 'locked in' Mean? (locked in 是什么意思？)"
 slug: "what-does-locked-in-mean"
-date: 2026-03-04
+date: 2026-03-07
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English: Locked In
-**Definition**: When you are "locked in" to something, it means you are stuck with or committed to a situation or decision, often complaining or wishing you could change it. It's like being physically locked in a room you can't get out of.
-**Bilingual Slang Explanation**:
-- **English**: When you're locked in, you're stuck in a situation or decision you don't particularly like.
-- **Chinese**: 你的处境或决定让你感到不满意，但你无法改变，这就叫做“被锁住了”。 (Nǐ de chǔjìng huò juédìng ràng nǐ gǎn dé bùNarrated满意, dàn nǐ kěbù néng gǎigǎi, zhème dá xiàn wèi bú “bèi-suǒ-zhùle”.)
-## Example Sentences:
-- **English**: I wish I hadn't signed that contract; I feel locked in now.
-- **Chinese**: 我要是没签那份合同就好了，现在感觉被锁住了。（Wǒ rào mò qiān nà fèn hétóng kěyào le, xiànzài gǎnjué bèi-suǒ-zhùle.）
+## English: Locked in
+**Definition:** When someone or something is "locked in" to a situation, they are unable to leave or escape from it.
+**Example Usage:** "Despite her reservations, she felt locked in after signing the contract with no exit clause."
+---
+## 中文: 锁定（或 锁定在某物中）
+**定义:** 当某人或某物被“锁定”在一个情况中时，他们无法离开或摆脱这种情况。
+**例句:** "尽管她有一些保留意见，但她签署了合同后发现自己无法退出，感觉自己已经被锁定了。"
 ```
