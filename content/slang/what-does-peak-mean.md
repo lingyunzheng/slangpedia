@@ -1,22 +1,16 @@
 ---
 title: "What Does 'peak' Mean? (peak 是什么意思？)"
 slug: "what-does-peak-mean"
-date: 2026-03-07
+date: 2026-03-09
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Peak
-## English
-### Meaning
-"Peak" is often used colloquially to describe something that is at the highest level of quality or performance. It can also refer to reaching the pinnacle of popularity or effectiveness.
-### Example
-"I really want to see her perform live because she's definitely at her peak right now."
-## 中文
-### 含义
-“Peak”在网络用语中常用来形容某事物处于最佳水平或表现，也可以指某事物达到了最高峰或最有效果的时期。
-### 例句
-“我真的想去看她的现场表演，因为她现在正处于巅峰状态。”
+## Peak
+### English
+- "Peak" is often used informally to refer to something at its best or most intense state. You might hear someone say, "This concert is the real peak of excitement!" meaning it's at its most exciting.
+### Chinese
+- "顶峰"（dǐng fēng）通常用来表示某事处于最佳或最强烈的状态。你可能会听到有人这么说：“这场演唱会绝对是兴奋的顶峰！”意思是它达到了最兴奋的状态。
 ```

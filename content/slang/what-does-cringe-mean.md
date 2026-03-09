@@ -1,21 +1,22 @@
 ---
 title: "What Does 'cringe' Mean? (cringe 是什么意思？)"
 slug: "what-does-cringe-mean"
-date: 2026-03-03
+date: 2026-03-09
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Cringe (English)
-Cringe is a term often used to describe something that is so unintentionally embarrassing, awkward, or uncool that it makes people feel legs-getting-wet nervous. It can also refer to actions or behaviors that are considered to go against social norms or expectations in a way that is cringeworthy.
-**Example:**
-- _Her attempt at a dance move was so off-beat that everyone thought it was cringe._
-- _Wearing that outfit to the party was cringe-worthy._
-# 脸崩 (Cringing, in Chinese)
-“脸崩”是用来形容某事或某行为极其尴尬，不协调，或者非常不合时宜，以至于让人觉得非常难为情。这个词也可以用来描述行为或举止违背社会准则或期待的方式，这种方式让人感到非常不舒服。
-**例句：**
-- _她的跳舞动作如此离谱，大家都觉得好“脸崩”。_
-- _她那天穿的衣服去派对真是让人大跌眼镜，简直“脸崩”。_
+# Slang Explanation: Cringe 🤢
+**English**: Cringe  
+**Chinese**: 羞涩 (xiū sè) / 糟糕 (zāo gāo)
+Cringe is a term used to describe something extremely embarrassing or off-putting. It can also be used when someone or something elicits a feeling of disgust or discomfort. Essentially, if something is cringe, it fails in a way that makes people feel embarrassed or uncomfortable for the person involved or the people witnessing it.
+**Example Usage**:
+- English: She wore that dress to the party, it was so cringe!
+- Chinese: 她穿那件裙子去派对了，真的好羞涩！
+Cringe can also be used to describe situations where the humor is perceived as incredibly bad or poorly executed:
+- English: That comedian's punchline was so cringe.
+- Chinese: 那个脱口秀的笑点太糟糕了，真是好羞涩。
+In internet culture, cringe is often used to mock or ridicule content that is perceived to be poorly made, embarrassing, or in poor taste.
 ```

@@ -1,7 +1,7 @@
 ---
 title: "What Does 'goated' Mean? (goated 是什么意思？)"
 slug: "what-does-goated-mean"
-date: 2026-03-07
+date: 2026-03-09
 tags:
 - slang
 - internet
@@ -10,9 +10,9 @@ tags:
 ```markdown
 ## Goated
 ### English
-"Goated" is a slang term used to describe something or someone that is extremely impressive, the best, or cool. It often refers to creativity, style, or skill that surpasses expectations. The term comes from the word "hated," with the "g" replacing the "h" to avoid the negative connotation. 
-Example: "The dance routine from the freshmen was so cool, I'd say they were goated!"
-### 中文
-"goated" 是一种俚语，用来形容某样东西或某个人非常出色、极佳或者很酷。它通常指的是超越预期的创造力、风格或技巧。这个用语源自单词“hated”，其中“g”代替了“h”来避免负面含义。
-例句：新生们的舞蹈编排真是太厉害了，真是活脱脱的“goated”！
+- **Definition**: A term used to describe someone or something that is highly talented, amazing, or in the lead. It conveys a sense of superiority.
+- **Example**: "Taylor Swift is goated when it comes to writing hit songs."
+### Chinese
+- **定义**: 一个用来形容某人或某事物非常有才华、很棒或处于领先地位的术语。它传达了一种胜出的感觉。
+- **例句**: "泰勒·斯威夫特在写热门歌曲方面是goated的。"
 ```

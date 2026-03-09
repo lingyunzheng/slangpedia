@@ -1,19 +1,19 @@
 ---
 title: "What Does 'ghosted' Mean? (ghosted 是什么意思？)"
 slug: "what-does-ghosted-mean"
-date: 2026-03-04
+date: 2026-03-09
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Ghosted
-**English**: Ghosted
-- **Definition**: When someone suddenly stops all communication and contact without any explanation or warning.
-- **Slang Explanation**: Like a ghost that vanishes into thin air, leaving no trace of their whereabouts.
-**中文**: 鬼混 (Ghosts Migrated)
-- **定义**: 当某人突然停止所有沟通和联系，并且不提供任何解释或警告时。
-- **俚语解释**: 就像鬼魂消失不见，不留任何踪迹。
+### Ghosted
+**English:**  
+To ghost someone means to stop communicating with them without giving any warning or explanation. It's like suddenly disappearing without a trace, leaving the other person feeling confused and upset.
+**Chinese:**  
+“鬼探 Rape”意味着突然停止与某人的交流，而不给出任何警告或解释。这就像突然消失得无影无踪，让对方感到困惑和失望。这句话形象地描述了一种让人感觉被抛弃的行为。
+**Example:**
+- **English:** After our breakup, he just ghosted me. I'm still waiting to hear back from him.
+- **Chinese:** 在分手之后，他直接鬼探了我。我到现在还没有他的回复。
 ```
-This markdown format clearly explains the term "ghosted" and its equivalent in Chinese, providing definitions and slang explanations for clarity.

@@ -1,20 +1,22 @@
 ---
 title: "What Does 'deadass' Mean? (deadass 是什么意思？)"
 slug: "what-does-deadass-mean"
-date: 2026-03-02
+date: 2026-03-09
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Deadass
+### deadass
 **English:** 
-- An intense or serious way of describing someone or something. It's often used to emphasize the seriousness or gravity of the situation.
-**Chinese (简体中文):**
-- 形容某人或某事非常认真或严肃。通常用来强调情况的严重性或重要性。
-- 比如说：这件事真的**( deadass )**严肃，我们要高度重视。
-**Example Sentence:**
-- English: "That movie is deadass amazing!"
-- Chinese (简体中文): "这部电影真的**( deadass )** amazing！"
+- **Definition:** This phrase is often used to describe something or someone that is very, very good. It can also be used to emphasize how uncool or lame something is.
+- **Usage Examples:**
+- "Man, that new rap artist is deadass on point with this album!" (Used to mean extremely talented or convincing)
+- "Eww, this party is deadass boring." (Used to mean extremely uninteresting or tedious)
+**Chinese:** 
+- **释义：** 这个词通常用来形容某人或某物非常非常好。它也可以用来强调某事是多么不酷或无趣。
+- **使用示例：**
+- “天呐，这位新说唱艺术家在他的专辑上简直太棒了！”（意思是极其有才能或令人信服）
+- “呸，这个聚会真是无聊透顶。”（意思是极其无趣或乏味）
 ```
