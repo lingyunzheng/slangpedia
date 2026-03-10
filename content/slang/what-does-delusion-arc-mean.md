@@ -1,20 +1,22 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2026-03-09
+date: 2026-03-10
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Delusion Arc (妄想弧, Wàngxiǎng Hú)
-### English Slang Explanation:
-**Bliss Domain / Cloud Nine Zone**
-- **Definition:** This term describes a state of mind where one's imagination and reality become so intertwined that they start believing in nonsensical or harmful ideas. It's often used to describe a very unhealthy or fantastical mindset, especially when it's clear that the person is living or thinking in a virtual or imaginary state rather than the real world.
-- **Usage Example:** "He's been watching too many conspiracy theories and now he's in the delusion arc, thinking the government controls the weather with microwave beams."
-### Chinese Slang Explanation:
-**妄想弧 (Wàngxiǎng Hú)**
-- **Definition:** 这个词用来形容一个人的想法和现实如此融合，以至于他开始相信一些不切实际或有害的想法。通常用于描述一种非常不健康或幻想的精神状态，尤其是在清楚地表明这个人正处于一种虚拟或想象的状态，而非现实世界时。
-- **用法例句:** "他看太多阴谋论了，现在处于妄想弧中，认为政府用微波束控制天气。"
+## Delusion Arc (精神错乱弧线 / 心理幻觉弧线)
+**English Explanation:**
+"Delusion Arc" is a slang term often used in internet discussions or online forums to describe a particular pattern or trend in people's behavior or thoughts. It refers to a situation where individuals or a group start to follow a series of actions or beliefs that are disconnected from reality, leading to a misinformed or delusional arc in their thought processes. It can be seen in various contexts, such as online communities with conspiracy theories or social media echo chambers.
+**中文解释:**
+"精神错乱弧线"或"心理幻觉弧线"是网络讨论或网络论坛中常用的流行术语，用来形容人们的行为或想法中出现的一条特定的轨迹或趋势。它指的是一些人或一个群体开始遵循一系列脱离现实的行动或信念，导致他们的思维过程变得误导性和幻觉化的轨迹。这种现象可以在各种不同的情境中观察到，比如拥有阴谋论的在线社区或社交媒体的回声室。
+**Example Usage:**
+- "They followed the Delusion Arc and started believing everything the influencer said without question."
+- "Some people seem to be caught in the Delusion Arc of anti-vaxxer theories, which has no scientific basis."
+**示例用法:**
+- "他们陷入了虚假信息弧线，对影响力人物说的话毫不怀疑地相信一切。"
+- "一些人似乎陷入了反疫苗理论的虚假信息弧线，这些理论没有科学依据。"
 ```

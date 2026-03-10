@@ -1,20 +1,21 @@
 ---
 title: "What Does 'gyatt' Mean? (gyatt 是什么意思？)"
 slug: "what-does-gyatt-mean"
-date: 2026-03-09
+date: 2026-03-10
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Gyatt (粤语 slang)
-## Chinese (粤语)
-**含义**: 一种礼貌表达，通常用来让对方不要太在意或轻松应对某事。
-**使用场景**: 在广东地区，当朋友遇到小挫折或者想让朋友不要过于紧张时，可能会用到这个词。
-**例句**: 你这次没考好，也别太 gyatt 了，下次肯定能行的！
-## English
-**Meaning**: A polite expression often used to reassure someone not to take something too seriously or to ease their tension.
-**Usage Scenario**: In Cantonese-speaking areas, if a friend is feeling down after some minor setbacks or if you want to make them feel more relaxed, you might use this term.
-**Example Sentence**: You didn't do well in the exam this time, but don't be too gyatt, you'll definitely do better next time!
+# Gyatt (English: "Gym Cat")
+**Definition:**
+- **English:** A colloquial term used to describe someone who frequents a gym or fitness center with the primary goal of socializing rather than working out. Think of them as the social butterflies of the gym scene.
+- **Chinese (普通话):** 走道健身咖 (zǒudào jīntián gā) - 这些人在健身房的主要目的是社交，而不是锻炼身体。他们是健身房里的社交能手。
+- **Explanation:**
+- **走道 (zǒudào):** aisle, usually referring to the space where people move through the gym.
+- **健身咖 (jīntián gā):** This phrase combines the words for gym (健身 jīntián) and咖 (gā), a term borrowed from internet slang meaning "coffee house regulars" or "certain group of people frequenting a place."
+So, "走道健身咖" literally translates to "aisle gym regulars," highlighting how they might spend more time walking around the gym chatting with others than actually working out.
+![Gym Cat](https://example.com/gym-cat.jpg) - A hypothetical image of a gyatt.
 ```
+In this markdown, I've provided explanations for both "Gyatt" in English and its Chinese equivalent, along with a brief literal translation and an explanation to give readers a clear understanding of the term.
