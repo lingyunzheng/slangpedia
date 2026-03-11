@@ -1,19 +1,20 @@
 ---
 title: "What Does 'highkey' Mean? (highkey 是什么意思？)"
 slug: "what-does-highkey-mean"
-date: 2026-03-07
+date: 2026-03-11
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Highkey (Thông thường)
-**English:** 
-- **Definition:** This slang term is used to emphasize something significantly or strongly. It's similar to saying "definitely" or "very much."
-- **Example Use:** "I'm highkey excited for the concert tonight!" (I am definitely excited for the concert tonight!)
-**Vietnamese:**
-- **Phụng phượng:** Từ này được sử dụng để nhấn mạnh một điều gì đó cực kỳ mạnh mẽ hoặc mạnh mẽ. Nó giống như nói "rất" hay "đặc biệt."
-- **Ví dụ sử dụng:** "Tôi thông thường rất mong chờ buổi hòa nhạc tối nay!" (Tôi rất mong chờ buổi hòa nhạc tối nay!)
+## Highkey
+### English
+"Highkey" is an intensifier used in informal and casual speech or writing. It emphasizes that something is very, extremely, or definitely true. It's a casual way to add emphasis to a statement without using stronger terms like "super" or "really."
+**Example:**
+"I'm highkey excited for this party!"
+### 中文
+"Highkey" 是一种加强语气的词，在非正式和口语化表达中常用，用来强调某件事情是非常的、非常地或确实地属实。这是一种在不用“超级”或“真的很”这类强烈词汇的情况下加强表达强度的方式。
+**例句:**
+“我 highkey 对这个派对很期待！”
 ```
-This markdown format clearly lays out the term "highkey" along with its Vietnamese equivalent and provides usage examples for both languages.

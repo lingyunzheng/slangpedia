@@ -1,20 +1,22 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2026-03-09
+date: 2026-03-11
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sigma (σ)
-### English
-**"King of the Hill"**  
-A slang term used to describe someone who is consistently at the top of their game, often dominant or supreme in their particular field or area of expertise. This person is seen as the most successful and respected, much like a king who controls a hill.
-### Chinese
-**"山大王" (Shān Dàwáng)**  
-意指在某个领域或特定范畴内始终处于领先地位的人，通常占据主导地位或尤为出色的人。这个人被认为是成功和受尊敬的典范，类似于控制山头的霸主。
-**“一把手” (Yī Bǎ Shǒu)**  
-指在一个组织或团队中最具话语权和影响力的人，通常负责决策和指导。这个词强调了这种人的领导地位和关键作用，类似于中国古时候对掌握权力者的称呼。
+## Sigma (Σ)
+**英文解释:**
+In Greek letters, Sigma (Σ) is a symbol used in statistics to represent the summation of a series of numbers. It's also used in mathematics for more general sum operations. The concept is fundamental in various fields including statistics, mathematics, and data science.
+**中文解释:**
+在希腊字母中，“Σ”代表西格玛（Sigma），它在统计学中用来表示一系列数字的总和，在数学中则用于更广泛的总和操作。这一概念在统计学、数学和数据科学等多个领域中都非常重要。
+**英文 slang:**
+- "Summing up all the doughnuts" (Summing up all the donuts): When you're adding up all the doughnuts, it's similar to what Sigma does, so you can use Sigma as a fun way to talk about adding things up.
+**中文 slang:**
+- "一口气吃一个 plein de croissants" (一口气吃一个 很多甜圈): 当你在一口气吃很多甜圈（法式酥皮点心）的时候，就像Sigma一样，把所有东西加总在一起，所以可以用Sigma来形容一口气吃掉一堆东西。
+**Note:**
+The slang uses provided are playful interpretations. Sigma is actually a formal mathematical symbol and not typically used in casual slang. These interpretations are more about creative usage than common usage.
 ```
