@@ -1,27 +1,22 @@
 ---
 title: "What Does 'ick' Mean? (ick 是什么意思？)"
 slug: "what-does-ick-mean"
-date: 2026-03-11
+date: 2026-03-12
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Ick (俚语)
-**英语**: Ick  
-**中文**: 厌恶
-## 解释
-**英语**: 
-- Used to express strong disgust or loathing.
-- Commonly used when something is perceived as gross or unpleasant.
-- Example: "That slimy texture is ick!"
-**中文**: 
-- 表达强烈反感或厌恶的情绪。
-- 常用于描述某物被感知为恶心或不愉快时使用。
-- 例句：这个黏黏的质地让我超“ick”的。
-## 相关词汇
-- Ugh: (吸鼻声)表达嫌弃或厌恶，语气略轻。
-- Gross: 非常厌恶或恶心的，语气相对强烈。
-- Yuck: (类似于“ick”的发音)表达特别厌恶，常用于口语。
+# Ick (英): Yech / Yucky (美)
+**英:** Ick
+**美:** Yech / Yucky
+## 英文解释
+When something is so unpleasant or disgusting that it makes you want to make a sound like "yech" or "ick", you might say it's "ick". It's a casual way to express that something is really gross, sickening, or revolting.
+**例句:**
+- "Ick, that smell. It's like something's rotting in here!"
+## 中文解释
+当某样东西极其令人不适或恶心，让你想要发出“yech”或“ick”的声音时，你可以说它是“ick”。这是一种随意表达某物真的太恶心、令人作呕的方式。
+**例句:**
+- “哎呀，这味道真糟糕，就像是什么在发霉了！”
 ```

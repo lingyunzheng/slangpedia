@@ -1,21 +1,16 @@
 ---
 title: "What Does 'rizz' Mean? (rizz 是什么意思？)"
 slug: "what-does-rizz-mean"
-date: 2026-03-10
+date: 2026-03-12
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Rizz (American English)
-### Definition
-- **Meaning**: Style, attitude, or coolness. Often used to describe someone who exudes a certain confidence or swagger.
-### Example Usage
-- "That new kid at school has got some serious rizz, walking around like he owns the place."
-## 里.Executor (Chinese迂腐)
-### 定义
-- **含义**：风格，态度，或酷感。常用来形容某人表现出的某种自信或霸气。
-### 例句
-- "那个新来的学校学生里头有股子十足的 里.Executor，走路就像自己是这里的老板一样。"
+### Rizz (En/中文)
+**English:**  
+Rizz is a playful, informal way to describe someone's confidence, attitude, or style. It can be used to praise someone who carries themselves with a cool, laid-back energy. For example, "That person has some real rizz!" implies that the person is impressively bold or stylish in their appearance and demeanor.
+**中文:**  
+Rizz 是一种轻松而非正式的方式来描述某人的自信、态度或风格。它可以用来赞扬那些以一种酷酷的、悠闲的态度出现的人。比如“那个人真是太有 rizz 了！”意味着这个人的外表和气场非常酷又有魅力。
 ```

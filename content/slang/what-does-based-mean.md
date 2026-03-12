@@ -1,20 +1,28 @@
 ---
 title: "What Does 'based' Mean? (based 是什么意思？)"
 slug: "what-does-based-mean"
-date: 2026-03-10
+date: 2026-03-12
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-##_based_
-### English
-"Based" is a slang term that has evolved from skateboarding culture. Originally used to describe someone or something that is grounded, realistic, or practical, it has taken on a more modern meaning of being cool, confident, or succeeding in a given context. For example:
-- "That new rapper is based! Their lyrics are solid."
-- "She's based, her skills on the tennis court are top-notch."
-### Chinese
-“Based” 是一个从滑板文化演变而来的俚语。最初用于形容某人或某事物是脚踏实地、现实的或实际的，它现已发展出一种更现代的意义，指的是酷、自信或在一个特定背景下取得成功的人或事。例如：
-- “那个新说唱歌手很‘based’，歌词非常有水平。”
-- “她真的很‘based’，在网球场上技巧一流。”
+# "Based" (Slang Explanation)
+## English
+### Meaning:
+"Bastard" or "cool" / "thick" (depending on the context)
+### Usage:
+1. **Original Meaning**: **Slur for a person**: "This based ass dude, running late again."
+2. **Modern Usage**: **Compliment or slang**: "Man, you based tonight!" (meaning the person did something impressive or cool)
+### Example Sentences:
+- "She aced her exam, you gotta admit she based outta there."
+- "You just based out with that dance move, keep it up!"
+## 中文
+### 含义：
+1. **原意**：**侮辱性用语**：“这个基于的家伙，又迟到了。”
+2. **现代意义**：**赞许或俚语**：“哇，你今晚真based！”（表示某人做某事很酷炫或厉害）
+### 例句：
+- “她考试考得很好，不得不承认她真的很based。”
+- “你这个舞蹈动作真based，继续加油！”
 ```
