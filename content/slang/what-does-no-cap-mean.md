@@ -1,7 +1,7 @@
 ---
 title: "What Does 'no cap' Mean? (no cap 是什么意思？)"
 slug: "what-does-no-cap-mean"
-date: 2026-03-09
+date: 2026-03-13
 tags:
 - slang
 - internet
@@ -10,7 +10,13 @@ tags:
 ```markdown
 ## "No Cap"
 ### English
-"No cap" is a slang phrase that essentially means "tell it like it is" or "I am telling the truth." It's often used to emphasize the sincerity of what someone is saying. For example, if someone says they ran a marathon, they might follow up with "No cap," indicating they are being truthful about this accomplishment.
+"**No cap**" is an internet slang term commonly used to indicate that what someone is saying is true and exaggerated statements are not intended. It translates to English as "I'm not kidding" or "That's the truth."
+Example:
+- Original: "I ate ten pizzas in one sitting."
+- With "no cap": "I ate ten pizzas in one sitting, no cap."
 ### 中文
-“no cap” 是一种俚语表达，意为“开门见山”或“我说的是真话”。它常用于强调所说的话的真实性。例如，如果有人声称自己跑完了一次马拉松，他们可能会加上“no cap” 来表明自己说的是实话。
+"**No cap**" 是网络用语，常用来表明所言属实，不包含夸张的成分。相当于英文的“不是在开玩笑”或“这就是事实”。
+例句:
+- 原句: "我一口气吃了十个比萨饼。"
+- 使用"No cap": "我一口气吃了十个比萨饼，no cap。"
 ```
