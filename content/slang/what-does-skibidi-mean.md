@@ -1,18 +1,14 @@
 ---
 title: "What Does 'skibidi' Mean? (skibidi 是什么意思？)"
 slug: "what-does-skibidi-mean"
-date: 2026-03-09
+date: 2026-03-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Skibidi
-**English:** A term often used to express excitement or exhilaration, similar to saying "Wow!" or "Cool!" It can also add a playful or taunting tone to a statement, kind of like saying "Come on, you can do better than that!"
-**Chinese:** 一个用来表达兴奋或激动的术语，与说“哇！”或“酷！”类似。它还可以在陈述中增添一种戏谑或挑战的语气，类似于说“来吧，你还能做得更好！”
----
-Example Usage:
-**English:** "I just saw the new skateboard tricks online! Skibidi!"  
-**Chinese:** “我在网上看到了新的滑板特技！Skibidi！”
+## Skibidi
+**English:** "Skibidi" is a silly, playful phrase used to express excitement or amusement, often imitating a character or scenario from children's animation shows like "Peppa Pig". It can be used in non-verbal communication, such as when nodding your head or making a silly face while saying it.
+**Chinese:** "Skibidi" 是一个充满乐趣和戏谑的词，用来表达兴奋或娱乐的情绪，通常模仿像《小猪佩奇》这样的儿童动画中的角色或场景。它在非语言交流中也很常用，比如在你说这个词的时候，可以通过点头或做一些滑稽的表情来表达。
 ```

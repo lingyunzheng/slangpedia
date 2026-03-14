@@ -1,19 +1,18 @@
 ---
 title: "What Does 'dogwater' Mean? (dogwater 是什么意思？)"
 slug: "what-does-dogwater-mean"
-date: 2026-03-12
+date: 2026-03-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Dogwater (English Slang)
-**Definition:**  
-Dogwater is a slang term used to describe something that is low-quality, disappointing, or utterly worthless. It's often used when referring to beverages that taste bad or water that is so flat or off-tasting that it's practically undrinkable.
-- **Example Usage:** "The juice he bought was dogwater, it tasted like the tap water straight from the bathroom."
-# 狗喝水 (Dogwater, Chinese Slang)
-**释义:**  
-狗喝水比喻质量极差、令人失望或者完全没有价值的东西。常用于形容味道难喝的饮料或水质非常糟糕、几乎不能饮用的水。
-- **例句:** "他买的果汁是狗喝水，味道就像是直接从洗手间的水龙头里接的水。"
+# Dogwater
+## 英文解释
+### What is Dogwater?
+"Dogwater" is slang often used to refer to water of poor quality, typically meaning it is yucky, dirty, or not fit for human consumption. This term is used when talking about something that is so bad that it's comparable to water that a dog might drink.
+## 中文解释
+### 什么是Dogwater？
+"Dogwater" 是俚语，通常用来形容质量极差的水，通常意味着这种水是难喝、脏的，甚至不适合人喝。当你形容某样东西糟糕到极点，比狗喝的水都差，就会用这个词。
 ```

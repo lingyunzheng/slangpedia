@@ -1,18 +1,20 @@
 ---
 title: "What Does 'cope' Mean? (cope 是什么意思？)"
 slug: "what-does-cope-mean"
-date: 2026-03-10
+date: 2026-03-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang: Cope (应对)
-## English
-**Cope**: To handle or manage a difficult situation. It's about dealing with problems or stressful situations in a way that allows you to hold it together and get through them.
-*Example*: "How are you coping with the loss of your job?" - "I'm managing, thanks for asking."
-## Chinese
-**Cope**: 应对，指处理或管理艰难处境。这包括以一种让您能够保持镇定并度过难关的方式来处理问题或压力大的情况。
-*例句*: "你在处理失业这件事上如何应对？" - "我还在努力应对，谢谢你关心。"
+## Cope (英) vs. Cope (粤)
+### English: Cope
+To manage or deal with a difficult situation; to handle or tackle a challenging circumstance.
+*Usage Example:* "I need to learn how to cope with this stressful work situation."
+### Cantonese: 棒住 / 唔使慌 (Bàngchòe / Mōsihfueng)
+- **棒住 (Bàngchòe):** Means "to keep cool" or "to keep it together." It suggests maintaining composure and managing a tough situation.
+- **唔使慌 (Mōsihfueng):** Translates to "no need to panic." It implies handling problems without feeling overly anxious.
+*Usage Example:* "我都要棒住，唔使慌。" (Ge5 maau1 jyu6 bong4zeoi6, mo5 si1 fueng4.) - "I need to keep cool, no need to panic."
 ```
+This markdown format provides clear comparisons and examples for how "cope" can be explained in Cantonese slang terms.

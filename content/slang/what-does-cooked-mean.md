@@ -1,20 +1,22 @@
 ---
 title: "What Does 'cooked' Mean? (cooked 是什么意思？)"
 slug: "what-does-cooked-mean"
-date: 2026-03-06
+date: 2026-03-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### 英文：cooked
-### 中文：炒熟了 (chǎoshú le)
-#### 解释：
-1. **英文**：Cooked
-- In slang, "cooked" can mean something that has been handled or prepared to a certain extent, often in a way that leaves one in a compromising or undesirable situation.
-- Example: "I'm cooked after losing all my money in that game." → 我在那场游戏中输光了所有钱，现在是炒熟了，处境很糟糕。
-2. **中文**：炒熟了 (chǎoshú le)
-- "炒熟了" is a slang term that implies someone has been "handled" or put in a tough situation to the point of being in a bad or problematic state.
-- Example: "昨天晚上赌的钱今天都炒熟了，现在真不知道该怎么办。" → Yesterday night, I lost all the money I bet, and now I really don't know what to do. (昨晚输的钱今天全都炒熟了，现在真不知道该怎么办。)
+# Slang Term: cooked
+## English
+### Definition
+If something is "cooked," it generally means the idea or situation is very good, or the plan is well-thought-out. It can also refer to someone who is out of control or has lost their cool.
+### Example
+- "This surprise party for my friend is totally cooked!" (The party plan is well-organized and surprising.)
+## 中文
+### 解释
+“煮熟了”这个词通常指的是一种说法或情况非常好，计划很周到。也可以用来形容某人失去控制或情绪失控。
+### 例句
+- "我们给朋友精心准备的惊喜派对真是安排妥当！"（惊喜派对的计划很好，很周到。）
 ```

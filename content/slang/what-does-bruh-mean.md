@@ -1,21 +1,18 @@
 ---
 title: "What Does 'bruh' Mean? (bruh 是什么意思？)"
 slug: "what-does-bruh-mean"
-date: 2026-03-10
+date: 2026-03-14
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Bruh (英/美)
-**English:** 
-- **Definition:** A term often used to express surprise, disbelief, or to emphasize something. It can also be used to show that you agree with someone or in casual conversation as a filler word.
-**Example:**
-- "Bruh, this pasta is really fancy and fresh!"
-**Chinese:**
-- **定义：** 一个用来表达惊讶、难以置信或强调某事的词。它也可以用来表示你同意某人或在随便聊天时作为填充单词。
-- **例句：**
-- “ broh, 这过去的真的很奢华又新鲜！”
+## Bruh
+### English
+**Meaning:** Used as an interjection to express surprise, confusion, or exasperation. It can also be used to acknowledge a statement or action.
+**Example:** "Bruh, did you actually just say that?!"
+### Chinese
+**含义:** 作为一个感叹词，用来表达惊讶、困惑或者懊恼。它也可以用来回应某句话或某个动作。
+**例句:** " Bruh, 你刚才说的是真的吗？！"
 ```
-Note: The term "bruh" is often followed by an 'h' in slang, making it "bruh," but both spellings are commonly used. The Chinese translation and example have been provided to match the closest meaning and usage, which may not always be a direct 1:1 translation.
