@@ -1,16 +1,19 @@
 ---
 title: "What Does 'salty' Mean? (salty 是什么意思？)"
 slug: "what-does-salty-mean"
-date: 2026-03-13
+date: 2026-03-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Salty (Saltý / 酸咸)
-### English Explanation
-**"Salty"** is a slang term often used to describe someone who is feeling bitter, envious, or upset, especially when they feel that they are being treated unfairly or have been snubbed by others. It can also be used to refer to something that is overly dramatic or pretentious.
-### Chinese Explanation
-**“酸咸”** 这个网络用语用来形容一个人感到辛酸、嫉妒或不安，特别是当他们觉得自己被不公平对待或被别人冷落时。它也可以用来指某件事情过于戏剧化或矫揉造作。
+# Slang Term: Salty
+## In English
+**Salty:** This term is often used to describe someone who becomes negatively emotional or upset, usually concerning a relatively minor issue. It is derived from the phrase "sour face" but reflects a more literal and metaphorical addition, suggesting someone's mood is as unpleasant as a dish with no salt. When someone is described as "salty," it means they are taking things too personally or are being overreactive.
+**Example:** "Dude, he's so salty about losing the game! He barely played and is already mad."
+## In Chinese (简体中文)
+**咸鱼（S阀门）:** 这个词汇用来形容某人情绪消极或变得非常负面，通常是因为一件小事情。这个词语来源于“蔫了”的意思，但更富有象征性，暗示某人的状态就像没放盐的菜一样，没有生气。当形容某人“咸鱼”时，意味着他们对自己太过在意，或者反应过度。
+**例句:** "哥们，他因为输了个球特别不高兴！他自己上场时间不多，现在却生气得很！"
 ```
+Note: The term "咸鱼" (simplified as "s阀门") is a play on words, where "s阀门" (s-valve) is a deliberate misspelling of "salty" to sound more like a slang term in Chinese. It is used humorously in this context.

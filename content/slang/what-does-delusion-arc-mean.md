@@ -1,20 +1,17 @@
 ---
 title: "What Does 'delusion arc' Mean? (delusion arc 是什么意思？)"
 slug: "what-does-delusion-arc-mean"
-date: 2026-03-14
+date: 2026-03-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Delusion Arc (delúsiú àrku)
-## 中文解释
-“梦幻弧”是一种来自网络语言和流言文化的说法，特指那些在社交媒体上广泛流传，但由于缺乏事实根据，最终被普遍认为是臆想、虚构的故事或事件。这些人云亦云的故事通常缺乏具体证据或来源，但会在社交媒体上迅速传播，形成了一种“梦幻般的”曲线趋势。
-### 示例
-- **在微信群中，流传着一种‘梦幻弧’事件：某名学生一对一地通过诗词竞赛赢得与校长的交谈机会。但后来经过调查发现这个故事基本是杜撰的。**
-## English Explanation
-"Delusion Arc" is a term that originates from online language and rumor culture, specifically referring to stories or events that circulate widely on social media but are devoid of factual support. These tales are often fabrications or exaggerations that lack concrete evidence or sources, yet they quickly gain traction and spread rapidly on social media, forming a "dream-like" curve trend among internet users.
-### Example
-- **In a WeChat group, there was a "Delusion Arc" story circulating about a student who won an opportunity to talk with the principal in a one-on-one poetry competition. However, subsequent investigations revealed that the story was largely fabricated.**
+## Delusion Arc (幻觉弧线, Huànjué Huígùan)
+**English Slang Explanation:**
+A "delusion arc" is a term that refers to a period or trajectory where someone is enveloped in a state of false or idealized thinking, often believing in something that is not real or ignoring clear evidence to the contrary. It can also describe a journey or path that leads away from reality into a world of fantasy or delusion. In casual conversation, it might be used to describe a situation where a friend's optimism borders on unrealistic or when someone refuses to see something obvious.
+**Chinese Slang Explanation:**
+"幻觉弧线" (Huànjué Huígùan) 这个词用来形容一个人在一段时期或轨迹中沉浸在虚假或理想化的思考中，往往认为某些事情是不真实的，或者忽略了明显的证据。这个词也可以用来描述一条通往虚构或幻想中的现实之路。在日常对话中，它可能被用来形容一个朋友的乐观变成不切实际，或者某人拒绝看到显而易见的事情。
 ```
+This markdown format provides a clear and concise bilingual explanation, making it easy for users to compare the slang term in both languages and understand its usage and context.

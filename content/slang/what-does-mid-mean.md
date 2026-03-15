@@ -1,20 +1,17 @@
 ---
 title: "What Does 'mid' Mean? (mid 是什么意思？)"
 slug: "what-does-mid-mean"
-date: 2026-03-10
+date: 2026-03-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Bilingual Slang Explanation: "mid"
-**English:**  
-- Meaning: Short for "middle" or "middle of the road", often used to describe someone or something that is "average", "moderate", or "not particularly distinctive".
-- Example Usage: "He's a mid manager, always trying to keep a low profile."
-- Informal Usage Note: This term is frequently used in casual conversations, especially in work环境中，特别是在讨论管理层级别的时候。
-**中文：**
-- 含义：缩写为"middle"或"middle of the road"，常用来形容某人或某事物是“普通”的、“中庸的”或“没有特别突出特点”的。
-- 用法示例："他是个中层经理，总是试图保持低调。"
-- 非正式使用注意事项：这个词经常在日常对话中使用，尤其是在讨论管理层级别时。
+## 中文 (Chinese)
+### 中间人 (Zhōngjiānrén)
+- **Explanation**: 中间人通常指的是在两个或多个群体或个人之间起桥梁作用的人。这些人可能参与调解、传达信息或协调事务。有时也被用来调侃某人总是夹在两者之间无法取悦所有人的情况。
+## English
+### Middle Man (Middle Person)
+- **Explanation**: A middle man, or intermediary, typically refers to someone who acts as a bridge between two or more groups or individuals. They might be involved in mediation, relaying information, or coordinating matters. Sometimes, this term is used to调侃 (jokingly criticize) someone who is often caught in the middle and finds it hard to please everyone.
 ```

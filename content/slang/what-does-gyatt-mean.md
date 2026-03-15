@@ -1,18 +1,14 @@
 ---
 title: "What Does 'gyatt' Mean? (gyatt 是什么意思？)"
 slug: "what-does-gyatt-mean"
-date: 2026-03-14
+date: 2026-03-15
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Gyatt (English: "Gyatt")
-**English Slang Explanation:** 
-"Gyatt" is not a commonly recognized English slang term. It could be a misspelling or a term specific to a certain subculture or dialect. If you meant to ask about a different term, feel free to clarify!
----
-# Gyatt (Chinese: " Gyatt")
-**中文解释:** 
-" Gyatt" 并不是一个常见的中文俚语。可能是拼写错误，或者特定亚文化或方言中的术语。如果你是指的其他词语，欢迎提供更多信息！
+## Gyatt (粤语 slang)
+**中文解释:** 广州话中的 "gyatt" 是 "得意" 的意思，通常用于形容某人非常自豪或自满的样子。
+**English Explanation:** "Gyatt" in Cantonese is equivalent to "得意" (de意i) in Mandarin, which means "very proud" or "stuck up." It's often used to describe someone who is feeling very satisfied with themselves or showing an attitude of superiority.
 ```
