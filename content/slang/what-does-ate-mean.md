@@ -1,18 +1,34 @@
 ---
 title: "What Does 'ate' Mean? (ate 是什么意思？)"
 slug: "what-does-ate-mean"
-date: 2026-03-15
+date: 2026-03-17
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# "ate" Slang Explanation
-## English
-**Meaning:** To understand or comprehend something, often used in a way that suggests someone should have grasped a concept but didn't.
-**Example:** "She's been talking about it for weeks, I don't know why she thinks I ate what she said. I haven't a clue what she's going on about!"
-## 中文
-**含义:** 理解或掌握某个概念，通常用于表达某人应该能够理解某个概念却未能理解。
-**例句:** "她说了好几周了，我不知道她为什么觉得我已经get了她的意思。我完全不明白她在说什么！"
+## Ate (中式英语/粤语)
+### 拼音：āi
+### 中文解释：
+- 1. 父母的姐妹
+- 2. 妯娌，对丈夫姐妹的称呼
+- 3. 在某些地区，也可泛指成年女性的朋友
+### 英文解释：
+- 1. Sister-in-law (mother's side)
+- 2. Sibling-in-law, referring to one's husband's sister
+- 3. In some regions, can also refer to a friend who is an adult woman
+### 使用场景：
+在家庭聚会时，提到母亲的姐妹时常用“妈妈的 ate”；在情侣关系中，男方称呼妻妹为“ ate”。
+```
+## Ate (英文)
+### 俚语解释：
+- **Bro**：Brother, used as a slang term among friends, often to denote a brotherly or close friend-like relationship
+### 使用场景：
+- In casual settings among friends, to refer to a close male friend in a non-familial context.
+- In informal language, to address a younger male in a friendly, casual manner.
+- Can also be used as a prefix to form slang phrases like "ate bro" or "ate house," often indicating a close or casual relationship.
+### 示例句子：
+- "Let's meet up with the ate bro after the game." (Let's meet up with the close male friend after the game.)
+- "It's a ate house, no need to worry about the details." (It's a close environment, no need to worry about the details.)
 ```

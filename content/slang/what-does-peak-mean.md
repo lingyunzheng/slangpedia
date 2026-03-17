@@ -1,23 +1,23 @@
 ---
 title: "What Does 'peak' Mean? (peak 是什么意思？)"
 slug: "what-does-peak-mean"
-date: 2026-03-14
+date: 2026-03-17
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Peak
-## 直译含义：
-- **peak** (n): 顶点；高峰；山顶
-## 中文直译式俚语：
-- **峰值（fēngzhí）**: 指最高点或最佳时刻，通常用来形容某事或某物到达最顶点的状态。
-## 中文俚语解释：
-- **peak（坎儿）**: 用来形容一个时刻或者情况是“最佳的”或“顶峰”的状态。比方说，形容业绩、成绩等到达顶峰时，就可以用“达到了 peak（坎儿）”。
-## 英文俚语解释：
-- **peak（it to the max）**: To do something at its best or to the highest possible degree. For example, "He performed it to the max during the competition, reaching peak performance."
-## 示例：
-- 中文：他的技术已经达到了 peak（坎儿），没什么可挑剔的了。
-- 英文：His skills are at peak, maxing out in all areas.
+## peak (英语)
+- **Definition**: 精彩的时刻、顶点
+- **Explanation**: "Peak" is often used informally to describe something that's at its best or most amazing. In contexts like social media posts or everyday conversation, it can be used to highlight a high point of an experience or a moment that was particularly impressive.
+- **Example**:  
+- 英语: "That performance was the peak of her career."
+- 中文: 这次表演是她事业的巅峰。
+## 峰值 (中文)
+- **Definition**: 最高点、顶点
+- **Explanation**: "峰值"用来指代某个事物或过程中的最高点或者是最好的时刻。类似于英文中的 "peak"，它可以描述某件事的顶峰或是某个特性的高峰值。
+- **Example**:  
+- 中文: 她的知名度在发布新专辑后达到了峰值。
+- 英语: Her popularity peaked after the release of her new album.
 ```

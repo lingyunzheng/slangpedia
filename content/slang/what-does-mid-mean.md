@@ -1,17 +1,17 @@
 ---
 title: "What Does 'mid' Mean? (mid 是什么意思？)"
 slug: "what-does-mid-mean"
-date: 2026-03-15
+date: 2026-03-17
 tags:
 - slang
 - internet
 - tiktok
 ---
+Here is the markdown with bilingual slang explanations for the term "mid":
 ```markdown
-## 中文 (Chinese)
-### 中间人 (Zhōngjiānrén)
-- **Explanation**: 中间人通常指的是在两个或多个群体或个人之间起桥梁作用的人。这些人可能参与调解、传达信息或协调事务。有时也被用来调侃某人总是夹在两者之间无法取悦所有人的情况。
-## English
-### Middle Man (Middle Person)
-- **Explanation**: A middle man, or intermediary, typically refers to someone who acts as a bridge between two or more groups or individuals. They might be involved in mediation, relaying information, or coordinating matters. Sometimes, this term is used to调侃 (jokingly criticize) someone who is often caught in the middle and finds it hard to please everyone.
+## Mid
+**English:** 
+A term widely used in online gaming contexts, which refers to a player position or character type that stands in the middle between attackers and defenders. Mids are typically responsible for controlling mid-lane, a strategic area on the game map that is crucial for both offensive and defensive purposes.
+**Chinese:** 
+一个广泛用于在线游戏语境中的术语，指玩家位置或角色类型，位于攻击者和防守者之间。Mids负责控制地图上的中路区域（mid-lane），这是进攻和防御都十分关键的战略位置。
 ```

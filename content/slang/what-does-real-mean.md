@@ -1,18 +1,19 @@
 ---
 title: "What Does 'real' Mean? (real 是什么意思？)"
 slug: "what-does-real-mean"
-date: 2026-03-16
+date: 2026-03-17
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Real
-### English
-- **Definition**: Genuine, authentic, or true to life.
-- **Example**: "This is real streetsmart advice, not textbook theory."
-### 中文
-- **释义**: 真实的，真诚的，或者说是贴近生活的真实。
-- **例句**: "这是真正的街头智慧，而不是教科书上的理论。"
+# Real
+## 中文解释
+- **真的、事实**: 常用来表示某事确实是真实的，没有夸张或虚构。
+- 例句：这饭菜做得真(real)好吃！
+## 英文解释
+- **Really, True**: Used to emphasize that something is indeed true or genuine, without any exaggeration or fiction.
+- Example Sentence: The food is really(truly) delicious!
 ```
+This explanation captures both the meanings and example usages in both Chinese and English, providing a clear and concise understanding of the slang term "real."

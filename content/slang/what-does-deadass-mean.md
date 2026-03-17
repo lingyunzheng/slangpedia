@@ -1,19 +1,19 @@
 ---
 title: "What Does 'deadass' Mean? (deadass 是什么意思？)"
 slug: "what-does-deadass-mean"
-date: 2026-03-16
+date: 2026-03-17
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## deadass
-### English
-**deadass**: This is a colloquial term used to emphasize something is very true, real, or happening. It's akin to saying "for real" or "seriously."
-**Example:** "Deadass, I can't believe we pulled this off!" 
-### Chinese
-**deadass**: 这个词是一个口语化表达，用来强调某件事是非常真实、认真的。相当于说“真的”或“确实”。
-**例句:** "deadass，我简直不敢相信我们能做成这件事！" 
+# Deadass
+**English:** Deadass is an informal, slang term used primarily in American English, often to describe something or someone in a very direct, unambiguous, or blunt manner. It can also mean incredibly, seriously, or genuinely in contexts where you want to emphasize that something is true or important.
+**Chinese (Traditional):** "死正經" (sǐ zhèng jīng) 是美國英語中常見的非正式俚語，用來描述某事物或某個人以非常直接、明確或坦率的方式。它還可以用來強調某事是真實的或重要的，類似於“非常”或“真正”這樣的詞語。
+例句：
+- English: That deadass storm lasted for a week.
+- 中文：那場死正經的暴風雨持續了整整一週。
+- English: He was deadass serious about it.
+- 中文：他非常認真地对待這件事，一點也不開玩笑。
 ```
-This markdown format provides clear and concise translations along with example sentences to demonstrate usage in both languages.
