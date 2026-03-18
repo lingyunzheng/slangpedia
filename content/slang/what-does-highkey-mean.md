@@ -1,20 +1,15 @@
 ---
 title: "What Does 'highkey' Mean? (highkey 是什么意思？)"
 slug: "what-does-highkey-mean"
-date: 2026-03-17
+date: 2026-03-18
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Highkey
-#### English
-**Definition:** "Highkey" is a slang term used to express that something is happening to a significant extent or degree.
-**Usage Example:** 
-"I am highkey relocating next month for a new job opportunity!"
-#### 中文
-**定义:** "高键 (Highkey)" 是一个网络俚语，用于强调某件事情的发生程度很大或非常显著。
-**使用示例:**
-"我高键将在下个月为了一个新工作机会而搬家！"
-```
+# Highkey
+## English
+**Highkey** (pronounced hahy-kee) is a colloquitalize used to emphasize the extent or truth of a statement. It's similar to saying "really" or "definitely." For example, if someone says "I went to the party highkey," it means they went to the party to a significant extent, not just a little.
+## 中文
+**Highkey**（发音为 hahy-kee）是一个俚语，用于强调一个声明的程度或真实性。它相当于说“真的很”或“的确很”。例如，如果有人说“我highkey去了那个聚会”，那就意味着他们非常去了那个聚会，不仅仅是稍微去了。

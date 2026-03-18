@@ -1,20 +1,18 @@
 ---
 title: "What Does 'based' Mean? (based 是什么意思？)"
 slug: "what-does-based-mean"
-date: 2026-03-17
+date: 2026-03-18
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Based
-## English
-**Based**: A slang term that originated in the gaming and internet communities, used to describe someone or something that is cool, legitimate, and worthy of admiration. It's often used when something or someone is particularly good or impressive in a way that defies expectations.
-### Example
-- *She aced the exam and aced the presentation—she is definitely based!*
-## 中文
-**基于（base）**：这个俚语起源于游戏和互联网社区，用来形容某人或某事物很酷、正经，值得钦佩。通常用于形容某人或某事物的表现非常出色或者让人刮目相看。
-### 例句
-- *她考试考得很好，演讲也很精彩，真可谓基于了！*
+## Based
+### English
+**Based**: Originally from skateboarding and rap culture, it's used to describe someone or something that is "on point" or authentic. If someone is based, they are genuinely cool, true to themselves, or doing things in a way that is not fake or phony.
+Example: *Man, that new rapper is really based! His lyrics and style are killer.*
+### Chinese
+**基于** (Based): 来自滑板和说唱文化，用来形容某人或某事物是“正点的”或真实的。如果某人或某事物是 based，说明他们是真正酷、忠于自己，或者做事的方式是真实且不装的。
+例句：*那人新出的单曲真的很 based！他的歌词和风格是真的棒！*
 ```

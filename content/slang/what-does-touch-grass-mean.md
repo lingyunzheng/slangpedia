@@ -1,7 +1,7 @@
 ---
 title: "What Does 'touch grass' Mean? (touch grass 是什么意思？)"
 slug: "what-does-touch-grass-mean"
-date: 2026-03-15
+date: 2026-03-18
 tags:
 - slang
 - internet
@@ -9,10 +9,10 @@ tags:
 ---
 ```markdown
 # Bilingual Slang Explanation: "Touch Grass"
-**English:** 
-- **Definition:** To admit or realize one's own foolishness, ineptitude, or stupidity.
-- **Example Usage:** "After losing the game, he finally touched grass and admitted that the other team was just better."
+**English:**  
+- **Definition:** To do something that is considered extreme or dangerous, often resulting in injury or harm.
+- **Example Usage:** "He told his friend to stop drinking so much or he would make him touch grass."
 **Chinese:**
-- **释义:** 承认或意识到自己的愚蠢、无能或无知。
-- **使用示例:** "在比赛中失利后，他终于承认输得心服口服，并表示对方队伍更强。"
+- **释义：** 用来形容去做某件非常极端或者危险的事情，往往会导致受伤或损害。
+- **例句：** "如果他不停止喝这么多酒，他会让他去接触草地。"
 ```

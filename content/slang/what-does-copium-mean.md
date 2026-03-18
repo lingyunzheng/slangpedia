@@ -1,18 +1,19 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2026-03-14
+date: 2026-03-18
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Copium (俚语解释)
-**英语**: copium
-- **含义**: A playful or mockerish term, often used to refer to a police officer or law enforcement in a casual or humorous context.
-- **用法示例**: "Walking down the street and suddenly seeing a copium, made me feel like I had to put my hands up and smile."
-- **中文**: 拷煾（kǎoxiā）：用来戏谑或调侃警察或执法者的一种轻松或幽默的用词。
-- **使用示例**: "走在街上，突然看到一个拷煾，让我觉得像是需要举手微笑一样。"
+# Copium 
+## English Slang: 
+"Copium" is a playful or humorous variation of "copenhagen", often used in casual or internet discussions to refer to the city or its residents. It could be employed in a context where someone is exaggerating the stereotype of the city's inhabitants being well-organized or perhaps a bit too neat and tidy.
+## Chinese Slang: 
+"Copium" (哥本哈根癔症) 是一种在非正式或互联网讨论中对哥本哈根这座城市或是其居民的一种戏谑或幽默化的称呼。它可能会在一个场景中，用来夸张地形容该城市居民的有条理或过于整洁的特质。
+**Example Usage:**
+- English: "Oh man, his house is so organized, it’s like he lives in copium!"
+- 中文： "天哪，他的家整理得这么井井有条，真像是住在哥本哈根癔症里一样！"
 ```
-Note: "拷煾" (kǎoxiā) is a playful phonetic translation of "copium," aiming to capture the spirit of the original English slang in Chinese. This rendering is not literal and is intended to convey the casual use of such terms in social interactions.

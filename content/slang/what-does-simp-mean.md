@@ -1,20 +1,19 @@
 ---
 title: "What Does 'simp' Mean? (simp 是什么意思？)"
 slug: "what-does-simp-mean"
-date: 2026-03-08
+date: 2026-03-18
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Slang: Simp
-### English Explanation
-A "simp" is someone who excessively exhibits admiration or affection towards someone, often in a way that is seen as fawning or overly eager. They can be described as someone who is overly sensitive to praise or attention, especially from women or those they are interested in.
-### Chinese Explanation
-“Simp”指的是那些过度表现出仰慕或关爱某人的人，尤其是在面对那些他们感兴趣的人时，这种表现经常被视为谄媚或过于殷勤。他们可以被描述为对赞美或关注过于敏感。
----
-Example Sentences:
-- **English:** He's such a classic simp, always trying to impress her with expensive gifts.
-- **Chinese:** 他是个典型的misc，总是试图用昂贵的礼物来给她留下好印象。
+## Slang Term: Simp
+**English:**  
+A simp is someone who is overly or obnoxiously enamored with and interested in someone else, often in a romantic or sexual context. Simps are typically perceived as soft, unathletic, and overly concerned with impressing or winning over a particular person.
+**Chinese:**  
+“清新”（Xīnqīng）一词常用来形容某种过分着迷某人的行为，往往是为了取悦或讨好某个人。在这种语境中，sims 被认为是软弱、不擅长运动，以及过于关注如何吸引或征服特定对象的人。
+例如：
+- **English:** He's such a simp for her that he always picks her flowers and writes her love letters.
+- **Chinese:** 他对她简直是一个清新的代名词，总是给她送花，还给她写情书。
 ```

@@ -1,7 +1,7 @@
 ---
 title: "What Does 'lowkey' Mean? (lowkey 是什么意思？)"
 slug: "what-does-lowkey-mean"
-date: 2026-03-17
+date: 2026-03-18
 tags:
 - slang
 - internet
@@ -10,11 +10,7 @@ tags:
 ```markdown
 ## lowkey
 ### English
-"Lowkey" is a slang term that is used to indicate that something is happening or is true to a minor or subtle degree. It can also be used to suggest that someone is barely keeping something in check.
-**Example:**
-- "I'm lowkey planning a surprise party for my friend."
+"Lowkey" is a casual slang term often used to downplay the significance of something or to speak about a situation in a subtle, indirect way. It can be used to say something is only slightly true or to discuss a topic in a whisper-like manner, making it seem more confidential.
 ### Chinese
-"Lowkey" 是一个俚语，用来表示某事发生或为真，但程度较轻或不明显。它还可以暗示某人只是勉强控制住。
-**例句:**
-- "我低key正在为我的朋友策划一个惊喜派对。"
+"Lowkey" 是一种口头语或非正式用语，通常用于轻描淡写地表达某事的重要性或以一种间接的方式谈论一种情况。它可以用来说某事只是稍微正确，或者用一种像低语的方式讨论某个话题，使其听起来更加保密或私密。
 ```

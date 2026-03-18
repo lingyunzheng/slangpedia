@@ -1,34 +1,19 @@
 ---
 title: "What Does 'ate' Mean? (ate 是什么意思？)"
 slug: "what-does-ate-mean"
-date: 2026-03-17
+date: 2026-03-18
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Ate (中式英语/粤语)
-### 拼音：āi
-### 中文解释：
-- 1. 父母的姐妹
-- 2. 妯娌，对丈夫姐妹的称呼
-- 3. 在某些地区，也可泛指成年女性的朋友
-### 英文解释：
-- 1. Sister-in-law (mother's side)
-- 2. Sibling-in-law, referring to one's husband's sister
-- 3. In some regions, can also refer to a friend who is an adult woman
-### 使用场景：
-在家庭聚会时，提到母亲的姐妹时常用“妈妈的 ate”；在情侣关系中，男方称呼妻妹为“ ate”。
+## Ate (Chinese: 姐; English: Big Sister)
+**Chinese: 姐 (Ate)**  
+- **Definition:** A term used to address or refer to an older sister, or more generally, as a term of respect for a woman who is older than oneself.
+- **Slang Explanation:** "Ate" is a casual and affectionate way to refer to an older sister, often used among friends or within a family context. In a broader sense, the term is sometimes used as a respectful address for any older woman, akin to "sir" for men or "brother" for older men, though it's more commonly used for females.
+**English: Big Sister (Ate)**  
+- **Definition:** A term used to describe a female sibling who is older than the speaker.
+- **Slang Explanation:** "Big Sister" is an affectionate and endearing term used to refer to an older sister or an older woman in a protective or guiding role, much like the Chinese term "Ate." It conveys a sense of respect and gratitude for the care and support the older sister provides.
 ```
-## Ate (英文)
-### 俚语解释：
-- **Bro**：Brother, used as a slang term among friends, often to denote a brotherly or close friend-like relationship
-### 使用场景：
-- In casual settings among friends, to refer to a close male friend in a non-familial context.
-- In informal language, to address a younger male in a friendly, casual manner.
-- Can also be used as a prefix to form slang phrases like "ate bro" or "ate house," often indicating a close or casual relationship.
-### 示例句子：
-- "Let's meet up with the ate bro after the game." (Let's meet up with the close male friend after the game.)
-- "It's a ate house, no need to worry about the details." (It's a close environment, no need to worry about the details.)
-```
+This markdown format should make it easy to read and understand the double-slang explanations for the term "Ate."
