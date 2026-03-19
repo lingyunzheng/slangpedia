@@ -1,21 +1,20 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2026-03-17
+date: 2026-03-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Brokie
+# Brokie (Slang Terms)
 ## English
-**Brokie**: In slang, "brokie" is a term often used to describe someone who is overly affectionate,Attached or clingy towards their friends, especially in a display that's seen as fake or insincere. It's generally used in a negative context, similar to how "brat" or "snot-nosed kid" might be used. 
-Example:
-- He's such a brokie, always trying to get hugs from everyone.
-## Chinese
-**brokie**: 在 slang 中，“brokie”用来形容一个人对朋友过度表现出亲近或依附，尤其是在这种表现被视为虚伪或不真诚的情况下。通常用来指代那些行为显得很做作的朋友。这种用法多是负面的，类似于使用“小祖宗”或“鼻涕虫”这样的词。
-例如：
-- 他真是个brokie，老是想从每个人那里得到拥抱。
+**Brokie**: A term used to describe a male who consistently behaves in a way that is seen as overly feminine or effeminate, often with behaviors that fall outside traditional masculine norms. This term is heavily slangy and can be used in a teasing or mocking manner. 
+**Example**:
+"Wow, John is so brokie! He always has flowers in his hand and likes to cook meals for his friends."
+## 中文
+**Brokie**: 用来形容那些行为上过于带有女性特征或柔弱男生的词语。这种带有性别刻板印象的词汇通常带有一定的戏谑或嘲弄性质。"Brokie" 这个词在非正式场合广泛使用，用来讽刺那些不符合传统男性特征的行为。
+**例子**：
+"哟，John 真是太 brokie 了，他手里总是拿着花，还喜欢给朋友们做饭。"
 ```
-This markdown format helps in presenting the information clearly and can be easily read and understood.

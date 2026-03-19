@@ -1,16 +1,21 @@
 ---
 title: "What Does 'lit' Mean? (lit 是什么意思？)"
 slug: "what-does-lit-mean"
-date: 2026-03-13
+date: 2026-03-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Lit: 热闹的；有活力的；酷
-- **English:** Lit is an adjective used to describe something or someone that is exciting, fun, or energetic. It often implies that a place, event, or person is very entertaining or trendy.
-Example: "The party was totally lit last night with tons of dancing and good vibes!"
-- **Chinese:** 热闹的；有活力的；酷 (lè nào de；yǒu huó lì de；kù) - Lit 描述一些令人兴奋、有趣或充满活力的东西或人。它通常意味着某个地方、活动或人非常有趣或流行。
-例句："昨晚派对完全就叫人燃爆了，跳呀唱呀，全是好心情！"
+# "Lit" Slang Explained
+## English
+**Lit**: 
+- **Meaning**: Super cool, awesome, or exciting. Often used to describe an event, person, or situation that is lively, energetic, and enjoyable.
+- **Example**: "The party last night was totally lit! Everyone was having a blast."
+## 中文
+**火到荼蘼 (Huǒ dào tú mí)**:
+- **含义**: 超级酷、精彩、刺激。常用来形容一个事件、人或情况充满活力、精力充沛且令人愉悦。
+- **例句**: "昨晚的派对超级火！每个人都玩得非常开心。"
+注：由于“lit”在中文中没有直接对应的俗语，这里使用“火到荼蘼”作为比喻，意指非常火热、精彩。
 ```

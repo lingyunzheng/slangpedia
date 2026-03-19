@@ -1,18 +1,18 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2026-03-18
+date: 2026-03-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Explanation for "sigma"
+# Sigma (σ)
 ## English
-**Definition:** Sigma is commonly used as a mathematical symbol representing the sum of a sequence or series. In a more colloquial sense, it is often used to denote someone who is highly intelligent or excels in their field.
-**Example:** "He's a sigma member of the team, always bringing unique insights to the table."
-## Chinese
-**定义：** 索甲（Sigma）通常作为数学符号使用，代表序列或级数的总和。在更通俗的意义上，它常用来形容某人非常聪明或在某个领域表现出色。
-**例句：** "他是团队中的索甲成员，总能带来独特的见解。"
+**Definition:** A LaTeX symbol that is often used to denote a summation. In a casual setting, it's sometimes used to represent a lot or a large amount of something.
+**Example:** "I ate sigma worth of pizza last night." translates to "I ate a lot of pizza last night."
+## 中文
+**定义:** LaTeX 中的一个符号，常用来表示求和。在非正式的环境中，它可以用来表示很多或大量的某物。
+**例句:** "Yesterday night I ate sigma worth of pizza." 等同于 "昨晚我吃了好多披萨。"
 ```

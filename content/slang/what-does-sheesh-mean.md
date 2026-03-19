@@ -1,20 +1,18 @@
 ---
 title: "What Does 'sheesh' Mean? (sheesh 是什么意思？)"
 slug: "what-does-sheesh-mean"
-date: 2026-03-18
+date: 2026-03-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sheesh (英) / 嘻 (汉)
-#### English
-**Sheesh!**
-- *Meaning:* An expression used to express frustration, dismissal, or disbelief. It is often used in a sarcastic or exasperated tone.
-- *Example:* "Sheesh, did you really think he would remember the meeting time?"
-#### Chinese
-**嘻 (xī)**
-- *Meaning:* 这个词用来表达失望、排斥或难以置信的情绪。它通常带有嘲讽或沮丧的语气。
-- *Example:* "嘻，你真的以为他会记起会议时间吗？"
+## Sheesh (英式/美式俚语)
+**English:**
+- **Definition:** An expression of disappointment, frustration, or mild surprise.
+- **Usage Example:** "Sheesh, this traffic is terrible today!"
+**中文:**
+- **定义：** 表达失望、挫败或轻微惊讶的短语。
+- **使用示例：** "她Marsh，今天这交通真糟糕！"
 ```

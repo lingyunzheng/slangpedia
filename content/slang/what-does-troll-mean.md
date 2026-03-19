@@ -1,17 +1,19 @@
 ---
 title: "What Does 'troll' Mean? (troll 是什么意思？)"
 slug: "what-does-troll-mean"
-date: 2026-03-17
+date: 2026-03-19
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Troll
-## English
-A troll is someone who posts inflammatory,肮脏的, orbite坏的 messages online with the intent of upsetting other people or provoking an emotional response. They often use sarcasm, and sometimes make nonsensical or deliberately misleading comments to agitate discussion.
-## Chinese
-一个 Troll 是在网上发布煽动性、肮脏或恶意消息的人，目的是激怒其他人或引发情绪反应。他们通常使用讽刺，并有时发表无意义或故意误导的评论以激化讨论。
-Troll们喜欢在网络空间制造混乱和冲突，常常以引起注意和争议为乐。无论是论坛、社交媒体还是在线游戏，Troll都是不受欢迎的。
+## Troll (English)
+**Explanation:** A troll is someone who posts disruptive, offensive, or irrelevant comments in an online discussion with the intention of provoking an emotional response from others or causing disruption.
+**Bilingual Slang Explanation:**
+- **中文解释：** 滚 (gǔn) —— 一个在网络讨论中发布无意义、挑衅或不相关评论的人，目的是激怒他人或引起混乱。有时候也用来直接命令某人离开。
+## 巫婆 (Troll, Chinese)
+**Explanation:** 巫婆 (wū pó) is a playful or informal term used in Chinese to describe someone who behaves like a troll. It refers to someone who likes to stir up trouble and provoke negative reactions online.
+**Bilingual Slang Explanation:**
+- **English Explanation:** A person who behaves like a troll, stirring up trouble and provoking negative reactions online.
 ```
