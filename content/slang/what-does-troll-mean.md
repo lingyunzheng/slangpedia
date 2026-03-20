@@ -1,19 +1,20 @@
 ---
 title: "What Does 'troll' Mean? (troll 是什么意思？)"
 slug: "what-does-troll-mean"
-date: 2026-03-19
+date: 2026-03-20
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Troll (English)
-**Explanation:** A troll is someone who posts disruptive, offensive, or irrelevant comments in an online discussion with the intention of provoking an emotional response from others or causing disruption.
-**Bilingual Slang Explanation:**
-- **中文解释：** 滚 (gǔn) —— 一个在网络讨论中发布无意义、挑衅或不相关评论的人，目的是激怒他人或引起混乱。有时候也用来直接命令某人离开。
-## 巫婆 (Troll, Chinese)
-**Explanation:** 巫婆 (wū pó) is a playful or informal term used in Chinese to describe someone who behaves like a troll. It refers to someone who likes to stir up trouble and provoke negative reactions online.
-**Bilingual Slang Explanation:**
-- **English Explanation:** A person who behaves like a troll, stirring up trouble and provoking negative reactions online.
+# Troll (俚语解释)
+## English
+**Troll**: 
+- **Definition**: A troll is a person who intentionally behaves in a disruptive or annoying manner online, often to provoke other users or to upset them. Trolls may post inflammatory, extraneous, or off-topic messages, either to avoid participation in the substantive discussion or to stir up controversy.
+- **Example**: "The commenter on the YouTube video was a troll who just posted mean comments to get a reaction from others."
+## 中文
+** Troll**:
+- **定义**: 滚刀肉（troll）是指那些故意在网上以破坏性或烦人的方式行事的人，往往是为了激化矛盾或引发他人的不满。滚刀肉可能会发布无关、冗长或偏离主题的留言，要么是逃避参与实质性讨论，要么是制造争议。
+- **例句**: "在那个YouTube视频下面的评论者是个滚刀肉，他故意发了一些恶意评论只是为了引起他人的反应。"
 ```
