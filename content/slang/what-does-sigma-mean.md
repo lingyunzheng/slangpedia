@@ -1,7 +1,7 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2026-03-19
+date: 2026-03-21
 tags:
 - slang
 - internet
@@ -10,9 +10,15 @@ tags:
 ```markdown
 # Sigma (σ)
 ## English
-**Definition:** A LaTeX symbol that is often used to denote a summation. In a casual setting, it's sometimes used to represent a lot or a large amount of something.
-**Example:** "I ate sigma worth of pizza last night." translates to "I ate a lot of pizza last night."
+**Meaning:** 
+- In formal contexts, sigma (σ) is a letter in the Greek alphabet used in mathematics, statistics, and science for representing a summation or standard deviation.
+- In informal slang, particularly on social media or in gaming communities, "sigma" can refer to a player or person who is toxic, disruptive, or consistently uncooperative, often seen as a negative attribute.
+**Example:**
+- "That player is such a sigma, always causing trouble in the game."
 ## 中文
-**定义:** LaTeX 中的一个符号，常用来表示求和。在非正式的环境中，它可以用来表示很多或大量的某物。
-**例句:** "Yesterday night I ate sigma worth of pizza." 等同于 "昨晚我吃了好多披萨。"
+**含义：**
+- 在正式的语境中，sigma（σ）是希腊字母表中的一个字母，在数学、统计学和科学中常用于表示求和或标准差。
+- 在非正式的俚语中，特别是在社交媒体或游戏社群里，“sigma”可能指一个有毒、破坏或始终不合作的人，通常被视为负面属性。
+**示例：**
+- “那个玩家真是大sigma，总是在游戏中制造麻烦。”
 ```

@@ -1,17 +1,17 @@
 ---
 title: "What Does 'deadass' Mean? (deadass 是什么意思？)"
 slug: "what-does-deadass-mean"
-date: 2026-03-20
+date: 2026-03-21
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## deadass
-**English:** Literally meaning "dead ass," this slang term is used to describe something or someone as being really serious, intense, or focused. It can also imply that the subject is puttering or getting things done without any distraction.
-**中文解释:** 这个俚语 "deadass" 的字面意思是"死翘翘"，用来形容某事物或某人非常认真、专注或投入。它还可以表示这个主体在做事时没有任何分心，认真完成任务。
-*Example:*
-- **English:** "John is deadass about his new project, doesn't even take a break."
-- **中文示例:** "约翰对他的新项目非常死劲，连休息都不肯放下工作。"
+#.deadass (英英: deadass)
+- **中文解释**: 死正直/板正
+- **英文解释**: Literally means "dead but straight ahead", often used to describe someone or something that is completely straightforward, brutal in its honesty, or impervious to social niceties. It can also imply a lack of creativity or flexibility.
+Example sentences:
+- 中文例句: 他平时说话死正直，连朋友都不放过。
+- 英文例句: He is deadass honest, even his friends can't escape his brutally straightforward way of speaking.
 ```
