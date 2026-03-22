@@ -1,22 +1,18 @@
 ---
 title: "What Does 'no cap' Mean? (no cap 是什么意思？)"
 slug: "what-does-no-cap-mean"
-date: 2026-03-13
+date: 2026-03-22
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## "No Cap"
-### English
-"**No cap**" is an internet slang term commonly used to indicate that what someone is saying is true and exaggerated statements are not intended. It translates to English as "I'm not kidding" or "That's the truth."
-Example:
-- Original: "I ate ten pizzas in one sitting."
-- With "no cap": "I ate ten pizzas in one sitting, no cap."
-### 中文
-"**No cap**" 是网络用语，常用来表明所言属实，不包含夸张的成分。相当于英文的“不是在开玩笑”或“这就是事实”。
-例句:
-- 原句: "我一口气吃了十个比萨饼。"
-- 使用"No cap": "我一口气吃了十个比萨饼，no cap。"
+### No Cap (英汉双语俚语解释)
+**English Explanation:**
+- **Meaning:** "No cap" is a phrase often used to mean "I'm serious," "It's the truth," or "I'm not exaggerating." It can also be used to show that what is being said is unexpected or impressive.
+- **Usage Example:** "I didn't get the job because I made the CEO laugh with my interview responses. No cap, it was hilarious!"
+**汉语解释:**
+- **含义:** "No cap" 通常用来表示“我说的是真的”，“这是事实”，或者“我没有夸张”。它还可以用来表明所说的内容出乎意料或令人印象深刻。
+- **用法示例:** “我没得到这份工作，因为它是我面试时的反应让CEO开怀大笑的结果。No cap，那真是可笑得让人窒息！”
 ```

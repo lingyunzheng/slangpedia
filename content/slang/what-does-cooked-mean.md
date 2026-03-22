@@ -1,35 +1,21 @@
 ---
 title: "What Does 'cooked' Mean? (cooked 是什么意思？)"
 slug: "what-does-cooked-mean"
-date: 2026-03-20
+date: 2026-03-22
 tags:
 - slang
 - internet
 - tiktok
 ---
+Sure, here's the bilingual explanation for the slang term "cooked":
 ```markdown
-## English-Simplified Chinese Slang: "Cooked"
-### English: "Cooked"
-* **Literal Meaning:** Prepared, finished.
-* **Slang Explanation:** When something is "cooked," it means it's ready, finished, or screwed up. Often used to indicate that a situation or plan has been thoroughly thought through or that someone has been caught or messed up in a way they can't easily deny or fix.
-* **Example Usage:** "The plan is cooked. We should reconsider our next move."
-* **Context:** Used in informal conversations, mostly among friends, colleagues, or in casual settings.
-### Chinese (简体): "煮熟了"
-* **Literal Meaning:** 煮熟了 (zhǔ shú le) - Lit. "Boiled until done/soft."
-* **Slang Explanation:** 当某个事情或计划已经完成或者被彻底搞定（不论是好是坏）时，可以说它“煮熟了”。用途类似于说某事已成定局或被搞砸到无法挽回的程度。
-* **例句:** “计划煮熟了，我们最好重新考虑下一步行动。”
-* **情境:** 用于非正式场合，如朋友之间、同事间以及轻松的社交场合。
-```
-```markdown
-## English-Traditional Chinese Slang: "Cooked"
-### English: "Cooked"
-* **Literal Meaning:** Prepared, finished.
-* **Slang Explanation:** When something is "cooked," it means it's ready, finished, or screwed up. Often used to indicate that a situation or plan has been thoroughly thought through or that someone has been caught or messed up in a way they can't easily deny or fix.
-* **Example Usage:** "The plan is cooked. We should reconsider our next move."
-* **Context:** Used in informal conversations, mostly among friends, colleagues, or in casual settings.
-### 中文（繁体）: "煮熟了"
-* **Literal Meaning:** 煮熟了 (zhǔ shú le) - Lit. “煮熟了”。
-* **Slang Explanation:** 当某个事情或计划已经完成或者被彻底搞定（不论是好是坏）时，可以说它“煮熟了”。用途类似于说某事已成定局或被搞砸到无法挽回的程度。
-* **例句:** “計劃煮熟了，我們最好重新考慮下一步行動。”
-* **情境:** 用于非正式场合，如朋友之间、同事间以及轻松的社交场合。
+## cooked
+- **English:** 
+- *Meaning:* When something or someone is "cooked," it typically means it is completely destroyed, ruined, or messed up to the point of no return. It can also be used to describe a situation where someone has been tricked or taken advantage of.
+- *Example Usage:* "After the software update, the app was cooked and we lost all our data."
+- *Colloquial Context:*Used frequently in discussions about bad situations or failed plans.
+- **中文:**
+- *意思:* 当某人或某事物被“煮坏”时，通常指的是它被彻底破坏、毁坏，到了无法挽回的地步。也可以用来形容某人上当受骗的情况。
+- *例句使用:* “软件更新之后，应用程序被煮坏了，我们所有的数据都丢失了。”
+- *口语语境:* 经常用于讨论糟糕的情况或失败的计划。
 ```
