@@ -1,14 +1,18 @@
 ---
 title: "What Does 'situationship' Mean? (situationship 是什么意思？)"
 slug: "what-does-situationship-mean"
-date: 2026-03-22
+date: 2026-03-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Situationship (英语: Situationship)
-A slang term that blends "situation" and "relationship". It is used to describe a hookup or casual sexual arrangement that doesn't necessarily lead to a long-term romantic or emotional commitment. It is a bit ambiguous and situational, hence the name.
-- **汉语解释**：结合了“情况”和“关系”的一个俚语，用来描述一种没有长期浪漫或情感承诺的性伴侣关系。这种关系比较含糊不定，取决于具体情况，因此得名“situationship”。
+# Situationship (situationship)
+## English
+**Definition:** A casual or vague romantic or sexual connection that is not clearly a "thing" or with defined expectations.
+**Example:** "I had a few situationships after my last breakup; they were fun but nothing serious."
+## Chinese
+**定义：** 一种非正式的、模棱两可的浪漫或性关系，没有明确的期望或感情状态。
+**示例：** "分手后我有几个situationationship，都是好玩的，但没什么实质内容。"
 ```

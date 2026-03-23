@@ -1,20 +1,17 @@
 ---
 title: "What Does 'no thoughts head empty' Mean? (no thoughts head empty 是什么意思？)"
 slug: "what-does-no-thoughts-head-empty-mean"
-date: 2026-03-19
+date: 2026-03-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 中文解释
-**脑壳没得思路 / mǎo ke méi de sī lù**
-- **解释**: 指脑袋里没有思考的内容，或者完全没有主意、想法的状态。相当于“完全没有思路或者想法”。
-- **例句**: 讨论了那么久，你还是脑壳没得思路，不知道该怎么办。
-## 英文解释
-**Head Empty / hede mieng**
-- **Explanation**: Refers to having no thoughts or ideas in one's mind. It means there is a complete lack of thoughts or ideas.
-- **Example Sentence**: After some deep thinking, you still have an empty head and don't know what to do.
+## 英文版: "No Thoughts, Head Empty"
+- **Meaning**: This phrase is used when someone feels completely blank, devoid of any ideas, or deeply bored. It suggests a state of mind where there's a complete lack of inspiration or motivation.
+- **Example Usage**: "I've been staring at the screen for hours, but there are no thoughts in my head, head empty."
+## 中文版: "无 thoughts, 头空空"
+- **含义**: 这个说法用来形容一个人完全没有想法、感觉非常无聊的状态。它表示一种没有灵感或动机的心境，就像脑袋里完全没有东西一样。
+- **用法示例**："我盯着屏幕看了好几个小时，但脑子里一片空白，头空空的。"
 ```
-In this explanation, the term "脑壳没得思路" (mǎo ke méi de sī lù) is translated as "Head Empty" with a phonetic representation to maintain the fun and casual tone of the original slang.

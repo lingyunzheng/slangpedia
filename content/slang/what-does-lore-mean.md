@@ -1,20 +1,24 @@
 ---
 title: "What Does 'lore' Mean? (lore 是什么意思？)"
 slug: "what-does-lore-mean"
-date: 2026-03-19
+date: 2026-03-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Term: Lore
-## English
-**Lore**: In gaming and internet culture, lore refers to the detailed backstory and history of a specific game, universe, or franchise. It encompasses all the official and unofficial stories, characters, and backgrounds that enrich the world and characters. It's like the mythology of a fictional universe!
-### Example
-"Gather 'round, folks! Let me tell you the lore of the World of Warcraft. From the history of the Draenei to the origins of the.waitForIt... Draal!"
-## 中文
-**lore**: 在游戏和互联网文化中，lore指的是特定游戏、宇宙或系列作品的详细背景和历史。它包含了所有官方和非官方的故事、角色和背景信息，丰富了虚构世界的设定。就像虚构宇宙的神话故事一样！
-### 示例
-“都围过来看，大家！我来给大家讲一讲《魔兽世界》的lore。从德拉诺人的历史到巨龙的起源...Draal！”
+# Lore
+**English:** 
+Lore refers to a collection of stories, knowledge, and beliefs that have been passed down through generations. It's like having a treasure trove of insider information or history that can be used to gain an advantage or understanding of a situation.
+**Simplified Chinese:**
+“lore” 指的是通过几代人口耳相传的故事、知识和信仰的集合。它就像是一个内含丰富历史和内幕信息的宝库，可以帮助你更好地了解情况或在特定情境中占优势。
+**Example Usage in a Sentence:**
+- **English:** The old sailor had a wealth of lore about the sea that made him valuable to the crew.
+- **Simplified Chinese:** 老水手对海洋有丰富的知识和故事，这让他在船员中非常有价值。
+- **Pinyin:** Lǎo shuǐshǒu duì hǎi yán yǒu fēng fù de zhī shi hé gùshi, zhè jiù ràng tā zài chuán yuán zhōng fēi cháng yǒu zhí shànde.
+**English Slang Equivalent:**
+Knowing the "inside stuff" or having "street smarts."
+**Simplified Chinese Slang Equivalent:**
+了解“内幕”或有“街头智慧”。
 ```

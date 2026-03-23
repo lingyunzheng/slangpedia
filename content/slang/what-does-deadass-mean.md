@@ -1,17 +1,18 @@
 ---
 title: "What Does 'deadass' Mean? (deadass 是什么意思？)"
 slug: "what-does-deadass-mean"
-date: 2026-03-21
+date: 2026-03-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-#.deadass (英英: deadass)
-- **中文解释**: 死正直/板正
-- **英文解释**: Literally means "dead but straight ahead", often used to describe someone or something that is completely straightforward, brutal in its honesty, or impervious to social niceties. It can also imply a lack of creativity or flexibility.
-Example sentences:
-- 中文例句: 他平时说话死正直，连朋友都不放过。
-- 英文例句: He is deadass honest, even his friends can't escape his brutally straightforward way of speaking.
+### 死板正 (sǐ bǎn zhèng)
+**English:** Deadass
+This term is used to describe someone who is exceptionally serious, rigid, or takes everything so seriously that they lack humor or playfulness. It can also mean someone who is straightforward to the point of blunt, without any attempt at being charming or perfunctory.
+**Example Usage:**
+- 在办公室里，小李总是板着脸，活脱脱一个死板正的教书匠。
+- In the office, Xiao Li always has a stern face, like a straightforward and serious teacher.
 ```
+This explanation provides both a simple definition and an example usage to illustrate the term in a natural context.

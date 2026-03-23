@@ -1,16 +1,24 @@
 ---
 title: "What Does 'cringe' Mean? (cringe 是什么意思？)"
 slug: "what-does-cringe-mean"
-date: 2026-03-16
+date: 2026-03-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Cringe
-### English Explanation:
-"Cringe" is a slang term often used to describe a situation or piece of content that is so awkward, embarrassing, or horrifying that it elicits an involuntary recoiling or cringing reaction. It can also be used to describe someone who consistently or unintentionally does or says things that are extremely embarrassing or socially unacceptable.
-### Chinese Explanation:
-“Cringe” 是一种俚语，常用来形容一种令人尴尬、羞愧或恐怖到会不由自主地回避或惊叫的情况。这个词也可以用来形容那些经常或无意识地说或做了一些极其尴尬或不符合社会规范的事情的人。
+## Cringe (English)
+**Definition:** 
+"Cringe" describes a situation or behavior that is so awkward, embarrassing, or socially uncomfortable that it elicits a feeling of revulsion or a desire to distance oneself. It often refers to instances where common social norms, etiquette, or other socially acceptable behaviors are knowingly or unknowingly flouted.
+**Example Usage:**
+- "That guy's fashion sense is so cringe, I can't believe he went to that party dressed like that!"
+- "He just cringed when his dog started eating his shoelaces."
+## 翻车 (Cringeworthy/Embarrassing) (Chinese)
+**Definition:** 
+“翻车”是一个形象且常用的表达，用来描述任何引起不适、尴尬或令人难堪的情景或行为。它通常指的是违反了常见的社会规范、礼仪或其他社会可接受行为的情况。
+**例句：**
+- “他的服装品味真翻车，我简直不敢相信他会穿成那样去参加晚会！”
+- “他一看到自己的狗开始吃鞋带就尴尬地翻车了。”
 ```
+This markdown allows for easy reading and understanding of the slang term "cringe" in English and its Chinese equivalent "翻车", or "turning over", with example usages provided in both languages.

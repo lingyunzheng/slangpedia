@@ -1,16 +1,18 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2026-03-22
+date: 2026-03-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Sigma
-## English
-**Sigma**: This term can refer to someone who is part of the giochi (a term often used in various online gaming communities to denote a loyal or enthusiastic gamer) or can refer to someone who is *sigma* in meme culture. In this context, *sigma* is a derogatory term for a person who is unpredictable, unreliable, or demonstrates erratic behavior. 
-## Chinese
-**西格玛 (Xié Gé Máo)**: 这个词在不同的网络文化中，通常指的是两种不同的人群。一种是游戏社区中的忠诚或热情的玩家（类似于“乔 Giulio”）。另一层含义是根据梗文化衍生的贬义词，形容一个人行为混乱、不可预测或者表现出不稳定的特征。
+## Sigma (Σ)
+### English
+**Definition:** Sigma is widely used in mathematical contexts to denote the sum of a series. In slang, it's often co-opted to refer to someone or something that's complex, orchestrated, or part of a larger, possibly hidden, operation.
+**Example Usage:** "The whole event was like a sigma operation, everything was perfectly planned."
+### 中文
+**释义：** 在数学中，Sigma（Σ）通常用来表示一系列的总和。在 slang 中，它常用来形容复杂、有组织的，或者是更大、可能隐藏的操作的一部分。
+**例句：** “整个活动就像一个 sigma 操作，一切都是完美策划的。”
 ```

@@ -1,16 +1,24 @@
 ---
 title: "What Does 'rizz' Mean? (rizz 是什么意思？)"
 slug: "what-does-rizz-mean"
-date: 2026-03-21
+date: 2026-03-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Rizz (伽喱)
-### English
-**Rizz**: It's a slang term that泛指一种带有自信、傲慢或超级自信的态度和行为，类似于“gangsta”或者“cool”中的“酷”和“拽”。通常用于形容一个人走路的姿势或者说话的风格，让人感觉非常有型，仿佛散发出一种不可一世的气势。
-### Chinese
-**伽喱 (Gāli)**：这是个网络用语，指的是带有自信、傲慢或超级自信的态度和行为。类似于“gangsta”或者“酷”的状态。通常用于形容一个人的走路姿势或说话风格，让人感觉非常有型，仿佛散发出一种不可一世的气势。
+## Rizz (American English)
+**Definition:**  
+Cohort of vibes, a term used to describe something or someone that exudes style, attitude, or fashion-forward attributes.
+**Bilingual Explanation:**
+- **English:** The Rizz is the style or cool factor that someone or something has, indicating a high level of fashion or attitude.
+- **Chinese:** Rizz (气质) 指某人或某事物所散发出来的风格或态度，表明其有着很高的时尚感或酷劲儿。
+## 里兹 (Chinese)
+**Definition:**  
+里兹（rizz）指的是某人或某事物所散发出来的风格或态度，表明其有着很高的时尚感或酷劲儿。
+**Bilingual Explanation:**
+- **Chinese:** 里兹（rizz）指的是某人或某事物所散发出来的风格或态度，表明其有着很高的时尚感或酷劲儿。
+- **English:** The Rizz is the style or cool factor that someone or something has, indicating a high level of fashion or attitude.
 ```
+This Markdown format provides clear translations and explanations for both English and Chinese audiences.

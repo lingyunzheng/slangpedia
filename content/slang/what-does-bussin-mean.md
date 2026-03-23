@@ -1,20 +1,22 @@
 ---
 title: "What Does 'bussin' Mean? (bussin 是什么意思？)"
 slug: "what-does-bussin-mean"
-date: 2026-03-22
+date: 2026-03-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Bilingual Slang Explanation: "bussin'"
-- **English:** bussin'
-- **Chinese:** 在搞事情；忙得不可开交
-## Explanation
-- **English:** "bussin'" is a slang term often used to describe a situation or activity that is particularly intense, successful, or busy. It can refer to someone who is working hard, having a good time, or even causing a bit of a commotion.
-- **Chinese:** "在搞事情" (zài gǎo shì qíng) means "getting things done" or "causing a stir." "忙得不可开交" (máng dé bù kě kāi jiāo) describes someone who is so busy that they can't even find a moment to relax.
-## Example Usage
-- **English:** "I heard John is bussin' in the office. He got a lot of important projects going on right now."
-- **Chinese:** "我听说约翰在办公室里忙得不可开交，他现在有很多重要的项目正在进行。"
+### Bilingual Slang Explanation: "Bussin'"
+#### English
+**Bussin'** is a slang term commonly used in informal or urban contexts. When someone is said to be "bussin'", they are perceived to be doing something impressively well, often in a flashy or showy manner. It can also imply that someone is engaged in some kind of exciting or lucrative activity.
+**Example:**
+- *He is bussin' in the latest street style!*
+- *She's really bussin' by starting her own business with that new tech product.*
+#### Chinese
+**Bussin'** 是一种在非正式或城市文化中常用的俚语。当有人被形容为“bussin'”时，意味着他们在某个方面做得非常出色，通常是以一种炫耀或引人注目的方式。这个词也可以暗示有人正在参与某种非常兴奋或有利可图的活动。
+**例句：**
+- *他正在以最新的街头风格 bussin'！*
+- *她通过推出那款新科技产品，真的 bussin' 来经营自己的生意！*
 ```

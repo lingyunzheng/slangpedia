@@ -1,17 +1,16 @@
 ---
 title: "What Does 'hold this L' Mean? (hold this L 是什么意思？)"
 slug: "what-does-hold-this-l-mean"
-date: 2026-03-19
+date: 2026-03-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### "Hold this L"
-**English:**  
-A casual phrase used to express that something is impressive, cool, or to agree with a previous statement. It's often accompanied by the gesture of holding up an "L" sign with the thumb and index finger, mimicking the letter "L" in the air.
-**Chinese:**
-一个 casual 表达，用来表示某件事情很厉害、很酷，或者赞同前文的陈述。通常会伴随手势，在空中比划出 "L" 字的形状，用大拇指和食指做出这个字母的样子。
+## "Hold this L" in English and Chinese
+### English
+"**Hold this L**" is a common internet slang phrase often used to mock or suggest that someone is being a "lit" or overly enthusiastic about something, which can come off as not genuine or even a bit annoying. The phrase is often uttered with a sarcastic tone or as a way to express exasperation.
+### Chinese
+"**Hold this L**" 是一种常见的网络用语，常用来嘲讽或暗示某人过分热情，显得不够真诚或有些烦人。这句话往往带有讽刺的语调，或是表达出无奈的情绪。
 ```
-Note: This term is primarily used in a digital, casual, and informal context, often in text or video chatting.

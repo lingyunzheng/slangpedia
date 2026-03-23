@@ -1,16 +1,22 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2026-03-22
+date: 2026-03-23
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Copium (Police Drug)
-## English Explanation
-"Copium" is a playful or slang term used to describe the situation or perception where police or authorities are involved in or benefiting from illegal drug activities, as if they are the "drug supply." It's a way to critique or make light of the idea that law enforcement might be indirectly or directly involved in the drug trade for personal or financial gain.
-## Chinese Explanation
-"Copium" 是一个玩口味或者俚语表达，用来描述一种情况或感知：警察或其他执法机构可能参与或获利于非法毒品交易，仿佛他们就是“毒品供应者”。这是一种批判或开玩笑的方式，暗示执法机构可能间接或直接地参与到毒品贸易中，为自己谋取利益。
+## Copium (English)
+### Explanation
+Copium is a humorous, informal term that refers to an intense feeling of productivity and energy, as if one has been energized by a cocktail of caffeine and adrenaline. It's often used among coworkers to describe a state of being highly motivated and focused, usually during a tight deadline or important project.
+### Example
+"I feel like I'm on copium; I can finish this report in record time!"
+---
+## Copium (中文)
+### 解释
+Copium 是一种充满幽默感、非正式的术语，指的是感觉自己仿佛被兴奋剂和肾上腺素胶囊激发了巨大的活力和生产力。这个词语通常用来描述一种高度的动力和专注状态，尤其是在面临紧迫的截止日期或重要项目时。
+### 示例
+“我感觉像是在服用 copium，我可以很快完成这份报告了！”
 ```
