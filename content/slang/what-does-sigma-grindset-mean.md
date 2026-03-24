@@ -1,20 +1,18 @@
 ---
 title: "What Does 'sigma grindset' Mean? (sigma grindset 是什么意思？)"
 slug: "what-does-sigma-grindset-mean"
-date: 2026-03-22
+date: 2026-03-24
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Sigma Grindset (Sigma 几格)
-## English Explanation
-**Sigma grindset** is a term often used in the context of video games and esports. It describes a player who is known for their dedication and consistent performance, especially in grinding and repetitive activities like farming resources or leveling up. A sigma grindset player is one who is willing to put in the long hours to achieve their goals, often at the expense of more glamorous or short-term rewards. 
-This term is often used to highlight the disciplined and persistent approach to achieving high levels of expertise or mastery in their field.
-## Chinese Explanation
-**Sigma 几格** 是一个常用于电竞和视频游戏领域的术语。它描述的是那种以极高的专注度和持续性表现著称的玩家，特别体现在通过重复性活动（如资源采集或经验提升）中。具有sigma grindset 的玩家通常愿意付出大量时间来达到目标，即使这可能意味着放弃更诱人或短期的奖励。
-这个词常用来凸显玩家在追求顶级技能或精通道路上所展现的自律和坚持。
----
-注：术语 "sigma grindset" 中的 "sigma" 在中文转译为 "几格"，具有象征意义，并不直接翻译为具体词语。
+# Sigma Grindset (Sigma 研磨心态)
+## English
+**Sigma Grindset:** A slang term often used in online gaming communities, particularly in the PC gaming scene, to describe the mindset and behavior of someone who is dedicated to grinding, optimizing, and improving their skill in a specific game or activity. This type of player is known for their relentless dedication to achieving the highest possible performance and for meticulously analyzing and refining their methods.
+Example: "John has a sigma grindset when it comes to League of Legends, he’s always looking for ways to improve his champion mastery and minimizing his chances of losing."
+## 中文
+**Sigma 研磨心态:** 在线游戏中，尤其是PC游戏圈里常用的俚语，用来描述那些专注于磨炼技艺、优化表现，并在游戏中奉献大量时间和努力的人的心理状态和行为。这种类型的玩家以不懈的努力和仔细分析并改进自己的方法而著称。
+例句：“约翰在 League of Legends 上具有 sigma 研磨心态，他总是寻找提升自己英雄精通度和减少失败几率的方法。”
 ```

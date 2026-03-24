@@ -1,7 +1,7 @@
 ---
 title: "What Does 'copium' Mean? (copium 是什么意思？)"
 slug: "what-does-copium-mean"
-date: 2026-03-23
+date: 2026-03-24
 tags:
 - slang
 - internet
@@ -9,14 +9,13 @@ tags:
 ---
 ```markdown
 ## Copium (English)
-### Explanation
-Copium is a humorous, informal term that refers to an intense feeling of productivity and energy, as if one has been energized by a cocktail of caffeine and adrenaline. It's often used among coworkers to describe a state of being highly motivated and focused, usually during a tight deadline or important project.
-### Example
-"I feel like I'm on copium; I can finish this report in record time!"
----
-## Copium (中文)
-### 解释
-Copium 是一种充满幽默感、非正式的术语，指的是感觉自己仿佛被兴奋剂和肾上腺素胶囊激发了巨大的活力和生产力。这个词语通常用来描述一种高度的动力和专注状态，尤其是在面临紧迫的截止日期或重要项目时。
-### 示例
-“我感觉像是在服用 copium，我可以很快完成这份报告了！”
+### Definition:
+Copium is a slang term often used to describe a highly potent form of cannabis, particularly well-known for its strong effects and high THC content.
+### Example Usage:
+- "I heard they've created a new strain that's pure copium, got to try it soon!"
+## Copium (Chinese)
+### 定义:
+copium 是一种俚语，特指一种高浓度大麻，以其强烈的药效和高 THC 含量而闻名。
+### 例句:
+- "听说他们新培育了一个品种，完全是copium那种纯度，我得赶紧试试！"
 ```

@@ -1,20 +1,24 @@
 ---
 title: "What Does 'finna' Mean? (finna 是什么意思？)"
 slug: "what-does-finna-mean"
-date: 2026-03-23
+date: 2026-03-24
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## finna
-### English
-**Meaning**: A colloquialism used to mean "about to" or "going to."
-**Example**:
-- "I'm finna head to the store." (I'm going to head to the store.)
-### Chinese
-**释义**：这是一个口语表达，用来表示“要去做”或者“准备去做”。
-**例句**：
-- “我 finna 去商店。”（我准备去商店。）
+# Bilingual Slang Explanations: "finna"
+## English
+**"Finna"** is a colloquial term primarily used in the United States, particularly in African American communities. It's a casual pronunciation of "fixing to" or "about to," indicating that someone is in the process of doing something shortly.
+**Example:**
+- *Eng:* "I finna go to the store."
+- *Meaning:* I am about to go to the store.
+## Spanish
+**"Finna"** no tiene un término directo en español, pero se puede traducir o explicar de la siguiente manera:
+- **"Estoy por..."** o **"Voy a..."** pueden ser utilizadas para expresar una similar idea de "ser a punto de hacer algo."
+- **Ejemplo:**
+- *Esp:* "Estoy por ir a la tienda."
+- *Meaning:* Estoy a punto de ir a la tienda.
+Esta traducción mantiene la idea de que el hablante está haciendo o prevé hacer algo de inmediato.
 ```

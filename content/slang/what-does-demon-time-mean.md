@@ -1,16 +1,16 @@
 ---
 title: "What Does 'demon time' Mean? (demon time 是什么意思？)"
 slug: "what-does-demon-time-mean"
-date: 2026-03-23
+date: 2026-03-24
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Demon Time
-**English:** Demon Time (俚语)  
-*Explanation:* When someone is feeling exceptionally relaxed or is in an extremely good mood, they might say they are in "demon time." This phrase is often used humorously to describe a moment when the stress of everyday life seems to vanish. It can also refer to a period in which a person feels particularly creative or productive.
-**中文:** 恶魔时间（俚语）  
-*解释:* 当某人感觉特别放松或者处于一种非常好的心情时，可能会说自己处于“恶魔时间”。这句话通常用来幽默地形容一个时刻，似乎生活中的压力都消失了。它也可以指一个人在某个时期感觉特别有创造力或者工作效率高。
+## Demon Time (恶魔时间)
+### English Explanation
+"Demon Time" is a colloquial term often used to describe a period of time when everything seems to go wrong for a person. It's the opposite of "lucky time." During demon time, people might experience a series of bad events, from minor inconveniences to major setbacks, which can quickly pile up and lead to a sense of frustration or despair.
+### Chinese Explanation
+“恶魔时间”是一个口头表达，通常用来形容一个时间段，在这段时间里，事情对一个人来说似乎都变得很糟糕。它和“好运时间”正好相反。在恶魔时间里，人们可能会经历一系列不好的事件，从小麻烦到大挫折，这些负面事件会迅速累积，导致一种沮丧或绝望的感觉。
 ```
