@@ -1,20 +1,20 @@
 ---
 title: "What Does 'cap' Mean? (cap 是什么意思？)"
 slug: "what-does-cap-mean"
-date: 2026-03-24
+date: 2026-03-25
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Cap (英汉俚语解释)
+# Cap (英: Cap)
 ## English
-- **Meaning:** Something really impressive, cool, or awesome.
-- **Example:** "The concert was totally cap, the band killed it!"
-- **Explanation:** In this context, "cap" is used to express extreme approval and admiration. It's often used in casual conversation.
+**Meaning:** To criticize or disagree with someone's statement or claim, often in a sarcastic or playful way.
+**Example:** 
+- "He thought the new rule was a great idea, but his boss just capped it, saying it was a bad move."
 ## 中文
-- **含义:** 极其精彩、酷或牛掰的东西。
-- **例句:** "那场演唱会太cap了，乐队真是精彩绝伦！"
-- **解释:** 在这种语境下，“cap”用来表达极度的赞赏和钦佩。它经常出现在非正式的对话中。
+**含义:** 用来批评或不同意某人的说法或主张，通常是带有讽刺或开玩笑的意味。
+**例句:**
+- "他认为新规定是个好主意，但他的老板却不以为然，说这是个坏主意。"
 ```

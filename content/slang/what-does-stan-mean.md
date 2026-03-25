@@ -1,16 +1,20 @@
 ---
 title: "What Does 'stan' Mean? (stan 是什么意思？)"
 slug: "what-does-stan-mean"
-date: 2026-03-23
+date: 2026-03-25
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Stan
-### English
-A stan is someone who is an extremely devoted fan of a celebrity, musical artist, or YouTube personality. They often show a lot of devotion and support, sometimes to the point of obsession. The term is derived from the acronym "Stan" (short for "Stanley"), which gained prominence from the unfortunate online death of Stanley Stevens, a Stan for the rapper 2Pac. Following this, "stan" became a common term for overly devoted fans.
-### Chinese
-斯坦 (Stan) 是指那些对名人、音乐艺术家或YouTube网红极度忠诚和热情的粉丝。他们常常表现出极大的支持，有时甚至达到痴迷的程度。“斯坦”这个词汇最早来源于饶舌歌手2Pac的歌迷Stanley Stevens的悲剧性在线死亡事件，此后，“斯坦”成为了描述极度忠实粉丝的常用词。
+# Stan (n. / vi. / adj.)
+## English Explanation:
+- **Definition:** A dedicated supporter or fan, often to the point of obsession, of a particular person, team, or cause.
+- **Context:** Often used in online discussions or social media. If someone is a "Stan" for a celebrity, it means they are extremely devoted and supportive of them.
+- **Example:** "Since the Kendall and Kylie Kity collaborated with a makeup brand, she's been a stan for all of their products."
+## Chinese Explanation:
+- **定义:** 一个对特定的人、团队或事业极其忠诚和支持的粉丝，有时近乎痴迷。
+- **用法:** 常用于网络讨论或社交媒体中。如果有人是某位名人的“Stan”，意味着他们对该名人的支持极为坚定和热情。
+- **例句:** "自从肯德尔和金利与某个化妆品品牌合作以来，她就成了所有他们产品的Stan。"
 ```
