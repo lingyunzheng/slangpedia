@@ -1,22 +1,16 @@
 ---
 title: "What Does 'deadass' Mean? (deadass 是什么意思？)"
 slug: "what-does-deadass-mean"
-date: 2026-03-24
+date: 2026-03-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Deadass (English to Chinese)
-## Definition:
-"Deadass" is an informal and playful way to describe something that is very real or genuine. It can also be used to emphasize that someone is being serious, straightforward, or not playing around.
-## Bilingual Explanation:
-- **English:** *Deadass* means very genuine or serious; not pretending or joking around.
-- **Chinese:** "死认真"或"超级认真"意味着非常真诚或认真，不是在假装或开玩笑。
-## Usage Example:
-- English: "I'm deadass serious, you need to be here by 9 o'clock."
-- Chinese: "我超级认真，你必须在9点之前到。”
-## Note:
-This term is often used in a friendly or familiar context among friends or within a casual setting.
+### 死赖 [Deadass]
+**English Explanation:**
+"Deadass" is an informal and colloquial term that is used to describe someone in a very convincing, sincere, or genuine manner. It often implies that the subject is being extremely serious and direct without any hint of games or pretense. It can also be used to describe a situation as serious or grim.
+**Chinese Explanation:**
+"死赖" 作为一种非正式和口语化的表达，用来形容某人表现得非常真诚、坦率，几乎没有任何掩饰的意味。这个词既可以用来形容某人极其认真直接，也可以用来描述一个非常严肃或严峻的情况。
 ```

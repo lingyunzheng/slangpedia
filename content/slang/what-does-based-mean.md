@@ -1,19 +1,18 @@
 ---
 title: "What Does 'based' Mean? (based 是什么意思？)"
 slug: "what-does-based-mean"
-date: 2026-03-25
+date: 2026-03-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## "Based"
-**English:**
-- Originating from the word "basic" but used in a more colloquial, hype manner to describe something that is cool, effective, or simply on point.
-- Example: "That new trend is totally based!"
-**Chinese:**
-- 起源于"basic"一词，但用于更加口语化的、时髦的方式，形容某事物非常酷、有效或真棒。
-- 例句："这个新潮流真是基于（非常酷）！"
+# Based
+## English
+* **Definition**: "Based" is a slang term that originated in hip-hop culture and is often used to describe someone or something as cool, confident, or having a strong presence.
+* **Example**: "She sounds super based on that mixtape."
+## 中文
+* **定义**: "Based" 是源于嘻哈文化的俚语，用来形容某人或某事物很酷、自信或者具有强烈的吸引力。
+* **例句**: "凭借这张混音带，她显得超级 based。"
 ```
-**Note:** This is a commonly used slang term in English and can be translated into Chinese in a way that captures the spirit of the original usage, especially in social media and casual conversation contexts.

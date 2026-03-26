@@ -1,20 +1,22 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2026-03-24
+date: 2026-03-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Ratio
-### English
-**Meaning**: A term often used in online circles to describe the act of commenting with insults or engaging in negative banter, particularly on social media. When one someone posts a comment that triggers a negative response, they might say "let's see the ratio" or "it's a ratio contest."
-**Example**: 
-- "John posted a meme and got so many negative comments. Let's see the ratio, shall we?"
-### 中文
-**含义**: 一个常被使用的网络术语，指在网络或社交平台上，用侮辱性的言语进行回复或负面交流的行为。通常在有争议的帖子下，评论区会出现大量的正面支持和负面评论，这种对比就是所谓的“比例”或“对喷”。
-**例句**：
-- "约翰发了一个表情包，结果引来很多负面评论。咱们看看比例吧。"
+# Ratio (Slang)
+## English
+**Ratio**: Often used in contexts related to social media or online interactions, "ratio" refers to the act of measuring someone's worth by the number of likes, followers, or positive engagements they have compared to negative feedback or the number of disengagements. Essentially, it's a way of quantifying someone's online popularity or success.
+Example:
+"Man, did you see that her Instagram ratio is through the roof after her vacation photos? 50:1 likes to comments!"
+## 中文
+**比例（Ratio）**：在社交媒体或在线互动的语境下，“ratio”通常指的是通过衡量某人在网络上的受欢迎程度来评判其价值，这种方式是基于其正面互动的数量（如点赞、关注人数）与其负面互动的数量（如负面评论或冷处理）的对比。简而言之，这是一种量化衡量某人在网络上的知名度或成功程度的方法。
+例句：
+“你知道吗？她的Instagram的ratio简直爆表了，假期照片的点赞和评论比是一比五十！”
+---
+这种词汇在中文里有时也会用作“比例”之意，但主要是指网上人们的互动情况的对比。
 ```

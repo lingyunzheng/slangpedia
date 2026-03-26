@@ -1,25 +1,19 @@
 ---
 title: "What Does 'sheesh' Mean? (sheesh 是什么意思？)"
 slug: "what-does-sheesh-mean"
-date: 2026-03-23
+date: 2026-03-26
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sheesh (俚语解释)
-### 中文
-她斯 (她西 / tā xī)
-**解释**：这是一个常见的感叹词，用来表达惊讶、失望或不满的情绪。类似于“天啊”或“真够了”。
-**例子**：
-- 苹果又涨价了，她斯，买不起啊！
-- Apples are getting more expensive. Sheesh, I can't afford them!
-### 英文
-Sheesh
-**Explanation**:
-- An exclamation used to express surprise, disappointment, or frustration. It's similar to saying "Wow," "Geez," or "Come on."
-**Examples**:
-- The prices went up again, sheesh, I can't afford it!
-- The prices went up again, sheesh, I can't afford it!
+## Sheesh (英) / 喽啰 (粤)
+**English Slang Explanation:**
+- **Sheesh!** is an interjection often used to express disbelief, annoyance, or exasperation. It can also be used to indicate that something is ridiculous or beneath mention. It is similar to saying "Oh come on!" or "Really?"
+**Cantonese Slang Explanation:**
+- **啰啰 (lo lo)** is a colloquial way to express frustration, disbelief, or exasperation. It's used when someone wants to say something is ridiculous or when they simply cannot believe what has been said or done. It can be thought of as a Cantonese equivalent to saying "Oh really?" or "That's ridiculous!"
+Example Usage:
+- **English:** "Sheesh, you're late again!"
+- **Cantonese:** "啰啰，你又遲到了架!"
 ```
