@@ -1,23 +1,30 @@
 ---
 title: "What Does 'ghosted' Mean? (ghosted 是什么意思？)"
 slug: "what-does-ghosted-mean"
-date: 2026-03-24
+date: 2026-03-27
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Ghosted
-**English:**  
-Ghosted refers to a situation where someone suddenly and inexplicably stops communicating with you, leaving you in the dark about what happened. It's like they vanished without a trace, leaving you feeling discarded and confused.
-**Chinese (简体中文):**  
-被“失联”或“失联鬼”意味着某人在你毫无准备的情况下突然停止与你交流，你无法知道发生了什么。就像他们突然消失了一样，没有留下任何信息，让你感到被抛弃和困惑。
----
-**Example Sentence:**
-- **English:** She ghosted me after I recommended her for the job.
-- **Chinese (简体中文):** 她在我推荐她去面试之后失去了联系。
-**Example Context:**
-- **English:** After our chat, he ghosted me; I never heard from him again.
-- **Chinese (简体中文):** 我们聊天之后他就失联了，从此再也没有他的消息。
+## English: Ghosted
+### Definition:
+To suddenly and unexpectedly end an interaction, particularly a relationship, without any communication or explanation.
+### Chinese (Simplified): 见鬼了
+### Bilingual Explanation:
+- **English**: To suddenly and unexpectedly end an interaction, particularly a relationship, without any communication or explanation.
+- **Chinese (Simplified)**: 意味着在没有任何沟通或解释的情况下突然且意外地终止互动，尤其是关系。
+- **Chinese (Idiom)**: "见鬼了" (jiàn guǐ le) literally means "saw a ghost," which is used colloquially to express surprise and shock. In this context, it can be translated as "被鬼缠上了" (bèi guǐ chán shàng le, literally "caught by a ghost") to imply a mysterious and unexplained end to a relationship.
 ```
+```markdown
+## English: Ghosted
+### Definition:
+To suddenly and unexpectedly end an interaction, particularly a relationship, without any communication or explanation.
+### Chinese (Traditional): 觀鬼了
+### Bilingual Explanation:
+- **English**: To suddenly and unexpectedly end an interaction, particularly a relationship, without any communication or explanation.
+- **Chinese (Traditional)**: 意味著在毫無溝通或解釋的情況下突然且意外地終止互動，特別是關係。
+- **Chinese (Idiom)**: "觀鬼了" (觀鬼了, guān guǐ le) literally means "saw a ghost," which is used colloquially to express surprise and shock. In this context, it can be translated as "中鬼了" (中鬼了, zhōng guǐ le, literally "hit by a ghost") to imply a mysterious and unexplained end to a relationship.
+```
+Note: While the idiomatic expression "观鬼了" or "见鬼了" literally means "saw a ghost," these phrases are not commonly used in the context of being "ghosted." The idiomatic translations provided are included to give a sense of how one might culturally express this sentiment.

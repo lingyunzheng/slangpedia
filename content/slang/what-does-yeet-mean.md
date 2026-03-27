@@ -1,16 +1,16 @@
 ---
 title: "What Does 'yeet' Mean? (yeet 是什么意思？)"
 slug: "what-does-yeet-mean"
-date: 2026-03-26
+date: 2026-03-27
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Yeet (noun, verb)
-**English Explanation:**
-"Yeet" is a slang term that originated from the video game "Among Us" and has since become popular among gamers and social media users. Originally, it referred to quickly throwing something in a distinctive manner, often accompanied by the gesture of the arm swinging up and down. However, the term has evolved to encompass a wide range of contexts, often used to express excitement, rejection, or dismissal.
-**Bilingual Explanation:**
-- **英语解释:** "Yeet" 是源于游戏《 Among Us 》的一个俚语词汇，后来如旋风般普及，被游戏和社交媒体用户广泛使用。最初是指以一种独特的姿势迅速扔东西，经常伴随着手臂上下甩动的手势。然而，这个词的含义已经演变，可用于各种情境，常用来表达兴奋、拒绝或弃置。
+## Yeet (英语: Yeet)
+### English Explanation
+"Yeet" is a slang term that originated from the world of gaming, particularly in video games like Call of Duty. It has since become a popular internet slang and is often used to express a wide range of emotions, from excitement and enthusiasm to throwing something. The term gained widespread popularity thanks to a video featuring Megan Nicole's animated dance, where she exaggerated the "yeet" gesture.
+### Chinese Explanation
+“yeet” 是一种网络流行语，起源于电子游戏领域，尤其是《使命召唤》等游戏中。它随后成为一种广为人知的互联网俚语，并经常用来表达各种情感，从兴奋和热情到扔东西。这个词的流行部分要归功于梅根·妮可的一段舞蹈视频，她在视频中夸张地展示了“yeet”的手势。
 ```

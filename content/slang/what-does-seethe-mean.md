@@ -1,19 +1,23 @@
 ---
 title: "What Does 'seethe' Mean? (seethe 是什么意思？)"
 slug: "what-does-seethe-mean"
-date: 2026-03-26
+date: 2026-03-27
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 英文释义
-### Seethe
-- **Meaning:** If someone is seething, they are very angry and might not say anything, but it's clear that their anger is strong.
-- **Example:** John had seethed quietly in the corner, clearly upset by what his boss said.
-## 中文释义
-### 闷烧、冒火
-- **Meaning:** 如果某人闷烧或冒火，他们非常生气，但或许没有立即表达出来，但从他们的言行中可以明显看出他们的愤怒十分强烈。
-- **Example:** 约翰在角落里闷烧了好一阵子，显然对老板说的话很不满。
+# Slang Explanation: Seethe
+## English
+**Seethe:**
+- To seethe means to percolate with anger or annoyance. It depicts a simmering state of anger, like boiling just below the surface.
+- *Example:*
+- "The way he looked at me made me seethe with anger."
+## Chinese
+**沸腾（tēng fèi）：**
+- "沸腾" 在这里用来形容由于愤怒或者烦躁而内心怒火中烧的状态，就像锅里的水在沸腾前微微冒泡一样。
+- *例句:*
+- "他看着我的眼神让我内心沸腾（tēng fèi）起了怒火。"
+注意：“沸腾” 这个词在中文中不仅限于描述液体沸腾，还能用来形象地描述人内心的强烈情绪波动，尤其是在愤怒或烦躁时。
 ```
