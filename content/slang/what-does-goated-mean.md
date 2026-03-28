@@ -1,7 +1,7 @@
 ---
 title: "What Does 'goated' Mean? (goated 是什么意思？)"
 slug: "what-does-goated-mean"
-date: 2026-03-25
+date: 2026-03-28
 tags:
 - slang
 - internet
@@ -9,8 +9,8 @@ tags:
 ---
 ```markdown
 # Goated
-## English Explanation
-"Goated" is a slang term that originally comes from the world of social media trends and is often used to express admiration or approval for something or someone. It can be applied to a wide range of contexts, from praising the design of an accessory to complimenting someone's athletic performance. The term literally means being crowned with a goat's horn, symbolizing being on top or number one.
-## Chinese Explanation
-"goated" 是一种网络流行的俚语，最初来源于社交媒体的趋势用语，用于表达对某人或某事物的钦佩或赞赏。它可以应用于各种情境，从赞扬配饰的设计到称赞某人的运动表现。这个词字面上意味着被冠上山羊角，象征着位居第一或排名第一。
+## English
+A slang term used to express admiration or support for someone or something, often considered the best in their category. It's derived from the word "champion" and can be used in contexts like sports, entertainment, or social media. For example, if you're talking about Danuelroperty of the basketball player who's consistently performing at the highest level, you might say "He's really **goated**."
+## 中文
+一个俚语，用来表达对某人或某事物的赞扬或支持，通常被认为是其领域的佼佼者。这个词来源于“冠军”一词，可以用于体育、娱乐或社交媒体等情境中。例如，如果你在谈论篮球运动员丹 Kendji，他们表现一直非常出色，你可能会说“他真是 **goated**。”
 ```

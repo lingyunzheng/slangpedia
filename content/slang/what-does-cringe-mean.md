@@ -1,24 +1,18 @@
 ---
 title: "What Does 'cringe' Mean? (cringe 是什么意思？)"
 slug: "what-does-cringe-mean"
-date: 2026-03-23
+date: 2026-03-28
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Cringe (English)
-**Definition:** 
-"Cringe" describes a situation or behavior that is so awkward, embarrassing, or socially uncomfortable that it elicits a feeling of revulsion or a desire to distance oneself. It often refers to instances where common social norms, etiquette, or other socially acceptable behaviors are knowingly or unknowingly flouted.
-**Example Usage:**
-- "That guy's fashion sense is so cringe, I can't believe he went to that party dressed like that!"
-- "He just cringed when his dog started eating his shoelaces."
-## 翻车 (Cringeworthy/Embarrassing) (Chinese)
-**Definition:** 
-“翻车”是一个形象且常用的表达，用来描述任何引起不适、尴尬或令人难堪的情景或行为。它通常指的是违反了常见的社会规范、礼仪或其他社会可接受行为的情况。
-**例句：**
-- “他的服装品味真翻车，我简直不敢相信他会穿成那样去参加晚会！”
-- “他一看到自己的狗开始吃鞋带就尴尬地翻车了。”
+# Cringe (English)
+*Definition*: Cringe is an involuntary sense of embarrassment or disgust often triggered by awkward, embarrassing, or offensively behaviour/content/music, etc. People who are cringing are experiencing a physical reaction similar to recoiling or wanting to run away from something offensive or awkward.
+*Example*: The dance moves in that viral TikTok were so bad, I literally had to cover my eyes in cringe.
+# 秧麦 (中文)
+*定义*: "秧麦"是一个用来形容尴尬、令人不适或者不符合主流审美或行为标准的东西或行为的俚语。当有人或某件事情让人感到"秧麦"时，他们可能会表现出类似于躲开或避开那种不好的事情的身体反应。
+*例句*: 那个病毒视频里的舞跳得太差了，我都得捂住眼睛掩饰自己的“秧麦”。
+注：这里的“秧麦”仅仅是一种翻译尝试，实际上并没有一个完全对应的俚语在中文中广泛使用。因此这里主要是提供一个近似的概念解释。
 ```
-This markdown allows for easy reading and understanding of the slang term "cringe" in English and its Chinese equivalent "翻车", or "turning over", with example usages provided in both languages.

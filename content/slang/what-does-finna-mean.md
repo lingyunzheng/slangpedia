@@ -1,25 +1,25 @@
 ---
 title: "What Does 'finna' Mean? (finna 是什么意思？)"
 slug: "what-does-finna-mean"
-date: 2026-03-25
+date: 2026-03-28
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# "Finna" Bilingual Slang Explanation
-## English
-**Meaning:**  
-"Finna" is a slang term that stands for "fixin' to." It is commonly used in Southern American English to indicate that someone is about to do something or is planning to do something soon. 
-**Example Use:**
-- **English:** "I'm finna go grab some lunch."
-- **Explanation:** The speaker is about to go grab some lunch, meaning they are in the immediate process of going to do it.
-## Spanish
-**Significado:**  
-"Finna" es un término jerga que significa "fijándose a." Se usa comúnmente en el inglés surista estadounidense para indicar que alguien está por hacer algo o está planificando hacerlo pronto.
-**Ejemplo de Uso:**
-- **Español:** "Yo finna voy a comer algo."
-- **Explicación:** La persona está por ir a comer algo, lo que significa que está inmediatamente a punto de hacerlo.
+## Finna (American English)
+- **Definition**: A colloquial term used to indicate an imminent action or intention.
+- **Explanation**: When someone says "I finna go," they mean "I am about to go" or "I'm going to go shortly."
+- **Origin**:起源：源自黑人英语，具体起源时间不详。
+- **Example**: 
+- American English: "I finna meet you at the mall after school."
+- Bilingual Explanation: 我放学后打算去商场见你。
+## Finna (Chinese)
+- **定义**: 一个口语化的术语，用于表达即将发生的动作或意图。
+- **解释**: 当有人说 "我要去"（用 "finna"）时，他们意味着 "我即将去" 或 "我过一会儿就要去了"。
+- **起源**: 起源：源自美国非裔英语，具体起源时间不详。
+- **例句**:
+- 美国英语: "I finna meet you at the mall after school."
+- 双语解释: 放学后我打算去商场见你。
 ```
-In this markdown, the explanations are provided in both English and Spanish, making it accessible for bilingual readers.

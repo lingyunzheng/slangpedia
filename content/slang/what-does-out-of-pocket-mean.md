@@ -1,22 +1,21 @@
 ---
 title: "What Does 'out of pocket' Mean? (out of pocket 是什么意思？)"
 slug: "what-does-out-of-pocket-mean"
-date: 2026-03-27
+date: 2026-03-28
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### Out of Pocket (American English)
-**Literal Meaning:** Paid with money that is not budgeted or from one's own finances.
-**Bilingual Slang Explanation:**
-- **English:** "Out of pocket"
-- **Chinese:** 自掏腰包 (zì tāo yāo piāo)
-- **Literal Translation:** 自 (zì) - oneself; 掏 (tāo) - to dig out; 腰包 (yāo piāo) - waist wallet or pocket
-- **Explanation:** When you use your own money or personal funds for something, you are "自掏腰包" (zì tāo yāo piāo). This is often used when talking about unexpected expenses or when you personally take responsibility for costs.
-**Example Usage:**
-- English: "I had to pay for the taxi ride out of pocket because the company wouldn't reimburse me."
-- Chinese: "我不得不自掏腰包付出租车的钱，因为公司没有报销。" (Wǒ bù děng bù gòng zì tāo yāo piāo fù chéngxù chē de qián, yǐwèn gōngsī méiyǒu bāoxiào.)
+## Bilingual Slang Explanation: Out of Pocket
+**English Explanation:**
+- **Definition:** "Out of pocket" refers to money that has been spent or expenses that need to be paid directly from one's own funds.
+- **Usage:** You might use this phrase when talking about a financial expense that isn't covered by another source, such as insurance or a company's budget.
+- **Example:** "I had to pay for the taxi ride out of pocket since my company didn't reimburse me."
+**Chinese Explanation:**
+- **定义:** "出-of pocket" 指的是一笔费用是用自己的钱支付的，通常是没有被其他渠道（比如保险或公司报销）覆盖的部分。
+- **用法:** 当讨论某些需要自己支付的花费时，可以使用这个短语。比如，"我得自己支付出租车费，因为公司没有报销。"
+- **例句:** "我得自己支付出租车费，因为公司没有报销。"
 ```
-This markdown format provides clear bilingual translations and explanations for the term "out of pocket," along with examples of how to use it in sentences.
+This markdown structure clearly outlines the slang term "out of pocket" in both English and Chinese, providing definitions, usage, and example sentences.

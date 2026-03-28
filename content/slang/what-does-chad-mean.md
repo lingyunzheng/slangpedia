@@ -1,7 +1,7 @@
 ---
 title: "What Does 'chad' Mean? (chad 是什么意思？)"
 slug: "what-does-chad-mean"
-date: 2026-03-20
+date: 2026-03-28
 tags:
 - slang
 - internet
@@ -10,11 +10,10 @@ tags:
 ```markdown
 ## Chad
 ### English
-**Meaning**: A term often used to describe a person who is overly masculine,霸道的，喜欢炫耀，并且往往显得自大或自以为是。有时也用来指那些在某个领域(
-like "dude" or "bro" but with an additional layer of characteristics.
-**Example**: "That guy in the gym is a real chad, flexing on everyone with his huge muscles and fancy car."
-### Chinese
-**意思**: 经常用来形容一个表现为过于男性化的、霸道的、喜欢炫耀，并且往往显得自大或自以为是的人。有时也用来指那些在某个领域表现出色但又有些过度自满的人。类似于"伙计"或"哥们"，但附加了一层特定的特质。
-**例句**: "健身房里那个家伙简直就是个'查德'，靠着他巨大的肌肉和炫酷的车子就老是在那儿秀肌肉。"
-```
-This markdown format provides a clear and concise explanation of the slang term "chad" and its meaning and usage in both English and Chinese.
+**Meaning**: A term commonly used to describe a person who is extremely dedicated or committed to something, often to an unnecessary or excessive degree. Chads are often seen as highly driven, sometimes to the point of appearing overly macho or obsessed.
+**Example**: "That guy chads out when it comes to his workout routine; he works out 6 days a week, believe me."
+### 中文
+**含义**: 用来形容一个极其专注或致力于某件事的人，这种专注有时甚至显得没有必要或过度。Chad 通常给人的印象是极其投入，有时甚至显得过度 macho 或痴迷。
+**示例**：“这家伙在健身计划上非常 chad，每周做六次训练，相信我。”
+---
+请注意，“chad”这个词在中文解释中进行了一些调整，以更好地传达其含义，并避免直接使用“macho”一词，因为这在中文中可能不完全等价。
