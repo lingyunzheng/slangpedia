@@ -1,24 +1,22 @@
 ---
 title: "What Does 'brokie' Mean? (brokie 是什么意思？)"
 slug: "what-does-brokie-mean"
-date: 2026-03-27
+date: 2026-03-29
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Brokie (Bro + Broken)
-## English Explanation
-A term often used in informal online communities or among friends, "brokie" is a playful way to refer to a situation that is broken, messed up, or not working as it should. It blends "bro" (short for brother, often used to address male friends) with "broken" to create this fun slang.
-### Example Usage
-- "Wow, that car is a brokie! The air conditioning doesn't work and the radio is broken."
-- "It's not my fault you're a brokie. I already fixed that for you yesterday."
----
-## Chinese Explanation
-"Brokie" 是一种常用的非正式网络语言或朋友间的用语，用来形容某个事物是坏的、不正常或出了问题。这个词语结合了“bro”（兄弟，常用来称呼男性朋友）和“broken”（坏的）创造出来的口语表达。
-### 示例用法
-- “哇，这辆车是个 brokie！空调不好用，收音机也坏了。”
-- “这不能怪我，我已经帮你修好了，你这个 brokie。”
+# Brokie (俚语解释)
+## 英文
+**Brokie (Bro + Piece):**  
+A slang term that combines "bro" (short for brother, used as a casual and friendly address in American English) and "piece" (meaning part of something or someone). Brokie is often used to refer to a person who is considered a classic or outdated "bro" who might have some outdated ideas or behaviors.
+**Example:**
+- "That guy is such a brokie, still thinks women should be in the kitchen."
+## 中文
+**Brokie (Bro + 件):**  
+是一个将“Bro”（类似于哥哥或兄弟，通常用于一种随意和友好的称呼）和“件”（表示事物的一部分或某人的一部分）结合起来的网络流行语。Brokie 往往用来形容那些被认为是经典或过时的“Bro”，这些人可能有一些过时的想法或行为。
+**例句:**
+- “那个家伙真是个老Brokie，还觉得女人应该呆在厨房里。”
 ```
-This markdown format provides a clear and concise explanation of the slang term, along with examples to help users understand its usage in both English and Chinese.

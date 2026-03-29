@@ -1,20 +1,15 @@
 ---
 title: "What Does 'highkey' Mean? (highkey 是什么意思？)"
 slug: "what-does-highkey-mean"
-date: 2026-03-28
+date: 2026-03-29
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Highkey
-**English Slang:**
-- **Definition:** "Highkey" is used to emphasize that a particular statement or action is true to a significant extent.
-- **Usage:** If you want to stress that something is very true or stands out, you might use "highkey."
-- **Example:** "I'm highkey gonna ace this exam because I've been studying super hard!"
-**Chinese Slang:**
-- **定义:** "高key" 用于强调某个陈述或行为是显著真实的。
-- **用法:** 当你想强调某事很对、非常明显时，可以使用 "高key"。
-- **例句:** "我要高key通过这次考试，因为我复习得很刻苦！"
+## highkey
+**English Explanation:** Used to emphasize that something is true to a high degree. For example, "I highkey need to go to bed early tonight," means "I really, really need to go to bed early tonight."
+**Simplified Chinese Explanation:** "highkey" 用来强调某件事情的程度非常高。比如，“I highkey need to go to bed early tonight”可以翻译为“我今天真的真的得早点儿睡觉。”
+**Pinyin:** gāo jiē
 ```

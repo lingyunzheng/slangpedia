@@ -1,16 +1,20 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2026-03-28
+date: 2026-03-29
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Sigma
-## English Slang Explanation
-**Sigma** is a term borrowed from mathematics, where it denotes a summation where each element is squared. In slang, it is often used to describe something that is being overanalyzed or criticized excessively, akin to finding every single flaw. For example, if someone is pointing out minor details that don't significantly impact the overall picture, a commenter might say, "That's just sigma-level criticism."
-## Chinese Slang Explanation
-**西格玛 (xī gé mǎ)**: 来自数学中的符号，原本表示对每一项进行平方相加的求和运算。在网络语言中，西格玛常被用来形容那些过于细致、苛求完美，甚至挑出微不足道错误的行为。比如，当有人对某个话题过于吹毛求疵时，就可以说他们在进行“西格玛级批评”。
+# Sigma (Σ) Slang Explanations
+## English
+**Sigma** (Σ) in slang, especially in online communities and social media, is often used to refer to someone who is perceived as particularly skilled or competent in a specific field, often used in a sarcastic or ironic way. This slang usage is often a playful nod to the Greek letter commonly used in statistics to denote standard deviation, implying that someone is "above average" or "outstanding."
+### Example
+- "sigma player" - A person who is highly skilled in a video game or other competitive activity.
+## Chinese
+**sigma** (σ) 在网络用语和社交媒体中，通常用来形容某人在某个领域极其出色或有高度技能的人，常常带有讽刺或滑稽的意味。这种用法通常是对他人的幽默赞美，暗示某人是“优秀”的或“杰出”的。
+### 示例
+- "sigma玩家" - 指特别擅长于视频游戏或其他竞技活动的人。
 ```
