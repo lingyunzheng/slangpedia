@@ -1,18 +1,17 @@
 ---
 title: "What Does 'seethe' Mean? (seethe 是什么意思？)"
 slug: "what-does-seethe-mean"
-date: 2026-03-29
+date: 2026-03-30
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Slang Explanation: Seethe
-### English
-**Definition:** To seethe means to be extremely angry or irritated, often to the point of inconspicuously expressing it.
-**Example Usage:** "Ever since his boss gave him a hard time, he's been seething in the corner."
-### Mandarin
-**定义：** Seethe 指的是极度生气或烦躁，常常表现为表面上的平静但实际上内部却在愤愤不平。
-**例句：** "自从老板找茬后，他一直坐在角落里暗自生着闷气。"
+## 英文 Slang: Seethe
+### 简体中文解释
+“暗涌怒火” —— 形容一个人虽然表面上看起来很平静，但实际上内心却充满了愤怒和不满，就像水下面暗藏着即将爆发的怒火。
+### 英文 Explanation
+"Seethe" means to be inwardly angry or annoyed, as if boiling inside. It is often used to describe someone who is experiencing strong anger that they may not outwardly show. For example: "Ever since he received the bad grade, he’s seething over the unfairness of it all."
 ```
+In this bilingual explanation, `seethe` is interpreted both in English and simplified Chinese to convey a clear idea of the concept and its usage.

@@ -1,21 +1,23 @@
 ---
 title: "What Does 'looksmaxxing' Mean? (looksmaxxing 是什么意思？)"
 slug: "what-does-looksmaxxing-mean"
-date: 2026-03-29
+date: 2026-03-30
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-### looksmaxxing
-**English Explanation:**
-"Looksmaxxing" is a slang term that started in the online community, especially on social media platforms like Instagram. It describes someone who excessively seeks to be visually appealing or ensures they look their best, often at the expense of other aspects of their social interactions or authenticity. This term is often used humorously or sarcastically to describe individuals who are overly concerned with their appearance or meticulously curate their image to conform to beauty standards.
-**Chinese Explanation:**
-"Looksmaxxing"（看起来最好）是一个在社交媒体上流行的俚语，特别是在像Instagram这样的平台上流行。这个词用来形容那些不断试图让自己看起来非常吸引人，或者确保自己的状态在视觉上达到最佳的人。使用这个词通常是为了调侃那些过度关注外表、或者过分精打细算地管理个人形象以符合某种美的标准的人。
-### 示例
-- **English:** That influencer is really looksmaxxing by having a perfect filter on every post.
-- **Chinese:** 这个网红在每条帖子上都用了完美的滤镜，真是为了看起来最好（looksmaxxing）。
-- **English:** He's been looksmaxxing all the way to the bank, trying to score with girls by posing for every picture.
-- **Chinese:** 他为了讨女生喜欢（pose for every picture），一路都在过度打扮（looksmaxxing）去银行。
+# Bilingual Slang Explanation: "looksmaxxing"
+## English
+"Looksmaxxing" is a social media term that refers to someone who is exceptionally attractive and often receives a lot of attention for their physical appearance. This term is used to describe individuals who are considered "looks max," meaning they are at the peak of their attractiveness. It's often used in a playful or admiring tone to describe someone with particularly striking or eye-catching features.
+## Chinese
+"looksmaxxing"（外表最大化）是一个社交媒体术语，指的是那些非常有魅力的人，通常会因为外貌而受到很多关注。这个词用来形容那些特别有吸引力或眼神捕捉力强的人，可以形容有人拥有极其引人注目的外貌特征。这种表达方式通常带有玩告诉记者或钦佩的语气。
+### Examples
+- **English:**
+- "Last night at the party, she was definitely the looksmaxxing queen of the room."
+- "Whenever he steps into the room, it’s like everyone’s gaze is drawn to him, that’s why I say he’s looksmaxxing."
+- **Chinese:**
+- “昨晚聚会时，她确实是最耀眼的那个，无疑是房间中的‘外表最大化’女王。”
+- “他每次走进房间，所有人的眼光都被他吸引过去，所以我叫他‘外表最大化’。”
 ```

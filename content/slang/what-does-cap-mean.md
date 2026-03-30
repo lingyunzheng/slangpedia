@@ -1,20 +1,23 @@
 ---
 title: "What Does 'cap' Mean? (cap 是什么意思？)"
 slug: "what-does-cap-mean"
-date: 2026-03-29
+date: 2026-03-30
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Cap (noun/conjugation)
-## English
-**Cap** - This slang term can mean a few different things depending on the context, but here are some common uses:
-- To "cap" someone can mean to defeat or outperform them.
-- "Capping it out" generally means having a good time, often with an alcoholic drink or celebration.
-## Chinese
-**Cap** - 这个俚语在不同的语境中有几种含义，以下是常见用法：
-- “帽”某人可能意味着打败或超越某人。
-- “帽到极致”通常指的是玩得很尽兴，有时伴随着酒精饮品或庆祝活动。
+## Cap (English)
+### Explanation
+When something is "cap," it means it is super cool, awesome, or top-notch. It's a way to express strong approval or admiration for something.
+### Example
+- "Man, that new bass guitar is cap!"
+---
+## Cap (Chinese)
+### 解释
+当某样东西是"cap"时，这意味着它非常酷、厉害或顶级。这是表达对某物强烈赞同或欣赏的一种方式。
+### 示例
+- "天哪，那把新的贝斯吉他真是cap！"
 ```
+In both contexts, "cap" is a shorthand way to express high praise or approval.

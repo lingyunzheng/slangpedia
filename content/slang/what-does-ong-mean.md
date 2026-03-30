@@ -1,16 +1,20 @@
 ---
 title: "What Does 'ong' Mean? (ong 是什么意思？)"
 slug: "what-does-ong-mean"
-date: 2026-03-29
+date: 2026-03-30
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Ong (Chinese: 翁; pinyin: wēng)
-### English Explanation:
-"Ong" is a term used in certain Chinese-speaking communities, especially in online gaming chats, to refer to a veteran or experienced player. It can also imply a mentor or leader figure. The term is often used colloquially and can convey respect for someone's skills or experience.
-### Chinese Explanation:
-"翁" 在一些中文-speaking社区，尤其是在网络游戏中，用来指代有经验的老玩家或高手。这个词也可以用来指代一个导师或领导人物。这个术语在网络聊天中常用，用来表示对某人技能或经验的尊重。
+# Ong
+## English
+**Chill Out**: A casual expression used to tell someone to relax or calm down. It conveys a laid-back attitude.
+Example:
+"Hey, don't stress over the project; it's just a prototype. Ong!"
+## 中文
+**淡定**: 一个随意的表达，用来告诉某人放松或冷静下来。它传达了一种随性的态度。
+例句：
+“嘿，别为那个项目太过紧张；只是一个原型而已。淡定！”
 ```
