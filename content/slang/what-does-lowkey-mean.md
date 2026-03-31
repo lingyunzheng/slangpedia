@@ -1,19 +1,31 @@
 ---
 title: "What Does 'lowkey' Mean? (lowkey 是什么意思？)"
 slug: "what-does-lowkey-mean"
-date: 2026-03-30
+date: 2026-03-31
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Lowkey
-### English
-"Lowkey" is an informal term used to subtly emphasize that something is true but in a quiet or discreet manner. It's often used when you want to acknowledge something without making too big a deal out of it or drawing attention to it.
-### Chinese
-"Lowkey" 是一个非正式的词语，用来微妙地强调某事是事实，但以一种低调或含蓄的方式。通常用于你想要承认某事，但又不想过分强调或引起太多注意时。
-例句示例：
-- English: "Lowkey, he's a fraud." 
-- Chinese: "低key，他是个骗子。"
+# Bilingual Slang Explanation: "Lowkey"
+**English:**  
+- **Definition:** A casual way to describe something that is known or done by only a few people, often in a secretive or quiet manner.
+- **Usage Example:** "I lowkey have a thing for your friend, but I'm not telling anyone."
+- **Tone:** Quiet, subtle, and often used to hint at something without directly stating it.
+**Chinese (简体):**  
+- **释义：** 一种 casual 方式来描述只有少数人知道或做的事情，通常以秘密或低调的方式进行。
+- **使用示例：** "我低key对你朋友有点意思，但我不告诉任何人。"
+- **语气：** 低调、微妙，通常用于暗示某些事情而不直接说出来。
+```
+```markdown
+# Bilingual Slang Explanation: "Lowkey"
+**English:**  
+- **Definition:** A casual way to refer to something that is known or done in a subtle or soft manner, often to avoid drawing attention to it.
+- **Usage Example:** "She lowkey helped me with the project, I saw her late nights in the office."
+- **Tone:** Soft, subtle, and often used to downplay the significance of something.
+**Chinese (简体):**  
+- **释义：** 一种 casual 方式来指某事以微妙或柔和的方式为人所知或执行，通常是为了避免引起注意。
+- **使用示例：** "她低key帮我处理那个项目，我看到她加班到很晚。"
+- **语气：** 软弱、微妙，通常用于淡化事情的重要性。
 ```

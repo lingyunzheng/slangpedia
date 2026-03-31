@@ -1,20 +1,16 @@
 ---
 title: "What Does 'gyatt' Mean? (gyatt 是什么意思？)"
 slug: "what-does-gyatt-mean"
-date: 2026-03-27
+date: 2026-03-31
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Gyatt
-## Chinese (简体中文)
-**含义**: 该词汇通常是一种有趣的、不太常见的网络用语，用来表示一种嫉妒或者羡慕的感觉，不过往往用在较为轻松、幽默的情境中。类似于“好家伙”、“真是优秀”这种语气。
-**例句**:  
-- 他这次比赛表现得太棒了，真是个gyatt。
-## English
-**Meaning**: This is typically an amusing and rather uncommon internet slang term used to express a form of envy or admiration. It's often used in a light-hearted, humorous context, similar to saying "Wow, top-notch" or "Good grief, that's impressive."
-**Example Usage**:
-- He performed so well in the competition; he's truly gyatt.
+## Gyatt (汉语: 蛋逼)
+**Chinese (简体中文): 蛋逼**
+一种幽默的贬义词，用来形容那些喜欢吹嘘自己、经常夸大的人。这个词的组合“蛋”和“逼”都带有贬义，分别意味着懦弱和无能。“蛋”在这里指的是胆小，缺乏勇气，而“逼”则用来指那些试图通过夸张的行为来博取他人注意的人。整体来说，“蛋逼”是一个充满嘲讽意味的词汇，常用于朋友间的轻松对话或网络社交媒体上，对某些夸大其词、表现做作的人进行调侃。
+**English: Gyatt**
+A humorous but derogatory term used to describe people who are fond of boasting and often exaggerate. The combination of “蛋” (dan, meaning weak) and “逼” (pi, meaning bully), both carry negative connotations, refers to those who try to draw attention to themselves through exaggerated actions. Essentially, “gyatt” is a sarcastic term often used in casual conversations or on social media to tease individuals who tend to overstate their achievements or importance.
 ```

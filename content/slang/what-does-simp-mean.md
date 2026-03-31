@@ -1,18 +1,19 @@
 ---
 title: "What Does 'simp' Mean? (simp 是什么意思？)"
 slug: "what-does-simp-mean"
-date: 2026-03-27
+date: 2026-03-31
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang: simp
-## English Explanation
-"Simp" is a widely used term, originally derived from the concept of a "simpleton," but it's now generally used to describe a man who is overly attentive and romantic towards a woman, to the point of being seen as foolish or naive. A simp is often characterized by their excessive admiration and often fawning behavior towards their crush or romantic interest, sometimes without having a genuine relationship with them.
-## Chinese Explanation
-"simp" 这个詞源自“简单”的概念，但现在通常用来形容一个对某位女性特别关注和浪漫的男性，这种行为常被视为愚蠢或天真。一个“simp”通常表现为对心仪对象过度的赞美和献殷勤，有时甚至没有正式的恋爱关系。Mまさか！正如你所见，男人中也会有“傻”到这种地步的！
-**举例：**
-- 汤姆是个铁杆 simp，天天在朋友圈晒女友的各种动态，还给她写情诗。（Tom是个狂热的 simp，天天在朋友圈晒女朋友的各种动态，还给她写情诗。）
+# Slang: Simp
+## English
+**Simp**: A man who dotes on and pursues a woman in a very obnoxious or over-the-top way, often seen as awkward or a bit silly. 
+Example: "Tom is such a simp for Jane; he buys her flowers every day and writes long love letters!"
+## 中文
+**塞屁（Simp）**: 指一个对某女性疯狂追求、过分殷勤的男性，常常表现得很尴尬或有点傻里傻气。
+例句："汤姆真是对简那种塞屁；每天都给简买花，还写长长的情书！"
 ```
+This markdown format provides clear and concise bilingual explanations for the term "simp," including an example usage in both English and Chinese.
