@@ -1,16 +1,22 @@
 ---
 title: "What Does 'shook' Mean? (shook 是什么意思？)"
 slug: "what-does-shook-mean"
-date: 2026-03-31
+date: 2026-04-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Shook
-### English
-"Shook" is slang that originated in African American Vernacular English (AAVE) and has spread into mainstream usage. It typically conveys a strong sense of shock, disbelief, or that something is so extreme it has "shaken" the speaker's worldview. When someone says something is "shook," they're expressing that it's far outside their normal experiences or expectations.
-### 中文
-"Shook" 是俚语，源自非洲裔美国人的 vernacular 英语（AAVE），并已广泛传播至主流用语中。这个词通常用来表示强烈震惊、难以置信的感觉，或者是某件事情如此极端，以至于“震撼”了说话者的认知。当某人说某事是“shook”时，他们是在表达这件事超出了他们平常的经验或预期。
+## English: Shook
+### Chinese: 晃了
+**Explanation:**
+In English slang, "shook" is often used to describe a deeply unsettling or shocking experience that leaves someone feeling unnerved or flustered. For example, someone might say, "I was shook by the news," indicating that the news was so surprising or disturbing that it had a significant impact on them.
+In Chinese, "晃了" (huàng le) carries a similar meaning. It can imply being shaken to one's core, often in response to something that left a profound impression. This term is often used to describe emotional or psychological shock.
+### Example Usage:
+- **English:** She was shook after hearing about the plane crash.
+- **Chinese:** 她听说飞机失事的消息后感到很晃了。
+-> "Tā tīngshuō fēijī shījì de xīnyíng hòu gǎndào hěn huàng le."
+### Context:
+Both "shook" and "晃了" are informal and are commonly used in casual conversations.
 ```

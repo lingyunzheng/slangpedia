@@ -1,41 +1,32 @@
 ---
 title: "What Does 'frfr' Mean? (frfr 是什么意思？)"
 slug: "what-does-frfr-mean"
-date: 2026-03-30
+date: 2026-04-01
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# French Slang Explained
-## Franglais (French-English Mixture)
-Mix of French and English words in everyday speech. It's common and often seen in casual conversations.
-**Example:**
-- *Manger de la poutine* : Eat some poutine (a Canadian dish, but often used in French-speaking contexts)
-## J't'en prie (Literally: I to you afford)
-A polite response for 'you're welcome'.
-**Example:**
-- *Merci de me rendre ce livre.* J't'en prie. : Thank you for lending me this book. You're welcome.
-## Le bar top (Literally: the bar top)
-Refers to the bar counter, where patrons order drinks.
-**Example:**
-- *Allons-y boire un verre au bar top.* : Let's go get a drink at the bar counter.
-## Le Cheese (Hybrid slang)
-Combines 'cheese' and the French 'bisque', referring to a very good, hearty meal.
-**Example:**
-- *Cette soirée a été un vrai cheese.* : This evening was a real hearty meal (great time).
-## La belle lurette (Literally: the pretty nonsense)
-It means 'nothing' or 'no use' and is often used in a dismissive way.
-**Example:**
-- *J'ai perdu mes clés, mais prépare-toi la belle lurette... vos parents ne les trouveront pas.* : I lost my keys, but don't bother... your parents won't find them.
-## Bande de cloches (Literally: a group of chimes)
-Group of friends or buddies. It can be positive or a bit derogatory depending on the context.
-**Example:**
-- *C'est ma bande de cloches, on se voit à la sortie.* : This is my group of friends, see you at the end of class.
-## Le shock (Slang term)
-Refers to a bad or shocking situation.
-**Example:**
-- *Depuis que je suis étudiant, c'est le shock.* : Since I became a student, it's been tough.
+# French Slang Explanations
+## **Faire la plonge (fr) / Sauver la mise (fr)**
+*English:* To clean up after others or to make amends for a mistake.
+*French Explanation:* Origine declared by some to be from the idea of having to clean the dishes (la plonge) after a big, messy meal. Others say it's from the concept of "salvaging" a situation (faire la mise).
+---
+## **TabRunner (fr) / Casse-pieds (fr)**
+*English:* A nuisance; someone who is annoying or troublesome.
+*French Explanation:* Derived from "tab" (矿泉水瓶 in Chinese slang, which metaphorically translates as something that is causing trouble) and "runner" (跑步机 in Chinese slang, representing something that is bothersome). In France, "casse-pieds" literally translates to "head-buster," a person or thing that is particularly annoying or disruptive.
+---
+## **Ne pas partager les tordeaux (fr)**
+*English:* Not to be a team player; to refuse to work collaboratively.
+*French Explanation:* This expression is used to describe someone who is unwilling to contribute their part to a group task, much like refusing to share the "tordeaux" (the small, often awkwardly shaped, pieces of wood used in constructing models) used in a building or crafting project.
+---
+## **Faire des fourmis (fr)**
+*English:* To get butterflies in one’s stomach; to feel nervous or anxious about something.
+*French Explanation:* The root of the word is "fourmi," meaning ant, so this expression translates to feeling like ants are crawling around inside you. It’s very common to feel this way before an important event, making you feel nervous and fluttery inside.
+---
+## **Se faire de la bile (fr)**
+*English:* To worry; to fret over something.
+*French Explanation:* "Bile" (胆汁 in Chinese) is a term traditionally associated with the body, specifically a yellow-green digestive fluid. In slang, "se faire de la bile" means to worry excessively about something, implying that one is allowing their worries to build up, akin to building up a quantity of bile.
 ```
-Note: Some terms are context-specific and can vary in usage.
+This markdown format helps provide a clear, concise explanation of each term in both French and English, along with the origin and context.

@@ -1,7 +1,7 @@
 ---
 title: "What Does 'out of pocket' Mean? (out of pocket 是什么意思？)"
 slug: "what-does-out-of-pocket-mean"
-date: 2026-03-31
+date: 2026-04-01
 tags:
 - slang
 - internet
@@ -10,23 +10,10 @@ tags:
 ```markdown
 ## Out of Pocket
 **English:**  
-"Out of pocket" refers to money that has been spent personally by an individual, rather than reimbursed by another party. It can also indicate the direct personal financial responsibility for a expense.  
-**Chinglish/Beikou (Split Speak):**  
-出了（chū le）口袋（kǒuடāi）。  
-Literally: "Passed out of the pocket."  
-Explanation: When you've spent money from your own pocket without getting reimbursed. 
-**Example in Sentence:**
-- English: I had to buy the tickets out of pocket since the company didn't have enough budget this time.
-- Split Speak: 要买票出了（chū le）自己的口袋（kǒuடāi）。公司（gōngsān）这回（zhè huí）不够（bù gòu）预算（yu程式错误, 请允许我重新组织一下。
-## Out of Pocket
-**English:**  
-"Out of pocket" refers to money that has been spent personally by an individual, rather than reimbursed by another party. It can also indicate direct personal financial responsibility for an expense.
-**Chinglish/Beikou (Split Speak):**
-出了自己的口袋 (chū le zìjǐ de kǒuடāi)  
-Literally: "Passed out of one's own pocket."  
-Explanation: When you've spent money from your own pocket without getting reimbursed.
-**Example in Sentence:**
-- English: I had to buy the tickets out of pocket since the company didn't have enough budget this time.
-- Chinglish/Beikou: 这次公司没劲 (zhè cuì gōngsān méi jìng) 买票出了自己的口袋 (mǎi piào chū le zìjǐ de kǒuடāi).  
-Literally: "This time, the company didn't have the strength to buy the tickets out of one's own pocket."
+"Out of pocket" is a phrase often used to describe when someone has to pay for something themselves, usually after deducting any relevant insurance coverage or employer contributions. It can also refer to the direct monetary cost one incurs for a service or product.
+**Chinese (Simplified):**  
+"出-of-pocket" 这个俚语通常用来指一个人自己支付某项费用，通常是在扣除任何相关的保险报销或雇主补贴后。它也可以指一个人直接支付的服务或产品的费用。
+**Chinese (Traditional):**  
+"出-of-pocket" 這個俚語通常用來指一個人自己支付某項費用，通常是在扣除任何相關的保險報销或僱主補貼後。它也可以指一個人直接支付的服務或產品的費用。
 ```
+This markdown format clearly separates the English and Chinese explanations for the term "out of pocket," providing a straightforward bilingual explanation.
