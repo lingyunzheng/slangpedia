@@ -1,7 +1,7 @@
 ---
 title: "What Does 'goated' Mean? (goated 是什么意思？)"
 slug: "what-does-goated-mean"
-date: 2026-04-01
+date: 2026-04-02
 tags:
 - slang
 - internet
@@ -10,7 +10,10 @@ tags:
 ```markdown
 ## Goated
 ### English
-"Goated" is a slang term often used to describe someone or something that is extremely skilled, talented, or impressive. The origin of the term involves the word "legend" or "legendary," where "goat" is used as a metaphor to express exceptional abilities or achievements. People might say "They're totally goated" when praising someone's performance or skills.
+A slang term used to denote someone or something that is at the top of their game, possessing a special level of skill or ability that makes them stand out. Often used to praise or admire someone's achievements or talents.
 ### Chinese
-"goated" 是一种俚语，用来形容某人或某事物非常出色、有才能或令人印象深刻。这个词的起源与“传奇”或“传奇性的”有关，其中使用“山羊”这个词作为隐喻，来表达非凡的能力或成就。当人们要赞美某人的表现或技能时，可能会说“他们完全是goated”。
+一个俚语表达方式，用来形容某人或某事物正处于巅峰状态，拥有超凡的能力或技能从而脱颖而出。常用于赞美或钦佩某人的成就或才能。
+Example Usage:
+- In English: "Lakers fans say LeBron is the GOAT, which stands for 'Greatest Of All Time'."
+- In Chinese: "湖人球迷称勒布朗是最强的，GOAT代表着‘史上最强’。"
 ```

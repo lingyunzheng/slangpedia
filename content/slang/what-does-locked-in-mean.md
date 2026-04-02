@@ -1,17 +1,15 @@
 ---
 title: "What Does 'locked in' Mean? (locked in 是什么意思？)"
 slug: "what-does-locked-in-mean"
-date: 2026-04-01
+date: 2026-04-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 中文解释
-**锁定了**：表示某人或某事已经被确定或被限制住，无法改变。例如，如果你说“这个比赛我已经锁定胜局了”，意思就是你已经确定会赢。
-**示例**：我刚刚被公司提为经理，真是锁定了啊！
 ## English Explanation
-**Locked in**：Indicates that something has been determined or is restricted in such a way that it cannot be changed. For example, if you say, "I've locked in the win for the tournament," it means you are certain that you will win.
-**Example**：I just got promoted to manager at the company, I'm truly locked in now!
+**Locked in**: Figuratively means to be committed to something with no easy way out. It can also refer to a situation where further progress or decisions are stalled due to unforeseen circumstances.
+## Chinese Explanation
+**锁定**: 形容某人或某项决定被某种状况束缚住了，没有简单的途径可以退出或逆转。也可以表示进一步的进展或决策被某些不可预见的情况所阻碍。
 ```

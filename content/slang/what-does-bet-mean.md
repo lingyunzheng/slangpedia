@@ -1,18 +1,16 @@
 ---
 title: "What Does 'bet' Mean? (bet 是什么意思？)"
 slug: "what-does-bet-mean"
-date: 2026-03-30
+date: 2026-04-02
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Explanation: Bet
-## English
-**Bet**: A casual expression used to express strong belief or confidence in something, somebody, or the outcome of a situation or event. It's often non-committal, meaning you're just saying you think it'll happen, but aren't necessarily making a bet or wager on it.
-*Example: "I bet it's going to rain tomorrow."*
-## 中文
-**Bet**: 一个非正式的表达，用来表示对某事、某人或某种情况或事件结果的强烈信念或信心。通常是非赌注性质的，也就是说，你只是认为它会发生，但并不一定是在做赌注或下注。
-*例句: "我猜明天会下雨。*
+## Bet
+### English
+* A bet is a wager or gamble, often about the outcome of an event or action. People might bet on sports, games, or anything where the outcome is uncertain.
+### 中文
+* Bet 是一种赌注或赌博，通常是对某个事件或行动的结果押注。人们可能会赌体育比赛、游戏，或任何有可能不确定结果的事情。
 ```
