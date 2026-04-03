@@ -1,17 +1,25 @@
 ---
 title: "What Does 'rizz god' Mean? (rizz god 是什么意思？)"
 slug: "what-does-rizz-god-mean"
-date: 2026-04-02
+date: 2026-04-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Rizz God (English)
-**Definition:** A person who is recognized for their stylish and cool demeanor, often showing off their fashion sense and overall vibe. A complete package in terms of looks and attitude.
-**Example:** "Man, that dude is a real rizz god, always rocking that perfect outfit and exuding confidence everywhere he goes."
-# 烙机之神 (Rizz God - 中文)
-**释义：** 一个以其时尚且酷的气场而被认可的人，经常展示出自己的穿搭和整体感受。在形象和态度上都是全方位的完美。
-**例句：** "这个家伙真是个烙机之神，总能穿着完美的服装，散发着自信的气场。"
+# Rizz God (美国英语)
+## 释义
+"Rizz God" 是一种街头文化或网络用语，用来形容一个人风格独特、气场强大、非常酷炫、给人一种强大个人魅力的人。这个词在很多情况下是为了赞扬某人的时尚品位、走路方式或整体气质而使用。
+## 翻译
+- **美式**："Rizz God" (风格之王)
+- **中文**：潮神 / 时尚之神 / 气场全开的人
+---
+# 里兹哥德 (中文)
+## 释义
+"里兹哥德" 是一种表达年轻人之间互相欣赏、赞美风格或气质的用词。用来形容某人非常有型、个性张扬、在人群中特别凸显的人。
+## 翻译
+- **美式**："Rizz God" (风格之王)
+- **中文**：潮神 / 时尚之神 / 气场全开的人
 ```
+在使用这类俚语时，重要的是了解它们的文化背景，以确保恰当地使用它们。

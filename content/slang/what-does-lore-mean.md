@@ -1,20 +1,18 @@
 ---
 title: "What Does 'lore' Mean? (lore 是什么意思？)"
 slug: "what-does-lore-mean"
-date: 2026-03-30
+date: 2026-04-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Slang Explanation: "lore"
-## English
-**Definition:** In popular culture, "lore" refers to a body of stories or knowledge passed down through generations within a community, culture, or subculture. It often includes myths, legends, and traditions.
-**Example Usage:** "The secret hidden in the lore of the local abandoned mansion is finally coming to light."
-## Chinese
-**释义：** 在流行文化中，“lore”指代一个社区、文化或亚文化群体中代代相传的故事或知识体系。它通常包括神话、传说和传统。
-**例句：** “埋藏在那座废弃豪宅中的秘密，终于真相大白，成为了众人皆知的‘lore’。”
----
-这个双语解释旨在帮助更好地理解和使用“lore”这个词汇，在不同语言和文化背景中找到精准的对应表达。
+# Lore [Horror]
+**英語**: Lore
+**中文**: 老兵油子 (Bīngbīn yóuzǐ)
+**Explanation**:
+- **英語**: Lore can refer to the knowledge or stories of something or a place, especially those involving local legends and history.
+- **中文**: 老兵油子 (Bīngbīn yóuzǐ) literally translates to "old soldier oil," which is a colloquial term meaning someone who has gained a wealth of experience and knowledge, often through difficult or challenging experiences. It can be used to describe a person who knows a lot about a specific environment or situation due to long and extensive exposure, similar to how lore is accumulated over time.
+In gaming contexts, lore refers to the background stories, myths, and histories that flesh out the world of a game. In the slang term "老兵油子," it captures the essence of someone who knows all the hidden tricks, shortcuts, and stories within a game or area, much like a local who knows all the nooks and crannies of a distant land.
 ```

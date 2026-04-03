@@ -1,20 +1,16 @@
 ---
 title: "What Does 'gymcel' Mean? (gymcel 是什么意思？)"
 slug: "what-does-gymcel-mean"
-date: 2026-04-02
+date: 2026-04-03
 tags:
 - slang
 - internet
 - tiktok
 ---
-Certainly! Here's a bilingual explanation in markdown format for the term "gymcel":
 ```markdown
-# Gymcel
-**English Explanation:**
-A term derived from a combination of "gym" and "cell" (or "gym" and "cellar"), used to describe a person who excessively frequents the gym, often to the point of obsession or being seen as a bit strange. They might not put as much effort into other aspects of life but prioritize their workout routine heavily.
-**Chinese Explanation:**
-一个由“健身房”和“细胞”或“地下室”组成的词根组合而成的俚语，用来形容那些过度频繁去健身房的人，通常达到了痴迷的程度，或者给人留下有点古怪的印象。他们可能在生活中的其他方面投入较少，但非常重视自己的健身计划。
-**Example Usage in Sentences:**
-- **English:** "My ex is a gymcel; he goes to the gym every day and I can’t keep up with that kind of routine."
-- **Chinese:** "我前男友是个 gymcel，他每天都要去健身房，这种日程我根本没法跟上。"
+# Gymcel (健身宅)
+## English Explanation
+**Gymcel** is a portmanteau of "gym" and "cel", a term used to describe someone who prefers to work out at home or in a smaller, local fitness facility instead of a big commercial gym. People who identify as gymcels often prioritize convenience, saving money, or finding a more relaxed environment for their workouts. They might use home equipment, local studios, or online fitness classes and still consider themselves dedicated gymcels.
+## 中文解释
+**健身宅（Gymcel）** 是“健身房”和“宅”这两个词的合成词，用来描述那些更喜欢在家中或在当地的小型健身设施锻炼，而不是去大型商业健身房的人。自称健身宅的人通常更看重便利性、节省开支，或寻找一个更加轻松舒适的锻炼环境。他们可能会使用家用健身器材、本地的健身工作室，或参加线上的健身课程，但依然认为自己是非常敬业的健身爱好者。
 ```

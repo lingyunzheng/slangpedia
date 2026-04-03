@@ -1,26 +1,18 @@
 ---
 title: "What Does 'ratio' Mean? (ratio 是什么意思？)"
 slug: "what-does-ratio-mean"
-date: 2026-03-31
+date: 2026-04-03
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## English: Ratio
-### Chinese: 比例 (Bǐ lì) or 资源争吵 (Zīyuán chǎngzhuàng)
-**Explanation:**
-Ratio is a term often used in informal discussions, especially online, to denote a challenge or competition. When someone says someone else or something has "a good ratio," it means that compared to others or in a particular scenario, that someone or something is perceived as much better, often due to better resources, skills, or achievements.
-- **Example Usage:**
-- English: "His gaming setup has a good ratio compared to mine."
-- Chinese: "他的游戏设备配比比我好得多。" (Tā de yóuxì bèishè pèibǐ bǐ wǒ hào duō.)
-## English: To go ratio
-### Chinese: 踩点 (Chǎ diǎn)
-**Explanation:**
-"To go ratio" is a way to describe a situation where someone is intentionally trying to show they are better than others or getting more of something compared to others, often through competition or showing off. It can be seen as a form of boasting or seeking attention.
-- **Example Usage:**
-- English: "She always tries to go ratio by posting pictures of her expensive jewelry."
-- Chinese: "她总是通过上传自己昂贵的珠宝照片来比出比别人强。" (Tā zǒngshì tōngguò chǎnshàng zìjǐ yǎnbiǎn de珠bǎbuǎn 照片 lái bǐ chū bǐ bùrén kuáng。)
+# Ratio
+## English
+**Meaning**: A comparison between two things, often used to highlight a perceived imbalance, especially when one thing is better or more valued than the other. The term is often used in social media and online discussions to compare someone's perceived achievements, good looks, or possessions against their unworthiness or bad behavior. It's about making a point that one is better or more deserving than someone else, creating a sense of rivalry.
+**Example**: "Posting about their new sports car is just another attempt at seeking ratio with others."
+## 中文
+**含义**: 用来比较两件事物，特别是用来凸显一种不平衡，尤其是在社交媒体和在线讨论中，用于对比某人所感知的成就、外貌或财产与其行为的不佳或不值得之间的对比。这是一个表明自己比别人更好或更值得，从而制造一种竞争感的说法。
+**例句**: “炫耀他们的新车只是试图与他人进行比例比较的又一次尝试。”
 ```
-Note: The Chinese translations provided are not exact translations but rather the equivalent slang explanations in Chinese. Try to use terms like "配比" (pèibǐ) or "比出比别人强" (bǐchū bǐ bùrén kuáng) as they might be more common in such contexts.
