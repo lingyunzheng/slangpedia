@@ -1,22 +1,20 @@
 ---
 title: "What Does 'lowkey' Mean? (lowkey 是什么意思？)"
 slug: "what-does-lowkey-mean"
-date: 2026-04-02
+date: 2026-04-04
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Lowkey
-## English
-**低key**
-A phrase used to subtly or quietly describe something, often to avoid shouting or drawing too much attention. It can also be used to indicate that something is low in volume or intensity.
-Example:
-- Why are you lowkey smiling? (你低key在笑吗？)
-## Chinese
-**低key**
-一种用于微妙或安静地描述某事物的方式，通常是为了避免大喊或引起过多注意。它还可以用来表示某事物的音量或强度较低。
-例句：
-- 你低key在笑吗？
+# "Lowkey" Explained
+## English:
+**Meaning**: Informally indicating something is moderately or indirectly true, or to a lesser extent.
+**Example**: "I'm lowkey thinking about switching jobs."  
+**Explanation**: The speaker is subtly suggesting that they're considering a job switch, but it's not yet a widely known or publicly discussed idea.
+## 中文:
+**意思**: 用以表明某事是部分真实或间接真实，或者程度较轻。
+**例句**："我低key在考虑换工作。"  
+**解释**: 说话者在暗示自己在考虑换工作，但这种想法还未广泛公开或被他人重视。
 ```
