@@ -1,7 +1,7 @@
 ---
 title: "What Does 'salty' Mean? (salty 是什么意思？)"
 slug: "what-does-salty-mean"
-date: 2026-04-04
+date: 2026-04-05
 tags:
 - slang
 - internet
@@ -9,12 +9,12 @@ tags:
 ---
 ```markdown
 ## English: Salty
-**Definition**: Describes a person who is feeling annoyed, bitter, or Jonah-like (i.e., someone who got swallowed by a fish in the Bible and is very upset about it) due to disappointment or frustration, often in response to a perceived injustice or setback.
-### Example:
-- *English*: "John got really salty when he found out he didn't get the promotion."
-- *Chinese*: "约翰得知没有晋升时非常咸鱼（被咸鱼代表的非常失望和不高兴），他非常生气。"
-## 中文: 咸鱼
-**定义**: 形容一个人因失望或挫败感而感到生气、不满或苦闷，尤其是在感受到不公平或挫折后的反应。
-### 示例：
-- *中文*: "约翰得知没有晋升时非常咸鱼（咸鱼形象地表示非常失望和不高兴），他非常生气。"
+### Chinese: 酸臭 (Suān xiù)
+**Explanation:**
+In English, "salty" is often used to describe someone who is overly sensitive or responds to criticism with negative, often emotional reactions. It implies that the person is behaving in an immature or petty way.
+In Chinese, "酸臭" (suān xiù) is a term that metaphorically captures the same feeling. "酸" (suān) means sour or bitter, implying a feeling of envy or resentment, while "臭" (xiù) means stinky or unpleasant, suggesting the person is acting in a way that is unpleasant or petty. Combined, these words paint a picture of someone who is acting like a resentful stinker.
+**Usage Example:**
+- English: "John got really salty after his suggestion was ignored."
+- Chinese: "约翰的想法被忽视后，表现得很酸臭。"
+(Xiānghènde xiǎngfǎ bèi xūshì hòu, biǎozhì de hěn suān xiù.)
 ```

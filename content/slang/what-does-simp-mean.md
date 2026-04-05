@@ -1,20 +1,23 @@
 ---
 title: "What Does 'simp' Mean? (simp 是什么意思？)"
 slug: "what-does-simp-mean"
-date: 2026-04-03
+date: 2026-04-05
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Slang Term: Simp
-### English
-**Simp** (adjective or verb): A term often used to describe a man who is overly or exaggeratedly respectful or affectionate towards women, often somewhat foolishly or in a self-delusional way. A simp might be overly attentive to women, believing their actions to be romantic when in reality they are more innocently friendly.
-### Chinese
-**SB** (损逼, sěn bī) / **舔狗 (tián gǒu)**: 
-这种人通常举止过分体贴或附和女性，常带着一种自欺蒙人的天真。舔狗可能会过于关注女性的行为，认为她们的每一个动作都是浪漫的表现，而实际上可能只是普通的友好。
-**评论举例** (Example Comments):
-- In English: "He's such a simp for her, always buying her stuff and making grand gestures that she doesn't even reciprocate."
-- 在中文中: "他简直是舔狗为她，总是给她买很多东西，做出一些大的举动而她根本不会回应。"
+## Slang: Sempai (日本語) / Simp (英语)
+### Sempai (日本語)
+- **Definition**: 在日本文化中，" sempai " 指的是比自己辈分高或职位高的人，通常在学长或前辈的语境下使用。
+- **Bilingual Explanation**: 
+- 日本語: センパイは年上または地位が高い人を指す言葉で、通常学長や先輩の形に使われます。
+- English: Sempai is a term used to refer to someone who is of senior rank or age, typically found in the context of seniors or peers in schools or workplace.
+### Simp (英语)
+- **Definition**: In English slang, " simp " refers to someone who is overly attentive or infatuated with another person, often to a humorous or mocking extent.
+- **Bilingual Explanation**:
+- 日本語: "シンプ" は、他人に過度に惹かれたり、恋心に身を焦がしたりする人のことを皮肉な形で呼ぶ言葉です。
+- English: "Simp" is a slang term used to describe someone who is overly infatuated or attentive towards another person, often in a humorous or mocking way.
 ```
+This comparison shows the cultural and linguistic differences in interpreting these terms across Japan and English-speaking countries.

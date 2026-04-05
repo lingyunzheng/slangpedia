@@ -1,16 +1,21 @@
 ---
 title: "What Does 'peak' Mean? (peak 是什么意思？)"
 slug: "what-does-peak-mean"
-date: 2026-04-03
+date: 2026-04-05
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Peak
-**English:**  
-"Peak" in slang can mean something that is at the highest level of quality or performance. It can also refer to someone or something that is considered the best or coolest at the moment.
-**Chinese: (顶峰 dǐngfēng)**  
-"顶峰" (dǐngfēng) 在俚语中指的是最顶级的水平、质量或表现。也可以用来形容某人或某事物是当前最棒或最酷的存在。
+# Peak (English-Chinese Slang Explanation)
+## English
+- **Meaning**: Superlative or at the highest point. Often used to describe someone or something that is doing or having the best of something at a particular moment or in a specific context.
+- **Example**: "They had a peak moment during the championship game when they all cheered together."
+## Chinese
+- **Meaning**: 鬥志（战斗的心神）或达到顶峰。常用来描述某人或某事在某个特定时刻或特定情境中表现最佳。
+- **Example**: "他们在冠军比赛时共同欢呼的那一幕是巅峰时刻。"
+### Examples
+- **English**: "This is a peak moment for us."
+- **Chinese**: "这对我们来说是一段巅峰时刻。"
 ```
