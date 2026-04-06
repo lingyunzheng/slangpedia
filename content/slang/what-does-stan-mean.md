@@ -1,20 +1,18 @@
 ---
 title: "What Does 'stan' Mean? (stan 是什么意思？)"
 slug: "what-does-stan-mean"
-date: 2026-04-04
+date: 2026-04-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Stan (noun / slang)
-**English**: A deeply devoted fan of a person, place, thing, or activity, often to an obsessive or ridiculous extent.
-**Chinese**: 粉丝狂热者 (fensī kuán'tè zhě) - 深深迷恋某人、某地、某物或某种活动的人，往往到了痴迷或滑稽的程度。
-### Examples:
-- *English*: She's such a stan for Taylor Swift that she memorized all the lyrics to every song.
-- *Chinese*: 她对泰勒·斯威夫特太狂热了，以至于把每首歌的歌词都背了下来。
-- *English*: He's a stan for extreme sports; you won't catch him sitting out the fun.
-- *Chinese*: 他是极限运动的狂热者；你找不到他在不参与其中的情况。
+# Stan
+**English:**  
+A die-hard fan or supporter of a particular person, group, or concept, often to an obsessive degree.  
+**Chinese:**  
+铁杆粉丝或支持者，通常对某个人、团体或理念抱有极度的热情甚至到了痴迷的程度。常在特定粉丝群体中用来形容对某个人或事物极其忠诚和狂热的支持者。
+In the context of social media, if someone is a "Stan" for, say, a celebrity, it means they idolize or are obsessed with that celebrity and may post or share content about them excessively.
+在社交媒体的语境中，如果有人是某个名人的Stan，那就意味着他们对该名人极为崇拜甚至痴迷，并且可能会频繁地分享或发布该名人的相关信息。
 ```
-This markdown format provides a clear and concise explanation of the term "stan" in both English and Chinese, along with examples that help illustrate its usage.

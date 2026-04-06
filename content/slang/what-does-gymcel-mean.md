@@ -1,16 +1,17 @@
 ---
 title: "What Does 'gymcel' Mean? (gymcel 是什么意思？)"
 slug: "what-does-gymcel-mean"
-date: 2026-04-03
+date: 2026-04-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Gymcel (健身宅)
-## English Explanation
-**Gymcel** is a portmanteau of "gym" and "cel", a term used to describe someone who prefers to work out at home or in a smaller, local fitness facility instead of a big commercial gym. People who identify as gymcels often prioritize convenience, saving money, or finding a more relaxed environment for their workouts. They might use home equipment, local studios, or online fitness classes and still consider themselves dedicated gymcels.
-## 中文解释
-**健身宅（Gymcel）** 是“健身房”和“宅”这两个词的合成词，用来描述那些更喜欢在家中或在当地的小型健身设施锻炼，而不是去大型商业健身房的人。自称健身宅的人通常更看重便利性、节省开支，或寻找一个更加轻松舒适的锻炼环境。他们可能会使用家用健身器材、本地的健身工作室，或参加线上的健身课程，但依然认为自己是非常敬业的健身爱好者。
+## Gymcel
+**English**: A person who is overly focused on their appearance and health, often to the point of obsession, and frequently spends a significant amount of time at the gym. They are known for their rigorous workout routines and strict dietary habits.
+**Chinese**: 体质狂（zhì tǐ kuáng）- 这个人非常注重自己的外貌和健康，经常对自己的身体管理有极高的要求，常常将大量时间花费在健身房里。他们通常有严格的健身计划和饮食习惯，有时会显得有些痴迷。
+**Explanation**:
+- **体质狂** (zhì tǐ kuáng): Literally means "someone obsessed with physical condition," which captures the essence of someone who is extremely focused on their well-being and fitness levels.
+- **gymcel** itself is a portmanteau of "gym" and "cellulite," a play on words that highlights the intense focus on physical appearance, even going as far as to criticize the appearance of minor fat deposits on the skin.
 ```

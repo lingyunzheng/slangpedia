@@ -1,25 +1,19 @@
 ---
 title: "What Does 'troll' Mean? (troll 是什么意思？)"
 slug: "what-does-troll-mean"
-date: 2026-04-05
+date: 2026-04-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Troll (English)
-**Definition:**
-A troll is someone who deliberately posts inflammatory, derogatory, or irrelevant comments to provoke an emotional response or disrupt conversations forums, or online communities.
-**Bilingual Slang Explanation:**
-[English] A troll is a n̶i̶c̶e̶ dør in an online chat who just wants to get under your skin and make you mad.  
-[Chinese] 滥 reader 在线聊天里的无厘头捣乱分子，故意引起别人的愤怒或搅乱讨论。
----
-## 滥读者 (Chinese)
-**Definition:**
-在在线聊天、论坛或社区中，不怀好意或故意引起他人情绪反应或扰乱讨论的用户。
-**Bilingual Slang Explanation:**
-[Chinese] 滥 reader 在线聊天里的无厘头捣乱分子，故意引起别人的愤怒或搅乱讨论。  
-[English] A troll is a n̶i̶c̶e̶ dør in an online chat who just wants to get under your skin and make you mad.
+### Troll
+**English**: 
+A troll is a person who posts inflammatory, nuisance, or off-topic messages in an online discussion forum with the intent of provoking negative and passionate responses, or of disrupting normal on-topic discussion.
+**Chinese**: 
+滚刀肉 (Gǔn dāomiàoròu)
+解释：滚刀肉是指在网络讨论论坛中发布激怒、干扰或偏离主题的评论的人，目的是引发负面和激烈的情绪反应，或者扰乱正常的讨论。
+**Explanation**: 
+The term "troll" in English can be translated as "滚刀肉 (gǔn dāomiàoròu)" in Chinese slang. "滚刀肉" literally translates to "slicing meat with a cleaver," which in Chinese slang implies someone who uses a heavy-handed or offensive approach to disrupt conversations, just as one would use a cleaver to slice meat. This term vividly captures the essence of a troll's behavior in a digital context.
 ```
-Note: The provided English slang explanations use readymade cultural references ("n̶i̶c̶e̶ dør") that might not directly translate well into Chinese. Also, direct translations of such slang might lose the intended nuance, so I provided a description in Chinese that conveys the concept accurately.

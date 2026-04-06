@@ -1,18 +1,19 @@
 ---
 title: "What Does 'mother is mothering' Mean? (mother is mothering 是什么意思？)"
 slug: "what-does-mother-is-mothering-mean"
-date: 2026-04-05
+date: 2026-04-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## "mother is mothering"
-**English:**  
-Meaning that someone is actively taking care of or nurturing another person, often in a maternal or parental way.  
-Example: "Whenever she's around the kids, she's always mothering them, making sure they have everything they need."
-**汉语：**  
-指某人正积极地照顾或抚养成年子女或其他需要帮助的人，常常表现出一种母性的或父性的关怀。  
-例子：“只要她在孩子们身边，总是像母亲一样照料他们，确保他们有需要的一切。”
+# "Mother is Mothers" (both English and Slang)
+**English Explanation:**
+The phrase "mother is mothering" simply means that the mother is being a nurturing and taking care of role.
+**Slang Explanation:**
+- **"Mother is repping it"**: In some slang contexts, especially in certain social media or internet communities, saying "mother is repping it" conveys that the mother is showing great support, care, and protection for a person or a cause. "Repping" is short for "representing," which generally means to stand up for or support something.
+**Example Usage:**
+- English: "My mom is always there for me, she’s such a good mother."
+- Slang: "My momma is repping it for me; she’s always got my back."
 ```

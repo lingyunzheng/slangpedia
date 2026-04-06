@@ -1,15 +1,18 @@
 ---
 title: "What Does 'hold this L' Mean? (hold this L 是什么意思？)"
 slug: "what-does-hold-this-l-mean"
-date: 2026-04-02
+date: 2026-04-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## "Hold this L" (English)
-"**Hold this L**" is a slang phrase used in online gaming contexts, particularly in certain esports communities, such as those around MOBAs (Multiplayer Online Battle Arenas) like League of Legends. It's often used to signify that a player is about to execute a strategic move or action, like positioning a champion in a way that sets up a trap for the enemy team. The "L" stands for "Lift," which is a term referring to a quick, upward movement by a player's champion to ward off or avoid enemy attacks or abilities.
-## "Hold this L" (Chinese)
-“**Hold this L**” 是一种在线游戏中的俚语，特别在某些电竞社区，比如多人在线战斗竞技场（MOBA）游戏《英雄联盟》（League of Legends）中的一员。当游戏中的某位玩家即将执行一个战术动作或操作时（例如让他的英雄采取某种位置来引诱敌方团队），他可能会说“Hold this L”。这里的“L”代表“Lift”，意指玩家的英雄做出迅速且向上的动作来避开或抵抗敌方的攻击或能力。
+## "Hold this L" (保持这个 L)
+**English:**  
+- **Meaning:** This phrase is often used as a nod to the well-known meme or gesture where someone holds up their thumb and pinkie finger to form an 'L' shape, or simply uses the letter 'L' as an emoticon (👋👌👉meyeC) to express a variety of emotions such as love, support, or encouragement.
+- **Usage:** It's commonly used in texts, social media posts, and among friends to show solidarity, agreement, or as a heartwarming gesture of support.
+**Chinese:**  
+- **含义:** 这个短语往往指的是一个著名的梗或者手势，也就是一个人用拇指和小指形成一个"L"形状，或者使用字母"L"作为表情符号（👋👌👉meyeC）来表达多种情感，如爱、支持或鼓励。
+- **用法:** 在文字、社交媒体发帖和朋友间的交流中，人们常常用它来表示团结、认同，或者作为温馨的支持手势。
 ```

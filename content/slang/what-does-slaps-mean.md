@@ -1,17 +1,17 @@
 ---
 title: "What Does 'slaps' Mean? (slaps 是什么意思？)"
 slug: "what-does-slaps-mean"
-date: 2026-04-05
+date: 2026-04-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 英文解释: Slaps
-- **Definition:** A quick, sharp strike with the open hand or flat part of the hand.
-- **Usage:** "Slap" is often used to describe a physical gesture of striking someone on the face or another part of the body for emphasis, fun, or to show disapproval.
-## 中文解释: 打耳光
-- **定义：** 手掌迅速拍打，通常是击打面部或其他部位的一种动作。
-- **用法：** "打耳光" 通常用于描述一种身体语言，通过击打面部或身体的其他部位来表达强调、开玩笑或是表示不满。
+## Slaps
+### English
+**Slaps**: A casual term used to describe giving someone a light or firm hit on the face with the open palm of one's hand. It can also be used figuratively to express disapproval or disappointment, such as saying "She gave him a serious slap for his incompetence."
+### Chinese
+**Slaps**：一个俚语，用于描述用一手掌心轻轻或用力拍打对方脸部的动作。也可以用来比喻表达不满或失望，例如：“她因为他的无能给他狠狠地给了一个耳光。”
+**Note**: In Chinese, the term "耳光" (èguāng) is a more common way to refer to a slap action.
 ```

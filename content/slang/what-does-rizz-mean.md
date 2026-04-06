@@ -1,23 +1,21 @@
 ---
 title: "What Does 'rizz' Mean? (rizz 是什么意思？)"
 slug: "what-does-rizz-mean"
-date: 2026-04-05
+date: 2026-04-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Rizz (American English & Urban Slang)
-### American English
-**Rizz**: A term used to describe a person's confidence, attitude, or style. It's often used to refer to someone who carries themselves with a certain finesse or swagger.
-*Examples:*
-- "That new kid at school has heaps of rizz, he's totally rocking it!"
-- "The model walking the runway had such fierce rizz, it was undeniable."
-### Urban Slang
-**Rizz**: Similar to American English, it denotes an aura of coolness, charisma, or a unique style that makes someone stand out.
-*Examples:*
-- "He knows how to rizz, his outfit and demeanor are a perfect match."
-- "Her rizz is off the chain, you can't ignore her presence in the room."
-Both definitions highlight a vibe of confidence and style, emphasizing how a person projects their presence.
+## Rizz (English)
+### Explanation
+"Selling Rizz" is slang often used in the context of social media and fashion, specifically TikTok and street style. It refers to the act of presenting oneself in a stylish and cool manner, often with the intention of gaining likes, followers, or admiration on social media platforms. Essentially, it's about exuding a unique, charismatic vibe or aura that makes people take notice and admire your style or presence.
+**Example Usage:**
+- "I can't stop following that influencer; she totally sells rizz!"
+## Rizz (Chinese)
+### 解释
+"卖拽"（sàn yè）是一种在社交媒体和时尚领域，特别是TikTok和街头风格中常用的 slang 表达。它指的是以一种有魅力和酷的方式来展现自己，通常是为了在社交媒体平台上获得点赞、关注或钦佩。换句话说，就是散发出一种独特的、令人着迷的气质或气场，让人们注意并欣赏你的风格或存在感。
+**使用示例：**
+- "我没法停止关注那个网红；她简直在卖拽！"
 ```

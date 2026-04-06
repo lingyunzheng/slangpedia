@@ -1,16 +1,21 @@
 ---
 title: "What Does 'side questing' Mean? (side questing 是什么意思？)"
 slug: "what-does-side-questing-mean"
-date: 2026-04-05
+date: 2026-04-06
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Side Questing
-### 中文解释
-**通勤任务**：这个词源于RPG游戏，指的是在游戏中接受除主线任务之外的任务。在中文语境中，人们有时会把日常生活中除主要任务之外的各种小任务或活动称为“通勤任务”。这些任务可能是为了赚取一些额外的报酬、升级装备，或者是完成某些条件解锁新的内容。比如，下班后帮忙朋友搬家，虽然不是工作的核心任务，但可以帮助你赚取一些额外的钱或者获得不错的友情。
-### English Explanation
-**Side Kickin'**: This slang term originally comes from RPG games, referring to tasks that are not part of the main quest but are taken on the side. In Chinese, "side questing" can refer to additional small tasks or activities in daily life outside the primary goal. These tasks might be to earn some extra money, upgrade gear, or meet certain conditions to unlock new content. For example, helping a friend move after work, even though it's not your primary job, might help you earn some extra money or build a better friendship.
+# Side Questing (英 / 边线任务)
+**英:** Side Questing  
+**边线任务 (Biānxiàn Tíwù)**
+- **解释:** In role-playing games (RPGs), side quests refer to additional non-mandatory undertakings that players can pursue for extra rewards, story development, or just for fun. Side questing involves taking on these extra tasks to enhance the gaming experience.
+- **例句:** "After completing the main quest, I decided to go on a side questing spree to explore more of the game world and gather some rare items."
+**英:** Side Questing  
+**跑图 (Pǎotú)**
+- **解释:** This term is often used in online role-playing games, especially in Chinese-speaking gaming communities. "跑图" literally translates to "running through the map," which means completing side quests to explore the areas outside the main storyline. It highlights the activity of searching for optional objectives and treasures scattered throughout the game world.
+- **例句:** "Every weekend, they meet up for a group run through the map to find hidden side quests and treasures."
 ```
+This provides a clear bilingual explanation with both terms and examples, making it easier to understand the concept of side questing in various cultural contexts.
