@@ -1,16 +1,20 @@
 ---
 title: "What Does 'lore' Mean? (lore 是什么意思？)"
 slug: "what-does-lore-mean"
-date: 2026-04-04
+date: 2026-04-07
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 贴吧（BBS）里的 "lore" slang explanation
-### 中文解释：
-**lore** 在贴吧里通常是指一些流传已久的故事、传统或特定群体的文化背景。这里的“lore”并不是指西方神话里的传奇故事，而主要是指具体的社区文化或亚文化中的特定知识和习俗。
-### 英文 explanation:
-In BBS, "lore" generally refers to stories, traditions, or specific cultural background that have been passed down within a community. Unlike traditional lore in mythology, it more specifically refers to the distinctive knowledge and customs within a particular subculture or community context.
+# Slang Explanation for "lore"
+## English
+**Lore:**  
+- *Definition:* Folklore or traditional knowledge passed down through generations.
+- *Casual Usage:* "He's got all the lore on local legend and ghost stories."
+## Chinese
+**lore:**  
+- *释义:* 口头相传的传统知识或民间传说。
+- * Casual Usage:* "他关于当地传说和鬼故事的 lore 一听说就说个不停。"
 ```

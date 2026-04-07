@@ -1,20 +1,22 @@
 ---
 title: "What Does 'sheesh' Mean? (sheesh 是什么意思？)"
 slug: "what-does-sheesh-mean"
-date: 2026-04-06
+date: 2026-04-07
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sheesh (英 / 好嘞)
-**English:**  
-"Yeah, yeah, got it."  
-"Whatever."  
-"Alright, alright."
-This word is often used when someone is responding to a request or statement in a brief, sometimes annoyed manner. It's a casual expression that can convey understanding, dismissal, or mild frustration.
-**Chinese (好嘞):**  
-表示接受、理解或礼貌地应付。意思大致相当于“行，知道了”、“嗯嗯，知道了”或者“得了吧”，通常用于回应请求或陈述，表达出一种简短的回应或轻微的不耐烦。
-It's a common way to respond in a casual setting, often implying that the speaker is simply acknowledging what was said without deeply engaging in the conversation.
+## Sheesh (English)
+**Definition:** An exclamation used to express frustration, disbelief, or mild annoyance.
+**Usage Example:** "Sheesh, this traffic is crazy!"
+**Chinese Slang Equivalent:**
+- **哎呀 (āi ya):** An expression of mild shock or annoyance, similar to "Oh boy!" or "Oh man!" in English.
+- **啧啧 (zhe zhe):** Often used to express disagreement or disapproval, can be used in a similar manner to "Bah" or "Oh come on."
+**Chinese Usage Example:**
+- 哎呀，这交通真差劲！(āi ya, zhè jiāo tōng zhēn chà jìn!) - Oh boy, this traffic is terrible!
+- 啧啧，你真过分！(zhe zhe, nǐ zhēn fèng guò!) - Bah, you're really over the line!
+---
+This comparison helps bridge the cultural gap and allows you to use the appropriate expression in either language based on the context and tone.
 ```

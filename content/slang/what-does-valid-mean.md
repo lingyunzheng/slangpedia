@@ -1,16 +1,17 @@
 ---
 title: "What Does 'valid' Mean? (valid 是什么意思？)"
 slug: "what-does-valid-mean"
-date: 2026-04-06
+date: 2026-04-07
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Valid
+## Valid [英/ˈvælɪd/]
 **English:**  
-"Valid" in slang can mean something is correct, legal, or makes sense. It often implies that something meets criteria or standards. For example, if you're explaining something is reasonable to someone who isn't familiar with it, you might say "It's totally valid."
-**中文：**  
-"有效"（valid）在俚语中可以用作某个事物正确、合法或有意义的意思。它通常表示某事物符合标准或要求。例如，如果你在向不熟悉某事物的人解释其合理性，你可能会说 "这完全是有效的"。
+In English, "valid" means something is legally or logically correct, sensible, or sound, or it is capable of being done. It can also refer to something that is in effect, true, or authorized.
+**Bilingual Slang Explanation:**  
+- **有效** (xiào够效): In a casual setting, especially in digital or gaming communities, "有效" conveys the same meaning of something being legal, logical, or legitimate. For example, if someone says a hack or trick is "有效" in a game, it means it works and can be used legally within the game rules.
+- **过期无效** (guò qī xiào wú): This catchphrase directly translates to "expired and invalid," often used humorously to suggest that something is no longer useful, effective, or relevant. Like saying "这招过期无效" (zhè zhāo guò qī xiào wú) meaning "This trick is outdated and won't work."
 ```

@@ -1,20 +1,20 @@
 ---
 title: "What Does 'out of pocket' Mean? (out of pocket 是什么意思？)"
 slug: "what-does-out-of-pocket-mean"
-date: 2026-04-06
+date: 2026-04-07
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Bilingual Slang Explanation: "Out of Pocket"
-## English
-**Definition:** When you pay for something yourself, either because the other party cannot or will not cover it, or because it was not included in your original agreement.
-**Example:** "I had to buy my own lunch, so it was out of pocket."
-**Usage:** Often used in situations where personal financial responsibilities arise unexpectedly.
-## Chinese
-**释义:** 当你自己支付某项费用，因为对方无法或不愿承担，或者这笔费用本不应包括在你的初始协议之中。
-**示例:** "我不得不自己买午餐，所以这笔钱是自己出的。"
-**用法:** 常用于描述意外出现的个人财务责任。
+## English: Out of Pocket
+### Definition
+When someone says they're "out of pocket," it means they are not able to contribute or pay for something because they don't currently have the money in their possession or account.
+### Bilingual Explanation
+- **English**: When someone says they are "out of pocket," it means they don't have the money to pay for something right now.
+- **Chinese**: 当有人说他们“out of pocket”时，意思是没有钱支付某件事情。
+### Example Usage
+- **English**: I can't afford the latest smartphone right now because I'm still out of pocket after the holiday bills.
+- **Chinese**: 我最近还因为节假日账单还在出支票，买不起最新的智能手机。
 ```
