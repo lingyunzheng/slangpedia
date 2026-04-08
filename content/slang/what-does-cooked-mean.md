@@ -1,25 +1,22 @@
 ---
 title: "What Does 'cooked' Mean? (cooked 是什么意思？)"
 slug: "what-does-cooked-mean"
-date: 2026-04-07
+date: 2026-04-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## 英文 slang: "Cooked"
-### 中文 slang: "炒了" / "做熟了"
-- **意思:** 
-- "Cooked" in slang often means something is "cooked," which can refer to a situation, idea, or plan that's completely messed up or ruined. It can also mean a person is "cooked" after drinking too much alcohol, which means they are very drunk.
-- **用法例子:**
-- English: "The weather forecast said it was going to be sunny, but it just poured rain all day. The weather forecast is cooked."
-- Chinese: "天气预报说要晴天，结果一下午都在下雨，这天气预报做得真是一团糟。" ("Qiāntiān yùbào shuō yào qíngtiān, jiéguǒ yīxiàwǔ dōu zài xiàyǔ, zhè qìtiān yùbào zuò dé zhēn shì yī tān zhuāo." — The weather forecast said it was going to be sunny, so the forecast was messed up.)
-- **延伸用法:**
-- English: "He got caught by the police and is cooked because he couldn't keep his story straight."
-- Chinese: "他被警察抓住，而且因为谎话讲不圆，总之一切都没救了。" ("Tā bèi jǐng chá zhuā zhù, ér qiě yīnwèi huǎng huà jiǎng bù yuán, zǒngshì yī qiè méi jiù le." — He was caught by the police and because he couldn't keep his story straight, everything was a mess.)
-### 拓展解释
-- **Cooked (乱成一团):** Describes a situation that is in a total mess or disarray.
-- **Cooked (喝醉了):** Means someone is very drunk from drinking too much alcohol.
+## English Slang: Cooked
+### Explanation:
+In English slang, when something is "cooked," it generally means it's fixed or rigged to have a desired outcome, often implying unfairness or dishonesty. For example, if a contest is "cooked," it means the results were manipulated to favor a specific contestant.
+### Example Usage:
+- "The gear tournament turned out to be cooked, and everyone knew the outcome before it even started."
+## 中文俚语: 烧了
+### 解释：
+在中文俚语中，“烧了”通常是指事情被提前决定或操控，以达到特定的结果，常带有一定的不公平或不诚实的意味。例如，如果一个比赛“烧了”，就意味着结果是在比赛开始前就已经确定的。
+### 示例用法：
+- “那场比赛已经被烧了，结果在开始前就众所皆知了。”
 ```
-This explanation will help you understand how "cooked" is used in English and its Chinese equivalents, providing examples for better contextual understanding.
+This markdown format provides clear and concise translations and examples for the given phrases.

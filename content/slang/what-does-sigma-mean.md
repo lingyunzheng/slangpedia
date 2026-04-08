@@ -1,18 +1,18 @@
 ---
 title: "What Does 'sigma' Mean? (sigma 是什么意思？)"
 slug: "what-does-sigma-mean"
-date: 2026-04-07
+date: 2026-04-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Sigma
+## Sigma (σ)
 ### English
-**Sigma**: In technical and academic contexts, "sigma" often refers to the Greek letter σ (sigma), which is used to represent standard deviation in statistics. However, in slang, the term "sigma" is used to describe someone who is calculated, manipulative, or suspiciously observant.
-**Example**: "He's a real sigma, always looking to take advantage of any situation."
-### 中文
-**Sigma**：在技术、学术等语境中，“sigma”通常指的是希腊字母 σ（西格玛），用于表示统计中的标准偏差。而在俚语中，“sigma”用来形容一个精于计算、有心机或异常警惕的人。
-**例句**：“他是一个真正的sigma，总是寻找利用任何情况的方法。”
+**Meaning**: Often used in the context of hacking or cybersecurity, "sigma" refers to a specific type of exploit log or a custom exploit developed by an individual. It can also denote a level of expertise or a specific skill set in the field.
+**Example**: "He's got some sigma exploits that no one else can touch."
+### Chinese
+**意思**: 经常用于黑客或网络安全的语境中，"sigma"指的是特定类型的攻击日志或由个人开发的定制化攻击。它也可以表示某种特定的技能水平或领域内的专业技能。
+**例句**: "他有一些sigma攻击，别人根本无法匹敌。"
 ```

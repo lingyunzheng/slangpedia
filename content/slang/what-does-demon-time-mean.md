@@ -1,15 +1,17 @@
 ---
 title: "What Does 'demon time' Mean? (demon time 是什么意思？)"
 slug: "what-does-demon-time-mean"
-date: 2026-04-05
+date: 2026-04-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Demon Time (恶魔时间 - Mò ér shí jiān)
-- **English Slang Explanation:** "Demon Time" is a phrase often used to describe a particular time or situation where someone is more efficient, focused, or productive than usual, similar to a period of intense energy or motivation. It can also refer to a soulful, intense, or high-energy moment when someone performs exceptionally well, as if they were channeling their inner demon for maximum effect.
-- **Chinese Slang Explanation:** "恶魔时间"（Mò ér shí jiān）用来形容一个人在某个特定时刻特别高效、集中精力或富有成效的情况，就像是在某个时间段充满了超乎常人的能量或动机一样。它也可以指某种投入、充满激情或者是超常发挥的时刻，就像一个人在某种情况下仿佛激发了内心的恶魔般获得了最大的动力和效果。
+# Demon Time (Demon時間)
+## English
+**Demon Time**: A phrase typically used in video games and anime contexts, often referring to a special ability or a shift to a heightened state of fighting prowess. During "Demon Time," a character's abilities are amplified, and they can perform extraordinary feats. It's similar to "Super Saiyan" from Dragon Ball or entering FINAL FUSION in Mob Psycho 100.
+## Japanese
+**Demon時間 (Demonic Time / ゼロスキル時間 Zerosukuritsukaiji)**: 通常ゲーム内で登場するキャラクターが強化状態になる時間帯を表現するために使われる Removal Time の一種。 Enhancement Time などとも呼ばれる。この状態ではキャラクターの能力が大幅に上昇し、通常の動作を超えるエキスパートとしての活躍が見られる。
 ```
-This markdown format clearly explains the concept of "Demon Time" in both English and Chinese, providing a useful reference for those interested in understanding and using the term in either language.
+This explanation provides context for how "demon time" is used in both English and Japanese, highlighting its common usage and cultural references.

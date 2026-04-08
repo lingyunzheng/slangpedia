@@ -1,7 +1,7 @@
 ---
 title: "What Does 'delulu' Mean? (delulu 是什么意思？)"
 slug: "what-does-delulu-mean"
-date: 2026-04-05
+date: 2026-04-08
 tags:
 - slang
 - internet
@@ -9,8 +9,12 @@ tags:
 ---
 ```markdown
 # Delulu (Slang)
-## English Explanation
-**Delulu** is a playful and often affectionate term used to describe someone (typically a woman) who is seen as adorable, innocent, or cute, especially in a endearing way. It can be used to compliment someone's appearance or demeanor, much like referring to someone as "cute" or "sweet". This term carries a light-hearted and positive connotation.
-## Chinese Explanation
-**Delulu**（德鲁露）是一个充满情趣和温和的称呼，通常用来形容某人（通常是女性）呈现出可爱的、天真的或甜美的样子。这个词汇常用来夸奖一个人的外貌或气质，类似于称某人为“可爱”或“甜美”。这个词带有轻松愉快和积极的意义。
+## English
+**Delulu**: Term used to describe something or someone that is incredibly cute or adorable to the point of being cloying or excessive. Often used in meme culture to highlight the cuteness that can be overwhelming.
+Example:
+"I saw a_delulu_ puppy today, it was so cute I wanted to hug it constantly!"
+## Chinese
+**Delulu**: 补漏禄 (bǔlòolù) - 指某人或某物极其可爱以至于有些过了头，让人感觉腻歪。常用于 meme 文化，用来强调一种可爱的极端，让人难以忍受。
+例句：
+“今天看到一只_delulu_的小狗，可爱得我都想一直拥抱它了！”
 ```

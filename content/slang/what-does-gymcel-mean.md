@@ -1,17 +1,20 @@
 ---
 title: "What Does 'gymcel' Mean? (gymcel 是什么意思？)"
 slug: "what-does-gymcel-mean"
-date: 2026-04-06
+date: 2026-04-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Gymcel
-**English**: A person who is overly focused on their appearance and health, often to the point of obsession, and frequently spends a significant amount of time at the gym. They are known for their rigorous workout routines and strict dietary habits.
-**Chinese**: 体质狂（zhì tǐ kuáng）- 这个人非常注重自己的外貌和健康，经常对自己的身体管理有极高的要求，常常将大量时间花费在健身房里。他们通常有严格的健身计划和饮食习惯，有时会显得有些痴迷。
-**Explanation**:
-- **体质狂** (zhì tǐ kuáng): Literally means "someone obsessed with physical condition," which captures the essence of someone who is extremely focused on their well-being and fitness levels.
-- **gymcel** itself is a portmanteau of "gym" and "cellulite," a play on words that highlights the intense focus on physical appearance, even going as far as to criticize the appearance of minor fat deposits on the skin.
+# Gymcel
+## English
+**gymcel** - A playful blend of "gym" and "cell." Someone who exercises at the gym as if they are in solitary confinement, often implying they are there too much or do it with an intense, almost obsessive, focus. 
+Example:
+- "That guy at the gym is a gymcel, he's there every day at 6 AM!"
+## 中文
+**gymcel** - 这是一个将“健身房”和“监狱”结合在一起的词。“gymcel”用来形容那些一有空就去健身房锻炼的人，就像是在“监狱”里一样，通常意味着他们去 gym 的频率太高或者参与其中非常投入，甚至有点执迷不悟的意思。
+示例：
+- “那个每天早上六点去健身房的人真是个 gymcel。”
 ```

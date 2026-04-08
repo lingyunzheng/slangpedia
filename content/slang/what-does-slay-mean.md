@@ -1,34 +1,15 @@
 ---
 title: "What Does 'slay' Mean? (slay 是什么意思？)"
 slug: "what-does-slay-mean"
-date: 2026-04-02
+date: 2026-04-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-## Slay (slai)
-### English
-To excel, perform exceptionally well, or destroy something in a cool, impressive manner. It's a versatile term used to express that someone or something is awesome beyond measure.
-### Simplified Chinese
-非常出色，表现得极其棒，或者以非常酷的方式摧毁某物。这个词汇表达的是某种或某个人超出预期的出色表现。
-### Example Usage
-- English: She totally slayed her presentation today! It was fantastic!
-- Simplified Chinese: 她今天完全slay了自己的演讲，真是棒极了！
-### Alternative Expressions
-- English: Crush, kill, own
-- Simplified Chinese: 打败，摧毁，完全掌握
-```
-## Slay (slai)
-### English
-To liven up or jazz something/spirit up. It can also mean to dominate, take control, or have a major impact on something or someone.
-### Simplified Chinese
-给某事增添活力，使其更加生动有趣。也可以指占据主导，掌控某事或某人，或者对某事或某人产生重大影响。
-### Example Usage
-- English: The party is about to start and the music will definitely slay it!
-- Simplified Chinese: 聚会马上就要开始了，音乐肯定会把气氛带得火热起来！
-### Alternative Expressions
-- English: Amp up, energize, revolutionize
-- Simplified Chinese: 提振，激发活力，革命性改变
+### Slay (英式 & 简体中文)
+**Slay** - 原本指以决斗或战斗的方式击败对手，现在广泛用于形容某人在某一领域表现得极其出色，无论是成绩、表现还是个人魅力方面。
+- **英文**: Slay can originally refer to defeating an opponent through combat or battle. Now, it's widely used to describe someone who performs exceptionally well in a particular area, whether it's in their achievements, performance, or personal charm.
+- **中文**: 通常用来形容某人在某个领域表现非常出色，无论是成绩优异、表现突出还是个人魅力俘获人心。这个词语现在已经超越了其原有的含义，广泛应用于赞美某人的各种出色表现。
 ```

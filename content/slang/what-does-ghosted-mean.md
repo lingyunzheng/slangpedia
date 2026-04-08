@@ -1,20 +1,16 @@
 ---
 title: "What Does 'ghosted' Mean? (ghosted 是什么意思？)"
 slug: "what-does-ghosted-mean"
-date: 2026-04-07
+date: 2026-04-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Ghosted
-**English Explanation:**  
-To ghost someone is to abruptly end a communication, especially in a romantic or friendship context, without any explanation or contact. It's as if the person has suddenly disappeared like a ghost, leaving the other person behind with no idea what happened.
-**Spanish Explanation:**  
-"Ghostear" significa cortar repentinamente cualquier tipo de comunicación, especialmente en contexto de una relación romántica o amistosa, sin dar ninguna explicación o contacto. Es como si la persona se hubiera desvanecido como un fantasma, dejando a la otra persona sin saber qué pasó.
----
-**Example Usage:**
-- **English:** After they stopped responding to my messages, I felt like I had been ghosted.
-- **Spanish:** Después de que dejaron de responder a mis mensajes, me sentí como si me hubieran ghosteado.
+## Ghosted
+### English
+> **Ghosted:** When someone suddenly stops communicating or interacting without any explanation, leaving their friend or partner in the dark. It’s like they've disappeared into thin air without saying goodbye.
+### 中文
+> **Ghosted:** 当有人突然停止沟通或互动，而没有任何解释地消失时，就会被称为被“Ghosted”。就好像他们突然间消失，完全不给对方任何交代。
 ```

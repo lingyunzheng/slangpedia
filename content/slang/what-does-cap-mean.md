@@ -1,18 +1,18 @@
 ---
 title: "What Does 'cap' Mean? (cap 是什么意思？)"
 slug: "what-does-cap-mean"
-date: 2026-04-06
+date: 2026-04-08
 tags:
 - slang
 - internet
 - tiktok
 ---
 ```markdown
-# Cap
-## English
-- **Meaning**: A slang term often used to indicate something is the best, highest, or most powerful version of something. It can also be used to express disapproval or denial.
-- **Example**: "That's the cap on prank calls this year!" or "You're cap, but I don't believe you."
-## 中文
-- **意思**：常用来表示这是某事的最佳、最高或最强大的版本。也可以用来表示不赞成或否认。
-- **例句**："今年的恶作剧电话到顶了！" 或 "你顶，不过我不信。"
+## Cap
+### English
+**Meaning:** To surpass or outdo someone or something.
+**Example Usage:** "He really capped that moment when he won the race."
+### 中文
+**意思:** 超过或胜过某人或某物。
+**例句:** "他在比赛中获胜时真的把别人甩在了后面，真叫一个‘cap’。"
 ```
